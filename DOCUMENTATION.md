@@ -1736,8 +1736,10 @@ Like you can see in the screenshots, it looks much less clunky than a
 bow being together with a quiver and clipping through each other and
 much more likely than us carrying our shield in our hand for all day.
 
-![image](https://user-images.githubusercontent.com/37147270/130330545-ca979529-70c6-46d3-b9b6-2832bc90b5e3.png)
-![image](https://user-images.githubusercontent.com/37147270/130330553-da6655dd-391c-4add-abb7-910df3477896.png)
+<p align="center">
+   <img width="52.5%" src="https://user-images.githubusercontent.com/37147270/130330553-da6655dd-391c-4add-abb7-910df3477896.png" /> 
+   <img width="45%" src="https://user-images.githubusercontent.com/37147270/130330545-ca979529-70c6-46d3-b9b6-2832bc90b5e3.png" />
+</p>
 
 Overall through animations we will add more life and uniqueness into our
 player character. NPCs are untouched by these different gear locations,
@@ -1949,8 +1951,10 @@ issue once or twice - black face bug. CTDs can happen if overhaul uses
 unique body parts (like The Ordinary Women) and you enter into the place
 where this incorrect NPC is.
 
-![image](https://user-images.githubusercontent.com/37147270/130331187-55046f91-3255-4c24-98b8-b6a6afbcd183.png)
-![image](https://user-images.githubusercontent.com/37147270/130334940-83643fa2-edec-442c-a98a-5a7a6ee0d34a.png)
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331187-55046f91-3255-4c24-98b8-b6a6afbcd183.png" />
+    <img width="45%" src="https://user-images.githubusercontent.com/37147270/130334940-83643fa2-edec-442c-a98a-5a7a6ee0d34a.png" />
+</p>
 
 ### [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
 
