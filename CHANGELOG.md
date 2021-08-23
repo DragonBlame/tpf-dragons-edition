@@ -1,11 +1,48 @@
-![image](https://user-images.githubusercontent.com/37147270/130332803-cef6e0f9-9a9e-4399-80df-0adba408c21b.png)
+![image](https://i.imgur.com/rBiUoHz.png)
 
 # Changelog
+
+## Version 1.3.1.
+
+> 23.08.2021.
+
+### Interface
+
+Added additional instructions to Alternate Conversation Camera's INI file to hide the dialogue menu, while speaker is talking.
+
+### Gameplay Overhauls
+
+Moved Pilgrim - A Religion Overhaul, C.O.I.N. - Coins of Interesting Natures, Smart NPC Potions - Enemies Use Potions and Poisons, More Werewolves, Catir's College Creatures, Canis Hysteria - The Werewolf Disease, Werewolf Aela, No Lock Picking, Reading Is Good, Dragonborn - Shouts Perk Tree, Dragonborn - Adamant Patch, Scion - Vampiric Sunscreen Plugin and Angi's Camp Tweaks here from the _Miscellaneous_ section.
+
+### Miscellaneous
+
+Moved some mods out to the _Gameplay Overhauls_ section. Now it will be much easier for me tinker with this section and it woudn't look so cluttered.
+
+### Appearance
+
+Added instructions to rename Feminine Khajiit Textures and tweaked them for Masculine Khajiit Textures not to overwrite TPF's ones.
+
+### Animations
+
+Fixed a mistake for Dual Sheath's INI changes, which had gotten there after the migration to GitHub.
+
+### Other Changes
+
+Removed TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch. Added TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch and TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch.
+
+Changed files' names for TPF Dragon's Edition - Apparel and Weapons Patch, TPF Dragon's Edition - Music Patch, TPF Dragon's Edition - New Content and Miscellaneous Patch, TPF Dragon's Edition - New Content and NPC Overhauls Patch. While it isn't a major change, you should download and install the patches again, remove the older versions and apply the newest load order.
+
+Changed scaling and layout of some images (thanks to Matt Eden).
+
+Hid terrain LOD textures, which were overwriting A Quality World Map.
+
+Generated output for DynDOLOD for TPF's performance guide users.
+
+---
 
 ## Version 1.3.
 
 > 22.08.2021.
-
 
 ### Interface
 
@@ -57,4 +94,4 @@ Added a new section for the add-on. Added _Literally Unplayable - Remove Random 
 
 You must update powerofthree's Papyrus Extender, Diziet's Auto Outfits and TPF's mods (the main concern is Mysticism and Adamant, but it is better to update all things, which came before the Phoenix's latest update of TPF).
 
-Updated all patches except TPF Dragon's Edition - Apparel and Weapons Patch, TPF Dragon's Edition Patch, TPF Dragon's Edition - Alternate Start Patch. Updated all outputs except TPF Dragon's Edition - Nemesis Output. Added TPF Dragon's Edition - New Content and Appearance Patch, TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch.								
+Updated all patches except TPF Dragon's Edition - Apparel and Weapons Patch, TPF Dragon's Edition Patch, TPF Dragon's Edition - Alternate Start Patch. Updated all outputs except TPF Dragon's Edition - Nemesis Output. Added TPF Dragon's Edition - New Content and Appearance Patch, TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch.									
