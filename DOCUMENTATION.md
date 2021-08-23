@@ -1748,8 +1748,8 @@ as the obligatory part, the mods we are going to add will make us use
 dual sheath animations.
 
 **INI in Simple Dual Sheath** - In line 23, change *Flags* to
-`Player\|FirstPerson`, then in line 38, change *DisableHideOnSit* to
-`Player\|MountOnly`.
+`Player|FirstPerson`, then in line 38, change *DisableHideOnSit* to
+`Player|MountOnly`.
 
 Create a separator and name it `ANIMATIONS EXTENDED` and place it
 directly below the *APPEARANCE EXTENDED* separator (and its mods).
