@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/37147270/130452646-b7033858-5293-461b-b5ea-cb4b4d1eaecd.png)
+![image](https://i.imgur.com/rBiUoHz.png)
 
 # Changelog
 
