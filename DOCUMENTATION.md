@@ -1614,10 +1614,10 @@ you a choice to make in FOMOD.*
 
 **FOMOD** - `Grey Cat, Abs`.
 
-*Yes, you have read it right. For one other mod to work correctly, we
+Yes, you have read it right. For one other mod to work correctly, we
 will need to choose a different version of Masculine Khajiit Textures.
-Rename it to just Masculine Khajiit Textures or Masculine Khajiit
-Rextures - TPF Dragon’s Edition to install it as a separate mod.*
+
+**Rename** - Rename it to `Masculine Khajiit Textures - TPF Dragon’s Edition` to install it as a separate mod.
 
 ### [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185)
 
@@ -1642,6 +1642,8 @@ options you like. `My recommendations - B01, C2, D1, E2`.
 Vanilla
 
 **FOMOD** - `2K, Grey Cat, Abs`.
+
+**Rename** - Rename it to `Feminine Khajiit Textures - TPF Dragon’s Edition` to install it as a separate mod.
 
 ### [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
 
