@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/37147270/130332778-623fd179-d080-4c1b-ab05-307b628f4661.png)
+![image](https://i.imgur.com/rBiUoHz.png)
 
 # Documentation
 
