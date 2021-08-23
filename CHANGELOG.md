@@ -4,15 +4,11 @@
 
 ## Version 1.3.1.
 
-> xx.08.2021.
+> 23.08.2021.
 
 ### Interface
 
 Added additional instructions to Alternate Conversation Camera's INI file to hide the dialogue menu, while speaker is talking.
-
-### New Content
-
-Added *d*.
 
 ### Gameplay Overhauls
 
@@ -34,18 +30,19 @@ Fixed a mistake for Dual Sheath's INI changes, which had gotten there after the 
 
 Removed TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch. Added TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch and TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch.
 
-Renamed some patches to be consistent with the names of patches on Nexus. While it isn't a major change, you should redownload the patches and apply the newest load order.
+Changed files' names for TPF Dragon's Edition - Apparel and Weapons Patch, TPF Dragon's Edition - Music Patch, TPF Dragon's Edition - New Content and Miscellaneous Patch, TPF Dragon's Edition - New Content and NPC Overhauls Patch. While it isn't a major change, you should download and install the patches again, remove the older versions and apply the newest load order.
 
 Changed scaling and layout of some images (thanks to Matt Eden).
 
 Hid terrain LOD textures, which were overwriting A Quality World Map.
+
+Generated output for DynDOLOD for TPF's performance guide users.
 
 ---
 
 ## Version 1.3.
 
 > 22.08.2021.
-
 
 ### Interface
 
