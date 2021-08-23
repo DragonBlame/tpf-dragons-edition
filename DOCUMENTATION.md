@@ -1022,6 +1022,119 @@ any other armor, pants have the same stats as their counterparts.*
 
 --- 
 
+## Gameplay Overhauls
+
+Create a separator and name it `GAMEPLAY OVERHAULS EXTENDED` and place it
+directly below the *COMBAT & ENCOUNTERS* separator (and its mods). Change its
+colour, so that it won't be the same as TPF's ones.
+
+All of the following mods in this category will be placed under this
+separator in the same order.
+
+### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
+
+**Main files** - Pilgrim - A Religion Overhaul
+
+**FOMOD** - Don’t change anything.
+
+**Instructions** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
+
+*In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more impportant for our player character too.*
+
+### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+
+**Main files** - C.O.I.N.
+
+**FOMOD** - `Author's Choice, Auto Conversion Enabled, The Tools of Kagrenac, WACCF, USSEP`.
+
+*Finally draugr aren't stealing any septims around Skyrim and bringing them to crypts. Only fruits and vegetables from time to time as an offering for ... themselves? Maybe someone else.*
+
+### [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
+
+**Main files** - Smart NPC Potions
+
+*Finally bandits, mages and assassins will also have an option to have
+and use some potions. And not just healing potions, which they already
+use, to make our lives a little bit harder. Everything, for instance, a
+chance of them having a potion, is configurable by MCM.*
+
+### [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
+
+**Main files** - Scion - Vampiric Sunscreen Plugin
+
+*If you wear any type of headgear, while being outdoors, like our
+vampire friend Serana does, you won’t be destroyed by sun damage.*
+
+### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259)
+
+**Main files** - More Werewolves
+
+*Yes, more werewolves will be in Skyrim, so be attentive especially when
+traversing the area around Morthal.*
+
+**FOMOD** - `Standalone version, RFYL Patch`.
+
+### [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
+
+**Main files** - Canis Hysteria
+
+**FOMOD** - `Improved Companions - Questline Tweaks`.
+
+*Finally you can become a werewolf without joining the Companions if you aren’t the type in the immersive way.*
+
+### [Werewolf Aela](https://www.nexusmods.com/skyrimspecialedition/mods/29155)
+
+**Main files** - Werewolf Companions v1.3 FOMOD
+
+**FOMOD** - `No Facial Edits, Aela’s Transformation Only for 3 Minutes
+and 45 Minutes`.
+
+*Has it always bothered you that Companions can’t turn into werewolves
+or do that only during Companions quests? Well, me too. This mod makes
+Aela transform into werewolf, if she is badly hurt. Aela will always
+want to stay as werewolf, not like Farkas and Vilkas, who can be cured,
+so I have decided that it will be enough just with her.*
+
+### [Catir’s College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
+
+**Main files** - Catir's College Creatures
+
+*Now you will actually need to use magic to beat the College of
+Winterhold quest line. You have been warned, don’t sneak peek at the
+description of the mod.*
+
+### [No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)
+
+**Main files** - NoLockPicking v2
+
+*Removes the lock picking mini-game (annoying) from the game and now
+actually uses your lockpicking skill to open doors and chests.*
+
+### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
+
+**Main files** - Reading Is Good SE
+
+*Makes us smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.*
+
+### [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
+
+**Main files** - Dragonborn - Shouts Perk Tree
+
+**Miscellaneous files** - Dragonborn - Adamant Patch
+
+*Being Dragonborn and being able to shout should make us more unique
+than other characters, and this mod does that by giving us experience
+and perk points for shouting and killing dragons and a unique skill tree
+for spending these.*
+
+### [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
+
+**Main files** - Angi's Camp Tweaks
+
+*Quality of life changes for Agni’s training session.*
+
+---
+
 ## Miscellaneous
 
 This category's mods are focused on adding some quality of life tools
@@ -1250,27 +1363,12 @@ broom from your inventory.*
 *Not only allows you to adopt more children, but also to bring your
 spouse and kids to the new houses we have added.*
 
-### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
-
-**Main files** - C.O.I.N.
-
-**FOMOD** - `Author's Choice, Auto Conversion Enabled, The Tools of Kagrenac, WACCF, USSEP`.
-
-*Finally draugr aren't stealing any septims around Skyrim and bringing them to crypts. Only fruits and vegetables from time to time as an offering for ... themselves? Maybe someone else.*
-
 ### [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329)
 
 **Main files** - Dragon Claws Auto-Unlock (Simultaneous)
 
 *I don’t want to check these claw combinations again and again. It was
 fun, when Skyrim was a new game for me.*
-
-### [No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)
-
-**Main files** - NoLockPicking v2
-
-*Removes the lock picking mini-game (annoying) from the game and now
-actually uses your lockpicking skill to open doors and chests.*
 
 ### [BlockSteal](https://www.nexusmods.com/skyrimspecialedition/mods/18732)
 
@@ -1280,49 +1378,6 @@ actually uses your lockpicking skill to open doors and chests.*
 won’t get punished by just wanting to take another item, which that
 annoying, but expensive cup was near. There is also an option to press
 on items multiple times, which is configurable through MCM.*
-
-### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
-
-**Main files** - Reading Is Good SE
-
-*Makes us smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.*
-
-### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
-
-**Main files** - Pilgrim - A Religion Overhaul
-
-**FOMOD** - Don’t change anything.
-
-**Instructions** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
-
-*In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more impportant for our player character too.*
-
-### [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
-
-**Main files** - Scion - Vampiric Sunscreen Plugin
-
-*If you wear any type of headgear, while being outdoors, like our
-vampire friend Serana does, you won’t be destroyed by sun damage.*
-
-### [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
-
-**Main files** - Dragonborn - Shouts Perk Tree
-
-**Miscellaneous files** - Dragonborn - Adamant Patch
-
-*Being Dragonborn and being able to shout should make us more unique
-than other characters, and this mod does that by giving us experience
-and perk points for shouting and killing dragons and a unique skill tree
-for spending these.*
-
-### [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
-
-**Main files** - Smart NPC Potions
-
-*Finally bandits, mages and assassins will also have an option to have
-and use some potions. And not just healing potions, which they already
-use, to make our lives a little bit harder. Everything, for instance, a
-chance of them having a potion, is configurable by MCM.*
 
 ### [Don't Stay in The Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
 
@@ -1368,41 +1423,7 @@ leads you to your quest objective.*
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
 
-### [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
 
-**Main files** - Angi's Camp Tweaks
-
-*Quality of life changes for Agni’s training session.*
-
-### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259)
-
-**Main files** - More Werewolves
-
-*Yes, more werewolves will be in Skyrim, so be attentive especially when
-traversing the area around Morthal.*
-
-**FOMOD** - `Standalone version, RFYL Patch`.
-
-### [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
-
-**Main files** - Canis Hysteria
-
-**FOMOD** - `Improved Companions - Questline Tweaks`.
-
-*Finally you can become a werewolf without joining the Companions if you aren’t the type in the immersive way.*
-
-### [Werewolf Aela](https://www.nexusmods.com/skyrimspecialedition/mods/29155)
-
-**Main files** - Werewolf Companions v1.3 FOMOD
-
-**FOMOD** - `No Facial Edits, Aela’s Transformation Only for 3 Minutes
-and 45 Minutes`.
-
-*Has it always bothered you that Companions can’t turn into werewolves
-or do that only during Companions quests? Well, me too. This mod makes
-Aela transform into werewolf, if she is badly hurt. Aela will always
-want to stay as werewolf, not like Farkas and Vilkas, who can be cured,
-so I have decided that it will be enough just with her.*
 
 ### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
 
@@ -1428,14 +1449,6 @@ etc.*
 
 *Let Stormcloaks and the Empire play their own games, while being
 neutral, but getting your deserved reward.*
-
-### [Catir’s College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
-
-**Main files** - Catir's College Creatures
-
-*Now you will actually need to use magic to beat the College of
-Winterhold quest line. You have been warned, don’t sneak peek at the
-description of the mod.*
 
 ### [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201)
 
