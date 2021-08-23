@@ -16,7 +16,7 @@ Added *d*.
 
 ### Gameplay Overhauls
 
-Moved Official Unique Flowers and Plants, Cayhedral - 3D Mountain Flowers, A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers, A Patch for Lanterns of Skyrim II and Cathedral Mountain Flowers here from the _Miscellaneous_ section.
+Moved Pilgrim - A Religion Overhaul, C.O.I.N. - Coins of Interesting Natures, Smart NPC Potions - Enemies Use Potions and Poisons, More Werewolves, Catir's College Creatures, Canis Hysteria - The Werewolf Disease, Werewolf Aela, No Lock Picking, Reading Is Good, Dragonborn - Shouts Perk Tree, Dragonborn - Adamant Patch, Scion - Vampiric Sunscreen Plugin and Angi's Camp Tweaks here from the _Miscellaneous_ section.
 
 ### Miscellaneous
 
