@@ -20,7 +20,7 @@ Moved Pilgrim - A Religion Overhaul, C.O.I.N. - Coins of Interesting Natures, Sm
 
 ### Miscellaneous
 
-Moved some mods out to the _Gameplay Overhauls_ section.
+Moved some mods out to the _Gameplay Overhauls_ section. Now it will be much easier for me tinker with this section and it woudn't look so cluttered.
 
 ### Appearance
 
@@ -31,6 +31,10 @@ Added instructions to rename Feminine Khajiit Textures and tweaked them for Masc
 Fixed a mistake for Dual Sheath's INI changes, which had gotten there after the migration to GitHub.
 
 ### Other Changes
+
+Removed TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch. Added TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch and TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch.
+
+Renamed some patches to be consistent with the names of patches on Nexus. While it isn't a major change, you should redownload the patches and apply the newest load order.
 
 Changed scaling and layout of some images (thanks to Matt Eden).
 
