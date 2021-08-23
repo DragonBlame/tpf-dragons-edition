@@ -2285,6 +2285,10 @@ me to check things inside.
 
 **Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
 
+**Main files** - TPF Dragon's Editon - Gameplay Overhauls Patch
+
+**Main files** - TPF Dragon's Edition - New Content and Gameplay Overhauls Patch
+
 **Main files** - TPF Dragon’s Edition - Miscellaneous Patch
 
 **Main files** - TPF Dragon's Edition - New Content & Miscellaneous Patch
@@ -2297,7 +2301,7 @@ me to check things inside.
 
 **Main files** - TPF Dragon’s Edition - New Content and NPC Overhauls Patch
 
-**Main files** - TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch
+**Main files** - TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch
 
 **Main files** - TPF Dragon’s Edition Patch
 
