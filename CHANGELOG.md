@@ -36,6 +36,8 @@ Changed scaling and layout of some images (thanks to Matt Eden).
 
 Hid terrain LOD textures, which were overwriting A Quality World Map.
 
+---
+
 ## Version 1.3.
 
 > 22.08.2021.
