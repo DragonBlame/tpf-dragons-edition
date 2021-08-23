@@ -34,4 +34,6 @@ Fixed a mistake for Dual Sheath's INI changes, which had gotten there after the 
 
 Changed scaling and layout of some images (thanks to Matt Eden).
 
+Hid terrain LOD textures, which were overwriting A Quality World Map.
+
 						
