@@ -146,7 +146,7 @@ will not work with this mod installed.**
 
 **Main files** - Alternate Conversation Camera
 
-**INI** - In line 51, change _bLetterBox_ to `0`.
+**INI** - In line 51, change _bLetterBox_ to `0`, in line 68, change _bHideDialogueMenu_ to `1`.
 
 *Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
