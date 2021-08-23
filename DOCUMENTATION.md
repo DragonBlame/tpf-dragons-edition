@@ -1040,7 +1040,7 @@ separator in the same order.
 
 ### [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 
-**Main files** - Papyrus Extender SSE - 4.4.2
+**Main files** - Papyrus Extender SSE - 4.5.1
 
 *Plugin that extends Skyrim's script language (Papyrus) functionality.
 It will be needed for Strange Runes to use another version of runes for
