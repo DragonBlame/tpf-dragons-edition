@@ -1024,6 +1024,8 @@ any other armor, pants have the same stats as their counterparts.*
 
 ## Gameplay Overhauls
 
+This section is intended to compliment TPF's gameplay and combat overhauls with a touch of immersiveness by adding new, not intrusive mechanics or by changing already existing ones.
+
 Create a separator and name it `GAMEPLAY OVERHAULS EXTENDED` and place it
 directly below the *COMBAT & ENCOUNTERS* separator (and its mods). Change its
 colour, so that it won't be the same as TPF's ones.
