@@ -2,6 +2,28 @@
 
 # Changelog
 
+## Version 1.4.
+
+> 24.08.2021.
+
+### New Content
+
+Added _Hammet's Dungeon Packs_ and _Hammet's Dungeons - Misc Patches_.
+
+### Landscapes
+
+Added _Little Touches - A tree Placement for Whiterun City_.
+
+### Other Changes
+
+Fixed Aela's black face issue in the latest TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch.
+
+Updated TPF Dragon's Edition - New Content Patch. Added _TPF Dragon's Edition - Landscape Patch_.
+
+Fixed TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF Dragon's Edition - Occlusion by removing Bruma's Terrain LOD, which wasn't supposed to be there in the first place (oops). And, of course, DynDOLOD and occlusion needed to be remade for new additions.
+
+---
+
 ## Version 1.3.1.
 
 > 23.08.2021.
@@ -28,7 +50,7 @@ Fixed a mistake for Dual Sheath's INI changes, which had gotten there after the 
 
 ### Other Changes
 
-Removed TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch. Added TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch and TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch.
+Removed TPF Dragon's Edition - Miscellaneous and NPC Overhauls Patch. Added _TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch_, _TPF Dragon's Edition - New Content and Gameplay Overhauls Patch_ and _TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch_.
 
 Changed files' names for TPF Dragon's Edition - Apparel and Weapons Patch, TPF Dragon's Edition - Music Patch, TPF Dragon's Edition - New Content and Miscellaneous Patch, TPF Dragon's Edition - New Content and NPC Overhauls Patch. While it isn't a major change, you should download and install the patches again, remove the older versions and apply the newest load order.
 

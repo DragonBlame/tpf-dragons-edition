@@ -22,7 +22,7 @@ separator in the same order.
 
 This category's mods are optional - you can just skip it or install the
 mods you like. There will be instructions on files, which are needed, if
-you have decided to use one or more mods.
+you have decided to use one or more mods. Other sections mods (excluding the _Music & Sound FX_ section of the add-on) are all obligatory and can't be skipped.
 
 ### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
@@ -877,6 +877,15 @@ changes are saved.
 
 **Main files** - Moon and Star - Undeath Remastered Patch
 
+### [Hammet's Dungeon Packs](https://www.nexusmods.com/skyrimspecialedition/mods/12186?tab=files)
+
+**Optional Files** - Hammet Dungeon Packs - ESP version
+
+### [Hammet's Dungeons - Misc Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54453/?tab=files)
+
+**Main files** - Vuldur - Skybox Patch
+**Main files** - Vuldur - ToK Patch
+
 ---
 
 ## Landscape
@@ -940,6 +949,15 @@ Mountain Flowers
 **Main files** - Rorikstead Basalt Cliffs
 
 *By adding some unique things to regions of Skyrim like this one, we can definitely achieve our goal of making Skyrim a majestic land it is supposed to be.*
+
+
+### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
+
+**Main files** - Little Touches_A Tree Placement for Whiterun City
+
+**FOMOD** - `Inside, Outside`.
+
+*Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
 
 ---
 
@@ -1424,8 +1442,6 @@ leads you to your quest objective.*
 
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
-
-
 
 ### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
 
@@ -2284,6 +2300,8 @@ me to check things inside.
 ### [TPF Dragon’s Edition - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Main files** - TPF Dragon’s Edition - New Content Patch
+
+**Main files** - TPF Dragon’s Edition - Landscape Patch
 
 **Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
 
