@@ -22,7 +22,7 @@ separator in the same order.
 
 This category's mods are optional - you can just skip it or install the
 mods you like. There will be instructions on files, which are needed, if
-you have decided to use one or more mods. Other sections mods (excluding the Music & Sound FX section of the add-on) are all obligatory and can't be skipped.
+you have decided to use one or more mods. Other sections mods (excluding the _Music & Sound FX_ section of the add-on) are all obligatory and can't be skipped.
 
 ### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
