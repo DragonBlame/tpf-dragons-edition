@@ -12,7 +12,7 @@ Added _Little Touches A tree Placement for Whiterun City_.
 
 ### Other Changes
 
-Fixed a black face issue in the latest _TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch_.
+Fixed Aela's black face issue in the latest _TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch_.
 
 ---
 
