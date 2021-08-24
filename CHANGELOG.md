@@ -8,9 +8,11 @@
 
 ### New Content
 
-Added _Little Touches - A tree Placement for Whiterun City_.
-
 Added _Hammet's Dungeon Packs_ and _Hammet's Dungeons - Misc Patches_.
+
+### Landscapes
+
+Added _Little Touches - A tree Placement for Whiterun City_.
 
 ### Other Changes
 
