@@ -2626,7 +2626,7 @@ change ENB files and add a good addition for it.
 
 ![image](https://user-images.githubusercontent.com/37147270/130332450-86a22e4f-301f-4cb3-be6b-a3fadcb532fa.png)
 
-*(ft. a mod in development, which soon will be released, by Monty)*
+*(ft. Little Touches - A Tree Placement for Whiterun City)*
 
 ### [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
