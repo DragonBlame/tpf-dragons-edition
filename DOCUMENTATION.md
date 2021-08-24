@@ -22,7 +22,7 @@ separator in the same order.
 
 This category's mods are optional - you can just skip it or install the
 mods you like. There will be instructions on files, which are needed, if
-you have decided to use one or more mods.
+you have decided to use one or more mods. Other sections mods (excluding the Music & Sound FX section of the add-on) are all obligatory and can't be skipped.
 
 ### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
@@ -1424,8 +1424,6 @@ leads you to your quest objective.*
 
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
-
-
 
 ### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
 
