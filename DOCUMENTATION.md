@@ -877,6 +877,15 @@ changes are saved.
 
 **Main files** - Moon and Star - Undeath Remastered Patch
 
+### [Hammet's Dungeon Packs](https://www.nexusmods.com/skyrimspecialedition/mods/12186?tab=files)
+
+**Optional Files** - Hammet Dungeon Packs - ESP version
+
+### [Hammet's Dungeons - Misc Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54453/?tab=files)
+
+**Main files** - Vuldur - Skybox Patch
+**Main files** - Vuldur - ToK Patch
+
 ---
 
 ## Landscape
@@ -940,6 +949,15 @@ Mountain Flowers
 **Main files** - Rorikstead Basalt Cliffs
 
 *By adding some unique things to regions of Skyrim like this one, we can definitely achieve our goal of making Skyrim a majestic land it is supposed to be.*
+
+
+### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
+
+**Main files** - Little Touches_A Tree Placement for Whiterun City
+
+**FOMOD** - `Inside, Outside`.
+
+*Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
 
 ---
 
