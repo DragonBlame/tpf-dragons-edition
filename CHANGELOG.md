@@ -4,19 +4,19 @@
 
 ## Version 1.4.
 
-> xx.08.2021.
+> 24.08.2021.
 
 ### New Content
 
 Added _Little Touches - A tree Placement for Whiterun City_.
 
-Added _Hammet's Dungeon Packs_.
+Added _Hammet's Dungeon Packs_ and _Hammet's Dungeons - Misc Patches_.
 
 ### Other Changes
 
 Fixed Aela's black face issue in the latest _TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch_.
 
-Fixed TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF Dragon's Edition - Occlusion by removing Bruma's Terrain LOD, which wasn't supposed to be there in the first place (oops). And of course DynDOLOD needed to be remade for new additions.
+Fixed TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF Dragon's Edition - Occlusion by removing Bruma's Terrain LOD, which wasn't supposed to be there in the first place (oops). And, of course, DynDOLOD and occlusion needed to be remade for new additions.
 
 ---
 
