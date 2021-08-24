@@ -2301,6 +2301,8 @@ me to check things inside.
 
 **Main files** - TPF Dragon’s Edition - New Content Patch
 
+**Main files** - TPF Dragon’s Edition - Landscape Patch
+
 **Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
 
 **Main files** - TPF Dragon's Editon - Gameplay Overhauls Patch
