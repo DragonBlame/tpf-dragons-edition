@@ -14,7 +14,7 @@ Added _Little Touches A tree Placement for Whiterun City_.
 
 Fixed Aela's black face issue in the latest _TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch_.
 
-Fixed TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - DynDOLOD Output and TPF Dragon's Edition - Occlusion by removing Bruma's Terrain LOD, which wasn't supposed to be there in the first place (oops).
+Fixed TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF Dragon's Edition - Occlusion by removing Bruma's Terrain LOD, which wasn't supposed to be there in the first place (oops).
 
 ---
 
