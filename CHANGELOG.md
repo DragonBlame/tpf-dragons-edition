@@ -2,6 +2,20 @@
 
 # Changelog
 
+## Version 1.4.
+
+> xx.08.2021.
+
+### New Content
+
+Added _Little Touches A tree Placement for Whiterun City_.
+
+### Other Changes
+
+Fixed a black face issue in the latest _TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch_.
+
+---
+
 ## Version 1.3.1.
 
 > 23.08.2021.
