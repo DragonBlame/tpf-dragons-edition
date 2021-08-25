@@ -2478,8 +2478,7 @@ At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-Second, don’t forget about following Phoenix’s in-game configurations at
-first [here](https://thephoenixflavour.com/tpf/mod-configuration/). Then continue with mine.
+Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings. Then continue with mine configurations.
 
 **Cond. Expressions MCM** - Disable out of stamina, in pain,
 headache/diseased expressions.
