@@ -25,7 +25,7 @@ For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gal
 In game folder files by now you have found 3 ENB options for you to choose from:
   - _Serio's ENB_, which is used in TPF by default;
   - _Cathedral Minimalist ENB_ with Phoenix's tweaks for more performance;
-  - [_Silent Horizons ENB_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#enb), which I prefer now and a recommend for you to try.
+  - _Silent Horizons ENB_, which I prefer now and a recommend for you to try.
 
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
 
@@ -40,7 +40,9 @@ Change profiles by clicking on an already active profile and choosing another pr
 
 While following the main documentation of the add-on, users have a choice to use or not to use two sections' mods, which are [_Interface_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#interface-optional) section and [_Music & Sound FX_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#music--sound-fx-optional) section. For Wabbajack users two of those sections are enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions in the documentation.
 
-Finally we are ready to open the game and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_.
+Finally we are ready to open the game and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#configurations) section of the documentation.
+
+I hope everything was easy to understand at this point! :)
 
 
 
