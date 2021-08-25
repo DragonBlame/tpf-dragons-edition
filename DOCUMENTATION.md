@@ -918,10 +918,10 @@ worry about the mod overwriting anything we don't want to.*
 
 **Main files** - Cathedral - 3D Mountain Flowers
 
-**Hide (not now, later, when you will get to the *CONFIGURATIONS*
+**Hide (not now, later, when you will get to the *PREPARATIONS*
 section)** - hide any file, which overwrites _Fixed Mesh Lightning_. Don’t
 worry, there will be a reference to these instructions in the
-*CONFIGURATIONS* section.
+*PREPARATIONS* section.
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
@@ -1224,7 +1224,7 @@ from time to time.*
 
 **Optional files** - More Growable Plants Simple 1.5
 
-**Hide (not now, later, when you will get to the CONFIGURATIONS
+**Hide (not now, later, when you will get to the PREPARATIONS
 section)** - hide any file, which overwrites _Fixed Mesh Lightning_.
 
 *Still no idea where citizens of Skyrim get their apples, tomatoes,
@@ -2377,7 +2377,7 @@ medium INIs and performance grass mods
 
 ---
 
-## Configurations
+## Preparations
 
 And finally it is almost the end of the guide. Only some things to do,
 so let’s get it done.
@@ -2402,7 +2402,7 @@ The same process must be done with:
     Bruma for ice`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
-    CONFIGURATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
+    PREPARATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
 
 -   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
 
@@ -2448,11 +2448,15 @@ I hope you remember what to do with this. If no - open the archive and
 extract the _loadorder.txt_ to _Mod Organizer 2\profiles\The Phoenix
 Flavour - Dragon’s Edition_.
 
+---
+
+## Configurations
+
 And now we are ready to jump into the game, but don’t do it right away.
 
 At the beginning, don’t be scared when you see that your character’s
 hair and/or beard isn't right. Do you remember us installing High Poly
-Head and its hair (and beard) variations, right? So now we need to
+Head and its hair (and beard) variations, right? Well, Wabbajack users won't, but that isn't the point. Now we need to
 actually activate our high poly head in Racemenu and then our hair will
 look fine. Also choose a beard from High Poly Head and it will look good
 if that is needed.
@@ -2478,8 +2482,7 @@ At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-Second, don’t forget about following Phoenix’s in-game configurations at
-first [here](https://thephoenixflavour.com/tpf/mod-configuration/). Then continue with mine.
+Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with mine configurations.
 
 **Cond. Expressions MCM** - Disable out of stamina, in pain,
 headache/diseased expressions.
@@ -2579,7 +2582,7 @@ That’s all, folks! You are set to traverse into another modded world of
 Skyrim.
 
 If you are happy with my work, I won't mind if you endorse the add-on’s
-page on Nexus and write something positive for me to read.
+page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too).
 
 If you want to help even more, you can donate to me (via PayPal) by
 pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
@@ -2588,7 +2591,7 @@ If you want to learn a little bit more about the content we have added,
 read the [*Gameplay Guide*](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#gameplay-guide) section of the add-on.
 
 If you are interested in changing TPF’s default ENB to what I use
-personally, continue with the *ENB* section.
+personally or just to learn about my preference in ENBs, continue with the *ENB* section.
 
 If you have experienced a bug during your walkthrough, jump into TPF's Discord server and tell me about it in #tpf-addons-support.
 
