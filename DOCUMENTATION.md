@@ -2035,7 +2035,7 @@ Veleth, Wulf Wild-Blood, USSEP`.
 **Main files** - PAN_NPCs - Males 2
 
 **FOMOD** - `Alternative for Borkul the Beast, alternative 2 for Chief
-Burguk, alternative for Chief Mauhulakh, Athis, Skjor, alternative 2 for
+Burguk, alternative for Chief Mauhulakh, alternative 1 for Athis and Skjor, alternative 2 for
 Vilkas and Farkas, alternative for Falion, Erik The Slayer, Unmid
 Snow-Shod, USSEP`.
 
