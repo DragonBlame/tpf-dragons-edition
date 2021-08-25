@@ -918,10 +918,10 @@ worry about the mod overwriting anything we don't want to.*
 
 **Main files** - Cathedral - 3D Mountain Flowers
 
-**Hide (not now, later, when you will get to the *CONFIGURATIONS*
+**Hide (not now, later, when you will get to the *PREPARATIONS*
 section)** - hide any file, which overwrites _Fixed Mesh Lightning_. Don’t
 worry, there will be a reference to these instructions in the
-*CONFIGURATIONS* section.
+*PREPARATIONS* section.
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
@@ -1224,7 +1224,7 @@ from time to time.*
 
 **Optional files** - More Growable Plants Simple 1.5
 
-**Hide (not now, later, when you will get to the CONFIGURATIONS
+**Hide (not now, later, when you will get to the PREPARATIONS
 section)** - hide any file, which overwrites _Fixed Mesh Lightning_.
 
 *Still no idea where citizens of Skyrim get their apples, tomatoes,
@@ -2377,7 +2377,7 @@ medium INIs and performance grass mods
 
 ---
 
-## Configurations
+## Preparations
 
 And finally it is almost the end of the guide. Only some things to do,
 so let’s get it done.
@@ -2402,7 +2402,7 @@ The same process must be done with:
     Bruma for ice`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
-    CONFIGURATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
+    PREPARATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
 
 -   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
 
@@ -2447,6 +2447,10 @@ After that is done, click anywhere in the load order panel and select
 I hope you remember what to do with this. If no - open the archive and
 extract the _loadorder.txt_ to _Mod Organizer 2\profiles\The Phoenix
 Flavour - Dragon’s Edition_.
+
+---
+
+## Configurations
 
 And now we are ready to jump into the game, but don’t do it right away.
 
