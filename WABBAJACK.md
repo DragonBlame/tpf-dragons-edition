@@ -29,7 +29,7 @@ In game folder files by now you have found 3 ENB options for you to choose from:
   - _Cathedral Minimalist ENB_ with Phoenix's tweaks for more performance;
   - [_Silent Horizons ENB_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#enb), which I prefer now and a recommend for you to try.
 
-While following the main documentation of the add-on, users have a choice to use or not to use two sections' mods, which are [_Interface_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#interface-optional) section and [_Music & Sound FX_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#music--sound-fx-optional) section. For Wabbajack users two of those sections are enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions.
+While following the main documentation of the add-on, users have a choice to use or not to use two sections' mods, which are [_Interface_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#interface-optional) section and [_Music & Sound FX_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#music--sound-fx-optional) section. For Wabbajack users two of those sections are enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions in the documentation.
 
 
 
