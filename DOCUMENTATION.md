@@ -886,6 +886,10 @@ changes are saved.
 **Main files** - Vuldur - Skybox Patch
 **Main files** - Vuldur - ToK Patch
 
+### [EasierRider's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/2218?tab=files)
+
+**Main files** - EasierRider's Dunegon Pack SSE v1.5
+
 ---
 
 ## Landscape
