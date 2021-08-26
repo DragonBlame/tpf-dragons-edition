@@ -27,7 +27,7 @@ For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gal
 In game folder files by now you have found 3 ENB options for you to choose from:
   - _Serio's ENB_, which is used in TPF by default;
   - _Cathedral Minimalist ENB_ with Phoenix's tweaks for more performance;
-  - _Silent Horizons ENB_, which I prefer now and a recommend for you to try.
+  - _Silent Horizons ENB_, which I prefer now and recommend for you to try.
 
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
 
