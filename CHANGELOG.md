@@ -2,6 +2,22 @@
 
 # Changelog
 
+## Version 1.5.
+
+> xx.08.2021.
+
+### New Content
+
+Added _EasierRider's Dungeon Pack_.
+
+### Other Changes
+
+Updated TPF Dragon's Edition - New Content Patch.
+
+Updated TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF Dragon's Edition - Occlusion.
+
+---
+
 ## Version 1.4.
 
 > 24.08.2021.
