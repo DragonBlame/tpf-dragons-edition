@@ -12,7 +12,7 @@ Added _EasierRider's Dungeon Pack_.
 
 ### Landscape
 
-Changed the file, which is needed to be installed for Little Touches - A Tree Placement for Whiterun City.
+Changed the file, which is needed to be installed for Little Touches - A Tree Placement for Whiterun City, removed FOMOD instructions as those aren't needed anymore.
 
 ### Other Changes
 
