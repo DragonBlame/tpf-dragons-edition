@@ -48,6 +48,8 @@ By default some mods of TPF are disabled in both of my add-on's profiles. Those 
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - _Classic Sprinting Redone_ in TPF's _Assorted Plugins_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
 
+If you won't use Silent Horizons ENB, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Landscape_ section of the add-on.  
+
 Finally we are ready to open the game and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#configurations) section of the documentation.
 
 I hope everything was easy to understand at this point! :)
