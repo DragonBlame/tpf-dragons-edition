@@ -14,15 +14,15 @@ Added _EasierRider's Dungeon Pack_.
 
 Changed the file, which is needed to be installed for Little Touches - A Tree Placement for Whiterun City, removed FOMOD instructions as those aren't needed anymore.
 
-### ENB
-
-Changed instructions to move Silent Horizons ENB Addon - Solar Cleaner at the start of the add-on’s Landscape section in your mod order.
-
 ### Other Changes
 
 Updated TPF Dragon's Edition - New Content Patch.
 
 Updated TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF Dragon's Edition - Occlusion.
+
+### ENB
+
+Changed instructions to move Silent Horizons ENB Addon - Solar Cleaner at the start of the add-on’s Landscape section in your mod order.
 
 ### Wabbajack
 
