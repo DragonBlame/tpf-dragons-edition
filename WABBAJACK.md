@@ -24,7 +24,7 @@ For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gal
 
 ## Configurations
 
-By default your game will be capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that anywhere.
+By default your game is capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that anywhere.
 
 In game folder files by now you have found 3 ENB options for you to choose from:
   - _Serio's ENB_, which is used in TPF by default;
@@ -44,13 +44,13 @@ Change profiles by clicking on an already active profile and choosing another pr
 
 While following the main documentation of the add-on, users have a choice to use or not to use two sections' mods, which are [_Interface_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#interface-optional) section and [_Music & Sound FX_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#music--sound-fx-optional) section. For Wabbajack users two of those sections are enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions in the documentation.
 
-By default some mods of TPF are disabled in both of my add-on's profiles. Those are:
+Some mods of TPF are disabled in both of my add-on's profiles. Those are:
   - _Free Look_ in TPF's _Assorted Plugins_ section, because it conflicts with a mod in the _Interface_ section of the add-on called _Alternate Conversation Camera_ (if you don't use the mod, you can enable Free Look by clicking on a rectangle right next to its name on the left side of MO2).
   - _Adamant - Shrines and Amulets_ in TPF's _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_ in the TPF's _Miscellaneous_ section, because they both conflict with a mod in our _Gameplay Overhauls_ section called _Pilgrim - A Religion Overhaul_. Don't worry about the last disabled mod, shrines still don't cure diseases with Pilgrim.
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - _Classic Sprinting Redone_ in TPF's _Assorted Plugins_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
 
-If you won't use Silent Horizons ENB, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Landscape_ section of the add-on.  
+If you won't use Silent Horizons ENB, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Landscape_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
 
 Finally we are ready to open the game and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#configurations) section of the documentation.
 
