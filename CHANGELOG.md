@@ -26,6 +26,8 @@ Added information about the mods, which were disabled in both of my add-on's pro
 
 Added _Cured Serana Patch_, which I forgot to do before. Added reminder about the patch in the _Configurations_ section of the documentation mainly for Wabbajack users. 
 
+Added instructions to remove Silent Horizons ENB Addon - Solar Cleaner if you aren't using Silent Horizons ENB. Moved it to our _Landscape_ separator, not to be inside TPF's separators. 
+
 ---
 
 ## Version 1.4.
