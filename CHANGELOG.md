@@ -26,7 +26,7 @@ Changed instructions to move Silent Horizons ENB Addon - Solar Cleaner at the st
 
 ### Wabbajack
 
-Added information about the mods, which were disabled in both of my add-on's profiles.
+Added information about the mods, which were disabled in both of my add-on's profiles. Actually disabled them in the performance profile of the add-on.
 
 Added _Cured Serana Patch_, which I forgot to do before. Added reminder about the patch in the _Configurations_ section of the documentation mainly for Wabbajack users. 
 
