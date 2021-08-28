@@ -957,9 +957,7 @@ Mountain Flowers
 
 ### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
 
-**Main files** - Little Touches_A Tree Placement for Whiterun City
-
-**FOMOD** - `Inside, Outside`.
+**Main files** - AIO-LT- A Tree Placement for Whiterun City
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
 
