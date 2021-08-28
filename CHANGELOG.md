@@ -20,6 +20,12 @@ Updated TPF Dragon's Edition - New Content Patch.
 
 Updated TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF Dragon's Edition - Occlusion.
 
+### Wabbajack
+
+Added information about the mods, whih were disabled in both of my add-on's profiles.
+
+Added _Cured Serana Patch_, which I forgot to do before. Added instruction about the patch for Wabbajack users. 
+
 ---
 
 ## Version 1.4.
