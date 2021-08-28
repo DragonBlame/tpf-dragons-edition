@@ -2559,7 +2559,7 @@ whistling to him. This ability is introduced during his quests and will
 be explained in-game. You will need to press , button to use the
 whistle in the game.
 
-Now I recommend you to go to [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/CHANGELOG.md)
+Now I recommend you to go to [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/CHANGELOG.md)
 to see if you didn’t miss any important updates. Just to be sure also check the older changelog [here](https://docs.google.com/spreadsheets/d/1tyDaXgHrmInELa1Fr180LcvmggFAEtEw0xJIjuneVK4/edit?usp=sharing).
 
 And some hints (and possibly **spoilers**) before the end.
