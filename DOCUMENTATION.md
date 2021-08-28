@@ -2643,8 +2643,8 @@ change ENB files and add a good addition for it.
 
 At first, delete `enbcache` folder you can find in your root folder.
 
-Put *Silent Horizons ENB Addon - Solar Cleaner* right at the end of
-TPF’s Weathers section mods in your mod order and put it right under
+Put *Silent Horizons ENB Addon - Solar Cleaner* right at the start of
+the add-on’s _Landscape_ section in your mod order and put it right under
 *WoW Dragon Mounds CTD Fix.esp* in your plugins’ load order. Then
 Extract the main file. Open the optional folder, then depth of field
 configuration folder. Choose your favourite depth of field settings with
