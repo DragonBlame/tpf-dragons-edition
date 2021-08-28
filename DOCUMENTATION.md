@@ -2561,13 +2561,15 @@ whistling to him. This ability is introduced during his quests and will
 be explained in-game. You will need to press , button to use the
 whistle in the game.
 
-Now I recommend you to go to [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/CHANGELOG.md)
+**Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+
+Now for the manual guide users I recommend you to go to [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/CHANGELOG.md)
 to see if you didn’t miss any important updates. Just to be sure also check the older changelog [here](https://docs.google.com/spreadsheets/d/1tyDaXgHrmInELa1Fr180LcvmggFAEtEw0xJIjuneVK4/edit?usp=sharing).
 
 And some hints (and possibly **spoilers**) before the end.
 
 At first, be sure to do at least half of the main quest series as some
-added quests are tied to it (more information in Gameplay Guide).
+added quests are tied to it (more information in _Gameplay Guide_).
 
 Secondly, look inside Helgen’s Keep’s entries thoroughly as there will
 be one little reward for attentive ones.
