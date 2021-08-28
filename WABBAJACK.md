@@ -26,7 +26,7 @@ For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gal
 
 By default your game is capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that either.
 
-In game folder files by now you have found 3 ENB options for you to choose from:
+In game folder files by now you have found 3 ENB options to choose from:
   - _Serio's ENB_, which is used in TPF by default;
   - _Cathedral Minimalist ENB_ with Phoenix's tweaks for more performance;
   - _Silent Horizons ENB_, which I prefer now and recommend for you to try.
