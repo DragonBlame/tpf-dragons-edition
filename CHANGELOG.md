@@ -10,6 +10,10 @@
 
 Added _EasierRider's Dungeon Pack_.
 
+### Landscape
+
+Changed the file, which is needed to be installed for Little Touches - A Tree Placement for Whiterun City.
+
 ### Other Changes
 
 Updated TPF Dragon's Edition - New Content Patch.
@@ -26,7 +30,7 @@ Updated TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF 
 
 Added _Hammet's Dungeon Packs_ and _Hammet's Dungeons - Misc Patches_.
 
-### Landscapes
+### Landscape
 
 Added _Little Touches - A tree Placement for Whiterun City_.
 
