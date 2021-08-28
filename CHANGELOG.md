@@ -22,9 +22,9 @@ Updated TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF 
 
 ### Wabbajack
 
-Added information about the mods, whih were disabled in both of my add-on's profiles.
+Added information about the mods, which were disabled in both of my add-on's profiles.
 
-Added _Cured Serana Patch_, which I forgot to do before. Added instruction about the patch for Wabbajack users. 
+Added _Cured Serana Patch_, which I forgot to do before. Added instructions about the patch for Wabbajack users. 
 
 ---
 
