@@ -32,6 +32,8 @@ Added _ENB Lava Particle Light Patch_.
 
 Added _Vampire Lord - Animation Replacer_.
 
+Added _Skyrim's Paraglider_.
+
 ### Other Changes
 
 Separated the _Configurations_ section of the documentation into _Preparations_ and _Configurations_ (mainly for Wabbajack users, undocumented 1.4. change).
