@@ -12,6 +12,8 @@ Removed the description from Alternate Conversation Camera about incompatibility
 
 ### New Content
 
+Added instructions for Opulent Thieves Guild to load an update for it and then merge both files.
+
 Added _EasierRider's Dungeon Pack_.
 
 ### Landscape
