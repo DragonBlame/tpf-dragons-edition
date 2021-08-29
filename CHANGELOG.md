@@ -22,7 +22,7 @@ Changed the file, which is needed to be installed for Little Touches - A Tree Pl
 
 ### Miscelanneous
 
-Added _ENB Lights for Aetherium Shards_ and _ENB Lava Particle Light Patch_.
+Added _ENB Lava Particle Light Patch_.
 
 ### Other Changes
 
