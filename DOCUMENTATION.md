@@ -1835,6 +1835,12 @@ Compatibility
 universe, but it still doesn’t make sense for soul’s physical form to
 appear out of thin air, so here we go.*
 
+### [Vampire Lord - Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/54441)
+
+**Main files** - VLSE
+
+*You can even see wings actually moving, while we are flying. A must have mod.*
+
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
 **Main files** - Conditional Expressions
