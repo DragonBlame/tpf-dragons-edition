@@ -12,7 +12,7 @@ Removed the description from Alternate Conversation Camera about incompatibility
 
 ### New Content
 
-Added instructions for Opulent Thieves Guild to load an update for it and then merge both files.
+Added instructions for Opulent Thieves Guild to load an update for it and then merge both files (was there for Wabbajack users).
 
 Added _EasierRider's Dungeon Pack_.
 
@@ -49,6 +49,16 @@ Removed from the description about disabled TPF's mods information about Free Lo
 Added _Cured Serana Patch_, which I forgot to do before. Added reminder about the patch in the _Configurations_ section of the documentation mainly for Wabbajack users. 
 
 Added instructions to remove Silent Horizons ENB Addon - Solar Cleaner if you aren't using Silent Horizons ENB. Moved it to our _Landscape_ separator, not to be inside TPF's separators. 
+
+### Updated Add-on's Mods
+
+Undeath - Classical Lichdom
+
+Gladys the Corgi - A Custom Dog Follower Mod
+
+Diziet's Auto Outfits
+
+Pilgrim - A Religion Overhaul
 
 ---
 
