@@ -20,11 +20,9 @@ Added _EasierRider's Dungeon Pack_.
 
 Changed the file, which is needed to be installed for Little Touches - A Tree Placement for Whiterun City, removed FOMOD instructions as those aren't needed anymore.
 
-Moved here from the _Miscellaneous_ section.
-
 ### Miscelanneous
 
-Moved some mods out to the _Landscape_ section.
+Added _ENB Lights for Aetherium Shards_ and _ENB Lava Particle Light Patch_.
 
 ### Other Changes
 
