@@ -260,6 +260,10 @@ just a bunch of ordinary thieves united.*
 
 **Main files** - Opulent Thieves Guild
 
+**Update files** - Update ESL Patch - Created by Erstam
+
+**Merge** - Merge both files.
+
 ### [Adoption Without Murder](https://www.nexusmods.com/skyrimspecialedition/mods/46741?tab=files)
 
 **Main files** - Adoption without Murder
