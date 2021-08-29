@@ -2591,6 +2591,8 @@ whistling to him. This ability is introduced during his quests and will
 be explained in-game. You will need to press , button to use the
 whistle in the game.
 
+**Skyrim's Paraglider activation** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
+
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
 Now for the manual guide users I recommend you to go to [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/CHANGELOG.md)
@@ -2607,6 +2609,8 @@ be one little reward for attentive ones.
 Thirdly, for people, who would want to adopt children and live with them
 not in vanilla homes, there will be a neat spell book waiting for you
 somewhere around Riverwood.
+
+And another one - be sure to travel around Falkreath. Something interesting might happen.
 
 ---
 
