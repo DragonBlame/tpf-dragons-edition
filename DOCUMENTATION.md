@@ -2399,9 +2399,8 @@ The same process must be done with:
 -   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPFs
     patches [(look
     here)](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2)
-    and `Bruma for flora, More Growable Plants, Unique Flowers and
-    Plants, 3D Mountain Flowers, Bruma for trees, Realistic Aspen Trees,
-    Bruma for ice`;
+    and `More Growable Plants, trees for Beyond Skyrim - Bruma, Unique Flowers and
+    Plants, 3D Mountain Flowers, tres for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
     PREPARATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
