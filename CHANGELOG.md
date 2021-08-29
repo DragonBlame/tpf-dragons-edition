@@ -16,6 +16,8 @@ Added instructions for Opulent Thieves Guild to load an update for it and then m
 
 Added _Opulent Thieves Guild - FPS Fix_.
 
+Changed intructions for Rayek's End to download different version of the mod.
+
 Added _EasierRider's Dungeon Pack_.
 
 ### Landscape
