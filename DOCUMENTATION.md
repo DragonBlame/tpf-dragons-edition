@@ -141,9 +141,6 @@ reading book.*
 
 ### [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
 
-**The mod is incompatible with Free Look - Free Look's functionality
-will not work with this mod installed.**
-
 **Main files** - Alternate Conversation Camera
 
 **INI** - In line 51, change _bLetterBox_ to `0`, in line 68, change _bHideDialogueMenu_ to `1`.
