@@ -20,13 +20,13 @@ Changed the file, which is needed to be installed for Little Touches - A Tree Pl
 
 ### Other Changes
 
-Separated the _Configurations_ section of the documentation into two parts (mainly for Wabbajack users)(now there is the _Preparations_ section for reinstalling the mods, whch are already in TPF, undocumented 1.4. change).
+Separated the _Configurations_ section of the documentation into _Preparations_ and _Configurations_ (mainly for Wabbajack users, undocumented 1.4. change).
 
 Changed FOMOD instructions for Fixed Mesh Lightning.
 
-Updated TPF Dragon's Edition - New Content Patch.
+Updated TPF Dragon's Edition - Landscape Patch, TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - Miscellaneous Patch.
 
-Updated TPF Dragon's Edition - DynDOLOD Output (and performance output) and TPF Dragon's Edition - Occlusion.
+Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
 
 ### ENB
 
