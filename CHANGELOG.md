@@ -32,7 +32,7 @@ Added _ENB Lava Particle Light Patch_.
 
 Added _Vampire Lord - Animation Replacer_.
 
-Added _Skyrim's Paraglider_.
+Added _Skyrim's Paraglider_ and _Paraglider Auto - Equip Tarhiel's Gale_.
 
 ### Other Changes
 
