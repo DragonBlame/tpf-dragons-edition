@@ -18,6 +18,12 @@ Added _EasierRider's Dungeon Pack_.
 
 Changed the file, which is needed to be installed for Little Touches - A Tree Placement for Whiterun City, removed FOMOD instructions as those aren't needed anymore.
 
+Moved here from the _Miscellaneous_ section.
+
+### Miscelanneous
+
+Moved some mods out to the _Landscape_ section.
+
 ### Other Changes
 
 Separated the _Configurations_ section of the documentation into _Preparations_ and _Configurations_ (mainly for Wabbajack users, undocumented 1.4. change).
