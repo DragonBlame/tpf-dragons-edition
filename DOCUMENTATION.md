@@ -1245,7 +1245,7 @@ grow only things I consider to be immersive to be grown.*
 
 **Delete** - Remove `dD-Larger Splatter Size.esp` and `dD-Reduced Splatter Size.esp`.
 
-*This fix is going to help us resolve weird blood sqare effect.*
+*This fix is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
 ### [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
 
@@ -1263,6 +1263,14 @@ grow only things I consider to be immersive to be grown.*
 
 *Where is a petition that everything needs to be patched for ENB to look
 magnificent? I would have signed it.*
+
+### [ENB Lights for Aetherium Shards](https://www.nexusmods.com/skyrimspecialedition/mods/54472)
+
+**Main files** - ENB lights for Aetherium Shards SE
+
+### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
+
+**Main files** - ENB Lava Particle Light Patch
 
 ### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
