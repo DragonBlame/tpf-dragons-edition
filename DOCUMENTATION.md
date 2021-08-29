@@ -1958,9 +1958,23 @@ Sprint, Origin Dw Sprint_Type A`.
 
 ### [1st Person Parry Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20374)
 
+**Main files** - 1stPerson Parry Animation
+
 **FOMOD** - `01, 02, 03`.
 
-**Main files** - 1stPerson Parry Animation
+### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
+
+**Main files** - SkyrimsParaglider
+
+**FOMOD** - `Contrails Off, Dragon Paraglider`.
+
+*Traverse through Skyrim in even more ways than you have thought is possible.*
+
+### [Paraglider Auto - Equip Tarhiel's Gale](https://www.nexusmods.com/skyrimspecialedition/mods/53436)
+
+**Main files** - Paraglider Auto-Equip Tarhiel's Gale
+
+*Paraglider comes with a spell book that allows us to get higher in the air. This mod makes the spell automatically eqipped, when we glide.*
 
 ---
 
