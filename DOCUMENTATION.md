@@ -785,7 +785,7 @@ warriors.*
 
 ### [Rayek's End](https://www.nexusmods.com/skyrimspecialedition/mods/8285?tab=files)
 
-**Optional files** - Rayek's End - SSE Expanded Edition 1.7 (Medium)
+**Main files** - Rayek's End - SSE Expanded Edition 1.7 - Original (Dark)
 
 **Optional files** - Barenziah's Glory SE - Patch (Removes floating
 gems)
