@@ -42,7 +42,7 @@ Changed FOMOD instructions for Fixed Mesh Lightning.
 
 Updated TPF Dragon's Edition - Landscape Patch, TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - Miscellaneous Patch.
 
-Updated TPF Dragon's Edition - Nemesis Output (probably wasn't needed, but to be sure), TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
+Updated TPF Dragon's Edition - Nemesis Output, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
 
 ### ENB
 
