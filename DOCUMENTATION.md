@@ -264,6 +264,12 @@ just a bunch of ordinary thieves united.*
 
 **Merge** - Merge both files.
 
+### [Opulent Thieves Guild - FPS Fix](https://www.nexusmods.com/skyrimspecialedition/mods/41309?tab=files)
+
+**Main files** - Opulent Thieves Guild - FPS Fix
+
+**FOMOD** - `SMIM Barrels`.
+
 ### [Adoption Without Murder](https://www.nexusmods.com/skyrimspecialedition/mods/46741?tab=files)
 
 **Main files** - Adoption without Murder
