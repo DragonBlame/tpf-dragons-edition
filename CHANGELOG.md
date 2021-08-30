@@ -40,6 +40,8 @@ Added _High Poly Expressive NPCs_, _High Poly Expressive NPCs - AI Overhaul Patc
 
 Added instructions for Shield Sisters Re-Imagined and Nortbourne NPCs of Whiterun Hold to remove _00013478_ facgen files.
 
+Added additional instructions for High Poly Expressive NPCs to hide some facegen files.
+
 ### Other Changes
 
 Separated the _Configurations_ section of the documentation into _Preparations_ and _Configurations_ (mainly for Wabbajack users, undocumented 1.4. change).
