@@ -51,7 +51,7 @@ Some mods of TPF are disabled in both of my add-on's profiles. Those are:
 
 If you won't use Silent Horizons ENB, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Landscape_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
 
-Finally we are ready to open the game and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#configurations) section of the documentation.
+Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#configurations) section of the documentation.
 
 I hope everything was easy to understand at this point! :)
 
