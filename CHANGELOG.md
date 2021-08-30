@@ -22,7 +22,7 @@ Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my 
 
 Updated TPF Dragon's Edition - NPC Overhauls Patch. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
 
-Updated TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - Terrain LOD.
+Updated TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
 
 ---
 
