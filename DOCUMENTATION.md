@@ -627,6 +627,10 @@ Corrupted Shade) ESL
 
 **Main files** - Wyrmstooth_2x
 
+### [Better Wyrmstooth Map With Roads](https://www.nexusmods.com/skyrimspecialedition/mods/39501?tab=files)
+
+**Optional** - Only Wyrmstooth Map
+
 ### [Lanterns Of Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/47782?tab=files)
 
 **Main files** - Lanterns Of Wyrmstooth
