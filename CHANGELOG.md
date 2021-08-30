@@ -34,13 +34,21 @@ Added _Vampire Lord - Animation Replacer_.
 
 Added _Skyrim's Paraglider_ and _Paraglider Auto - Equip Tarhiel's Gale_.
 
+### NPC Overhauls
+
+Added _High Poly Expressive NPCs_.
+
+Added instructions for Shield Sisters Re-Imagined and Nortbourne NPCs of Whiterun Hold to remove 00013478 facgen files.
+
 ### Other Changes
 
 Separated the _Configurations_ section of the documentation into _Preparations_ and _Configurations_ (mainly for Wabbajack users, undocumented 1.4. change).
 
 Changed FOMOD instructions for Fixed Mesh Lightning.
 
-Updated TPF Dragon's Edition - Landscape Patch, TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - Miscellaneous Patch.
+Updated TPF Dragon's Edition - Landscape Patch, TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - Miscellaneous Patch, TPF Dragon's Edition - Appearance Patch, TPF Dragon's Edition - NPC Overhauls Patch.
+
+Added TPF Dragon's Edition - Appearance and NPC Overhauls Patch.
 
 Updated TPF Dragon's Edition - Nemesis Output, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
 
