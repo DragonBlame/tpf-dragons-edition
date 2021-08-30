@@ -2,6 +2,84 @@
 
 # Changelog
 
+## Version 1.5.
+
+> xx.08.2021.
+
+### Interface
+
+Removed the description from Alternate Conversation Camera about incompatibility with Free Look as the mod was removed from TPF.
+
+### New Content
+
+Added instructions for Opulent Thieves Guild to load an update for it and then merge both files (was there for Wabbajack users).
+
+Added _Opulent Thieves Guild - FPS Fix_.
+
+Changed intructions for Rayek's End to download different version of the mod.
+
+Added _EasierRider's Dungeon Pack_.
+
+### Landscape
+
+Changed the file, which is needed to be installed for Little Touches - A Tree Placement for Whiterun City, removed FOMOD instructions as those aren't needed anymore.
+
+### Miscelanneous
+
+Added _ENB Lava Particle Light Patch_.
+
+### Animations
+
+Added _Vampire Lord - Animation Replacer_.
+
+Added _Skyrim's Paraglider_ and _Paraglider Auto - Equip Tarhiel's Gale_.
+
+### NPC Overhauls
+
+Added _High Poly Expressive NPCs_, _High Poly Expressive NPCs - AI Overhaul Patch_, _High Poly Expressive NPCs - WACCF Patch_.
+
+Added instructions for Shield Sisters Re-Imagined and Nortbourne NPCs of Whiterun Hold to remove _00013478_ facgen files.
+
+### Other Changes
+
+Separated the _Configurations_ section of the documentation into _Preparations_ and _Configurations_ (mainly for Wabbajack users, undocumented 1.4. change).
+
+Changed FOMOD instructions for Fixed Mesh Lightning.
+
+Updated TPF Dragon's Edition - Landscape Patch, TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - Miscellaneous Patch, TPF Dragon's Edition - Appearance Patch, TPF Dragon's Edition - NPC Overhauls Patch.
+
+Added TPF Dragon's Edition - Appearance and NPC Overhauls Patch.
+
+Updated TPF Dragon's Edition - Nemesis Output, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
+
+### ENB
+
+Changed instructions to move Silent Horizons ENB Addon - Solar Cleaner at the start of the add-on’s Landscape section in your mod order.
+
+### Wabbajack
+
+Added information and actually capped the game at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics. Also have made it borderless (it has been already done before, but wasn't documented).
+
+Added information about the mods, which were disabled in both of my add-on's profiles (it has been already done before, but wasn't documented). Actually disabled some of the mods, which weren't disabled, in the performance profile of the add-on.
+
+Removed from the description about disabled TPF's mods information about Free Look as it was removed from TPF.
+
+Added _Cured Serana Patch_, which I forgot to do before. Added reminder about the patch in the _Configurations_ section of the documentation mainly for Wabbajack users. 
+
+Added instructions to remove Silent Horizons ENB Addon - Solar Cleaner if you aren't using Silent Horizons ENB. Moved it to our _Landscape_ separator, not to be inside TPF's separators. 
+
+### Updated Add-on's Mods
+
+Undeath - Classical Lichdom
+
+Gladys the Corgi - A Custom Dog Follower Mod
+
+Diziet's Auto Outfits
+
+Pilgrim - A Religion Overhaul
+
+---
+
 ## Version 1.4.
 
 > 24.08.2021.
@@ -10,7 +88,7 @@
 
 Added _Hammet's Dungeon Packs_ and _Hammet's Dungeons - Misc Patches_.
 
-### Landscapes
+### Landscape
 
 Added _Little Touches - A tree Placement for Whiterun City_.
 

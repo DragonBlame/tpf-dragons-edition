@@ -141,9 +141,6 @@ reading book.*
 
 ### [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
 
-**The mod is incompatible with Free Look - Free Look's functionality
-will not work with this mod installed.**
-
 **Main files** - Alternate Conversation Camera
 
 **INI** - In line 51, change _bLetterBox_ to `0`, in line 68, change _bHideDialogueMenu_ to `1`.
@@ -262,6 +259,16 @@ just a bunch of ordinary thieves united.*
 ### [Opulent Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/931?tab=files)
 
 **Main files** - Opulent Thieves Guild
+
+**Update files** - Update ESL Patch - Created by Erstam
+
+**Merge** - Merge both files.
+
+### [Opulent Thieves Guild - FPS Fix](https://www.nexusmods.com/skyrimspecialedition/mods/41309?tab=files)
+
+**Main files** - Opulent Thieves Guild - FPS Fix
+
+**FOMOD** - `SMIM Barrels`.
 
 ### [Adoption Without Murder](https://www.nexusmods.com/skyrimspecialedition/mods/46741?tab=files)
 
@@ -778,7 +785,7 @@ warriors.*
 
 ### [Rayek's End](https://www.nexusmods.com/skyrimspecialedition/mods/8285?tab=files)
 
-**Optional files** - Rayek's End - SSE Expanded Edition 1.7 (Medium)
+**Main files** - Rayek's End - SSE Expanded Edition 1.7 - Original (Dark)
 
 **Optional files** - Barenziah's Glory SE - Patch (Removes floating
 gems)
@@ -886,6 +893,10 @@ changes are saved.
 **Main files** - Vuldur - Skybox Patch
 **Main files** - Vuldur - ToK Patch
 
+### [EasierRider's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/2218?tab=files)
+
+**Main files** - EasierRider's Dunegon Pack SSE v1.5
+
 ---
 
 ## Landscape
@@ -953,9 +964,7 @@ Mountain Flowers
 
 ### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
 
-**Main files** - Little Touches_A Tree Placement for Whiterun City
-
-**FOMOD** - `Inside, Outside`.
+**Main files** - AIO-LT- A Tree Placement for Whiterun City
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
 
@@ -1242,7 +1251,7 @@ grow only things I consider to be immersive to be grown.*
 
 **Delete** - Remove `dD-Larger Splatter Size.esp` and `dD-Reduced Splatter Size.esp`.
 
-*This fix is going to help us resolve weird blood sqare effect.*
+*This fix is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
 ### [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
 
@@ -1260,6 +1269,10 @@ grow only things I consider to be immersive to be grown.*
 
 *Where is a petition that everything needs to be patched for ENB to look
 magnificent? I would have signed it.*
+
+### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
+
+**Main files** - ENB Lava Particle Light Patch
 
 ### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
@@ -1822,6 +1835,12 @@ Compatibility
 universe, but it still doesn’t make sense for soul’s physical form to
 appear out of thin air, so here we go.*
 
+### [Vampire Lord - Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/54441)
+
+**Main files** - VLSE
+
+*You can even see wings actually moving, while we are flying. A must have mod.*
+
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
 **Main files** - Conditional Expressions
@@ -1939,9 +1958,23 @@ Sprint, Origin Dw Sprint_Type A`.
 
 ### [1st Person Parry Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20374)
 
+**Main files** - 1stPerson Parry Animation
+
 **FOMOD** - `01, 02, 03`.
 
-**Main files** - 1stPerson Parry Animation
+### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
+
+**Main files** - SkyrimsParaglider
+
+**FOMOD** - `Contrails Off, Dragon Paraglider`.
+
+*Traverse through Skyrim in even more ways than you have thought is possible.*
+
+### [Paraglider Auto - Equip Tarhiel's Gale](https://www.nexusmods.com/skyrimspecialedition/mods/53436)
+
+**Main files** - Paraglider Auto-Equip Tarhiel's Gale
+
+*Paraglider comes with a spell book that allows us to get higher in the air. This mod makes the spell automatically eqipped, when we glide.*
 
 ---
 
@@ -1989,6 +2022,14 @@ where this incorrect NPC is.
     <img width="45%" src="https://user-images.githubusercontent.com/37147270/130334940-83643fa2-edec-442c-a98a-5a7a6ee0d34a.png" />
 </p>
 
+### [High Poly Expressive NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/41107)
+
+**Main files** - High Poly Expressive NPCs - Nordic Faces
+
+**Miscellaneous files** - WACCF Patch
+
+*Very good base to start our NPC overhauling.*
+
 ### [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
 
 **Main files** - Shield Sisters Re-Imagined UNP
@@ -1996,6 +2037,11 @@ where this incorrect NPC is.
 **Update files** - Iona Jordis Illia Hotfix
 
 **Merge** - merge both files.
+
+**Hide facegen files** - Double click on the mod in your mod order,
+switch to *Conflicts* tab, at the right side of *Winning file conflicts*
+there will be a filter, copy `00013478` into it, hide two appeared
+files.
 
 *One of the newest additions to NPC overhauls of Skyrim, which spices
 things up. Has Bijin series’ mods vibes, but feels more unique.*
@@ -2043,10 +2089,7 @@ Snow-Shod, USSEP`.
 
 **Main files** - Northbourne NPCs of The Rift - Full Version
 
-**Hide facegen files** - Double click on the mod in your mod order,
-switch to *Conflicts* tab, at the right side of *Winning file conflicts*
-there will be a filter, copy `000371d7` into it, hide two appeared
-files. Do the same process with `0001541b`.
+**Hide facegen files** - Hide `000371d7` and `0001541b` files.
 
 *Another newest NPC overhaul series, which I like the most right now,
 because it has high poly faces and almost each of those looks diverse.*
@@ -2085,7 +2128,7 @@ which slightly outshine blocky vanilla faces.*
 **Main files** - Northbourne NPCs of Whiterun Hold - Full Version
 
 **Hide facegen files** - Hide `0001a694, 0001a692, 0001a6d7, 0001a6d5,
-000a2c8e` files.  
+000a2c8e, 00013478` files.  
 
 ### [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
 
@@ -2139,6 +2182,14 @@ mod *AI Overhaul* (which is dope by the way). I don’t know why, but
 someone in Bethesda has thought that it would be a good idea that AI
 data and character’s appearance data should be included in one record.
 Thank Todd for that.
+
+### [High Poly Expressive NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+
+**Miscellaneous files** - High Poly Expressive NPCs - AI Overhaul Patch
+
+### [High Poly Expressive NPCs - WACCF Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+
+**Miscellaneous files** - High Poly Expressive NPCs - WACCF Patch
 
 ### [Shield Sisters Re-Imagined - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44263)
 
@@ -2323,6 +2374,8 @@ me to check things inside.
 
 **Main files** - TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch
 
+**Main files** - TPF Dragon's Edition - Appearance and NPC Overhauls Patch
+
 **Main files** - TPF Dragon’s Edition Patch
 
 ---
@@ -2397,9 +2450,8 @@ The same process must be done with:
 -   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPFs
     patches [(look
     here)](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2)
-    and `Bruma for flora, More Growable Plants, Unique Flowers and
-    Plants, 3D Mountain Flowers, Bruma for trees, Realistic Aspen Trees,
-    Bruma for ice`;
+    and `More Growable Plants, flora for Beyond Skyrim - Bruma, Unique Flowers and
+    Plants, 3D Mountain Flowers, flora for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
     PREPARATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
@@ -2559,13 +2611,17 @@ whistling to him. This ability is introduced during his quests and will
 be explained in-game. You will need to press , button to use the
 whistle in the game.
 
-Now I recommend you to go to [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/CHANGELOG.md)
-to see if you didn’t miss any important updates. Just to be sure also check the older changelog [here](https://docs.google.com/spreadsheets/d/1tyDaXgHrmInELa1Fr180LcvmggFAEtEw0xJIjuneVK4/edit?usp=sharing).
+**Skyrim's Paraglider activation** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
+
+**Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+
+Now for the manual guide users I recommend you to go to [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/CHANGELOG.md) to see if you didn’t miss any 
+important updates.
 
 And some hints (and possibly **spoilers**) before the end.
 
 At first, be sure to do at least half of the main quest series as some
-added quests are tied to it (more information in Gameplay Guide).
+added quests are tied to it (more information in _Gameplay Guide_).
 
 Secondly, look inside Helgen’s Keep’s entries thoroughly as there will
 be one little reward for attentive ones.
@@ -2573,6 +2629,8 @@ be one little reward for attentive ones.
 Thirdly, for people, who would want to adopt children and live with them
 not in vanilla homes, there will be a neat spell book waiting for you
 somewhere around Riverwood.
+
+And another one - be sure to travel around Falkreath. Something interesting might happen.
 
 ---
 
@@ -2639,8 +2697,8 @@ change ENB files and add a good addition for it.
 
 At first, delete `enbcache` folder you can find in your root folder.
 
-Put *Silent Horizons ENB Addon - Solar Cleaner* right at the end of
-TPF’s Weathers section mods in your mod order and put it right under
+Put *Silent Horizons ENB Addon - Solar Cleaner* right at the start of
+the add-on’s _Landscape_ section in your mod order and put it right under
 *WoW Dragon Mounds CTD Fix.esp* in your plugins’ load order. Then
 Extract the main file. Open the optional folder, then depth of field
 configuration folder. Choose your favourite depth of field settings with
