@@ -2187,9 +2187,17 @@ someone in Bethesda has thought that it would be a good idea that AI
 data and character’s appearance data should be included in one record.
 Thank Todd for that.
 
-### [High Poly Expressive NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [Updated High Poly Expressive NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54830)
 
-**Miscellaneous files** - High Poly Expressive NPCs - AI Overhaul Patch
+**Main files** - AI Overhaul - High Poly Expressive NPCs Patch
+
+### High Poly Expressive NPCs - WACCF Patch
+
+**Move** - move the patch, which we have downloaded before, here (that
+is below *AI Overhaul - High Poly Expressive NPCs Patch* in your MO2
+left side). Moving on the left side doesn’t matter for patches, but I
+just want everything to be in place and organized like it should be -
+patches should be placed after all NPC overhauls).
 
 ### [High Poly Expressive NPCs - WACCF Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
@@ -2212,11 +2220,7 @@ Patch
 
 ### Pandorable's NPCs - Dragonborn - AI Overhaul Patch
 
-**Move** - move the patch, which we have downloaded before, here (that
-is below *Pandorable's NPCs - Males 2 - AI Overhaul Patch* in your MO2
-left side). Moving on the left side doesn’t matter for patches, but I
-just want everything to be in place and organized like it should be -
-patches for AI Overhaul should be placed after all NPC overhauls).
+**Move** - move the patch here.
 
 ### Pandorable's NPCs - Males - AI Overhaul Patch
 
