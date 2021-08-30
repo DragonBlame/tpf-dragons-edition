@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/rBiUoHz.png)
-# <p align="center">Documentation for v. 1.4.</p>
-### <p align="center">For 4.7.3. v. of TPF</p>
+# <p align="center">Documentation for v. 1.5.</p>
+### <p align="center">For 4.7.4. v. of TPF</p>
 
 ---
 
