@@ -2028,6 +2028,10 @@ where this incorrect NPC is.
 
 **Miscellaneous files** - WACCF Patch
 
+**Hide facegen files** - Double click on the mod in your mod order,
+switch to *Conflicts* tab, at the right side of *Winning file conflicts*
+there will be a filter, write `Simple Children` into it, hide all appeared files.
+
 *Very good base to start our NPC overhauling.*
 
 ### [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
