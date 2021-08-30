@@ -2,6 +2,16 @@
 
 # Changelog
 
+## Version 1.x.x.
+
+> xx.xx.2021.
+
+### Other Changes
+
+Updated TPF Dragon's Edition - NPC Overhauls Patch.
+
+---
+
 ## Version 1.5.
 
 > 30.08.2021.
