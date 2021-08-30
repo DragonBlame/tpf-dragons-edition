@@ -2199,10 +2199,6 @@ left side). Moving on the left side doesn’t matter for patches, but I
 just want everything to be in place and organized like it should be -
 patches should be placed after all NPC overhauls).
 
-### [High Poly Expressive NPCs - WACCF Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
-
-**Miscellaneous files** - High Poly Expressive NPCs - WACCF Patch
-
 ### [Shield Sisters Re-Imagined - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44263)
 
 **Main files** - Shield Sisters Re-Imagined - AI Overhaul Patch
