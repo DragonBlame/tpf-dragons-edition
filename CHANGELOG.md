@@ -8,7 +8,7 @@
 
 ### NPC Overhauls
 
-Removed AI Overhaul patch from the High Poly Expressive mod's page. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_.
+Removed AI Overhaul patch from the High Poly Expressive mod's page. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_. Removed my WACCF patch. Added a WACCF patch from the High Poly Expressive mod's page.
 
 ### Other Changes
 
