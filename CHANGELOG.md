@@ -8,11 +8,11 @@
 
 ### NPC Overhauls
 
-Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my page. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_. Added a WACCF patch from the High Poly Expressive mod's page.
+Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my page. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_. Added a WACCF patch from the High Poly Expressive mod's page. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
 
 ### Other Changes
 
-Updated TPF Dragon's Edition - NPC Overhauls Patch.
+Updated TPF Dragon's Edition - NPC Overhauls Patch. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
 
 ---
 
