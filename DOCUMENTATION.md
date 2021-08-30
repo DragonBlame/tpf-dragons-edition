@@ -2183,6 +2183,14 @@ someone in Bethesda has thought that it would be a good idea that AI
 data and character’s appearance data should be included in one record.
 Thank Todd for that.
 
+### [High Poly Expressive NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+
+**Miscellaneous files** - High Poly Expressive NPCs - AI Overhaul Patch
+
+### [High Poly Expressive NPCs - WACCF Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+
+**Miscellaneous files** - High Poly Expressive NPCs - WACCF Patch
+
 ### [Shield Sisters Re-Imagined - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44263)
 
 **Main files** - Shield Sisters Re-Imagined - AI Overhaul Patch
