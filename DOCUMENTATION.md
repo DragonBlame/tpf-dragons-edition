@@ -2374,6 +2374,8 @@ me to check things inside.
 
 **Main files** - TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch
 
+**Main files** - TPF Dragon's Edition - Appearance and NPC Overhauls Patch
+
 **Main files** - TPF Dragon’s Edition Patch
 
 ---
