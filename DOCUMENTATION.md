@@ -2022,6 +2022,14 @@ where this incorrect NPC is.
     <img width="45%" src="https://user-images.githubusercontent.com/37147270/130334940-83643fa2-edec-442c-a98a-5a7a6ee0d34a.png" />
 </p>
 
+### [High Poly Expressive NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/41107)
+
+**Main files** - High Poly Expressive NPCs - Nordic Faces
+
+**Miscellaneous files** - WACCF Patch
+
+*Very good base to start our NPC overhauling.*
+
 ### [Shield Sisters Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/44243)
 
 **Main files** - Shield Sisters Re-Imagined UNP
@@ -2029,6 +2037,11 @@ where this incorrect NPC is.
 **Update files** - Iona Jordis Illia Hotfix
 
 **Merge** - merge both files.
+
+**Hide facegen files** - Double click on the mod in your mod order,
+switch to *Conflicts* tab, at the right side of *Winning file conflicts*
+there will be a filter, copy `00013478` into it, hide two appeared
+files.
 
 *One of the newest additions to NPC overhauls of Skyrim, which spices
 things up. Has Bijin series’ mods vibes, but feels more unique.*
@@ -2076,10 +2089,7 @@ Snow-Shod, USSEP`.
 
 **Main files** - Northbourne NPCs of The Rift - Full Version
 
-**Hide facegen files** - Double click on the mod in your mod order,
-switch to *Conflicts* tab, at the right side of *Winning file conflicts*
-there will be a filter, copy `000371d7` into it, hide two appeared
-files. Do the same process with `0001541b`.
+**Hide facegen files** - Hide `000371d7` and `0001541b` files.
 
 *Another newest NPC overhaul series, which I like the most right now,
 because it has high poly faces and almost each of those looks diverse.*
@@ -2118,7 +2128,7 @@ which slightly outshine blocky vanilla faces.*
 **Main files** - Northbourne NPCs of Whiterun Hold - Full Version
 
 **Hide facegen files** - Hide `0001a694, 0001a692, 0001a6d7, 0001a6d5,
-000a2c8e` files.  
+000a2c8e, 00013478` files.  
 
 ### [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
 
