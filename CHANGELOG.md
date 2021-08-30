@@ -38,7 +38,7 @@ Added _Skyrim's Paraglider_ and _Paraglider Auto - Equip Tarhiel's Gale_.
 
 Added _High Poly Expressive NPCs_, _High Poly Expressive NPCs - AI Overhaul Patch_, _High Poly Expressive NPCs - WACCF Patch_.
 
-Added instructions for Shield Sisters Re-Imagined and Nortbourne NPCs of Whiterun Hold to remove 00013478 facgen files.
+Added instructions for Shield Sisters Re-Imagined and Nortbourne NPCs of Whiterun Hold to remove _00013478_ facgen files.
 
 ### Other Changes
 
