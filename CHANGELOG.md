@@ -6,6 +6,10 @@
 
 > xx.xx.2021.
 
+### NPC Overhauls
+
+Removed AI Overhaul patch from the High Poly Expressive mod's page. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_.
+
 ### Other Changes
 
 Updated TPF Dragon's Edition - NPC Overhauls Patch.
