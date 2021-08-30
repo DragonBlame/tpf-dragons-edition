@@ -10,6 +10,10 @@
 
 Added _Better Wyrmstooth Map With Roads_.
 
+### Landscape
+
+Added _Farmhouse Chimneys_.
+
 ### NPC Overhauls
 
 Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my page. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_. Added a WACCF patch from the High Poly Expressive mod's page. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
@@ -18,7 +22,7 @@ Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my 
 
 Updated TPF Dragon's Edition - NPC Overhauls Patch. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
 
-Updated TPF Dragon's Edition - Terrain LOD.
+Updated TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - Terrain LOD.
 
 ---
 
