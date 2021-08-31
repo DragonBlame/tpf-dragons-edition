@@ -629,7 +629,7 @@ Corrupted Shade) ESL
 
 ### [Better Wyrmstooth Map With Roads](https://www.nexusmods.com/skyrimspecialedition/mods/39501?tab=files)
 
-**Optional** - Only Wyrmstooth Map
+**Optional files** - Only Wyrmstooth Map
 
 ### [Lanterns Of Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/47782?tab=files)
 
@@ -971,6 +971,15 @@ Mountain Flowers
 **Main files** - AIO-LT- A Tree Placement for Whiterun City
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
+
+
+### [Farmhouse Chimneys](https://www.nexusmods.com/skyrimspecialedition/mods/8766)
+
+**Main files** - Farmhouse Chimneys SE v4.0.5
+
+**FOMOD** - `Wyrmstooth, Helgen Reborn`.
+
+*Let's not poison our poor, old NPCs with carbon monoxide.*
 
 ---
 
