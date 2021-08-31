@@ -1682,10 +1682,9 @@ options you like. `My recommendations - B01, C2, D1, E2`.
 
 ### [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
 
-**Main files** - Feminine Khajiit Textures (Grey Cat and Leopard)
-Vanilla
+**Main files** - Feminine Grey Cat and Leopard (Vanilla) 2K
 
-**FOMOD** - `2K, Grey Cat, Abs`.
+**FOMOD** - `Grey Cat, Abs`.
 
 **Rename** - Rename it to `Feminine Khajiit Textures - TPF Dragon’s Edition` to install it as a separate mod.
 
