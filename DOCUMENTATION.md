@@ -1546,6 +1546,8 @@ shouts sound better.*
 
 *Exactly x2. Don’t worry, they are also immersive.*
 
+---
+
 ### [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200)
 
 **Main files** - Musical Lore V1.2
