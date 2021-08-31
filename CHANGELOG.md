@@ -2,9 +2,9 @@
 
 # Changelog
 
-## Version 1.x.x.
+## Version 1.6.
 
-> xx.xx.2021.
+> 31.08.2021.
 
 ### New Content
 
@@ -14,15 +14,23 @@ Added _Better Wyrmstooth Map With Roads_.
 
 Added _Farmhouse Chimneys_.
 
+### Appearance
+
+Updated instructions for Feminine Khajiit Textures as the mod was updated. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
+
 ### NPC Overhauls
 
-Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my page. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_. Added a WACCF patch from the High Poly Expressive mod's page. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
+Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my add-on's page on Nexus. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_. Added a WACCF patch from the High Poly Expressive mod's page. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
 
 ### Other Changes
 
-Updated TPF Dragon's Edition - NPC Overhauls Patch. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
+Updated TPF Dragon's Edition - NPC Overhauls Patch.
 
-Updated TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
+Updated TPF Dragon's Edition - Terrain LOD (if you don't want to download it again, just hide files, which are overwriting Better Wyrmstooth Map with Roads), TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
+
+### Updated Add-on's Mods for Wabbajack Users
+
+Feminine Khajiit Textures
 
 ---
 
@@ -94,7 +102,7 @@ Added _Cured Serana Patch_, which I forgot to do before. Added reminder about th
 
 Added instructions to remove Silent Horizons ENB Addon - Solar Cleaner if you aren't using Silent Horizons ENB. Moved it to our _Landscape_ separator, not to be inside TPF's separators. 
 
-### Updated Add-on's Mods
+### Updated Add-on's Mods for Wabbajack Users
 
 Undeath - Classical Lichdom
 
