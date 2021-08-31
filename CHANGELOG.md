@@ -24,6 +24,8 @@ Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my 
 
 ### Other Changes
 
+Fixed some little typos etc. in the documentations.
+
 Updated TPF Dragon's Edition - NPC Overhauls Patch.
 
 Updated TPF Dragon's Edition - Terrain LOD (if you don't want to download it again, just hide files, which are overwriting Better Wyrmstooth Map with Roads), TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
