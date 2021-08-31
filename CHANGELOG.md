@@ -2,17 +2,13 @@
 
 # Changelog
 
-## Version 1.6.
+## Version 1.5.1.
 
 > 31.08.2021.
 
 ### New Content
 
 Added _Better Wyrmstooth Map With Roads_.
-
-### Landscape
-
-Added _Farmhouse Chimneys_.
 
 ### Appearance
 
@@ -24,11 +20,11 @@ Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my 
 
 ### Other Changes
 
-Fixed some little typos etc. in the documentations.
+Fixed some little typos, added more information etc. in the documentation.
 
 Updated TPF Dragon's Edition - NPC Overhauls Patch.
 
-Updated TPF Dragon's Edition - Terrain LOD (if you don't want to download it again, just hide files, which are overwriting Better Wyrmstooth Map with Roads), TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
+Updated TPF Dragon's Edition - Terrain LOD (if you don't want to download it again, just hide files, which are overwriting Better Wyrmstooth Map with Roads).
 
 ### Updated Add-on's Mods for Wabbajack Users
 
