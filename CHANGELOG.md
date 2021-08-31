@@ -2,6 +2,36 @@
 
 # Changelog
 
+## Version 1.5.1.
+
+> 31.08.2021.
+
+### New Content
+
+Added _Better Wyrmstooth Map With Roads_.
+
+### Appearance
+
+Updated instructions for Feminine Khajiit Textures as the mod was updated. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
+
+### NPC Overhauls
+
+Removed AI Overhaul and WACCF patch patch for High Poly Expressive NPCs from my add-on's page on Nexus. Added _Updated High Poly Expressive NPCs - AI Overhaul Patch_. Added a WACCF patch from the High Poly Expressive mod's page. (Undocumented 1.5. addition, because it shoudn't affect gameplay)
+
+### Other Changes
+
+Fixed some little typos, added more information etc. in the documentation.
+
+Updated TPF Dragon's Edition - NPC Overhauls Patch.
+
+Updated TPF Dragon's Edition - Terrain LOD (if you don't want to download it again, just hide files, which are overwriting Better Wyrmstooth Map with Roads).
+
+### Updated Add-on's Mods for Wabbajack Users
+
+Feminine Khajiit Textures
+
+---
+
 ## Version 1.5.
 
 > 30.08.2021.
@@ -70,7 +100,7 @@ Added _Cured Serana Patch_, which I forgot to do before. Added reminder about th
 
 Added instructions to remove Silent Horizons ENB Addon - Solar Cleaner if you aren't using Silent Horizons ENB. Moved it to our _Landscape_ separator, not to be inside TPF's separators. 
 
-### Updated Add-on's Mods
+### Updated Add-on's Mods for Wabbajack Users
 
 Undeath - Classical Lichdom
 
