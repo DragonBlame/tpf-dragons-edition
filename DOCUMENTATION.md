@@ -1518,7 +1518,7 @@ you will need to install all of the music mods, which are behind the
 line, if you want everything to work correctly. Music is actually the
 same one Phoenix offers in her TPF-X, so all credit goes to those
 wonderful people, who made it, and Phoenix for finding these pearls and
-making a patch for them. And a reminder that other sections mods (excluding the _Interface_ section of the add-on) are all obligatory and can't be skipped.
+making a patch for them. And wanted to reminder you that other sections' mods (excluding the _Interface_ section of the add-on, which we have already gone trough) are all obligatory and can't be skipped.
 
 ### [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
 
