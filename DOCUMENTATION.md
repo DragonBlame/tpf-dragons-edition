@@ -2619,7 +2619,7 @@ compass.
 after *A Blade in the Dark* quest is done (otherwise it feels too soon
 for an organization to give this quest out).
 
-Now we need to activate some of the mods to actually make them work. Some of these will be available not right at the beginning of the game. Close the MCM menu and the system page and do this:
+Now we need to activate some of the mods to actually make them work. Some of these won't be available right at the beginning of the game. Close the MCM menu and the system page and do this:
 
 **Animated Shouts activation** - Press your right *Alt* key.
 
