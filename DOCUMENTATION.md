@@ -2582,10 +2582,9 @@ level 15.
 **Improved Follower Dialogue MCM** - If Lydia is too noisy, feel free to
 change her comment frequency.
 
-**Look what you see ! MCM and activation** - In the *Follow the Camera Mode*
+**Look what you see ! MCM** - In the *Follow the Camera Mode*
 menu choose hybrid head-tracking option and then choose *Disable when
-weapon drawn* in the *Other Options*. After configuring all other mods
-in MCM, press *V* key in the game to activate the mod.
+weapon drawn* in the *Other Options*.
 
 **Smart NPC Potions MCM** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
@@ -2620,9 +2619,11 @@ compass.
 after *A Blade in the Dark* quest is done (otherwise it feels too soon
 for an organization to give this quest out).
 
-**Animated Shouts activation** - After configuring all other mods
-in MCM, press your right *Alt* key in the game to activate the
-mod.
+Now we need to activate some of the mods to actually make them work. Some of these will be available not right at the beginning of the game. Close the MCM menu and the system page and do this:
+
+**Animated Shouts activation** - Press your right *Alt* key.
+
+**Look What You see activation** - Press your *V* key.
 
 **Inigo Whistle Key’s activation** - You can issue commands to Inigo by
 whistling to him. This ability is introduced during his quests and will
