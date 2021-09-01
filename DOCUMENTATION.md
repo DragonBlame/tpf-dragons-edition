@@ -2472,7 +2472,7 @@ The same process must be done with:
     Plants, 3D Mountain Flowers, flora for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
-    PREPARATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
+    PREPARATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
 
 -   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
 
