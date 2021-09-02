@@ -2,6 +2,33 @@
 
 # Documentation
 
+## Table of Contents
+
+[Getting Started](#getting-started)  
+[Interface (optional)](#interface-optional)  
+[New Content](#new-content)  
+[Landscape](#landscape)  
+[Apparel & Weapons](#apparel--weapons)  
+[Gameplay Overhauls](#gameplay-overhauls)  
+[Miscellaneous](#miscellaneous)  
+[Music & Sound FX (optional)](#music--sound-fx-optional)  
+[Appearance](#appearance)  
+[Animations](#animations)  
+[NPC Overhauls](#npc-overhauls)  
+[Salt & Wind Hair Retextures](#salt--wind-hair-retextures)  
+[Literally Unplayable](#literally-unplayable)  
+[Final Patches](#final-patches)  
+[Alternate Start](#alternate-start)  
+[Patcher Output](#patcher-output)  
+[Preparations](#preparations)  
+[Configurations](#configurations)  
+[Thank You](#thank-you)  
+[ENB](#enb)  
+[Gameplay Guide](#gameplay-guide)  
+[BUGS (not used right now)](#bugs-not-used-right-now)  
+
+---
+
 ## Getting Started
 
 Select _Profiles_ option from the Mod Organizer 2 (MO2) menu, select
