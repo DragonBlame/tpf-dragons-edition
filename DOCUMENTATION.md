@@ -2659,6 +2659,13 @@ whistle in the game.
 
 **Skyrim's Paraglider activation** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
 
+And some reminders about things:
+
+**Reminder about Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through Hide Your Quests MCM, when you decide to do it.
+
+**Reminder about AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
+offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
+
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
 Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
@@ -2697,7 +2704,7 @@ personally or just to learn about my preference in ENBs, continue with the *ENB*
 If you want to learn a little bit more about the content we have added,
 read the [*Gameplay Guide*](#gameplay-guide) section of the add-on.
 
-If you have experienced a bug during your walkthrough, jump into TPF's Discord server and tell me about it in #tpf-addons-support.
+If you have experienced a bug during your walkthrough, jump into TPF's Discord server and tell me about it in _#tpf-addons-support_.
 
 ---
 
