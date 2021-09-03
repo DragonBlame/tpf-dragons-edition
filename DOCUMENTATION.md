@@ -149,7 +149,7 @@ doors after unlocking them to open them.*
 
 ### [Minimalist Quick Loot](https://www.nexusmods.com/skyrimspecialedition/mods/45581)
 
-**Not needed without Quick Loot RE. Optional with it.**
+**Not needed without Quick Loot RE. Recommended with it.**
 
 **Main files** - Minimalist Quick Loot
 
