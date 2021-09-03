@@ -153,7 +153,7 @@ doors after unlocking them to open them.*
 
 **Main files** - Minimalist Quick Loot
 
-**FOMOD** - Whatever options you like.
+**FOMOD** - Whichever options you like. I recommend 
 
 *Useful to make Quick Loot's interface smaller and less bulky by making
 it transparent.*
@@ -185,7 +185,7 @@ much more lively.*
 
 **Main files** - Detailed Mine Markers v1.4
 
-**FOMOD** - Whatever options you like, except one you need to use - `Install USSEP Compatibility`. I recommend lore friendly markers with an aditions of new markers for mines.
+**FOMOD** - Whichever options you like, except the one you need to use - `Install USSEP Compatibility`. I recommend lore friendly markers with an aditions of new markers for mines.
 
 *Finally I won't need to ask Google about where can I get specific kind of ore. It is enough to use the search functionality in our map.*
 
@@ -1540,7 +1540,7 @@ All of the following mods in this category will be placed under this
 separator in the same order.
 
 This category's mods are optional - you can just skip the category. You
-can use whatever mods you like, which are before a horizontal line, but
+can use whichever mods you like, which are before a horizontal line, but
 you will need to install all of the music mods, which are behind the
 line, if you want everything to work correctly. Music is actually the
 same one Phoenix offers in her TPF-X, so all credit goes to those
@@ -1684,7 +1684,7 @@ that big orc. Really lore-immersive mod.*
 
 **Main files** - Tempered Skins for Males - Dressed Version
 
-**FOMOD** - `A2 and F none`, for other things you can choose whatever
+**FOMOD** - `A2 and F none`, for other things you can choose whichever
 options you like. `My recommendations - B3 (people are living in Skyrim,
 not Elsweyr), C3, D2, E1 (with this combination they don’t look too old
 and at the same time not as teenagers)`.
@@ -1719,7 +1719,7 @@ the same author, which textures we use for Khajiits.*
 
 **Main files** - Tempered Skins for Females UNP and Vanilla
 
-**FOMOD** - `A7 and F none`, for other things you can choose whatever
+**FOMOD** - `A7 and F none`, for other things you can choose whichever
 options you like. `My recommendations - B01, C2, D1, E2`.
 
 ### [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
@@ -2391,7 +2391,7 @@ All of the following mods in this category will be placed under this
 separator in the same order.
 
 I have decided to make patches modular, so it is faster and easier for
-me to check things inside. As mentioned before, that doesn't mean you can suddenly grab whatever you want from here and just use that.
+me to check things inside. As mentioned before, that doesn't mean you can suddenly grab whichever you want from here and just use that.
 
 ### [TPF Dragon’s Edition - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
