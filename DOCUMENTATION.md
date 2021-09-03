@@ -2499,7 +2499,7 @@ The same process must be done with:
     Plants, 3D Mountain Flowers, flora for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
-    PREPARATIONS section)** by using [this](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#cathedral---3d-mountain-flowers) and do what is asked;
+    PREPARATIONS section)** by using [this](###3d-mountain-flowers) and do what is asked;
 
 -   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
 
@@ -2692,7 +2692,7 @@ If you want to help even more, you can donate to me (via PayPal) by
 pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
 If you want to learn a little bit more about the content we have added,
-read the [*Gameplay Guide*](https://github.com/DragonBlame/tpf-dragons-edition/blob/dev/DOCUMENTATION.md#gameplay-guide) section of the add-on.
+read the [*Gameplay Guide*](##gameplay-guide) section of the add-on.
 
 If you are interested in changing TPF’s default ENB to what I use
 personally or just to learn about my preference in ENBs, continue with the *ENB* section.
