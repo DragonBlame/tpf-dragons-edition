@@ -4,8 +4,8 @@
 
 ---
 
-##### The documentation of the add-on can be found [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md).
+##### The documentation of the add-on can be found [here](DOCUMENTATION.md).
 
-##### The change-log of the add-on can be found [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/CHANGELOG.md).
+##### The change-log of the add-on can be found [here](CHANGELOG.md).
 
-##### Instructions for Wabbajack users can be found [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/WABBAJACK.md).
+##### Instructions for Wabbajack users can be found [here](WABBAJACK.md).
