@@ -25,7 +25,7 @@
 [Thank You](#thank-you)  
 [ENB](#enb)  
 [Gameplay Guide](#gameplay-guide)  
-[BUGS (not used right now)](#bugs-not-used-right-now)  
+[Bugs (not used right now)](#bugs-not-used-right-now)  
 
 ---
 
@@ -2885,7 +2885,7 @@ while exploring.
 
 ---
 
-## BUGS (not used right now)
+## Bugs (not used right now)
 
 I am sorry if you need to use this paragraph.
 
