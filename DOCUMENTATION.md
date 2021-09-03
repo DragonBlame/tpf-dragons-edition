@@ -2691,11 +2691,11 @@ page on Nexus and write something positive for me to read (I am happy to hear fr
 If you want to help even more, you can donate to me (via PayPal) by
 pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
-If you want to learn a little bit more about the content we have added,
-read the [*Gameplay Guide*](#gameplay-guide) section of the add-on.
-
 If you are interested in changing TPF’s default ENB to what I use
 personally or just to learn about my preference in ENBs, continue with the *ENB* section.
+
+If you want to learn a little bit more about the content we have added,
+read the [*Gameplay Guide*](#gameplay-guide) section of the add-on.
 
 If you have experienced a bug during your walkthrough, jump into TPF's Discord server and tell me about it in #tpf-addons-support.
 
