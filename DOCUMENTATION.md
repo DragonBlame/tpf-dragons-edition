@@ -4,7 +4,8 @@
 
 ## Table of Contents
 
-[Getting Started](#getting-started)  
+[Getting Started](#getting-started)
+
 [Interface (optional)](#interface-optional)  
 [New Content](#new-content)  
 [Landscape](#landscape)  
@@ -19,7 +20,8 @@
 [Literally Unplayable](#literally-unplayable)  
 [Final Patches](#final-patches)  
 [Alternate Start](#alternate-start)  
-[Patcher Output](#patcher-output)  
+[Patcher Output](#patcher-output)
+
 [Preparations](#preparations)  
 [Configurations](#configurations)  
 [Thank You](#thank-you)  
