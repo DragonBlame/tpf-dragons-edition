@@ -2499,7 +2499,7 @@ The same process must be done with:
     Plants, 3D Mountain Flowers, flora for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
-    PREPARATIONS section)** by using [this](###3d-mountain-flowers) and do what is asked;
+    PREPARATIONS section)** by using [this](#cathedral---3d-mountain-flowers) and do what is asked;
 
 -   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
 
@@ -2661,7 +2661,7 @@ whistle in the game.
 
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
-Now for the manual guide users I recommend you to go to [here](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/CHANGELOG.md) to see if you didn’t miss any 
+Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
 important updates.
 
 And some hints (and possibly **spoilers**) before the end.
@@ -2692,7 +2692,7 @@ If you want to help even more, you can donate to me (via PayPal) by
 pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
 If you want to learn a little bit more about the content we have added,
-read the [*Gameplay Guide*](##gameplay-guide) section of the add-on.
+read the [*Gameplay Guide*](#gameplay-guide) section of the add-on.
 
 If you are interested in changing TPF’s default ENB to what I use
 personally or just to learn about my preference in ENBs, continue with the *ENB* section.
