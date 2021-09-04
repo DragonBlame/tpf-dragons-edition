@@ -1067,6 +1067,7 @@ any other armor, pants have the same stats as their counterparts.*
 <p align="center">
     <img width="75%" src="https://user-images.githubusercontent.com/37147270/132089849-f158e201-3eae-4a2e-b9cd-259832fb15a8.png" /> 
 </p>
+
 _(ft. mods new Content, appearance and animation mods)_
 
 ### [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
