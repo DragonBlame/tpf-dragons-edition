@@ -38,6 +38,10 @@ Updated the documentation (typos, grammar etc.).
 
 Changed some older pictures to feature the newest additions in the documentation. Changed sizes of some pictures.
 
+Updated TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch.
+
+Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
+
 ### Updated Add-on's Mods for Wabbajack Users
 
 Hammet's Dungeons - Misc Patches
