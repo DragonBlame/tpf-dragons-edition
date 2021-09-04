@@ -14,6 +14,8 @@ Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undea
 
 Removed the mention about Moonpath to Elsweyr Navmesh Fix.
 
+Added _Song of the Green (Auri Follower)_ and _Auri Re-Imagined_.
+
 ### Appearance
 
 Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures and Feminine Khajiit Textures to use 4K versions.
