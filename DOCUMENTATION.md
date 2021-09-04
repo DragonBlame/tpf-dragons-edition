@@ -24,7 +24,8 @@
 
 [Preparations](#preparations)  
 [Configurations](#configurations)  
-[Thank You](#thank-you)  
+[Thank You](#thank-you)
+
 [ENB](#enb)  
 [Gameplay Guide](#gameplay-guide)  
 [Bugs (not used right now)](#bugs-not-used-right-now)  
