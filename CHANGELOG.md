@@ -8,6 +8,8 @@
 
 ### New Content
 
+Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixes For Grass Mods - Helgen Reborn Patch_.
+
 Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
 
 ### Appearance
