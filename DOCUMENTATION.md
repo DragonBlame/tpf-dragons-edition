@@ -1309,8 +1309,10 @@ Configuration Menu) available, so you can make them appear only for some
 specific spell group etc. You need it! Just look at my
 character.*
 
-![image](https://user-images.githubusercontent.com/37147270/130328931-2f92e74c-1a43-4696-8404-0f2cf1a8c222.png)
 ![image](https://user-images.githubusercontent.com/37147270/132093585-9427e5c8-9e41-46d8-af97-2aac9627547a.png)
+_(ft. 1.6. v. of TPF - Dragon's Edition appearance, apparel & weapons mods)_
+![image](https://user-images.githubusercontent.com/37147270/130328931-2f92e74c-1a43-4696-8404-0f2cf1a8c222.png)
+_(ft. TPF - Dragon's Edition in its development days)_
 
 ### [Dragonborn Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287)
 
