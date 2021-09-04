@@ -14,6 +14,16 @@ Updated download instructions for Feminine Khajiit Textures and Feminine Argonia
 
 Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
+### Other Changes
+
+Rewrote the Nexus page of the add-on from scratch.
+
+Added Table of Contents section to the documentation.
+
+Updated the documentation (typos, grammar etc.).
+
+Changed some older pictures to feature the newest additions in the documentation.
+
 ### Updated Add-on's Mods for Wabbajack Users
 
 Hammet's Dungeons - Misc Patches
