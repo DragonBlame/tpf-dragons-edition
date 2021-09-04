@@ -24,6 +24,8 @@ Updated the documentation (typos, grammar etc.).
 
 Changed some older pictures to feature the newest additions in the documentation. Changed sizes of some pictures.
 
+Updates reintstalling instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures.
+
 ### Updated Add-on's Mods for Wabbajack Users
 
 Hammet's Dungeons - Misc Patches
