@@ -1805,8 +1805,7 @@ bow being together with a quiver and clipping through each other and
 much more likely than us carrying our shield in our hand for all day.
 
 <p align="center">
-   <img width="52.5%" src="https://user-images.githubusercontent.com/37147270/130330553-da6655dd-391c-4add-abb7-910df3477896.png" /> 
-   <img width="45%" src="https://user-images.githubusercontent.com/37147270/130330545-ca979529-70c6-46d3-b9b6-2832bc90b5e3.png" />
+   <img width="50%" src="https://user-images.githubusercontent.com/37147270/132091012-c9491ef7-ddd7-4019-92c6-15116c4e1cb6.png" /> 
 </p>
 
 Overall through animations we will add more life and uniqueness into our
