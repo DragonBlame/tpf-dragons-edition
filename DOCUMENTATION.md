@@ -790,6 +790,14 @@ directory*, click *OK*.
 
 **Main files** - Older Shirley - Default Hair
 
+### [Song of the Green](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files)
+
+**Main files** - Song of the Green 1.3
+
+### [Auri Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/37996?tab=files)
+
+**Main files** - Auri Re-Imagined SE UNP
+
 ### [The Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733?tab=files)
 
 **Main files** - The Falkreath Hauntings
