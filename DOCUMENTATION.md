@@ -1065,7 +1065,7 @@ armors) in Skyrim. Just use any forge for that. Tempered the same way as
 any other armor, pants have the same stats as their counterparts.*
 
 <p align="center">
-    <img width="80%" src="https://user-images.githubusercontent.com/37147270/132089849-f158e201-3eae-4a2e-b9cd-259832fb15a8.png" /> 
+    <img width="75%" src="https://user-images.githubusercontent.com/37147270/132089849-f158e201-3eae-4a2e-b9cd-259832fb15a8.png" /> 
 </p>
 *(ft. mods in New Content, Appearance and Animations section)*
 
