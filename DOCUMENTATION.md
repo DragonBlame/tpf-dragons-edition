@@ -1068,7 +1068,7 @@ any other armor, pants have the same stats as their counterparts.*
     <img width="75%" src="https://user-images.githubusercontent.com/37147270/132089849-f158e201-3eae-4a2e-b9cd-259832fb15a8.png" /> 
 </p>
 
-_(ft. mods new Content, appearance and animation mods)_
+_(ft. 1.6. v. of TPF - Dragon's Edition's new content, appearance and animation mods)_
 
 ### [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
 
@@ -1323,7 +1323,7 @@ specific spell group etc. You need it! Just look at my
 character.*
 
 ![image](https://user-images.githubusercontent.com/37147270/132093585-9427e5c8-9e41-46d8-af97-2aac9627547a.png)
-_(ft. 1.6. v. of TPF - Dragon's Edition appearance, apparel & weapons mods)_
+_(ft. 1.6. v. of TPF - Dragon's Edition's appearance, apparel & weapons mods)_
 ![image](https://user-images.githubusercontent.com/37147270/130328931-2f92e74c-1a43-4696-8404-0f2cf1a8c222.png)
 _(ft. TPF - Dragon's Edition in its development days)_
 
