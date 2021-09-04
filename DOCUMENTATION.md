@@ -2485,8 +2485,7 @@ The same process must be done with:
 
 -   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
     `Default undead eyes, weaker lightning for ghosts, a patch for
-    Cannibal Draugr, red skulls, Solstheim version of the patch`, then
-    delete `Clutter` folder inside _Meshes_;
+    Cannibal Draugr, blue skulls, Solstheim version of the patch`;
 
 -   *Simple Children - Patches* in *APPEARANCE* - `Bruma, Helgen Reborn,
     Interesting NPCs, Moon and Star, The Forgotten City, Wyrmstooth,
