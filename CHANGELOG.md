@@ -12,6 +12,8 @@ Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixe
 
 Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
 
+Removed the mention about Moonpath to Elsweyr Navmesh Fix.
+
 ### Appearance
 
 Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures and Feminine Khajiit Textures to use 4K versions.
