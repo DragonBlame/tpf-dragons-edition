@@ -12,7 +12,7 @@ Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixe
 
 Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
 
-Added _Song of the Green (Auri Follower)_ and _Auri Re-Imagined_.
+Added _Song of the Green (Auri Follower)_ and _Song of the Green - Auri Lenka Replacer_.
 
 ### Appearance
 
@@ -23,10 +23,6 @@ Updated download instructions for Feminine Khajiit Textures and Feminine Argonia
 Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
 Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
-
-### Literally Unplayable
-
-Added _Literally Unplayable - Auri Re-Imagined Patch_.
 
 ### Preparations
 
