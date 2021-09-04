@@ -26,6 +26,10 @@ Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
 Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
 
+### Literally Unplayable
+
+Added _Literally Unplayable - Auri Re-Imagined Patch_.
+
 ### Preparations
 
 Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures. No longer removing clutter from the ENB mod.
