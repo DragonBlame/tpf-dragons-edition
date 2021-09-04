@@ -12,8 +12,6 @@ Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixe
 
 Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
 
-Removed the mention about Moonpath to Elsweyr Navmesh Fix.
-
 Added _Song of the Green (Auri Follower)_ and _Auri Re-Imagined_.
 
 ### Appearance
