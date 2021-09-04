@@ -399,6 +399,10 @@ younger.*
 
 **Main files** - Helgen Reborn SSE Version 106 With bsa file
 
+### [Landscape Fixes For Grass Mods - Helgen Reborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
+
+**Optional files** - Patch for Helgen Reborn
+
 ### [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301?tab=files)
 
 **Main files** - Moon and Star
@@ -415,6 +419,10 @@ younger.*
 
 **Main files** - Moon and Star (MAS) Landscapes Fixes
 
+### [Landscape Fixes For Grass Mods - Moon and Star Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
+
+**Optional files** - Patch for Moon and Star
+
 ### [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341?tab=files)
 
 **Main files** - Moonpath to Elsweyr SSE
@@ -422,12 +430,6 @@ younger.*
 ### [Unofficial Moonpath to Elsweyr Patch](https://www.nexusmods.com/skyrimspecialedition/mods/15882?tab=files)
 
 **Main files** - Unofficial Moonpath to Elsweyr Patch v1.5.0
-
-### [Moonpath to Elsweyr Navmesh Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25714?tab=files)
-
-**Hidden** - skip this mod for now.
-
-**Main files** - Moonpath to Elsweyr Navmesh Fix
 
 ### [Moonpath of Elsweyr - Music - Sky and Lightning Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18683?tab=files)
 
