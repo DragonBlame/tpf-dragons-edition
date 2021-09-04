@@ -196,7 +196,7 @@ much more lively.*
 
 **Main files** - Werewolf Transformation Timer
 
-*You will finally know how much time you have left before you need to
+*Informs us about how much time you have left before you need to
 find another body to feed and not to think about it every single time
 you transform into werewolf.*
 
@@ -1121,7 +1121,7 @@ separator in the same order.
 
 **FOMOD** - `Author's Choice, Auto Conversion Enabled, The Tools of Kagrenac, WACCF, USSEP`.
 
-*Finally draugr aren't stealing any septims around Skyrim and bringing them to crypts. Only fruits and vegetables from time to time as an offering for ... themselves? Maybe someone else.*
+*Draugr will stop stealing any septims around Skyrim and bringing them to crypts. Only fruits and vegetables from time to time as an offering for ... themselves? Maybe someone else.*
 
 ### [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
 
@@ -1154,7 +1154,7 @@ traversing the area around Morthal.*
 
 **FOMOD** - `Improved Companions - Questline Tweaks`.
 
-*Finally you can become a werewolf without joining the Companions if you aren’t the type in the immersive way.*
+*You can finally become a werewolf without joining the Companions if you aren’t their type in the immersive way.*
 
 ### [Werewolf Aela](https://www.nexusmods.com/skyrimspecialedition/mods/29155)
 
@@ -1672,7 +1672,7 @@ Vampire Lords even more from senile ordinary vampires.*
 
 **Main files** - Racial Body Morphs 2.0
 
-*Finally you will find out why we needed that First
+*Now you will find out why we needed that First
 Person Camera Height Fix. All races from this point will have their own
 unique height and form, so wish some luck to Wood Elves at getting any
 attention from HIGH Elves. And now you will think twice before touching
@@ -1749,16 +1749,13 @@ body, then again every race)`.
 *The weight slider in Racemenu will also make us more ripped, not just
 bigger.*
 
-### [Just No Tails](https://www.nexusmods.com/skyrimspecialedition/mods/5051)
+### [Equipable Beast Tails - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31745)
 
-**Main files** - Nooo Mooore Taiiiiiils
+**Main files** - Equipable Tails - HDT SMP v1.2 ESL NoCraftables
 
-*Actually, before I really couldn't understand why people wanted to
-remove tails from Khajiits and Argonians, but after playing with them
-for some time now I do. Gear wasn’t made with them in mind (and it would
-have been such a bother to do), so the sight of our tail clipping
-through armor looks awkward. The best and the most easy solution is just
-to hide tails.*
+**Disable** - disable _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ mods in the _APPEARANCE_ separator of TPF.
+
+*Finally tails, which are actually moving. Maybe even a bit too much. They have an option to be removed in-game, which I will explain about later.*
 
 ### [Grimoas Plantigrade Feet For Beast Races](https://www.nexusmods.com/skyrim/mods/16976)
 
@@ -2664,6 +2661,8 @@ And some reminders about things:
 
 **Reminder about AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
+
+**Reminder about the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like armour and your tail is gone. 
 
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
