@@ -272,8 +272,8 @@ Weapons Armor Clothing and Clutter Fixes 2.0+`.
 Wanted to leave some comments here and there for the future, when you
 will learn what mods do.
 
-*I know, I know, you can make debates about this mod being immersive or
-not. But you can kick Boethiah out of their cloud of thinking that
+*You can make debates about this mod being immersive or
+not. But at the same time you can kick Boethiah out of their cloud of thinking that
 everyone is just going to murder for them alone and at the same time not
 kill our improved followers. Win-win situation for me.*
 
@@ -372,8 +372,7 @@ considering the previous mod we have added.*
 
 **Main files** - Miraak - Dragonborn Follower SE
 
-*Just imagine the Naruto redemption arc (unfortunately not canon too).
-It is just too good to be left out.*
+*Just imagine this redemption arc. It would have been a shame if that was left out considering you have a choice to as always kill Miraak.*
 
 ### [Miraak Follower Dialogue Plus](https://www.nexusmods.com/skyrimspecialedition/mods/25566?tab=files)
 
@@ -393,7 +392,7 @@ It is just too good to be left out.*
 
 *Well, he is one of the main villains of the game (and possibly the
 follower), so he, like all others, deserves attention too. What is funny
-is that he looks very similar to my nord character preset, just
+is that he looks similar to my nord character preset, just
 younger.*
 
 ### [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673?tab=files)
@@ -607,7 +606,7 @@ Crafting Patch
 **Optional files** - Gray Fox Flora Overhaul Tree Billboard LODGEN Kit
 
 **Instructions** - download the optional file manually and drop it into
-your *MO2 Downloads* folder, the fille will appear in your *Downloads*
+your *MO2 Downloads* folder, the file will appear in your *Downloads*
 tab in MO2, right click on it and select *Query Info*, then merge the
 file with the main one.
 
@@ -808,7 +807,7 @@ ApachiiDivineElegance_SSE\_\_Fix_AlphaRougeMale_v\_1_9
 
 **Optional files** - Apachii_DE_SSE_MaleOutfit_Meshes_Fixes
 
-*I have added this to be a resource for making different screenshots. Of
+*I have added this to serve a resource for making different screenshots. Of
 course, you can also use all those outfits etc. to make your character
 just prettier. There are things for everyone to play with, even
 warriors.*
@@ -935,7 +934,7 @@ changes are saved.
 
 ## Landscape
 
-Phoenix is definitely a master at choosing and mixing different landscape elements to make it as beautiful as we can experience in TPF, 
+Phoenix is definitely the master at choosing and mixing different landscape elements to make it as beautiful as we can experience in TPF, 
 but a few gems added in this will definitely make our surroundings even more breath-taking.  
 
 Create a separator and name it `LANDSCAPE EXTENDED` and place it
@@ -995,21 +994,11 @@ Mountain Flowers
 
 *By adding some unique things to regions of Skyrim like this one, we can definitely achieve our goal of making Skyrim a majestic land it is supposed to be.*
 
-
 ### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
 
 **Main files** - AIO-LT- A Tree Placement for Whiterun City
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
-
-
-### [Farmhouse Chimneys](https://www.nexusmods.com/skyrimspecialedition/mods/8766)
-
-**Main files** - Farmhouse Chimneys SE v4.0.5
-
-**FOMOD** - `Wyrmstooth, Helgen Reborn`.
-
-*Let's not poison our poor, old NPCs with carbon monoxide.*
 
 ---
 
@@ -1017,7 +1006,7 @@ Mountain Flowers
 
 Nothing much as you will get plenty of goodies from new and old quests -
 just some new weapons to our favourite NPCs to show their status and
-power and different looking variants of gear for players.
+power and different looking variants of gear for player character.
 
 Create a separator and name it `APPAREL & WEAPONS EXTENDED` and place it
 directly below the *APPAREL & WEAPONS* separator (and its mods). Change
@@ -1065,8 +1054,8 @@ forge.*
 armors) in Skyrim. Just use any forge for that. Tempered the same way as
 any other armor, pants have the same stats as their counterparts.*
 
-![image](https://user-images.githubusercontent.com/37147270/130328192-84efd439-a1bd-4893-a77d-989d9c48799c.png)
-*(ft. mods in Appearance section)*
+![image](https://user-images.githubusercontent.com/37147270/132089731-0dd190e6-1a54-43bc-aab7-389e3774dbda.png)
+*(ft. mods in New Content, Appearance and Animations section)*
 
 ### [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
 
@@ -1243,7 +1232,7 @@ will need it for AddItemMenu mod.*
 **Main files** - Custom Skills Framework v1
 
 *.NET Script Framework’s plugin for making custom skill trees for our
-character, will be used for a mod, which will greatly enhance gameplay
+character, will be used for Dragonborn - Shouts Perk Tree, which will greatly enhance gameplay
 with shouts together with Forceful Tongue - Shouts Overhaul.*
 
 ### [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
@@ -1282,7 +1271,7 @@ section)** - hide any file, which overwrites _Fixed Mesh Lightning_.
 *Still no idea where citizens of Skyrim get their apples, tomatoes,
 garlic and many other things from, but at least we know where we can get
 them from. And don’t worry, I have patched it, so you will be able to
-grow only things I consider to be immersive to be grown.*
+grow only things I consider to be immersive to be grown by player character.*
 
 ### [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
 
@@ -1296,26 +1285,16 @@ grow only things I consider to be immersive to be grown.*
 
 *This fix is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
-### [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
-
-**Main files** - Bright Waterfall Fix for Realistic Water Two
-
-**Optional files** - DynDOLOD Bright LOD Waterfall Fix
-
-**Merge** - Merge both files.
-
-*I can’t stand waterfalls being too bright at night.*
-
 ### [Particle Lights for ENB - Nordic Ruins Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
 
 **Main files** - Particle Lights for ENB - Nordic Ruins Candles
 
-*Where is a petition that everything needs to be patched for ENB to look
-magnificent? I would have signed it.*
-
 ### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
 
 **Main files** - ENB Lava Particle Light Patch
+
+*Where is a petition that everything needs to be patched for ENB to look
+magnificent? I would have signed it.*
 
 ### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
