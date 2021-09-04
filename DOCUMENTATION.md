@@ -2538,12 +2538,16 @@ actually activate our high poly head in Racemenu and then our hair will
 look fine. Also choose a beard from High Poly Head and it will look good
 if that is needed.
 
-![image](https://user-images.githubusercontent.com/37147270/130331927-051552a4-64d6-420b-8fa4-e18fd232ee4e.png)
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331927-051552a4-64d6-420b-8fa4-e18fd232ee4e.png" /> 
+</p>
 
 Then find the *Weapons* category and change settings to the same ones
 you see below.
 
-![image](https://user-images.githubusercontent.com/37147270/130331938-43bb6a6b-dee2-439c-8fae-f3780a734c8a.png)
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331938-43bb6a6b-dee2-439c-8fae-f3780a734c8a.png" /> 
+</p>
 
 Later into the game, if you are planning to use shields and if you find
 one, I recommend you to go into the console with ~ key, type
@@ -2553,7 +2557,9 @@ with other shield or even two-handed weapon settings, but don’t
 overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name. After setting up the settings,
 press *R* and *Enter* and you are done.
 
-![image](https://user-images.githubusercontent.com/37147270/130331988-48ac8994-b096-4497-b261-9a9d32bb253a.png)
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331988-48ac8994-b096-4497-b261-9a9d32bb253a.png" /> 
+</p>
 
 At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
@@ -2717,10 +2723,9 @@ change ENB files and add a good addition for it.
 ![image](https://user-images.githubusercontent.com/37147270/132095081-c0688681-b59d-421c-8d66-39c7e47bb4ba.png)
 
 ![image](https://user-images.githubusercontent.com/37147270/132094842-02b457aa-9105-4a53-aea2-29ac5fe631d7.png)
+*(ft. Little Touches - A Tree Placement for Whiterun City)*
 
 ![image](https://user-images.githubusercontent.com/37147270/132095210-ae57e1d9-cb9f-49b7-9e27-02b93079b1c0.png)
-
-*(ft. Little Touches - A Tree Placement for Whiterun City)*
 
 ### [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
