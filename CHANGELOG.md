@@ -22,7 +22,7 @@ Added Table of Contents section to the documentation.
 
 Updated the documentation (typos, grammar etc.).
 
-Changed some older pictures to feature the newest additions in the documentation.
+Changed some older pictures to feature the newest additions in the documentation. Changed sizes of some pictures.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
