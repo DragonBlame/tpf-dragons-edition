@@ -1054,7 +1054,7 @@ forge.*
 armors) in Skyrim. Just use any forge for that. Tempered the same way as
 any other armor, pants have the same stats as their counterparts.*
 
-![image](https://user-images.githubusercontent.com/37147270/132089731-0dd190e6-1a54-43bc-aab7-389e3774dbda.png)
+![image](https://user-images.githubusercontent.com/37147270/132089780-3858db0e-c125-4874-b5d8-513f03e9ba40.png)
 *(ft. mods in New Content, Appearance and Animations section)*
 
 ### [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
