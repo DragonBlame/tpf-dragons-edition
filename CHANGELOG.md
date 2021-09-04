@@ -14,6 +14,12 @@ Updated download instructions for Feminine Khajiit Textures and Feminine Argonia
 
 Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
+### Preparations
+
+Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures. No longer removing clutter from the ENB mod.
+
+Added reinstallation instructions for Skeleton Replacer HD - Patches - TPF Dragon's Edition.
+
 ### Other Changes
 
 Rewrote the Nexus page of the add-on from scratch.
@@ -23,8 +29,6 @@ Added Table of Contents section to the documentation.
 Updated the documentation (typos, grammar etc.).
 
 Changed some older pictures to feature the newest additions in the documentation. Changed sizes of some pictures.
-
-Updates reintstalling instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
