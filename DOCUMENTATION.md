@@ -1804,9 +1804,7 @@ Like you can see in the screenshots, it looks much less clunky than a
 bow being together with a quiver and clipping through each other and
 much more likely than us carrying our shield in our hand for all day.
 
-<p align="center">
-   <img width="50%" src="https://user-images.githubusercontent.com/37147270/132091012-c9491ef7-ddd7-4019-92c6-15116c4e1cb6.png" /> 
-</p>
+<img width="50%" align="center" src="https://user-images.githubusercontent.com/37147270/132091012-c9491ef7-ddd7-4019-92c6-15116c4e1cb6.png" /> 
 
 Overall through animations we will add more life and uniqueness into our
 player character. NPCs are untouched by these different gear locations,
