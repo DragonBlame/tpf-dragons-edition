@@ -2557,9 +2557,7 @@ with other shield or even two-handed weapon settings, but don’t
 overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name. After setting up the settings,
 press *R* and *Enter* and you are done.
 
-<p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331988-48ac8994-b096-4497-b261-9a9d32bb253a.png" /> 
-</p>
+![image](https://user-images.githubusercontent.com/37147270/130331988-48ac8994-b096-4497-b261-9a9d32bb253a.png)
 
 At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
