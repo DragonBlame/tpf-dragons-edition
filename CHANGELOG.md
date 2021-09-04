@@ -14,6 +14,16 @@ Updated download instructions for Feminine Khajiit Textures and Feminine Argonia
 
 Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
+### Updated Add-on's Mods for Wabbajack Users
+
+Hammet's Dungeons - Misc Patches
+
+C.O.I.N. - Coins of Interesting Natures
+
+Diziet's Auto Outfits
+
+Vampire Lord - Animation Replacer
+
 ---
 
 ## Version 1.5.1.
