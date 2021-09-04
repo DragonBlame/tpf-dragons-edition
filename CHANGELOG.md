@@ -36,7 +36,7 @@ Added Table of Contents section to the documentation.
 
 Updated the documentation (typos, grammar etc.).
 
-Changed some older pictures to feature the newest additions in the documentation. Changed sizes of some pictures.
+Changed some older pictures in the documentation to feature the newest additions. Changed sizes of some pictures.
 
 Updated TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch.
 
