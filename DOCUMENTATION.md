@@ -558,6 +558,10 @@ v2.4.0
 
 **Main files** - Clockwork_SSE_v1-0
 
+### [Skeleton Replacer HD - Clockwork Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52845?tab=files)
+
+**Miscellaneous files** - SkeletonReplacer - ClockworkPatch
+
 ### [Clockwork Plantable Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/40875?tab=files)
 
 **Main files** - Clockwork Plantable Addon
@@ -912,6 +916,10 @@ using MO2, find *Undeath.esp*, right click on it and choose *Apply
 Script…* In category *Script* find *Hishy_UndeathCleaner* and choose it.
 Press *OK*. After xEdit finishes cleaning, don’t forget to make sure that
 changes are saved.
+
+### [Skeleton Replacer HD - Undeath Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52845?tab=files)
+
+**Miscellaneous files** - SkeletonReplacer - UndeathPatch
 
 ### [Moon and Star - Undeath Remastered Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19068?tab=files)
 
