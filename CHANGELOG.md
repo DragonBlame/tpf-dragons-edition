@@ -2,6 +2,20 @@
 
 # Changelog
 
+## Version 1.6.
+
+> xx.09.2021.
+
+### Appearance
+
+Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures and Feminine Khajiit Textures to use 4K versions.
+
+Updated download instructions for Feminine Khajiit Textures and Feminine Argonian Textures to use UNP versions.
+
+Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
+
+---
+
 ## Version 1.5.1.
 
 > 31.08.2021.
