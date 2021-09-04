@@ -2376,6 +2376,8 @@ its colour, so that it won't be the same as TPF's ones.
 
 **Main files** - Literally Unplayable - Shield Sisters Re-Imagined Patch
 
+**Main files** - Literally Unplayable - Auri Re-Imagined Patch
+
 ---
 
 ## Final Patches
