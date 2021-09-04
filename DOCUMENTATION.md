@@ -794,9 +794,15 @@ directory*, click *OK*.
 
 **Main files** - Song of the Green 1.3
 
-### [Auri Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/37996?tab=files)
+### [Song of the Green - Auri Lenka Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/29345?tab=files)
 
-**Main files** - Auri Re-Imagined SE UNP
+**Main files** - CRB Auri Lenka Replacer SE UNP
+
+**update files** - CBBE and UNP Hotfix - v1.0 to v1.1
+
+**Optional files** - CRB Auri Lenka Replacer - Sharp Teeth Patch
+
+**Merge** - Merge all files.
 
 ### [The Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733?tab=files)
 
