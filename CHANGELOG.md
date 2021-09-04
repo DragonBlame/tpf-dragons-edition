@@ -6,6 +6,10 @@
 
 > xx.09.2021.
 
+### New Content
+
+Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
+
 ### Appearance
 
 Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures and Feminine Khajiit Textures to use 4K versions.
