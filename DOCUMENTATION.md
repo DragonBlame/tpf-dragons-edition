@@ -1310,6 +1310,7 @@ specific spell group etc. You need it! Just look at my
 character.*
 
 ![image](https://user-images.githubusercontent.com/37147270/130328931-2f92e74c-1a43-4696-8404-0f2cf1a8c222.png)
+![image](https://user-images.githubusercontent.com/37147270/132093585-9427e5c8-9e41-46d8-af97-2aac9627547a.png)
 
 ### [Dragonborn Presence](https://www.nexusmods.com/skyrimspecialedition/mods/25287)
 
@@ -1795,14 +1796,11 @@ character shouldn't wait for long anymore.*
 ## ANIMATIONS
 
 At first, you will need to change Simple Dual Sheath INI to make OUR
-shield appear on the back, because later we will make our placement for
-both our arrows’ and bolts’ quivers to be on our waistline’s back, which
-I believe will look much better in this combination than vanilla
-placement.
+shield appear on the back, which I believe will look much better and more immersive than vanilla placement.
 
-Like you can see in the screenshots, it looks much less clunky than a
-bow being together with a quiver and clipping through each other and
-much more likely than us carrying our shield in our hand for all day.
+Like you can see in the screenshots, with these placement configurations everything looks much less clunky. 
+Bow won't be together with quiver, so they won't clip through each other and
+it is much more likely to see soldier carrying his shield on his back than in hands for all day, while the shield isn't being used.
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/132091012-c9491ef7-ddd7-4019-92c6-15116c4e1cb6.png" /> 
