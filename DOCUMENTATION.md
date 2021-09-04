@@ -2481,7 +2481,7 @@ The same process must be done with:
 -   Now go to files with **Hide (not now, later, when you will get to the
     PREPARATIONS section)** by using [this](#cathedral---3d-mountain-flowers) and do what is asked;
 
--   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
+-   *Lanterns of Skyrim II* in *LIGHTNING* separator - `SMIM and Bruma`;
 
 -   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
     `Default undead eyes, weaker lightning for ghosts, a patch for
