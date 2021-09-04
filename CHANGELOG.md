@@ -22,6 +22,8 @@ Updated download instructions for Feminine Khajiit Textures and Feminine Argonia
 
 Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
+Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
+
 ### Preparations
 
 Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures. No longer removing clutter from the ENB mod.
