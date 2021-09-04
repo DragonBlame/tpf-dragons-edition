@@ -26,7 +26,7 @@ Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
 Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures. No longer removing clutter from the ENB mod.
 
-Added reinstallation instructions for Skeleton Replacer HD - Patches - TPF Dragon's Edition.
+Added reinstallation instructions for Skeleton Replacer HD - Patches.
 
 ### Other Changes
 
