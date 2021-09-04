@@ -2714,7 +2714,7 @@ colours. Another positive moment is that it almost doesn’t need any kind
 of adjustments for TPF weather or any other mods, so we just need to
 change ENB files and add a good addition for it.
 
-![image](https://user-images.githubusercontent.com/37147270/130332413-f05a38bb-62cc-4e08-a937-c82b1f8fd09b.png)
+![image](https://user-images.githubusercontent.com/37147270/132095081-c0688681-b59d-421c-8d66-39c7e47bb4ba.png)
 
 ![image](https://user-images.githubusercontent.com/37147270/132094842-02b457aa-9105-4a53-aea2-29ac5fe631d7.png)
 
