@@ -1699,7 +1699,7 @@ you a choice to make in FOMOD.*
 
 ### [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186)
 
-**Main files** - Grey Cat and Leopard Vanilla v1.1 - 2K Res Pack
+**Main files** - Grey Cat and Leopard Vanilla v1.1 - 4K Res Pack
 
 **FOMOD** - `Grey Cat, Abs`.
 
@@ -1710,7 +1710,7 @@ will need to choose a different version of Masculine Khajiit Textures.
 
 ### [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185)
 
-**Main files** - Masculine Chameleon and Lizard (Vanilla) 2K
+**Main files** - Masculine Chameleon and Lizard (Vanilla) 4K
 
 **FOMOD** - `Lizard, Heavy Scales`.
 
@@ -1727,7 +1727,7 @@ options you like. `My recommendations - B01, C2, D1, E2`.
 
 ### [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
 
-**Main files** - Feminine Grey Cat and Leopard (Vanilla) 2K
+**Main files** - Feminine Grey Cat and Leopard (UNP) 4K
 
 **FOMOD** - `Grey Cat, Abs`.
 
@@ -1735,10 +1735,9 @@ options you like. `My recommendations - B01, C2, D1, E2`.
 
 ### [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
 
-**Main files** - Feminine Argonian Textures (Chameleon and Lizard)
-Vanilla
+**Main files** - Feminine Argonian Textures (Chameleon and Lizard) UNP
 
-**FOMOD** - `2K, Lizard, Abs`.
+**FOMOD** - `4K, Lizard, Abs`.
 
 ### [Sandow Plus Plus - Ripped Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/34632)
 
