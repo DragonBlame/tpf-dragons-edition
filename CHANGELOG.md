@@ -10,6 +10,8 @@
 
 Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixes For Grass Mods - Helgen Reborn Patch_.
 
+Added _Opulent Thieves Guild - USSEP Patch_.
+
 Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
 
 Added _Song of the Green (Auri Follower)_ and _Song of the Green - Auri Lenka Replacer_.
@@ -18,11 +20,11 @@ Removed Windyridge - Player Home in Winterhold.
 
 ### Landscape
 
-Added _The Great Cities - Minor Cities and Towns_.
+Added _The Great Cities - Minor Cities and Towns_ an other soldierofwar's exterior mods and patches for them.
 
 ### Interiors
 
-Added almost all of JK's interior mods.
+Added almost all of JK's interior mods and patches for them.
 
 ### Appearance
 
