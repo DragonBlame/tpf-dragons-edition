@@ -14,6 +14,16 @@ Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undea
 
 Added _Song of the Green (Auri Follower)_ and _Song of the Green - Auri Lenka Replacer_.
 
+Removed Windyridge - Player Home in Winterhold.
+
+### Landscape
+
+Added _The Great Cities - Minor Cities and Towns_.
+
+### Interiors
+
+Added almost all of JK's interior mods.
+
 ### Appearance
 
 Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures and Feminine Khajiit Textures to use 4K versions.
