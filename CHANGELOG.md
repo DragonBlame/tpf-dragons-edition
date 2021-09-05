@@ -38,7 +38,7 @@ Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
 
 Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures. No longer removing clutter from the ENB mod.
 
-Added reinstallation instructions for Skeleton Replacer HD - Patches.
+Added reinstallation instructions for Skeleton Replacer HD - Patches and Finding Helgi and Laette.
 
 ### Other Changes
 
