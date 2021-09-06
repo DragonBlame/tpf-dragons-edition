@@ -950,10 +950,13 @@ separator in the same order.
 **Optional files** - Unique Flowers and Plants for Skyrim SE DLC
 Compatible ESM Version
 
-**Hide** - hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
+**Hide (not now, later, when you will get to the *PREPARATIONS*
+section)** - hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
 the mod, then choosing the _Conflicts_ tab, selecting two files on the
 _Winning file conflicts_ section, right-clicking on them and choosing
-_Hide_.*
+_Hide_.* Don’t
+worry, there will be a reference to these instructions in the
+*PREPARATIONS* section.
 
 *Adds different beautiful hand-placed flowers and plants around Skyrim
 to make it more interesting and picturesque. ESM plugin allows us not to
@@ -964,9 +967,7 @@ worry about the mod overwriting anything we don't want to.*
 **Main files** - Cathedral - 3D Mountain Flowers
 
 **Hide (not now, later, when you will get to the *PREPARATIONS*
-section)** - hide any file, which overwrites _Fixed Mesh Lightning_. Don’t
-worry, there will be a reference to these instructions in the
-*PREPARATIONS* section.
+section)** - hide any file, which overwrites _Fixed Mesh Lightning_. 
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
@@ -2502,7 +2503,7 @@ The same process must be done with:
     Plants, 3D Mountain Flowers, flora for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
 
 -   Now go to files with **Hide (not now, later, when you will get to the
-    PREPARATIONS section)** by using [this](#cathedral---3d-mountain-flowers) and do what is asked;
+    PREPARATIONS section)** by using [this](#official-unique-flowers-and-plants) and do what is asked;
 
 -   *Lanterns of Skyrim II* in *LANDSCAPE* separator - `SMIM and Bruma`;
 
