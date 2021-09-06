@@ -999,18 +999,9 @@ Mountain Flowers
 
 ### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
 
-**Main files** - AIO-LT- A Tree Placement for Whiterun City
+**Optional files** - AIO-LT- A Tree Placement for Whiterun City
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
-
-
-### [Farmhouse Chimneys](https://www.nexusmods.com/skyrimspecialedition/mods/8766)
-
-**Main files** - Farmhouse Chimneys SE v4.0.5
-
-**FOMOD** - `Wyrmstooth, Helgen Reborn`.
-
-*Let's not poison our poor, old NPCs with carbon monoxide.*
 
 ---
 
