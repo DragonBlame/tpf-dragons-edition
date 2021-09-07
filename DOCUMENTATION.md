@@ -1747,9 +1747,9 @@ options you like. `My recommendations - B01, C2, D1, E2`.
 
 ### [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
 
-**Main files** - Feminine Argonian Textures (Chameleon and Lizard) UNP
+**Main files** - Feminine Chameleon and Lizard (UNP) 4K
 
-**FOMOD** - `4K, Lizard, Abs`.
+**FOMOD** - `Lizard, Abs`.
 
 ### [Sandow Plus Plus - Ripped Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/34632)
 
