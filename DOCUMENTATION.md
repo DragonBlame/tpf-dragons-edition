@@ -14,7 +14,7 @@
 [Gameplay Overhauls](#gameplay-overhauls)  
 [Miscellaneous](#miscellaneous)  
 [Music & Sound FX (optional)](#music--sound-fx-optional)  
-[Skeleton & Animations](#animations)  
+[Skeleton & Animations](#skeleton--animations)  
 [NPC Overhauls](#npc-overhauls)  
 [Salt & Wind Hair Retextures](#salt--wind-hair-retextures)  
 [Literally Unplayable](#literally-unplayable)  
@@ -1114,6 +1114,161 @@ _(ft. 1.6. v. of TPF - Dragon's Edition's new content, appearance and animation 
 
 --- 
 
+## Appearance
+
+Overall, I am happy with TPF’s appearance section, but the humanoid
+player character’s skin texture choice is not as good as it doesn’t give
+you many choices for experimenting (or maybe I just prefer other ones,
+no idea), so I am changing that with different textures, by using which
+everyone is probably going to find his or her favourite combinations to
+play with. Other changes are there to diversify different races of
+Skyrim’s population and make character creation a little bit more
+interesting and even more time-consuming.
+
+Create a separator and name it `APPEARANCE EXTENDED` and place it
+directly below the *APPEARANCE* separator (and its mods).
+Change its colour, so that it won't be the same as TPF's ones.
+
+All of the following mods in this category will be placed under this
+separator in the same order.
+
+### [Racial Body Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/20684)
+
+**Main files** - Racial Body Morphs 2.0
+
+*Now you will find out why we needed that First
+Person Camera Height Fix. All races from this point will have their own
+unique height and form, so wish some luck to Wood Elves at getting any
+attention from HIGH Elves. And now you will think twice before touching
+that big orc. Really lore-immersive mod.*
+
+### [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+
+**Main files** - Tempered Skins for Males - Dressed Version
+
+**FOMOD** - `A2 and F none`, for other things you can choose whichever
+options you like. `My recommendations - B3 (people are living in Skyrim,
+not Elsweyr), C3, D2, E1 (with this combination they don’t look too old
+and at the same time not as teenagers)`.
+
+*I guess Tempered Skins is my favourite mod series, when it comes to
+appearance, as each of the skins for both males and females is so
+customizable you won’t need any other mod. And that’s why I also give
+you a choice to make in FOMOD.*
+
+### [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186)
+
+**Main files** - Grey Cat and Leopard Vanilla v1.1 - 4K Res Pack
+
+**FOMOD** - `Grey Cat, Abs`.
+
+Yes, you have read it right. For one other mod to work correctly, we
+will need to choose a different version of Masculine Khajiit Textures.
+
+**Rename** - Rename it to `Masculine Khajiit Textures - TPF Dragon’s Edition` to install it as a separate mod.
+
+### [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185)
+
+**Main files** - Masculine Chameleon and Lizard (Vanilla) 4K
+
+**FOMOD** - `Lizard, Heavy Scales`.
+
+*I don’t see anything too eye-catching from Forgotten Argonian Roots and
+they don’t work with the mod, so let’s use argonian skin texture from
+the same author, which textures we use for Khajiits.*
+
+### [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
+
+**Main files** - Tempered Skins for Females UNP and Vanilla
+
+**FOMOD** - `A7 and F none`, for other things you can choose whichever
+options you like. `My recommendations - B01, C2, D1, E2`.
+
+### [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
+
+**Main files** - Feminine Grey Cat and Leopard (UNP) 4K
+
+**FOMOD** - `Grey Cat, Abs`.
+
+**Rename** - Rename it to `Feminine Khajiit Textures - TPF Dragon’s Edition` to install it as a separate mod.
+
+### [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
+
+**Main files** - Feminine Chameleon and Lizard (UNP) 4K
+
+**FOMOD** - `Lizard, Abs`.
+
+### [Sandow Plus Plus - Ripped Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/34632)
+
+**Main files** - Sandow Plus Plus - Ripped Bodies
+
+**Main files** - Sandow Plus Plus - Ripped Bodies - Males
+
+**Main files** - Sandow Plus Plus - Ripped Bodies - UNP
+
+**FOMOD** - `Choose every option in all these 3 mods (exception is in one
+place in the file for males, where you need to choose vanilla type of
+body, then again every race)`.
+
+*The weight slider in Racemenu will also make us more ripped, not just
+bigger.*
+
+### [Equipable Beast Tails - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31745)
+
+**Main files** - Equipable Tails - HDT SMP v1.2 ESL NoCraftables
+
+**Disable** - disable _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ mods in the _APPEARANCE_ separator of TPF.
+
+*Finally tails, which are actually moving. Maybe even a bit too much. They have an option to be removed in-game, which I will explain about later.*
+
+### [Grimoas Plantigrade Feet For Beast Races](https://www.nexusmods.com/skyrim/mods/16976)
+
+**Main files** - Grimoas Plantigrade Feet For Beast Races v 1_4
+
+**Delete** - delete `Gri_BeastFeet.esp`.
+
+*A resource from Skyrim LE to make our next mod work (thank you very
+much).*
+
+### [Barefoot Beast Project (Greaves and Legwraps for Plantigrade Feet)](https://www.nexusmods.com/skyrimspecialedition/mods/45672)
+
+**Main files** - Barefoot Beast Project
+
+*Now we won’t need to imagine anymore how our poor Argonian puts those
+little boots on.*
+
+### [BeastHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
+
+**Main files** - BeastHHBB - Player Character only
+
+*Many appearance mods have one thing in common - they almost always forget about poor beast races. 
+But not this one as it adds many options exlusively for them to make their look more unique.*
+
+### [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/)
+
+High_Poly_Head_v1.4\_(SE).zip
+
+**FOMOD** - `BSA Only, Special Edition, Expressive Facegen Morphs,
+Expressive Facial Animation (both), High Poly Vanilla Hair, Vampire Head
+Fix, Symmetrical Eyes (Female)`.
+
+*With this your dreams of making an even more perfect face for your
+character shouldn't wait for long anymore.*
+
+### [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932)
+
+**Optional files** - KS Hairdos Lite SE NoNPCs
+
+*Little fancy hair mod for us.*
+
+### [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
+
+**Main files** - KS Hairdos SMP
+
+*New level of fanciness. People love hair with physics, so let them be.*
+
+---
+
 ## Gameplay Overhauls
 
 This section is intended to compliment TPF's gameplay and combat overhauls with a touch of immersiveness by adding new, not intrusive mechanics or by changing already existing ones.
@@ -1660,161 +1815,6 @@ their tracks in the playlists.*
 
 *A patch to make all these music mods work with music from one quest
 mod.*
-
----
-
-## Appearance
-
-Overall, I am happy with TPF’s appearance section, but the humanoid
-player character’s skin texture choice is not as good as it doesn’t give
-you many choices for experimenting (or maybe I just prefer other ones,
-no idea), so I am changing that with different textures, by using which
-everyone is probably going to find his or her favourite combinations to
-play with. Other changes are there to diversify different races of
-Skyrim’s population and make character creation a little bit more
-interesting and even more time-consuming.
-
-Create a separator and name it `APPEARANCE EXTENDED` and place it
-directly below the *APPEARANCE* separator (and its mods).
-Change its colour, so that it won't be the same as TPF's ones.
-
-All of the following mods in this category will be placed under this
-separator in the same order.
-
-### [Racial Body Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/20684)
-
-**Main files** - Racial Body Morphs 2.0
-
-*Now you will find out why we needed that First
-Person Camera Height Fix. All races from this point will have their own
-unique height and form, so wish some luck to Wood Elves at getting any
-attention from HIGH Elves. And now you will think twice before touching
-that big orc. Really lore-immersive mod.*
-
-### [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
-
-**Main files** - Tempered Skins for Males - Dressed Version
-
-**FOMOD** - `A2 and F none`, for other things you can choose whichever
-options you like. `My recommendations - B3 (people are living in Skyrim,
-not Elsweyr), C3, D2, E1 (with this combination they don’t look too old
-and at the same time not as teenagers)`.
-
-*I guess Tempered Skins is my favourite mod series, when it comes to
-appearance, as each of the skins for both males and females is so
-customizable you won’t need any other mod. And that’s why I also give
-you a choice to make in FOMOD.*
-
-### [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186)
-
-**Main files** - Grey Cat and Leopard Vanilla v1.1 - 4K Res Pack
-
-**FOMOD** - `Grey Cat, Abs`.
-
-Yes, you have read it right. For one other mod to work correctly, we
-will need to choose a different version of Masculine Khajiit Textures.
-
-**Rename** - Rename it to `Masculine Khajiit Textures - TPF Dragon’s Edition` to install it as a separate mod.
-
-### [Masculine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/185)
-
-**Main files** - Masculine Chameleon and Lizard (Vanilla) 4K
-
-**FOMOD** - `Lizard, Heavy Scales`.
-
-*I don’t see anything too eye-catching from Forgotten Argonian Roots and
-they don’t work with the mod, so let’s use argonian skin texture from
-the same author, which textures we use for Khajiits.*
-
-### [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
-
-**Main files** - Tempered Skins for Females UNP and Vanilla
-
-**FOMOD** - `A7 and F none`, for other things you can choose whichever
-options you like. `My recommendations - B01, C2, D1, E2`.
-
-### [Feminine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/183)
-
-**Main files** - Feminine Grey Cat and Leopard (UNP) 4K
-
-**FOMOD** - `Grey Cat, Abs`.
-
-**Rename** - Rename it to `Feminine Khajiit Textures - TPF Dragon’s Edition` to install it as a separate mod.
-
-### [Feminine Argonian Textures](https://www.nexusmods.com/skyrimspecialedition/mods/184)
-
-**Main files** - Feminine Chameleon and Lizard (UNP) 4K
-
-**FOMOD** - `Lizard, Abs`.
-
-### [Sandow Plus Plus - Ripped Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/34632)
-
-**Main files** - Sandow Plus Plus - Ripped Bodies
-
-**Main files** - Sandow Plus Plus - Ripped Bodies - Males
-
-**Main files** - Sandow Plus Plus - Ripped Bodies - UNP
-
-**FOMOD** - `Choose every option in all these 3 mods (exception is in one
-place in the file for males, where you need to choose vanilla type of
-body, then again every race)`.
-
-*The weight slider in Racemenu will also make us more ripped, not just
-bigger.*
-
-### [Equipable Beast Tails - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31745)
-
-**Main files** - Equipable Tails - HDT SMP v1.2 ESL NoCraftables
-
-**Disable** - disable _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ mods in the _APPEARANCE_ separator of TPF.
-
-*Finally tails, which are actually moving. Maybe even a bit too much. They have an option to be removed in-game, which I will explain about later.*
-
-### [Grimoas Plantigrade Feet For Beast Races](https://www.nexusmods.com/skyrim/mods/16976)
-
-**Main files** - Grimoas Plantigrade Feet For Beast Races v 1_4
-
-**Delete** - delete `Gri_BeastFeet.esp`.
-
-*A resource from Skyrim LE to make our next mod work (thank you very
-much).*
-
-### [Barefoot Beast Project (Greaves and Legwraps for Plantigrade Feet)](https://www.nexusmods.com/skyrimspecialedition/mods/45672)
-
-**Main files** - Barefoot Beast Project
-
-*Now we won’t need to imagine anymore how our poor Argonian puts those
-little boots on.*
-
-### [BeastHHBB](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
-
-**Main files** - BeastHHBB - Player Character only
-
-*Many appearance mods have one thing in common - they almost always forget about poor beast races. 
-But not this one as it adds many options exlusively for them to make their look more unique.*
-
-### [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/)
-
-High_Poly_Head_v1.4\_(SE).zip
-
-**FOMOD** - `BSA Only, Special Edition, Expressive Facegen Morphs,
-Expressive Facial Animation (both), High Poly Vanilla Hair, Vampire Head
-Fix, Symmetrical Eyes (Female)`.
-
-*With this your dreams of making an even more perfect face for your
-character shouldn't wait for long anymore.*
-
-### [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932)
-
-**Optional files** - KS Hairdos Lite SE NoNPCs
-
-*Little fancy hair mod for us.*
-
-### [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
-
-**Main files** - KS Hairdos SMP
-
-*New level of fanciness. People love hair with physics, so let them be.*
 
 ---
 
