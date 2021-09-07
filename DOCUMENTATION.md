@@ -2396,41 +2396,12 @@ and place it directly below the *SALT & WIND HAIR RETEXTURES* separator
 (and its mods). Change its colour, so that it won't be the same as TPF's
 ones.
 
-All of the following mods in this category will be placed under this
-separator in the same order.
-
 I have decided to make patches modular, so it is faster and easier for
-me to check things inside. As mentioned before, that doesn't mean you can suddenly grab whichever you want from here and just use that.
+ME to check things inside and make needed changes. As mentioned before, that doesn't mean you can suddenly grab whichever patch you want from here and delete other ones.
 
 ### [TPF Dragon’s Edition - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-**Main files** - TPF Dragon’s Edition - New Content Patch
-
-**Main files** - TPF Dragon’s Edition - Landscape Patch
-
-**Main files** - TPF Dragon’s Edition - Apparel & Weapons Patch
-
-**Main files** - TPF Dragon's Editon - Gameplay Overhauls Patch
-
-**Main files** - TPF Dragon's Edition - New Content and Gameplay Overhauls Patch
-
-**Main files** - TPF Dragon’s Edition - Miscellaneous Patch
-
-**Main files** - TPF Dragon's Edition - New Content & Miscellaneous Patch
-
-**Main files** - TPF Dragon’s Edition - Appearance Patch
-
-**Main files** - TPF Dragon's Edition - New Content and Appearance Patch
-
-**Main files** - TPF Dragon’s Edition - NPC Overhauls Patch
-
-**Main files** - TPF Dragon’s Edition - New Content and NPC Overhauls Patch
-
-**Main files** - TPF Dragon's Edition - Gameplay Overhauls and NPC Overhauls Patch
-
-**Main files** - TPF Dragon's Edition - Appearance and NPC Overhauls Patch
-
-**Main files** - TPF Dragon’s Edition Patch
+**Main files** - TPF - Dragon’s Edition's Patches
 
 ---
 
