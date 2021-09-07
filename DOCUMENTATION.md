@@ -2463,7 +2463,7 @@ The same process must be done with:
     `Default undead eyes, weaker lightning for ghosts, a patch for
     Cannibal Draugr, blue skulls, Solstheim version of the patch`;
     
-    *Skeleton Replacer HD - Patches* in *CREATURES* -
+-   *Skeleton Replacer HD - Patches* in *CREATURES* -
     `MajesticMountains, NordicRuinsCandlesEnbLight, UniqueSkullsPotema, ToolsOfKagrenac`;
 
 -   *Simple Children - Patches* in *APPEARANCE* - `Bruma, Helgen Reborn,
