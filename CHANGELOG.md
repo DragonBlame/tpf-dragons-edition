@@ -38,6 +38,8 @@ Added almost all of JK's interior mods and patches for them (you can learn about
 
 Updated its placement instructions (now the separator and its mods should be between Appearance and Gameplay Overhauls seaprators of TPF).
 
+Moved SavrenX Vampire Lord Tank out to the _Skeleton & Animations_ section.
+
 Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures, Feminine Khajiit Textures and Feminine Argonian Textures to use 4K versions.
 
 Updated download instructions for Feminine Khajiit Textures and Feminine Argonian Textures to use UNP versions.
@@ -47,6 +49,12 @@ Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
 ### Gameplay Overhauls
 
 Updated its placement instructions (now the separator and its mods should be between Gameplay Overhauls and Loot & Balancing seaprators of TPF).
+
+### Skeleton & Animations
+
+Renamed Animations to _Skeleton & Animations_.
+
+Moved SavrenX Vampire Lord Tank here from the Appearance section.
 
 ### NPC Overhauls
 
