@@ -815,6 +815,8 @@ directory*, click *OK*.
 
 **Main files** - The Sinister Seven SSE 1.2
 
+**Hide** - hide `quickskydark_e.dds`.
+
 ### [Apachii Divine Elegance Store](https://www.nexusmods.com/skyrimspecialedition/mods/9213?tab=files)
 
 **Main files** - Apachii_Divine_Elegance_SSE_v\_1_9
