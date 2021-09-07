@@ -8,17 +8,23 @@
 
 ### New Content
 
-Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixes For Grass Mods - Helgen Reborn Patch_.
+Updated its placement instructions (now the separator and its mods should be between Graphics Baseline and Weather seaprators of TPF).
+
+Added additional instructions to remove cubemaps' files from Darkend and Sinister Seven.
 
 Added _Opulent Thieves Guild - USSEP Patch_.
+
+Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixes For Grass Mods - Helgen Reborn Patch_.
 
 Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
 
 Added _Song of the Green (Auri Follower)_ and _Song of the Green - Auri Lenka Replacer_.
 
-Removed Windyridge - Player Home in Winterhold.
+Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to add different interiors and exteriors' mods, but forgot to remove it from the documentation's development version and so it got to you) (was removed before the update, shoudn't affect gameplay).  
 
-### Landscape
+### Exteriors
+
+Renamed Landscape to Exteriors.
 
 Added _The Great Cities - Minor Cities and Towns_ an other soldierofwar's exterior mods and patches for them.
 
@@ -28,6 +34,8 @@ Added almost all of JK's interior mods and patches for them.
 
 ### Appearance
 
+Updated its placement instructions (now the separator and its mods should be between Appearance and Gameplay Overhauls seaprators of TPF).
+
 Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures and Feminine Khajiit Textures to use 4K versions.
 
 Updated download instructions for Feminine Khajiit Textures and Feminine Argonian Textures to use UNP versions.
@@ -35,6 +43,10 @@ Updated download instructions for Feminine Khajiit Textures and Feminine Argonia
 Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
 Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
+
+### Gameplay Overhauls
+
+Updated its placement instructions (now the separator and its mods should be between Gameplay Overhauls and Loot & Balancing seaprators of TPF).
 
 ### Preparations
 
