@@ -8,7 +8,7 @@
 
 ### New Content
 
-Updated its placement instructions (now the separator and its mods should be between Graphics Baseline and Weather seaprators of TPF).
+Updated its placement instructions (now the separator and its mods should be between _Graphics Baseline_ and _Weather_ seaprators of TPF).
 
 Added additional instructions to remove cubemaps' files from Darkend and Sinister Seven.
 
@@ -24,13 +24,15 @@ Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to 
 
 ### Exteriors
 
-Renamed Landscape to Exteriors.
+Renamed Landscape to _Exteriors_.
 
 Added _The Great Cities - Minor Cities and Towns_ an other soldierofwar's exterior mods and patches for them.
 
+Added _Cities of the North_ series' mods for the The Great Cities - Minor Cities and Towns and patches for them.
+
 ### Interiors
 
-Added almost all of JK's interior mods and patches for them.
+Added almost all of JK's interior mods and patches for them (you can learn about why I haven't added all of them from the description of the new section).
 
 ### Appearance
 
@@ -77,6 +79,8 @@ C.O.I.N. - Coins of Interesting Natures
 Diziet's Auto Outfits
 
 Vampire Lord - Animation Replacer
+
+Feminine Argonian Textures
 
 ---
 
