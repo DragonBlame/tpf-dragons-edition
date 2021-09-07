@@ -2239,14 +2239,6 @@ Thank Todd for that.
 
 **Main files** - AI Overhaul - High Poly Expressive NPCs Patch
 
-### High Poly Expressive NPCs - WACCF Patch
-
-**Move** - move the patch, which we have downloaded before, here (that
-is below *AI Overhaul - High Poly Expressive NPCs Patch* in your MO2
-left side). Moving on the left side doesn’t matter for patches, but I
-just want everything to be in place and organized like it should be -
-patches should be placed after all NPC overhauls).
-
 ### [Shield Sisters Re-Imagined - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/44263)
 
 **Main files** - Shield Sisters Re-Imagined - AI Overhaul Patch
@@ -2261,18 +2253,6 @@ Patch
 **Main files** - Pandorable's NPCs - Males - AI Overhaul Patch
 
 **Main files** - Pandorable's NPCs - Males 2 - AI Overhaul Patch
-
-### Pandorable's NPCs - Dragonborn - AI Overhaul Patch
-
-**Move** - move the patch here.
-
-### Pandorable's NPCs - Males - AI Overhaul Patch
-
-**Move** - move the patch here.
-
-### Pandorable's NPCs - Males 2 - AI Overhaul Patch
-
-**Move** - move the patch here.
 
 ### [USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/45620)
 
@@ -2295,21 +2275,14 @@ Patch
 
 **Main files** - USSEP - The Ordinary Women - AI Overhaul Patch
 
-### USSEP - Northbourne NPCs of Falkreath Hold - AI Overhaul Patch
-
-**Move** - move the patch here.
-
-### USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul Patch
-
-**Move** - move the patch here.
-
 ### [Updated Kalilies NPCs - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53322)
 
 **Main files** - AI Overhaul - Kalilies NPCs Patch
 
-### Pandorable's Black-Briar Ladies - AI Overhaul Patch
-
-**Move** - move the patch here.
+When each patch is downloaded and installed, we should place them after all NPC overhauls in our mod order. Moving on the left side doesn’t matter for patches, 
+but it is just common practice to keep everything sorted and organized like it should be.
+Use the picture below if you have troubles figuring order on your own.
+![image](https://user-images.githubusercontent.com/37147270/132406243-7118eab8-8a17-4260-a1b1-50356a8fc60e.png)
 
 ---
 
