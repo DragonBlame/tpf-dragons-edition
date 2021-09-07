@@ -18,7 +18,7 @@ Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixe
 
 Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
 
-Added _Song of the Green (Auri Follower)_ and _Song of the Green - Auri Lenka Replacer_.
+Added _Song of the Green (Auri Follower)_ and _Refined Auri_.
 
 Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to add different interiors and exteriors' mods, but forgot to remove it from the documentation's development version and so it got to you) (was removed before the update, shoudn't have affected gameplay).  
 
