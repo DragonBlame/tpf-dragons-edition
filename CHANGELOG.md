@@ -38,11 +38,9 @@ Added almost all of JK's interior mods and patches for them (you can learn about
 
 Updated its placement instructions (now the separator and its mods should be between Appearance and Gameplay Overhauls seaprators of TPF).
 
-Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures and Feminine Khajiit Textures to use 4K versions.
+Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures, Feminine Khajiit Textures and Feminine Argonian Textures to use 4K versions.
 
 Updated download instructions for Feminine Khajiit Textures and Feminine Argonian Textures to use UNP versions.
-
-Updated FOMOD instructions for Feminine Argonian Textures to use 4K version.
 
 Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
 
@@ -76,7 +74,11 @@ Updated the documentation (typos, grammar etc.).
 
 Changed some older pictures in the documentation to feature the newest additions. Changed sizes of some pictures.
 
-Updated TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch.
+Added _TPF Dragon's Edition - Interiors Patch_, _TPF Dragon's Edition - Exteriors Patch_ and _TPF Dragon's Edition - Exteriors and NPC Overhauls Patch_.
+
+Removed TPF Dragon's Edition - Landscape Patch.
+
+Updated TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch and TPF Dragon's Edition's Patch.
 
 Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
 
