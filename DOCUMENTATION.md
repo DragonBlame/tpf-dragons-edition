@@ -2685,7 +2685,9 @@ opinion, that isn’t right at all. Do you sit at home with one little
 light on and don’t see anything else around you? No, so this isn’t the
 right ENB for us.
 
-![image](https://user-images.githubusercontent.com/37147270/130332396-e3a03b41-10cb-4075-93a3-13ec316b3301.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/37147270/130332396-e3a03b41-10cb-4075-93a3-13ec316b3301.png" /> 
+</p>
 
 Now as default TPF uses Serio’s ENB, which allows users with low end PCs
 to use much needed features of ENB and make lightning to be a bit
