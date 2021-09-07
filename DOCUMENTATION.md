@@ -1219,7 +1219,7 @@ bigger.*
 
 **Disable** - disable _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ mods in the _APPEARANCE_ separator of TPF.
 
-*Finally tails, which are actually moving. Maybe even a bit too much. They have an option to be removed in-game, which I will explain about later.*
+*Finally tails, which are actually moving. Maybe even a bit too much. With this I have actually killed two hares - they have an option to be removed in-game, which I will explain about later, and did I mention that they are moving.*
 
 ### [Grimoas Plantigrade Feet For Beast Races](https://www.nexusmods.com/skyrim/mods/16976)
 
