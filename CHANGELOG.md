@@ -58,7 +58,7 @@ Moved SavrenX Vampire Lord Tank here from the Appearance section.
 
 ### NPC Overhauls
 
-Rewrote the part of moving patches to be more understandable.
+Rewrote instructions of moving patches to be more understandable.
 
 ### Final Patches
 
@@ -66,9 +66,9 @@ Changed installation instructions according to the newest changes for downloadin
 
 ### Preparations
 
-Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures. No longer removing clutter from the ENB mod.
+Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures.
 
-Added reinstallation instructions for Skeleton Replacer HD - Patches and Finding Helgi and Laette.
+Added reinstallation instructions for Skeleton Replacer HD - Patches.
 
 ### Other Changes
 
@@ -88,7 +88,7 @@ Removed TPF Dragon's Edition - Landscape Patch.
 
 Updated TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch and TPF Dragon's Edition's Patch.
 
-Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance).
+Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
