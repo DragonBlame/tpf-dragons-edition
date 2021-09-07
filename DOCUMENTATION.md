@@ -552,6 +552,11 @@ v2.4.0
 
 **Merge** - merge all files.
 
+**Hide** - hide `shinyglass_e2.dds` by right-clicking
+the mod, then choosing the _Conflicts_ tab, selecting two files on the
+_Winning file conflicts_ section, right-clicking on them and choosing
+_Hide_.*
+
 ### [Darkend Balance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/29213?tab=files)
 
 **Main files** - Darkend Balance Patch
@@ -970,10 +975,7 @@ separator in the same order.
 Compatible ESM Version
 
 **Hide (not now, later, when you will get to the *PREPARATIONS*
-section)** - hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
-the mod, then choosing the _Conflicts_ tab, selecting two files on the
-_Winning file conflicts_ section, right-clicking on them and choosing
-_Hide_.* Don’t
+section)** - hide `JuniperBush.nif` and `SloeBush.nif`. Don’t
 worry, there will be a reference to these instructions in the
 *PREPARATIONS* section.
 
@@ -986,8 +988,11 @@ worry about the mod overwriting anything we don't want to.*
 **Main files** - Cathedral - 3D Mountain Flowers
 
 **Hide (not now, later, when you will get to the *PREPARATIONS*
-section)** - hide any file, which overwrites _Fixed Mesh Lightning_. Don’t
-worry, there will be a reference to these instructions in the
+section)** - hide any file, which overwrites _Fixed Mesh Lightning_ by
+right-clicking the mod, then choosing the *Conflicts* tab, selecting all
+the files on the *Winning file conflicts* section, where overwritten mod
+includes *Fixed Mesh Lightning*, right-clicking on them and choosing
+*Hide*. Don’t worry, there will be a reference to these instructions in the
 *PREPARATIONS* section.
 
 *Who would even like to look at vanilla mountain flowers, if we have
@@ -1896,11 +1901,7 @@ a piece of living rock.*
 
 **Main files** - Jog Sprint and Jump
 
-**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by
-right-clicking the mod, then choosing the *Conflicts* tab, selecting all
-the files on the *Winning file conflicts* section, where overwritten mod
-includes *Jump Behavior Overhaul*, right-clicking on them and choosing
-*Hide*.
+**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_.
 
 *Realistic animations for sprinting and running.*
 
