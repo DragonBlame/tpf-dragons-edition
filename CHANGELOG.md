@@ -20,7 +20,7 @@ Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undea
 
 Added _Song of the Green (Auri Follower)_ and _Song of the Green - Auri Lenka Replacer_.
 
-Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to add different interiors and exteriors' mods, but forgot to remove it from the documentation's development version and so it got to you) (was removed before the update, shoudn't affect gameplay).  
+Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to add different interiors and exteriors' mods, but forgot to remove it from the documentation's development version and so it got to you) (was removed before the update, shoudn't have affected gameplay).  
 
 ### Exteriors
 
@@ -50,6 +50,14 @@ Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
 
 Updated its placement instructions (now the separator and its mods should be between Gameplay Overhauls and Loot & Balancing seaprators of TPF).
 
+### NPC Overhauls
+
+Rewrote the part of moving patches to be more understandable.
+
+### Final Patches
+
+Changed installation instructions according to the newest changes for downloading patches.
+
 ### Preparations
 
 Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures. No longer removing clutter from the ENB mod.
@@ -58,9 +66,11 @@ Added reinstallation instructions for Skeleton Replacer HD - Patches and Finding
 
 ### Other Changes
 
-Rewrote the Nexus page of the add-on from scratch.
+Rewrote the Nexus page of the add-on from scratch (was rewritten before the update).
 
-Added Table of Contents section to the documentation.
+From now patches will be served as one mod in Main files section of the Files section on Nexus page (there will still be many separate patches inside). If there will be some kind of fix coming for seaparate patch, it will be available in Update files section. 
+
+Added Table of Contents section to the documentation (was done before the update).
 
 Updated the documentation (typos, grammar etc.).
 
