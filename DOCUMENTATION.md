@@ -794,15 +794,11 @@ directory*, click *OK*.
 
 **Main files** - Song of the Green 1.3
 
-### [Song of the Green - Auri Lenka Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/29345?tab=files)
+### [Refined Auri - Song of the Green](https://www.nexusmods.com/skyrimspecialedition/mods/36444?tab=files)
 
-**Main files** - CRB Auri Lenka Replacer SE UNP
+**Main files** - Refined Auri SSE - Pointy Teeth Update
 
-**update files** - CBBE and UNP Hotfix - v1.0 to v1.1
-
-**Optional files** - CRB Auri Lenka Replacer - Sharp Teeth Patch
-
-**Merge** - Merge all files.
+**FOMOD** - `Vanilla or UNP, Sharp Teeth, Freckles (default)`.
 
 ### [The Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733?tab=files)
 
@@ -2401,7 +2397,7 @@ ME to check things inside and make needed changes. As mentioned before, that doe
 
 ### [TPF Dragon’s Edition - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-**Main files** - TPF - Dragon’s Edition's Patches
+**Main files** - TPF Dragon’s Edition - Final Patches
 
 ---
 
