@@ -2030,8 +2030,8 @@ Sprint, Origin Dw Sprint_Type A`.
 As you probably understood (I hope), this project definitely goes over
 vanilla+ mark (of course, you are using all those mods, what do you even
 talk about...) and I understand that too. With this category of mods I
-just want Skyrim to look a little bit more classy, modern. It is a
-fantasy game with magic, dragons, other mythical creatures and so many
+just want Skyrim to look a little bit more classy, modern. It is an
+adventure game with magic, dragons, other mythical creatures and so many
 things I will have to write millions of words to describe. Do you really
 want to spend your money on a game to look at silly faces and then play
 while looking at those, when you have an option to change that? And also
@@ -2059,7 +2059,7 @@ The Ordinary Women wins the conflict on loads data of the Ordinary Women
 correctly.
 
 If you don't understand or want to know what will happen if you do
-something incorrectly, here you go. You have probably heard about the
+something incorrectly, here are some examples. You have probably heard about the
 issue once or twice - black face bug. CTDs can happen if overhaul uses
 unique body parts (like The Ordinary Women) and you enter into the place
 where this incorrect NPC is.
