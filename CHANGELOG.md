@@ -50,6 +50,10 @@ Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
 
 Updated its placement instructions (now the separator and its mods should be between Gameplay Overhauls and Loot & Balancing seaprators of TPF).
 
+### Miscellaneous
+
+Added _Animated Forge Water_.
+
 ### Skeleton & Animations
 
 Renamed Animations to _Skeleton & Animations_.
