@@ -8,7 +8,7 @@
 
 [Interface (optional)](#interface-optional)  
 [New Content](#new-content)  
-[Landscape](#landscape)  
+[Exteriors](#exteriors)  
 [Apparel & Weapons](#apparel--weapons)  
 [Gameplay Overhauls](#gameplay-overhauls)  
 [Miscellaneous](#miscellaneous)  
@@ -959,12 +959,12 @@ changes are saved.
 
 ---
 
-## Landscape
+## Exteriors
 
 Phoenix is definitely the master at choosing and mixing different landscape elements to make it as beautiful as we can experience in TPF, 
 but a few gems added in this will definitely make our surroundings even more breath-taking.  
 
-Create a separator and name it `LANDSCAPE EXTENDED` and place it
+Create a separator and name it `EXTERIORS` and place it
 directly below the *TREES & PLANTS* separator (and its mods). Change its
 colour, so that it won't be the same as TPF's ones.
 
@@ -2737,7 +2737,7 @@ change ENB files and add a good addition for it.
 At first, delete `enbcache` folder you can find in your root folder.
 
 Put *Silent Horizons ENB Addon - Solar Cleaner* right at the start of
-the add-on’s _Landscape_ section in your mod order and put it right under
+the add-on’s _Exteriors_ section in your mod order and put it right under
 *WoW Dragon Mounds CTD Fix.esp* in your plugins’ load order. Then
 Extract the main file. Open the optional folder, then depth of field
 configuration folder. Choose your favourite depth of field settings with
