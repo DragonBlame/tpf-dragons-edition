@@ -10,7 +10,7 @@
 
 Updated its placement instructions (now the separator and its mods should be between _Graphics Baseline_ and _Weather_ seaprators of TPF).
 
-Added additional instructions to remove cubemaps' files from Darkend and Sinister Seven.
+Added additional instructions to hide cubemaps' files from Darkend and The Sinister Seven.
 
 Added _Opulent Thieves Guild - USSEP Patch_.
 
