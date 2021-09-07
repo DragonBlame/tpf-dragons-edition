@@ -10,11 +10,11 @@
 [New Content](#new-content)  
 [Exteriors](#exteriors)  
 [Apparel & Weapons](#apparel--weapons)  
+[Appearance](#appearance)  
 [Gameplay Overhauls](#gameplay-overhauls)  
 [Miscellaneous](#miscellaneous)  
 [Music & Sound FX (optional)](#music--sound-fx-optional)  
-[Appearance](#appearance)  
-[Animations](#animations)  
+[Skeleton & Animations](#animations)  
 [NPC Overhauls](#npc-overhauls)  
 [Salt & Wind Hair Retextures](#salt--wind-hair-retextures)  
 [Literally Unplayable](#literally-unplayable)  
@@ -216,7 +216,7 @@ mods in Nexus Skyrim Special Edition’s page, so I hope you are hyped the
 same way as I was (and still am).
 
 Create a separator and name it `NEW CONTENT` and place it directly below
-the *WEATHER* separator (and its mods). Change its colour, so that it
+the *GRAPHICS BASELINE* separator (and its mods). Change its colour, so that it
 won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
@@ -1675,18 +1675,11 @@ Skyrim’s population and make character creation a little bit more
 interesting and even more time-consuming.
 
 Create a separator and name it `APPEARANCE EXTENDED` and place it
-directly below the *SKELETON & ANIMATIONS* separator (and its mods).
+directly below the *APPEARANCE* separator (and its mods).
 Change its colour, so that it won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
 separator in the same order.
-
-### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
-
-*When I saw Harkon for the first time, well, it was a little bit sad
-that Vampire Lord looks like a noodle. And with that mass, he probably
-looked awkward, when he used melee combat against us. Let’s separate
-Vampire Lords even more from senile ordinary vampires.*
 
 ### [Racial Body Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/20684)
 
@@ -1825,7 +1818,7 @@ character shouldn't wait for long anymore.*
 
 ---
 
-## ANIMATIONS
+## SKELETON & ANIMATIONS
 
 At first, you will need to change Simple Dual Sheath INI to make OUR
 shield appear on the back, which I believe will look much better and more immersive than vanilla placement.
@@ -1848,12 +1841,20 @@ dual sheath animations.
 `Player|FirstPerson`, then in line 38, change *DisableHideOnSit* to
 `Player|MountOnly`.
 
-Create a separator and name it `ANIMATIONS EXTENDED` and place it
+Create a separator and name it `SKELETON & ANIMATIONS EXTENDED` and place it
 directly below the *APPEARANCE EXTENDED* separator (and its mods).
 Change its colour, so that it won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
 separator in the same order.
+
+
+### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
+
+*When I saw Harkon for the first time, well, it was a little bit sad
+that Vampire Lord looks like a noodle. And with that mass, he probably
+looked awkward, when he used melee combat against us. Let’s separate
+Vampire Lords even more from senile ordinary vampires.*
 
 ### [Undeath - XPMSSE - Strange Runes - Skeleton Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50694)
 
