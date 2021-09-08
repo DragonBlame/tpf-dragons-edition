@@ -12,6 +12,8 @@ Updated its placement instructions (now the separator and its mods should be bet
 
 Added additional instructions to hide cubemaps' files from Darkend and The Sinister Seven.
 
+Updated installation instructions for Apachii Divine Elegance Store to install UNP meshes.
+
 Added _Opulent Thieves Guild - USSEP Patch_.
 
 Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixes For Grass Mods - Helgen Reborn Patch_.
@@ -27,6 +29,8 @@ Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to 
 ### Exteriors
 
 Renamed Landscape to _Exteriors_.
+
+Added _Lanterns of Skyrim II - Insects Patch_.
 
 Added _Little Touches - Stairway to The Wind District_.
 
@@ -57,6 +61,8 @@ Updated its placement instructions (now the separator and its mods should be bet
 ### Miscellaneous
 
 Added _Animated Forge Water_.
+
+Added _High Gate Ruins Puzzle Reset Fix_.
 
 ### Skeleton & Animations
 
