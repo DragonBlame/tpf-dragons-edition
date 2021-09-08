@@ -1487,16 +1487,20 @@ grow only things I consider to be immersive to be grown by player character.*
 
 *This fix is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
-### [Particle Lights for ENB - Nordic Ruins Candles](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
-
-**Main files** - Particle Lights for ENB - Nordic Ruins Candles
-
 ### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
 
 **Main files** - ENB Lava Particle Light Patch
 
 *Where is a petition that everything needs to be patched for ENB to look
 magnificent? I would have signed it.*
+
+### [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322)
+
+**Main files** - Animated Forge Water
+
+**FOMOD** - `Slower Embers HD`.
+
+*Just look at that monstrouc vanilla forge water and you won't have any questions.*
 
 ### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
