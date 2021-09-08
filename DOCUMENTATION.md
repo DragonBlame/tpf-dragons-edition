@@ -876,17 +876,17 @@ gems)
 
 **Main files** - Morskom Estate 1.2
 
-### [Windyridge - Player Home in Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/8046?tab=files)
-
-**Main files** - Windyridge - Player home in Winterhold 1.04
-
 ### [Red Rose Mill](https://www.nexusmods.com/skyrimspecialedition/mods/47117?tab=files)
 
 **Optional files** - Red Rose Mill
 
 ### [Wuth Rein](https://www.nexusmods.com/skyrimspecialedition/mods/52995?tab=files)
 
-**Main files** - Wuth Rein 
+**Main files** - Wuth Rein
+
+### [Frostwood Cabin](https://www.nexusmods.com/skyrimspecialedition/mods/52183?tab=files)
+
+**Optional files** - Frostwood Cabin ESL version
 
 ### [Interesting NPCs (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files)
 
@@ -1037,6 +1037,10 @@ Mountain Flowers
 **Main files** - AIO-LT- A Tree Placement for Whiterun City
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
+
+### [Little Touches - Stairway to The Wind District](https://www.nexusmods.com/skyrimspecialedition/mods/54936)
+
+**Main files** - Little touches-Stairway to the Wind District
 
 ---
 
@@ -1462,6 +1466,12 @@ from time to time.*
 **Main files** - High Gate Ruins Puzzle Reset Fix
 
 *For you to be able to clean High Gate Ruins again and get that loot if you will want to go through that again.*
+
+### [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
+
+**Main files** - Navigator - Navmesh Fixes
+
+*Navmesh tweaks for some dungeons.*
 
 ### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
 
