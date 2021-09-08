@@ -22,7 +22,7 @@ Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undea
 
 Added _Song of the Green (Auri Follower)_ and _Refined Auri_.
 
-Removed Windyridge - Player Home in Winterhold (for a little home mod it makes a little too much landscape edits). 
+Removed Windyridge - Player Home in Winterhold (for a little home mod it makes too many landscape edits). 
 
 Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to add different interiors and exteriors' mods, but forgot to remove it from the documentation's development version and so it got to you) (was removed before the update, shoudn't have affected gameplay).  
 
@@ -69,6 +69,10 @@ Added _High Gate Ruins Puzzle Reset Fix_.
 Renamed Animations to _Skeleton & Animations_.
 
 Moved SavrenX Vampire Lord Tank here from the Appearance section.
+
+Added _Animation Motion Revolution_.
+
+Added _Better Power Attack Direction Control_.
 
 Added _Tiny Improvement for 1st Person Crossbow Animations_.
 
