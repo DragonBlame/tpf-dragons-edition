@@ -70,6 +70,8 @@ Renamed Animations to _Skeleton & Animations_.
 
 Moved SavrenX Vampire Lord Tank here from the Appearance section.
 
+Added _Tiny Improvement for 1st Person Crossbow Animations_.
+
 ### NPC Overhauls
 
 Rewrote instructions of moving patches to be more understandable.
