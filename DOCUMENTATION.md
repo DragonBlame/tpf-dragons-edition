@@ -1463,12 +1463,6 @@ from time to time.*
 
 *For you to be able to clean High Gate Ruins again and get that loot if you will want to go through that again.*
 
-### [Animated Static Reload Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53761)
-
-**Main files** - Animated Static Reload Fix - SSE
-
-*Before if you have reloaded your save more than once, there was a possibility that animation for static items could have stopped working, so here we are.*
-
 ### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
 
 **Optional files** - More Growable Plants Simple 1.5
@@ -1872,7 +1866,7 @@ separator in the same order.
 
 **Main files** - Animation Motion Revolution
 
-_A SKSE plugin, which removes the mismatch between displacement and animations (also called as ice-skating). In other words you won't skate, while doing any animated actions._
+_A SKSE plugin, which removes the mismatch between displacement and supported animations (also called as ice-skating)._
 
 ### [Better Power Attack Direction Control](https://www.nexusmods.com/skyrimspecialedition/mods/49648)
 
