@@ -830,6 +830,8 @@ ApachiiDivineElegance_SSE\_\_Fix_AlphaRougeMale_v\_1_9
 
 **Optional files** - Apachii_DE_SSE_MaleOutfit_Meshes_Fixes
 
+**Miscellaneous files** - Apachii_Divine_Elegance_SSE_UNP_meshes_Full_v_3
+
 *I have added this to serve a resource for making different screenshots. Of
 course, you can also use all those outfits etc. to make your character
 just prettier. There are things for everyone to play with, even
@@ -970,6 +972,12 @@ colour, so that it won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
 separator in the same order.
+
+### [Lanterns of Skyrim II - Insects Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50670)
+
+**Main files** - Lanterns of Skyrim II Insects Patch (v1.1 esm)
+
+_I understand that bugs like light, but that means they should sometimes get away from all the lanterns to fly to different source of light._
 
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
