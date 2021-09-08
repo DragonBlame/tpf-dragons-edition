@@ -1457,6 +1457,18 @@ standard _Ctrl+V_ command to paste something to your console.
 thought about adding it, well, like always), which you will probably use
 from time to time.*
 
+### [High Gate Ruins Puzzle Reset Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53643)
+
+**Main files** - High Gate Ruins Puzzle Reset Fix
+
+*For you to be able to clean High Gate Ruins again and get that loot if you will want to go through that again.*
+
+### [Animated Static Reload Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53761)
+
+**Main files** - Animated Static Reload Fix - SSE
+
+*Before if you have reloaded your save more than once, there was a possibility that animation for static items could have stopped working, so here we are.*
+
 ### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
 
 **Optional files** - More Growable Plants Simple 1.5
