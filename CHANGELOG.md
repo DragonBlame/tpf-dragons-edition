@@ -66,6 +66,8 @@ Added _Navigator - Navmesh Fixes_.
 
 Added _Animated Forge Water_.
 
+Added _Less Boring Loading Screen_.
+
 ### Skeleton & Animations
 
 Renamed Animations to _Skeleton & Animations_.
