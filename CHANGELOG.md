@@ -62,6 +62,8 @@ Updated its placement instructions (now the separator and its mods should be bet
 
 Added _High Gate Ruins Puzzle Reset Fix_.
 
+Added _Navigator - Navmesh Fixes_.
+
 Added _Animated Forge Water_.
 
 ### Skeleton & Animations
