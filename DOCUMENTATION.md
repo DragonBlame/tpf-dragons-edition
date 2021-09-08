@@ -1856,6 +1856,17 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)
+
+**Main files** - Animation Motion Revolution
+
+_A SKSE plugin, which removes the mismatch between displacement and animations (also called as ice-skating). In other words you won't skate, while doing any animated actions._
+
+### [Better Power Attack Direction Control](https://www.nexusmods.com/skyrimspecialedition/mods/49648)
+
+**Main files** - Better PowerAttack Control-SSE
+
+_Another SKSE plugin, which helps your power attack to be executed by relying only on your input, but not on your character's movement direction and movement speed to be in sync with your other actions to prevent issues with other animations._
 
 ### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
 
@@ -1988,6 +1999,10 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 **FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer` two
 times, `2hm Block, 2hm Sprint`.
+
+### [Tiny Improvement for 1st Person Crossbow Animations](https://www.nexusmods.com/skyrimspecialedition/mods/49167)
+
+**Main files** - Tiny improvement for 1st-person crossbow animations
 
 ### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
