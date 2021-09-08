@@ -1542,13 +1542,17 @@ the game's root folder.
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
 
-### [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529)
+### [Less Boring Loading Screen](https://www.nexusmods.com/skyrimspecialedition/mods/55062)
 
-**Main files** - Simple Load Screens
+**Main files** - Less boring loading screen main
 
 *Replaces stale, not eye-catching loading screens with new ones with
 lore-friendly artwork of Skyrim and what it has to offer. At least
 people, who have to wait longer on them, will be pleased.*
+
+### [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529)
+
+**Main files** - Simple Load Screens
 
 ### [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
 
