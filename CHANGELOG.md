@@ -64,6 +64,8 @@ Added _Animated Forge Water_.
 
 Added _High Gate Ruins Puzzle Reset Fix_.
 
+Added _Animated Static Reload Fix_.
+
 ### Skeleton & Animations
 
 Renamed Animations to _Skeleton & Animations_.
