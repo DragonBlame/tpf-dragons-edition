@@ -20,11 +20,15 @@ Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undea
 
 Added _Song of the Green (Auri Follower)_ and _Refined Auri_.
 
+Removed Windyridge - Player Home in Winterhold (for a little home mod it makes a little too much landscape edits). 
+
 Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to add different interiors and exteriors' mods, but forgot to remove it from the documentation's development version and so it got to you) (was removed before the update, shoudn't have affected gameplay).  
 
 ### Exteriors
 
 Renamed Landscape to _Exteriors_.
+
+Added _Little Touches - Stairway to The Wind District_.
 
 Added _The Great Cities - Minor Cities and Towns_ an other soldierofwar's exterior mods and patches for them.
 
