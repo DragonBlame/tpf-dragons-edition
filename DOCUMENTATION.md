@@ -8,7 +8,8 @@
 
 [Interface (optional)](#interface-optional)  
 [New Content](#new-content)  
-[Exteriors](#exteriors)  
+[Exteriors](#exteriors)
+[Interiors](#interiors)
 [Apparel & Weapons](#apparel--weapons)  
 [Appearance](#appearance)  
 [Gameplay Overhauls](#gameplay-overhauls)  
@@ -248,10 +249,6 @@ Weapons Armor Clothing and Clutter Fixes 2.0+`.
 ### [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497?tab=files)
 
 **Main files** - Civil War Deserters
-
-### [Hearthfire - Unique Display Rooms](https://www.nexusmods.com/skyrimspecialedition/mods/4770?tab=files)
-
-**Main files** - HearthFires - Unique Special Edition Display Room
 
 ### [Serenity](https://www.nexusmods.com/skyrimspecialedition/mods/30019?tab=files)
 
@@ -1051,6 +1048,14 @@ Mountain Flowers
 ### [Little Touches - Stairway to The Wind District](https://www.nexusmods.com/skyrimspecialedition/mods/54936)
 
 **Main files** - Little touches-Stairway to the Wind District
+
+---
+
+## Interiors
+
+### [Hearthfire - Unique Display Rooms](https://www.nexusmods.com/skyrimspecialedition/mods/4770?tab=files)
+
+**Main files** - HearthFires - Unique Special Edition Display Room
 
 ---
 
