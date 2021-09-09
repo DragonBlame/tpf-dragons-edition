@@ -10,7 +10,7 @@
 
 Updated its placement instructions (now the separator and its mods should be between _Graphics Baseline_ and _Weather_ seaprators of TPF).
 
-Moved Hearthfire - Unique Display Rooms, Opulent Thieves Guild, Opulent Thieves Guild - FPS Fix, Opulent Thieves Guild Patch Collection, Dark Brotherhood Reborn - Dawnstar Sanctuary and Dark Brotherhood Reborn - Patches, Tweaks and Enhancements out to the _Interiors_ section.
+Moved Hearthfire - Unique Display Rooms out to the _Interiors_ section.
 
 Added additional instructions to hide cubemaps' files from Darkend and The Sinister Seven.
 
@@ -42,7 +42,7 @@ Added _Cities of the North_ series' mods for the The Great Cities - Minor Cities
 
 ### Interiors
 
-Moved SavrenX Vampire Lord Tank here from the New Content section.
+Moved Hearthfire - Unique Display Rooms here from the New Content section.
 
 Added almost all of JK's interior mods and patches for them (you can learn about why I haven't added all of them from the description of the new section).
 
