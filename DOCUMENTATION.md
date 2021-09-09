@@ -1158,7 +1158,7 @@ _Adds a secret room to each of HearthFire houses to display our unique loot, so 
 
 **Main files** - JKs Interiors Patch Collection
 
-**FOMOD** - Don’t change anything except in JK's Blue Palace's patches untick option for Royal Armory.
+**FOMOD** - Don’t change anything except in JK's Blue Palace's patches' section untick an option for Royal Armory's patch.
 
 ---
 
