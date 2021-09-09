@@ -1053,7 +1053,7 @@ Mountain Flowers
 
 ## Interiors
 
-Just our grand continuation of overhauling, but for interiors. This is meant more for major cities, which are already unique by themselves, to make their inns and shops feel even more like the cities these places are in. For that we will mainly use JK's interior mods as they blend pretty well and don't feel too over the place (with some exceptions, which aren't used by the add-on).  
+Just our grand continuation of overhauling, but for interiors. This is meant more for major cities, which are already unique by themselves, to make their inns and shops feel even more like the cities these places are in. For that we will mainly use JK's interior mods as they blend pretty well and don't feel too much for the corresponding place (with some exceptions, which aren't used by the add-on).  
 
 Create a separator and name it `INTERIORS EXTENDED` and place it
 directly below the *INTERIORS* separator (and its mods). Change its
@@ -1062,11 +1062,103 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-### [Hearthfire - Unique Display Rooms](https://www.nexusmods.com/skyrimspecialedition/mods/4770?tab=files)
+### [Hearthfire - Unique Display Rooms](https://www.nexusmods.com/skyrimspecialedition/mods/4770)
 
 **Main files** - HearthFires - Unique Special Edition Display Room
 
-_Adds a secret room to each of Hearthfire houses to display our unique loot, so you can consider using them this time too._
+_Adds a secret room to each of HearthFire houses to display our unique loot, so you can consider using them too this or some other time._
+
+### [JK's Sleeping Giant Inn](https://www.nexusmods.com/skyrimspecialedition/mods/35806)
+
+**Main files** - JK's Sleeping Giant Inn
+
+### [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000)
+
+**Main files** - JK's Dragonsreach
+
+### [JK's The Bannered Mare](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
+
+**Main files** - JK's The Bannered Mare
+
+### [JK's Belethor's General Goods](https://www.nexusmods.com/skyrimspecialedition/mods/33636)
+
+**Main files** - JK's Belethor's General Goods
+
+### [JK's Arcadia's Cauldron](https://www.nexusmods.com/skyrimspecialedition/mods/33565)
+
+**Main files** - JK's Arcadia's Cauldron
+
+### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991)
+
+**Main files** - JK's The Winking Skeever
+
+### [JK's Bits and Pieces](https://www.nexusmods.com/skyrimspecialedition/mods/44642)
+
+**Main files** - JK's Bits and Pieces
+
+### [JK's Radiant Raiment](https://www.nexusmods.com/skyrimspecialedition/mods/44858)
+
+**Main files** - JK's Radiant Raiment
+
+### [JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/45324)
+
+**Main files** - JK's Blue Palace
+
+### [JK's Candlehearth Hall](https://www.nexusmods.com/skyrimspecialedition/mods/45617)
+
+**Main files** - JK's Candlehearth Hall
+
+### [JK's White Phial](https://www.nexusmods.com/skyrimspecialedition/mods/47713)
+
+**Main files** - JK's White Phial
+
+### [JK's Sadris Used Wares](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
+
+**Main files** - JK's Sadris Used Wares
+
+### [JK's New Gnisis Cornerclub](https://www.nexusmods.com/skyrimspecialedition/mods/48293)
+
+**Main files** - JK's New Gnisis Cornerclub
+
+### [JK's Palace of the Kings](https://www.nexusmods.com/skyrimspecialedition/mods/48902)
+
+**Main files** - JK's Palace of the Kings
+
+### [JK's The Bee and Barb](https://www.nexusmods.com/skyrimspecialedition/mods/49516)
+
+**Main files** - JK's The Bee and Barb
+
+### [JK's Elgrims Elixirs](https://www.nexusmods.com/skyrimspecialedition/mods/49934)
+
+**Main files** - JK's Elgrims Elixirs
+
+**Optional files** - JK's Elgrims Elixirs - Bee and Barb Patch
+
+### [JK's The Pawned Prawn](https://www.nexusmods.com/skyrimspecialedition/mods/50135)
+
+**Main files** - JK's The Pawned Prawn
+
+### [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
+
+**Main files** - JK's Mistveil Keep
+
+### [JK's The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
+
+**Main files** - JK's The Temple of Mara
+
+### [JK's Arnleif and Sons Trading Company](https://www.nexusmods.com/skyrimspecialedition/mods/54166)
+
+**Main files** - JK's Arnleif and Sons Trading Company
+
+### [JK's Silver-Blood Inn](https://www.nexusmods.com/skyrimspecialedition/mods/53554)
+
+**Main files** - JK's Silver-Blood Inn
+
+### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+
+**Main files** - JKs Interiors Patch Collection
+
+**FOMOD** - Don’t change anything except in JK's Blue Palace's patches untick option for Royal Armory.
 
 ---
 
