@@ -1489,13 +1489,15 @@ grow only things I consider to be immersive to be grown by player character.*
 
 **Main files** - More Growable Plants_3D Mountain Flowers patch
 
-### [Enhanced Blood Textures - ENB Fix](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
+### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 
-**Main files** - enb square test alpha test test file v31
+**Miscellaneous files** - Enhanced Blood Textures 4.0 beta
 
-**Delete** - Remove `dD-Larger Splatter Size.esp` and `dD-Reduced Splatter Size.esp`.
+**Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
 
-*This fix is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
+**FOMOD** - `Medium, Reduced Wound Size (Optional), EBT - Default, Reduced Res / Default Color` two times.
+
+*New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
 ### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
 
@@ -1542,17 +1544,13 @@ the game's root folder.
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
 
-### [Less Boring Loading Screen](https://www.nexusmods.com/skyrimspecialedition/mods/55062)
+### [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529)
 
-**Main files** - Less boring loading screen main
+**Main files** - Simple Load Screens
 
 *Replaces stale, not eye-catching loading screens with new ones with
 lore-friendly artwork of Skyrim and what it has to offer. At least
 people, who have to wait longer on them, will be pleased.*
-
-### [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529)
-
-**Main files** - Simple Load Screens
 
 ### [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
 
