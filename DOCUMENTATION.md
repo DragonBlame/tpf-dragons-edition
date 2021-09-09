@@ -1512,7 +1512,7 @@ magnificent? I would have signed it.*
 
 **FOMOD** - `Slower Embers HD`.
 
-*Just look at that monstrouc vanilla forge water and you won't have any questions.*
+*Just look at that monstrous vanilla forge water and you won't have any questions.*
 
 ### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
