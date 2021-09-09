@@ -562,7 +562,7 @@ v2.4.0
 **Hide** - hide `shinyglass_e2.dds` by right-clicking
 the mod, then choosing the _Conflicts_ tab, selecting two files on the
 _Winning file conflicts_ section, right-clicking on them and choosing
-_Hide_.*
+_Hide_.
 
 ### [Darkend Balance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/29213?tab=files)
 
@@ -1053,9 +1053,20 @@ Mountain Flowers
 
 ## Interiors
 
+Just our grand continuation of overhauling, but for interiors. This is meant more for major cities, which are already unique by themselves, to make their inns and shops feel even more like the cities these places are in. For that we will mainly use JK's interior mods as they blend pretty well and don't feel too over the place (with some exceptions, which aren't used by the add-on).  
+
+Create a separator and name it `INTERIORS EXTENDED` and place it
+directly below the *INTERIORS* separator (and its mods). Change its
+colour, so that it won't be the same as TPF's ones.
+
+All of the following mods in this category will be placed under this
+separator in the same order.
+
 ### [Hearthfire - Unique Display Rooms](https://www.nexusmods.com/skyrimspecialedition/mods/4770?tab=files)
 
 **Main files** - HearthFires - Unique Special Edition Display Room
+
+_Adds a secret room to each of Hearthfire houses to display our unique loot, so you can consider using them this time too._
 
 ---
 
