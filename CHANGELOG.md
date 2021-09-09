@@ -60,6 +60,8 @@ Updated its placement instructions (now the separator and its mods should be bet
 
 ### Miscellaneous
 
+Changed installation instructions for Enhanced Blood Textures.
+
 Added _High Gate Ruins Puzzle Reset Fix_.
 
 Added _Navigator - Navmesh Fixes_.
