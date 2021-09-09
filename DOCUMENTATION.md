@@ -1049,6 +1049,18 @@ Mountain Flowers
 
 **Main files** - Little touches-Stairway to the Wind District
 
+### [The Great Cities - Minor Cities and Towns](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
+
+**Main files** - The Great Cities - Resources
+
+**Main files** - The Great Cities 2.01
+
+_I have always felt that all minor cities and towns look pretty much the same. Considering all these places have their own stories and tales to tell, that isn't right at all, so we just have to change that._
+
+### [Landscape Fixes For Grass Mods - The Great Cities - Minor Cities and Towns Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
+
+**Optional files** - Patches for The Great Cities and Towns
+
 ---
 
 ## Interiors
