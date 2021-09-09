@@ -10,6 +10,8 @@
 
 Updated its placement instructions (now the separator and its mods should be between _Graphics Baseline_ and _Weather_ seaprators of TPF).
 
+Moved Hearthfire - Unique Display Rooms, Opulent Thieves Guild, Opulent Thieves Guild - FPS Fix, Opulent Thieves Guild Patch Collection, Dark Brotherhood Reborn - Dawnstar Sanctuary and Dark Brotherhood Reborn - Patches, Tweaks and Enhancements out to the _Interiors_ section.
+
 Added additional instructions to hide cubemaps' files from Darkend and The Sinister Seven.
 
 Updated installation instructions for Apachii Divine Elegance Store to install UNP meshes.
@@ -39,6 +41,8 @@ Added _The Great Cities - Minor Cities and Towns_ an other soldierofwar's exteri
 Added _Cities of the North_ series' mods for the The Great Cities - Minor Cities and Towns and patches for them.
 
 ### Interiors
+
+Moved SavrenX Vampire Lord Tank here from the New Content section.
 
 Added almost all of JK's interior mods and patches for them (you can learn about why I haven't added all of them from the description of the new section).
 
@@ -108,11 +112,7 @@ Updated the documentation (typos, grammar etc.).
 
 Changed some older pictures in the documentation to feature the newest additions. Changed sizes of some pictures.
 
-Added _TPF Dragon's Edition - Interiors Patch_, _TPF Dragon's Edition - Exteriors Patch_ and _TPF Dragon's Edition - Exteriors and NPC Overhauls Patch_.
-
-Removed TPF Dragon's Edition - Landscape Patch.
-
-Updated TPF Dragon's Edition - New Content Patch, TPF Dragon's Edition - New Content and Gameplay Overhauls Patch and TPF Dragon's Edition's Patch.
+Updated and added new patches.
 
 Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
 
