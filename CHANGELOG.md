@@ -132,6 +132,8 @@ C.O.I.N. - Coins of Interesting Natures
 
 Diziet's Auto Outfits
 
+Sweeping Organizes Stuff - Use Broom to Clean Mess
+
 Vampire Lord - Animation Replacer
 
 Feminine Argonian Textures
