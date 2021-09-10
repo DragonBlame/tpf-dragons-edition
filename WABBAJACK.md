@@ -42,7 +42,7 @@ You will have 4 available profiles in your installation, so you can play both TP
 Change profiles by clicking on an already active profile and choosing another profile.
 ![image](https://user-images.githubusercontent.com/37147270/130832038-50afb4cc-09d9-4227-97e6-9ee83bc98fca.png)
 
-While following the main documentation of the add-on, users have a choice to use or not to use two sections' mods, which are [_Interface_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#interface-optional) section and [_Music & Sound FX_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#music--sound-fx-optional) section. For Wabbajack users two of those sections are enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions in the documentation.
+While following the main documentation of the add-on, users have a choice to use or not to use two sections' mods, which are [_Interface_](DOCUMENTATION.md#interface-optional) section and [_Music & Sound FX_](DOCUMENTATION.md#music--sound-fx-optional) section. For Wabbajack users two of those sections are enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions in the documentation.
 
 Some mods of TPF are disabled in both of my add-on's profiles. Those are:
   - _Adamant - Shrines and Amulets_ in TPF's _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_ in the TPF's _Miscellaneous_ section, because they both conflict with a mod in our _Gameplay Overhauls_ section called _Pilgrim - A Religion Overhaul_. Don't worry about the last disabled mod, shrines still don't cure diseases with Pilgrim.
@@ -51,7 +51,7 @@ Some mods of TPF are disabled in both of my add-on's profiles. Those are:
 
 If you won't use Silent Horizons ENB, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
 
-Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/DOCUMENTATION.md#configurations) section of the documentation.
+Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](DOCUMENTATION.md#configurations) section of the documentation.
 
 I hope everything was easy to understand at this point! :)
 
