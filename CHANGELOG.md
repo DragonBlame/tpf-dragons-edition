@@ -100,6 +100,8 @@ Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights 
 
 Added reinstallation instructions for Skeleton Replacer HD - Patches.
 
+Added instructions for Blade and Bunt - Vanilla Difficulty Modifiers' users.
+
 ### Other Changes
 
 Rewrote the Nexus page of the add-on from scratch (was rewritten before the update).
