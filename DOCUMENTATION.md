@@ -1047,7 +1047,7 @@ Mountain Flowers
 
 ### [Little Touches - Stairway to The Wind District](https://www.nexusmods.com/skyrimspecialedition/mods/54936)
 
-**Main files** - Little touches-Stairway to the Wind District
+**Main files** - LT-Stairway_to_The_Wind_District_Fixed
 
 ### [The Great Cities - Minor Cities and Towns](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
 
