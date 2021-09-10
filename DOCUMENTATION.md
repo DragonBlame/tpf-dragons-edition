@@ -170,11 +170,11 @@ it transparent.*
 have read and it tells you about which kind of skill you can level by
 reading book.*
 
-### [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220)
+### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722)
 
-**Main files** - Alternate Conversation Camera
+**Main files** - Alternate Conversation Camera Plus
 
-**INI** - In line 51, change _bLetterBox_ to `0`, in line 68, change _bHideDialogueMenu_ to `1`.
+**INI** - In line 51, change _bLetterBox_ to `0`.
 
 *Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
