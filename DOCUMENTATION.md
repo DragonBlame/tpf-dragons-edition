@@ -2678,6 +2678,8 @@ I hope you remember what to do with this. If no - open the archive and
 extract the _loadorder.txt_ to _Mod Organizer 2\profiles\The Phoenix
 Flavour - Dragon’s Edition_.
 
+If you are using Blade and Bunt - Vanilla Difficulty Modifiers, manually move its plugin on the right side of MO2 right after Blade and Blunt - A Combat Overhaul's plugin _BladeAndBlunt.esp_.
+
 ---
 
 ## Configurations
