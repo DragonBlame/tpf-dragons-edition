@@ -6,6 +6,10 @@
 
 > xx.09.2021.
 
+### Interface
+
+Removed Alternate Conversation Camera. Added _Alternate Conversation Camera Plus_.
+
 ### New Content
 
 Updated its placement instructions (now the separator and its mods should be between _Graphics Baseline_ and _Weather_ seaprators of TPF).
