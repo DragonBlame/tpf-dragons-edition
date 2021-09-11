@@ -1061,6 +1061,32 @@ _I have always felt that all minor cities and towns look pretty much the same. C
 
 **Optional files** - Patches for The Great Cities and Towns
 
+### [Cities of the North - Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168)
+
+**Main files** - Cities of the North - Morthal
+
+### [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34168)
+
+**Main files** - COTN Morthal Patch Collection
+
+**FOMOD** - `The Great Cities, Finding Helgi and Laelette`, don't change anything after those two.
+
+### [Cities of the North - Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952)
+
+**Main files** - Cities of the North - Dawnstar
+
+**Update files** - Cities of the North - Dawnstar (UPDATE 1.2)
+
+**Merge** - Merge both files.
+
+### [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)
+
+**Main files** - COTN Dawnstar Patch Collection
+
+**FOMOD** - `The Great Cities - Minor Cities and Towns, Lanterns of Skyrim`, don't change anything else.
+
+
+
 ---
 
 ## Interiors
