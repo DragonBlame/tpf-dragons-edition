@@ -1708,6 +1708,10 @@ looting Nazeem's house.*
 lore-friendly artwork of Skyrim and what it has to offer. At least
 people, who have to wait longer on them, will be pleased.*
 
+### [Less Boring Loading Screen](https://www.nexusmods.com/skyrimspecialedition/mods/55062)
+
+**Main files** - Less boring loading screen main
+
 ### [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
 
 **Main files** - Look what you see
