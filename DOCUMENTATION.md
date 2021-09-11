@@ -1069,7 +1069,8 @@ _I have always felt that all minor cities and towns look pretty much the same. C
 
 **Main files** - COTN Morthal Patch Collection
 
-**FOMOD** - `The Great Cities, Finding Helgi and Laelette`, don't change anything after those two.
+**FOMOD** - `The Great Cities, Finding Helgi and Laelette, Interesting NPCs, AI Overhaul, Book Covers Skyrim, Clockwork, Immersive Patrols II, Kaidan 2, Landscape and Water Fixes,
+Lanterns of Skyrim II`.
 
 ### [Cities of the North - Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952)
 
@@ -1083,9 +1084,17 @@ _I have always felt that all minor cities and towns look pretty much the same. C
 
 **Main files** - COTN Dawnstar Patch Collection
 
-**FOMOD** - `The Great Cities - Minor Cities and Towns, Lanterns of Skyrim`, don't change anything else.
+**FOMOD** - `The Great Cities - Minor Cities and Towns, AI Overhau, Clockwork, Helgen Reborn, Interesting NPCs, Morskom Estate, Lanterns of Skyrim II`.
 
+### [Cities of the North - Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088)
 
+**Main files** - Cities of the North - Winterhold
+
+### [Cities of the North - Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/40181)
+
+**Main files** - COTN Winterhold Patch Collection
+
+**FOMOD** - `3DNPC, Interesting NPCs, AI Overhaul, Embers HD, The Great Cities - Minor Cities and Towns`, for Landscape and Water Fixes and Lanterns of Skyrim II - `Non-JK`.
 
 ---
 
