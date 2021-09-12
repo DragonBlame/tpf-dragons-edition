@@ -1563,6 +1563,12 @@ for spending these.*
 
 *Quality of life changes for Agni’s training session.*
 
+### [Sensible Bribes](https://www.nexusmods.com/skyrimspecialedition/mods/55450)
+
+**Main files** - Sensible Bribes
+
+*Makes bribe option in dialogues actually depend on your speech skill, so you will have to pay a fortune if you aren't skilled with your words enough.*
+
 ---
 
 ## Miscellaneous
