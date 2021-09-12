@@ -126,6 +126,8 @@ Updated and added new patches.
 
 Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
 
+Fixed black face issue for two NPCs by generating facegen for them.
+
 ### Wabbajack
 
 Updated instructions for Silent Horizons ENB Addon - Solar Cleaner to move it right below the updated Exteriors section.
