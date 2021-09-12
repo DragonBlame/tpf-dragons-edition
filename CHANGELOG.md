@@ -68,6 +68,8 @@ Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
 
 Updated its placement instructions (now the separator and its mods should be between Gameplay Overhauls and Loot & Balancing seaprators of TPF).
 
+Added _Sensible Bribes_.
+
 ### Miscellaneous
 
 Changed installation instructions for Enhanced Blood Textures.
