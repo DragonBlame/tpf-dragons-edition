@@ -130,6 +130,8 @@ Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Ou
 
 Updated instructions for Silent Horizons ENB Addon - Solar Cleaner to move it right below the updated Exteriors section.
 
+Added information about another two disabled TPF's mods.
+
 ### Updated Add-on's Mods for Wabbajack Users
 
 Hammet's Dungeons - Misc Patches
