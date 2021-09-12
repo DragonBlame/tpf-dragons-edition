@@ -132,6 +132,8 @@ Updated instructions for Silent Horizons ENB Addon - Solar Cleaner to move it ri
 
 Hammet's Dungeons - Misc Patches
 
+Pilgrim - A Religion Overhaul
+
 C.O.I.N. - Coins of Interesting Natures
 
 Diziet's Auto Outfits
