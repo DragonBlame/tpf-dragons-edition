@@ -1144,11 +1144,23 @@ Lanterns of Skyrim II`.
 
 **Main files** - The Great Village of Mixwater Mill 1.1
 
+**Optional files** - 3DNPC-TGCoMM Patch by WiZkiD
+
 ### [The Great Village of Mixwater Mill Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37414)
 
 **Main files** - The Great Village of Mixwater Mill Patch Collection
 
 **FOMOD** - `Landscape and Water Fixes, Lanterns of Skyrim II, Unofficial Skyrim Special Edition Patch`.
+
+### [The Great Village of Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639)
+
+**Main files** - The Great Village of Kynesgrove 1.1
+
+### [The Great Village of Kynesgrove Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/42957)
+
+**Main files** - The Great Village of Kynesgrove Patch Collection
+
+**FOMOD** - `Interesting NPCs - #DNPC, AI Overhaul SSE, Inigo, Landscape and Water Fixes, Lanterns of Skyrim II, Unofficial Skyrim Special Edition Patch`.
 
 ---
 
