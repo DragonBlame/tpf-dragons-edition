@@ -1100,6 +1100,56 @@ Lanterns of Skyrim II`.
 
 **Main files** - Winterhold Keep Tweaks for COTN
 
+### [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032)
+
+**Main files** - The Great Town of Karthwasten 1.2
+
+### [The Great Town of Karthwasten Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37471)
+
+**Main files** - The Great Town of Karthwasten Patch Collection
+
+**FOMOD** - `3DNPC, AI Overhaul SSE, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
+
+### [The Great Village of Old Hroldan](https://www.nexusmods.com/skyrimspecialedition/mods/33189)
+
+**Main files** - The Great Village of Old Hroldan 1.03
+
+### [The Great Village of Old Hroldan Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37650)
+
+**Main files** - The Great Village of Old Hroldan Patch Collection
+
+**FOMOD** - `3DNPC, AI Overhaul SSE, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP, Embers HD.esp`.
+
+### [The Great Town of Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505)
+
+**Main files** - The Great Town of Ivarstead SSE 1.2
+
+### [The Great Town of Ivarstead Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/36380)
+
+**Main files** - Great Town of Karthwasten Patch Collection
+
+**FOMOD** - `3DNPC, AI Overhaul SSE, Embers HD, Landscape and Water Fixes, Landscape Grass Fix, Realistic Water Two, Unofficial Skyrim Special Edition Patch, Lanterns of Skyrim II`, Kaidan 2 - `Non-JK`.
+
+### [The Great Town of Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977)
+
+**Main files** - The Great Town of Shor's Stone 1.04
+
+### [The Great Town of Shor's Stone Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/36462)
+
+**Main files** - Great Town of Shor's Stone Patch Collection
+
+**FOMOD** - `AI Overhaul, Embers HD, Lanterns of Skyrim II, Unofficial Skyrim Special Edition Patch`.
+
+### [The Great Village of Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350)
+
+**Main files** - The Great Village of Mixwater Mill 1.1
+
+### [The Great Village of Mixwater Mill Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37414)
+
+**Main files** - The Great Village of Mixwater Mill Patch Collection
+
+**FOMOD** - `Landscape and Water Fixes, Lanterns of Skyrim II, Unofficial Skyrim Special Edition Patch`.
+
 ---
 
 ## Interiors
