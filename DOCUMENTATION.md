@@ -1092,6 +1092,8 @@ Lanterns of Skyrim II`.
 
 **Main files** - Cities of the North - Winterhold
 
+**Optional files** - Skyrim 3D Signs Patch
+
 ### [Cities of the North - Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/40181)
 
 **Main files** - COTN Winterhold Patch Collection
