@@ -16,6 +16,8 @@ Updated its placement instructions (now the separator and its mods should be bet
 
 Moved Hearthfire - Unique Display Rooms out to the _Interiors_ section.
 
+Changed FOMOD instructions for Obscure's College of Winterhold.
+
 Added additional instructions to hide cubemaps' files from Darkend and The Sinister Seven.
 
 Updated installation instructions for Apachii Divine Elegance Store to install UNP meshes.
