@@ -1086,7 +1086,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - COTN Dawnstar Patch Collection
 
-**FOMOD** - `The Great Cities - Minor Cities and Towns, AI Overhau, Clockwork, Helgen Reborn, Interesting NPCs, Morskom Estate, Lanterns of Skyrim II`.
+**FOMOD** - `The Great Cities - Minor Cities and Towns, AI Overhaul, Clockwork, Helgen Reborn, Interesting NPCs, Morskom Estate, Lanterns of Skyrim II`.
 
 ### [Cities of the North - Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088)
 
@@ -1098,7 +1098,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - COTN Winterhold Patch Collection
 
-**FOMOD** - `3DNPC, Interesting NPCs, AI Overhaul, Embers HD, The Great Cities - Minor Cities and Towns`, for Landscape and Water Fixes and Lanterns of Skyrim II - `Non-JK`.
+**FOMOD** - `3DNPC - Interesting NPCs, AI Overhaul, Embers HD, The Great Cities - Minor Cities and Towns`, for Landscape and Water Fixes and Lanterns of Skyrim II - `Non-JK`.
 
 ### [Winterhold Keep Tweaks for COTN](https://www.nexusmods.com/skyrimspecialedition/mods/52371)
 
