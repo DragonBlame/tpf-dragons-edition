@@ -236,7 +236,7 @@ New Music Plus Vanilla Music, Relighting Skyrim, Book Covers Skyrim,
 Quests are in Skyrim, Audio Overhaul, Artifacts - The Tournament of the
 Ten Bloods, Interesting NPCs, Mysticism - A Magic Overhaul, The Tools of
 Kagrenac, Viewable Faction Ranks, WACCF - Armor and Clothing Extension,
-Weapons Armor Clothing and Clutter Fixes 2.0+`.
+Weapons Armor Clothing and Clutter Fixes 2.0+, The Great Cities - Minor Cities and Towns`.
 
 ### [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143?tab=files)
 
