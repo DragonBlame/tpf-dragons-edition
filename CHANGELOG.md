@@ -126,6 +126,8 @@ Updated the documentation (typos, grammar etc.).
 
 Changed some older pictures in the documentation to feature the newest additions. Changed sizes of some pictures.
 
+Updated information for the newest version of The Grand Paladin - 2021 in the gameplay guide.
+
 Updated and added new patches.
 
 Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
