@@ -90,6 +90,8 @@ Renamed Animations to _Skeleton & Animations_.
 
 Moved SavrenX Vampire Lord Tank here from the Appearance section.
 
+Updated installation instructions for Vampire Lord - Animation Replacer.
+
 Added _Animation Motion Revolution_.
 
 Added _Better Power Attack Direction Control_.
