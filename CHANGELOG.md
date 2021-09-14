@@ -140,7 +140,11 @@ Added information about another two disabled TPF's mods.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+The Grand Paladin - 2021
+
 Hammet's Dungeons - Misc Patches
+
+Feminine Argonian Textures
 
 Pilgrim - A Religion Overhaul
 
@@ -151,8 +155,6 @@ Diziet's Auto Outfits
 Sweeping Organizes Stuff - Use Broom to Clean Mess
 
 Vampire Lord - Animation Replacer
-
-Feminine Argonian Textures
 
 ---
 
