@@ -146,6 +146,8 @@ The Grand Paladin - 2021
 
 Hammet's Dungeons - Misc Patches
 
+Masculine Khajiit Textures
+
 Feminine Argonian Textures
 
 Pilgrim - A Religion Overhaul
