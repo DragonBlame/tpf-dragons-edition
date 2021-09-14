@@ -92,6 +92,8 @@ Moved SavrenX Vampire Lord Tank here from the Appearance section.
 
 Updated installation instructions for Vampire Lord - Animation Replacer.
 
+Added additional instructions for Conditional Expressions - Subtle Face Animations.
+
 Added _Animation Motion Revolution_.
 
 Added _Better Power Attack Direction Control_.
@@ -159,6 +161,8 @@ Diziet's Auto Outfits
 Sweeping Organizes Stuff - Use Broom to Clean Mess
 
 Vampire Lord - Animation Replacer
+
+Conditional Expressions - Subtle Face Animations
 
 ---
 
