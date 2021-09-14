@@ -1604,7 +1604,7 @@ description of the mod.*
 **Main files** - NoLockPicking v2
 
 *Removes the lock picking mini-game (annoying) from the game and now
-actually uses your lockpicking skill to open doors and chests.*
+actually uses your lockpicking skill to open doors and chests. Your lockpicks' breaking rate is also being affected by your skills.*
 
 ### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
 
