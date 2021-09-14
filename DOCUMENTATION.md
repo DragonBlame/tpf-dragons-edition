@@ -3136,7 +3136,8 @@ to be prepared before venturing into the quest with some potions and
 arrows if you are an archer.
 
 **The Grand Paladin** - After reading a book *The Grand Paladin* in Bards
-College or Skaal's Village Great Hall. Having more than 300 health is
+College or Skaal's Village Great Hall and after
+finishing the main quest *Dragon Rising*. Having more than 300 health is
 highly recommended. PC must be able to shout, very hard mod.
 
 **The Final Cataclysm** - Automatically after reaching level 50 and after
