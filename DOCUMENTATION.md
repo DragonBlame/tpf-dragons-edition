@@ -1405,7 +1405,7 @@ you a choice to make in FOMOD.*
 
 ### [Masculine Khajiit Textures](https://www.nexusmods.com/skyrimspecialedition/mods/186)
 
-**Main files** - Grey Cat and Leopard Vanilla v1.1 - 4K Res Pack
+**Main files** - Masculine Grey Cat and Leopard (Vanilla) 4K
 
 **FOMOD** - `Grey Cat, Abs`.
 
