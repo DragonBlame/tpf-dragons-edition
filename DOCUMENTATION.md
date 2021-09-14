@@ -1275,7 +1275,7 @@ _Adds a secret room to each of HearthFire houses to display our unique loot, so 
 
 **Main files** - JKs Interiors Patch Collection
 
-**FOMOD** - Don’t change anything except in JK's Blue Palace's patches' section untick an option for Royal Armory's patch.
+**FOMOD** - In 1st page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, JK's Arcadia's Cauldron - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul`, **untick** `Royal Armory`, `3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Mistveil Keep's **miscellaneous patches** - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP`, JK's Sadri's Used Wares - `3DNPC, Armor and Clothing Extension`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul`, JK's Sleeping Giant Inn - `AI Overhaul, 3DNPC`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Winking Skeever - `AI Overhaul, USSEP, 3DNPC`.
 
 ---
 
