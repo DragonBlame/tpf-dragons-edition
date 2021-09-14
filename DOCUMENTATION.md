@@ -623,7 +623,7 @@ Crafting Patch
 
 **Optional files** - Gray Fox Flora Overhaul Tree Billboard LODGEN Kit
 
-**Instructions** - download the optional file manually and drop it into
+**Instructions** - Download the optional file manually and drop it into
 your *MO2 Downloads* folder, the file will appear in your *Downloads*
 tab in MO2, right click on it and select *Query Info*, then merge the
 file with the main one.
@@ -2183,9 +2183,9 @@ appear out of thin air, so here we go.*
 
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
-**Instructions** - Download the mod manually.
-
 **Main files** - Conditional Expressions
+
+**Instructions** - Download the main file manually and drop it into your MO2 Downloads folder, the file will appear in your Downloads tab in MO2, right click on it and select Query Info, then install it as always.
 
 *Gives our character a bit of emotions, to finally make us not look like
 a piece of living rock.*
