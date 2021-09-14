@@ -2183,6 +2183,8 @@ appear out of thin air, so here we go.*
 
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
+**Instructions** - Download the mod manually.
+
 **Main files** - Conditional Expressions
 
 *Gives our character a bit of emotions, to finally make us not look like
