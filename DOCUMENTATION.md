@@ -2175,7 +2175,9 @@ appear out of thin air, so here we go.*
 
 ### [Vampire Lord - Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/54441)
 
-**Main files** - VLSE
+**Main files** - VL_AR
+
+**Instructions** - Install the mod, double click on _SE_, then right-click _Data_ folder and select _Set as data directory_, click _OK_.
 
 *You can even see wings actually moving, while we are flying. A must have mod.*
 
