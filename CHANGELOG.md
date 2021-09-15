@@ -2,6 +2,174 @@
 
 # Changelog
 
+## Version 1.6.
+
+> 15.09.2021.
+
+### Interface
+
+Removed Alternate Conversation Camera. Added _Alternate Conversation Camera Plus_.
+
+### New Content
+
+Updated its placement instructions (now the separator and its mods should be between _Graphics Baseline_ and _Weather_ seaprators of TPF).
+
+Moved Hearthfire - Unique Display Rooms out to the _Interiors_ section.
+
+Changed FOMOD instructions for Obscure's College of Winterhold.
+
+Added additional instructions to hide cubemaps' files from Darkend and The Sinister Seven.
+
+Updated installation instructions for Apachii Divine Elegance Store to install UNP meshes.
+
+Added _Opulent Thieves Guild - USSEP Patch_.
+
+Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixes For Grass Mods - Helgen Reborn Patch_.
+
+Added _Skeleton Replacer HD - Clockwork Patch_ and _Skeleton Replacer HD - Undeath Patch_.
+
+Added _Song of the Green (Auri Follower)_ and _Refined Auri_.
+
+Added _Frostwood Cabin_.
+
+Removed Windyridge - Player Home in Winterhold (for a little home mod it makes too many landscape edits, but it was great). 
+
+Removed Farmhouse Chimneys (I actually didn't want to add it after I decided to add different interiors and exteriors' mods, but forgot to remove it from the documentation's development version and so it got to you) (was removed before the update, shoudn't have affected gameplay).  
+
+### Exteriors
+
+Renamed Landscape to _Exteriors_.
+
+Added _Lanterns of Skyrim II - Insects Patch_.
+
+Added _Little Touches - Stairway to The Wind District_.
+
+Added _The Great Cities - Minor Cities and Towns_ an other soldierofwar's exterior mods and patches for them.
+
+Added _Cities of the North_ series' mods for the The Great Cities - Minor Cities and Towns and patches for them.
+
+### Interiors
+
+Moved Hearthfire - Unique Display Rooms here from the New Content section.
+
+Added almost all of JK's interior mods and patches for them (you can learn about why I haven't added all of them from the description of the new section).
+
+### Appearance
+
+Updated its placement instructions (now the separator and its mods should be between Appearance and Gameplay Overhauls seaprators of TPF).
+
+Moved SavrenX Vampire Lord Tank out to the _Skeleton & Animations_ section.
+
+Updated download instructions for Masculine Khajiit Textures, Masculine Argonian Textures, Feminine Khajiit Textures and Feminine Argonian Textures to use 4K versions.
+
+Updated download instructions for Feminine Khajiit Textures and Feminine Argonian Textures to use UNP versions.
+
+Removed Just No Tails. Added _Equipable Beast Tails - HDT SMP (Physics)_.
+
+### Gameplay Overhauls
+
+Updated its placement instructions (now the separator and its mods should be between Gameplay Overhauls and Loot & Balancing seaprators of TPF).
+
+Added _Sensible Bribes_.
+
+### Miscellaneous
+
+Changed installation instructions for Enhanced Blood Textures.
+
+Added _High Gate Ruins Puzzle Reset Fix_.
+
+Added _Navigator - Navmesh Fixes_.
+
+Added _Animated Forge Water_.
+
+Added _Less Boring Loading Screen_.
+
+Removed _Bright Waterfall Fix_ as it was added to TPF.
+
+### Skeleton & Animations
+
+Renamed Animations to _Skeleton & Animations_.
+
+Moved SavrenX Vampire Lord Tank here from the Appearance section.
+
+Updated installation instructions for Vampire Lord - Animation Replacer.
+
+Added additional instructions for Conditional Expressions - Subtle Face Animations.
+
+Added _Animation Motion Revolution_.
+
+Added _Better Power Attack Direction Control_.
+
+Added _Tiny Improvement for 1st Person Crossbow Animations_.
+
+### NPC Overhauls
+
+Rewrote instructions of moving patches to be more understandable.
+
+### Final Patches
+
+Changed installation instructions according to the newest changes for downloading patches.
+
+### Preparations
+
+Updated reintstallation instructions for Latnerns of Skyrim and Particle Lights For ENB - Undead Creatures.
+
+Added reinstallation instructions for Skeleton Replacer HD - Patches.
+
+Added instructions for Blade and Bunt - Vanilla Difficulty Modifiers' users.
+
+### Other Changes
+
+Rewrote the Nexus page of the add-on from scratch (was rewritten before the update).
+
+From now patches will be served as one mod in Main files section of the Files section on Nexus page (there will still be many separate patches inside). If there will be some kind of fix coming for seaparate patch, it will be available in Update files section. 
+
+Added Table of Contents section to the documentation (was done before the update).
+
+Updated the documentation (typos, grammar etc.).
+
+Changed some older pictures in the documentation to feature the newest additions. Changed sizes of some pictures.
+
+Updated information for the newest version of The Grand Paladin - 2021 in the gameplay guide.
+
+Updated and added new patches.
+
+Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
+
+Fixed black face issue for two NPCs by generating facegen for them.
+
+Removed the alternate start patch from the _Alternate Start_ section, because it is now together will all other patches.
+
+### Wabbajack
+
+Updated instructions for Silent Horizons ENB Addon - Solar Cleaner to move it right below the updated Exteriors section.
+
+Added information about another two disabled TPF's mods.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+The Grand Paladin - 2021
+
+Hammet's Dungeons - Misc Patches
+
+Masculine Khajiit Textures
+
+Feminine Argonian Textures
+
+Pilgrim - A Religion Overhaul
+
+C.O.I.N. - Coins of Interesting Natures
+
+Diziet's Auto Outfits
+
+Sweeping Organizes Stuff - Use Broom to Clean Mess
+
+Vampire Lord - Animation Replacer
+
+Conditional Expressions - Subtle Face Animations
+
+---
+
 ## Version 1.5.1.
 
 > 31.08.2021.
