@@ -124,7 +124,7 @@ Added instructions for Blade and Bunt - Vanilla Difficulty Modifiers' users.
 
 Rewrote the Nexus page of the add-on from scratch (was rewritten before the update).
 
-From now patches will be served as one mod in Main files section of the Files section on Nexus page (there will still be many separate patches inside). If there will be some kind of fix coming for seaparate patch, it will be available in Update files section. 
+From now on patches will be served as one mod in Main files section of the Files section on Nexus page (there will still be many separate patches inside). If there will be some kind of fix coming for separate patch, it will be available in Update files section. 
 
 Added Table of Contents section to the documentation (was done before the update).
 
@@ -136,7 +136,7 @@ Updated information for the newest version of The Grand Paladin - 2021 in the ga
 
 Updated and added new patches.
 
-Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
+Updated TPF Dragon's Edition - Nemesis Output, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
 
 Fixed black face issue for two NPCs by generating facegen for them.
 
