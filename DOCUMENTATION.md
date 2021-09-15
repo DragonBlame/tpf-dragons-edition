@@ -992,8 +992,10 @@ _I understand that bugs like light, but that means they should sometimes get awa
 Compatible ESM Version
 
 **Hide (not now, later, when you will get to the *PREPARATIONS*
-section)** - hide `JuniperBush.nif` and `SloeBush.nif`. Don’t
-worry, there will be a reference to these instructions in the
+section)** - Hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
+the mod, then choosing the _Conflicts_ tab, selecting two files on the
+_Winning file conflicts_ section, right-clicking on them and choosing
+_Hide_.* Don’t worry, there will be a reference to these instructions in the
 *PREPARATIONS* section.
 
 *Adds different beautiful hand-placed flowers and plants around Skyrim
@@ -1010,7 +1012,7 @@ right-clicking the mod, then choosing the *Conflicts* tab, selecting all
 the files on the *Winning file conflicts* section, where overwritten mod
 includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 *Hide*. Don’t worry, there will be a reference to these instructions in the
-*PREPARATIONS* section.
+_PREPARATIONS_ section.
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
@@ -1041,7 +1043,7 @@ Mountain Flowers
 
 ### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
 
-**Main files** - AIO-LT- A Tree Placement for Whiterun City
+**Optional files** - AIO-LT- A Tree Placement for Whiterun City
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
 
@@ -1922,7 +1924,6 @@ This mod allows us to do that.*
 **Main files** - SimplyKnockSE SKSE64 2.0.19 DLL
 
 *An updated .dll file for the mod to work.*
-
 
 ### [Quicker Bed Exit](https://www.nexusmods.com/skyrimspecialedition/mods/47554)
 
