@@ -52,7 +52,7 @@ Added _Cities of the North_ series' mods for the The Great Cities - Minor Cities
 
 ### Interiors
 
-Moved Hearthfire - Unique Display Rooms here from the New Content section.
+Moved Hearthfire - Unique Display Rooms here from the _New Content_ section.
 
 Added almost all of JK's interior mods and patches for them (you can learn about why I haven't added all of them from the description of the new section).
 
