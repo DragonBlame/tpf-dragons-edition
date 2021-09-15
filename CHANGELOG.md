@@ -22,7 +22,9 @@ Added additional instructions to hide cubemaps' files from Darkend and The Sinis
 
 Updated installation instructions for Apachii Divine Elegance Store to install UNP meshes.
 
-Added _Opulent Thieves Guild - USSEP Patch_.
+Added _JK's The Ragged Flagon_.
+
+Added _Opulent Thieves Guild Patch Collection_.
 
 Added _Landscape Fixes For Grass Mods - Moon and Star Patch_ and _Landscape Fixes For Grass Mods - Helgen Reborn Patch_.
 
