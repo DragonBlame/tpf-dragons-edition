@@ -84,6 +84,8 @@ Added _Animated Forge Water_.
 
 Added _Less Boring Loading Screen_.
 
+Removed _Bright Waterfall Fix_ as it was added to TPF.
+
 ### Skeleton & Animations
 
 Renamed Animations to _Skeleton & Animations_.
