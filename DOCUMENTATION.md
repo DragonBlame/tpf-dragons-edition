@@ -1055,6 +1055,8 @@ Mountain Flowers
 
 **Main files** - The Great Cities 2.01
 
+**Old files** - The Great Cities - CFTO Patch
+
 _I have always felt that all minor cities and towns look pretty much the same. Considering all these places have their own stories and tales to tell, that isn't right at all, so we just have to change that._
 
 ### [Landscape Fixes For Grass Mods - The Great Cities - Minor Cities and Towns Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
