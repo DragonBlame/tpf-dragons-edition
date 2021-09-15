@@ -134,7 +134,7 @@ Changed some older pictures in the documentation to feature the newest additions
 
 Updated information for the newest version of The Grand Paladin - 2021 in the gameplay guide.
 
-Updated and added new patches.
+Added new patches.
 
 Updated TPF Dragon's Edition - Nemesis Output, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
 
