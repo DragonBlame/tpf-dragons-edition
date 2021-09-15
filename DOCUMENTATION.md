@@ -2692,10 +2692,6 @@ with Ralof or Hadvar. In some way it isn't an alternate start, but at
 the same time it is. What matters is this mod’s simplicity, which allows
 us to jump right into the action.*
 
-### [TPF Dragon’s Edition - Alternate Start Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
-
-**Main files** - Alternate Start Patch
-
 ---
 
 ## Patcher Output
