@@ -132,7 +132,7 @@ Updated the documentation (typos, grammar etc.).
 
 Changed some older pictures in the documentation to feature the newest additions. Changed sizes of some pictures.
 
-Updated information for the newest version of The Grand Paladin - 2021 in the gameplay guide.
+Updated information for the newest version of The Grand Paladin - 2021 and for Darkend in the gameplay guide.
 
 Added new patches.
 
