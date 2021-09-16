@@ -3088,7 +3088,7 @@ Knife Hideout.
 Kynesgrove) and talk to the innkeeper. Without a follower.
 
 **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
-Tomb. At least level 15 is recommended.
+Tomb. At least level 15 is recommended. Without a follower.
 
 **The Wheels of Lull** - Automatically after reaching level 20, can be
 finished after reaching level 35.
