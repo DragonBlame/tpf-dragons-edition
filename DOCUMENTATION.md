@@ -3012,8 +3012,8 @@ At first, delete `enbcache` folder you can find in your root folder.
 
 Put *Silent Horizons ENB Addon - Solar Cleaner* right at the start of
 the add-on’s _Exteriors_ section in your mod order and put it right under
-*WoW Dragon Mounds CTD Fix.esp* in your plugins’ load order. Then
-Extract the main file. Open the optional folder, then depth of field
+*Reasonable Quest Rewards - Dark Brotherhood.esp* in your plugins’ load order. Then
+extract the main file. Open the optional folder, then depth of field
 configuration folder. Choose your favourite depth of field settings with
 the help of the photos you can find in the folder. I prefer the extra
 light one. Open the folder of your choice, copy the folder, which is
