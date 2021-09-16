@@ -2854,7 +2854,7 @@ you have left.
 right at the beginning except the main one, because you won’t be able to
 start Helgen Reborn quest right at the beginning (read Gameplay Guide
 for more information) and because The Sinister Seven quest isn’t the one
-where you go to objective, just hide it, quest givers will look to you
+where you go to objective, just hide it, quest givers will look for you
 when a time comes. Tried to understand how to make the quest with
 Thalmor involved appear after you finish Diplomatic Immunity quest for
 immersiveness, but couldn't, will look at that later, so let it be this
