@@ -1065,7 +1065,7 @@ _I have always felt that all minor cities and towns look pretty much the same. C
 
 **Optional files** - Patches for The Great Cities and Towns
 
-**FOMOD** - The Great Cities All In One
+**FOMOD** - `The Great Cities All In One`.
 
 ### [Cities of the North - Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168)
 
