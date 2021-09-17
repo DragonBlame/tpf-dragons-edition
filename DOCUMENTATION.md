@@ -1718,6 +1718,8 @@ from time to time.*
 
 **Main files** - Navigator - Navmesh Fixes
 
+**FOMOD** - `ESP-FE`.
+
 *Navmesh tweaks for some dungeons.*
 
 ### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
