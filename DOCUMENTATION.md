@@ -2831,8 +2831,7 @@ you see below.
 Later into the game, if you are planning to use shields and if you find
 one, I recommend you to go into the console with ~ key, type
 `showracemenu`, press *Enter* and make corrections to your shield’s
-position using settings you can again see below. You can also experiment
-with other shield or even two-handed weapon settings, but don’t
+position using settings you can again see below. Don’t
 overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name. After setting up the settings,
 press *R* and *Enter* and you are done.
 
