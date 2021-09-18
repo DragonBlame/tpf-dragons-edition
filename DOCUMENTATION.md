@@ -2646,23 +2646,25 @@ its colour, so that it won't be the same as TPF's ones.
 
 ### [Literally Unplayable - Remove Random Head Parts from Character Creation](https://www.nexusmods.com/skyrimspecialedition/mods/54135)
 
+**Main files** - Literally Unplayable - Miraak Husbando Patch
+
 **Main files** - Literally Unplayable - Bruma Patch
 
-**Main files** - Literally Unplayable - Cuyima's 3DNPC Patch
-
-**Main files** - Literally Unplayable - High Poly Inigo Patch
+**Main files** - Literally Unplayable - The Forgotten City Patch
 
 **Main files** - Literally Unplayable - Inigo Patch
 
+**Main files** - Literally Unplayable - High Poly Inigo Patch
+
 **Main files** - Literally Unplayable - Kaidan Patch
 
-**Main files** - Literally Unplayable - Miraak Husbando Patch
+**Main files** - Literally Unplayable - Shirley Patch
 
-**Main files** - Literally Unplayable - Ordinary Women Patch
+**Main files** - Literally Unplayable - Cuyima's 3DNPC Patch
 
 **Main files** - Literally Unplayable - Shield Sisters Re-Imagined Patch
 
-**Main files** - Literally Unplayable - Auri Re-Imagined Patch
+**Main files** - Literally Unplayable - Ordinary Women Patch
 
 ---
 
