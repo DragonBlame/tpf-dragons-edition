@@ -10,6 +10,30 @@
 
 Added _Disable Fast Travel SKSE - No Janky Map UI_.
 
+### Exteriors
+
+Added missing FOMOD instructions for Landscape Fixes For Grass Mods - The Great Cities - Minor Cities and Towns Patch (undocumented 1.6. addition).
+
+### Interiors
+
+Added _JK's Understone Keep_.
+
+### Miscellaneous
+
+Added missing FOMOD instructions for Navigator – Navmesh Fixes (undocumented 1.6. addition).
+
+Updated FOMOD instructions for JK's Interiors Patch Collection (also added missing USSEP patch for JK’s Blue Palace – oopsies).
+
+### Literally Unplayable
+
+Updated installation instructions (undocumented 1.6. addition).
+
+### Other changes
+
+Made all the water around Morthal murky (unfortunately, if you are gliding with the paraglider around there, you will see many seams, when you are afar from the place, and that can’t be fixed).
+
+Cleaned and updated some patches.
+
 ### Wabbajack
 
 Now using the Stock Game folder system (users don't need to paste any files into the game's root folder anymore).
