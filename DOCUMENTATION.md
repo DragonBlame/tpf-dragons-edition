@@ -207,7 +207,7 @@ you transform into werewolf.*
 
 **Instructions** - go to _powerofthree's Tweaks_'s INI (TPF's mod in the _Fixes_ section), in line 7, change _Map Marker Placement Fix_ to `false`.
 
-*There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. It is probably a mod, which you love or hate, and considering the fact that it touches the map, I have decided to put it here.*
+*There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. Probabl it is a mod, which you love or hate, and considering the fact that it touches the map, I have decided to put it here.*
 
 ---
 
