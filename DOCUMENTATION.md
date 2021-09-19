@@ -201,6 +201,14 @@ much more lively.*
 find another body to feed and not to think about it every single time
 you transform into werewolf.*
 
+### [Disable Fast Travel SKSE - No Janky Map UI](https://www.nexusmods.com/skyrimspecialedition/mods/54217)
+
+**Main files** - Disable Fast Travel
+
+**Instructions** - go to _powerofthree's Tweaks_'s INI (TPF's mod in the _Fixes_ section), in line 7, change _Map Marker Placement Fix_ to `false`.
+
+*There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. Probabl it is a mod, which you love or hate, and considering the fact that it touches the map, I have decided to put it here.*
+
 ---
 
 ## New Content
@@ -1277,11 +1285,15 @@ _Adds a secret room to each of HearthFire houses to display our unique loot, so 
 
 **Main files** - JK's Silver-Blood Inn
 
+### [JK's Understone Keep](https://www.nexusmods.com/skyrimspecialedition/mods/55571)
+
+**Main files** - JK's Understone Keep
+
 ### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 
 **Main files** - JKs Interiors Patch Collection
 
-**FOMOD** - In 1st page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, in JK's Arcadia's Cauldron's page - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul, USSEP`, **untick** `Royal Armory`, `3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Mistveil Keep's **miscellaneous patches** - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP`, JK's Sadri's Used Wares - `3DNPC, Armor and Clothing Extension`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul`, JK's Sleeping Giant Inn - `AI Overhaul, 3DNPC`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Winking Skeever - `AI Overhaul, USSEP, 3DNPC`.
+**FOMOD** - In 1st page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, in JK's Arcadia's Cauldron's page - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul, USSEP`, **untick** only `Royal Armory` patch, `3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Mistveil Keep's **miscellaneous patches** - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP`, JK's Sadri's Used Wares - `3DNPC, Armor and Clothing Extension`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul`, JK's Sleeping Giant Inn - `AI Overhaul, 3DNPC`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Understone Keep - `AI Overhaul, USSEP`, JK's Winking Skeever - `AI Overhaul, USSEP, 3DNPC`.
 
 ---
 
@@ -1349,7 +1361,7 @@ _(ft. 1.6. v. of TPF - Dragon's Edition's new content, appearance and animation 
 
 ### [PrivateEye’s Royal Armory - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/28006)
 
-**Main files** - Royal Armory - Reforged - Main Replacer 1.1
+**Main files** - Royal Armory - Reforged - Main Replacer 1.2
 
 **Optional files** - Dragonfang - Penitus Logo
 
@@ -1539,7 +1551,7 @@ separator in the same order.
 
 **FOMOD** - Don’t change anything.
 
-**Instructions** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
+**Disable** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
 
 *In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more important for our player character too.*
 
@@ -1740,11 +1752,13 @@ grow only things I consider to be immersive to be grown by player character.*
 
 ### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 
-**Miscellaneous files** - Enhanced Blood Textures 4.0 beta
+**Miscellaneous files** - 4.0 beta 2
 
 **Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
 
-**FOMOD** - `Medium, Reduced Wound Size (Optional), EBT - Default, Reduced Res / Default Color` two times.
+**FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), High Res / Default Color` two times.
+
+**Disable** - disable _Enhanced Blood Textures_ mod in the _VISUAL FX_ separator of TPF.
 
 *New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
