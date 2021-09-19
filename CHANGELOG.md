@@ -12,7 +12,13 @@ Added _Disable Fast Travel SKSE - No Janky Map UI_.
 
 ### Wabbajack
 
-Now using the Stock Game folder system (new users don't need to paste any files into the game's root folder anymore).
+Now using the Stock Game folder system (users don't need to paste any files into the game's root folder anymore).
+
+Added missing Unique Unique and Simple Smithing Overhaul Patch.
+
+Made some cosmetic edits for MO2.
+
+Removed 2 TPF profiles.
 
 ---
 
