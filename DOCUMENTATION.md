@@ -1361,7 +1361,7 @@ _(ft. 1.6. v. of TPF - Dragon's Edition's new content, appearance and animation 
 
 ### [PrivateEye’s Royal Armory - Reforged](https://www.nexusmods.com/skyrimspecialedition/mods/28006)
 
-**Main files** - Royal Armory - Reforged - Main Replacer 1.1
+**Main files** - Royal Armory - Reforged - Main Replacer 1.2
 
 **Optional files** - Dragonfang - Penitus Logo
 
@@ -1752,11 +1752,13 @@ grow only things I consider to be immersive to be grown by player character.*
 
 ### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 
-**Miscellaneous files** - Enhanced Blood Textures 4.0 beta
+**Miscellaneous files** - 4.0 beta 2
 
 **Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
 
-**FOMOD** - `Medium, Reduced Wound Size (Optional), EBT - Default, Reduced Res / Default Color` two times.
+**FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), Reduced Res / Default Color` two times.
+
+**Disable** - disable Enhanced Blood Texture mod in the VISUAL FX separator of TPF.
 
 *New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
