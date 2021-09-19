@@ -201,6 +201,12 @@ much more lively.*
 find another body to feed and not to think about it every single time
 you transform into werewolf.*
 
+### [Disable Fast Travel SKSE - No Janky Map UI](https://www.nexusmods.com/skyrimspecialedition/mods/54217)
+
+**Main files** - Disable Fast Travel
+
+*There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. It is probably a mod, which you love or hate, and considering the fact that it touches the map, I have decided to put it here.*
+
 ---
 
 ## New Content
