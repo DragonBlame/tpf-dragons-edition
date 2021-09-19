@@ -20,9 +20,15 @@ Added _JK's Understone Keep_.
 
 Updated FOMOD instructions for JK's Interiors Patch Collection (also added missing USSEP patch for JK’s Blue Palace in 1.6. – oopsies).
 
+### Apparel & Weapons
+
+Updated instructions for the newest version of PrivateEye’s Royal Armory – Reforged. You should also grab and merge the updates for its little additions.
+
 ### Miscellaneous
 
 Added missing FOMOD instructions for Navigator – Navmesh Fixes (undocumented 1.6. addition).
+
+Updated instructions for the newest version of Enhanced Blood Textures.
 
 ### Literally Unplayable
 
@@ -52,7 +58,7 @@ JK's The Bannered Mare, JK's Mistveil Keep
 
 JK's Interiors Patch Collection
 
-PrivateEye’s Royal Armory – Reforged
+PrivateEye’s Royal Armory – Reforged and its aditional modifications
 
 Feminine Argonian Textures
 
