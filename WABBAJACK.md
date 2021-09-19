@@ -28,7 +28,7 @@ By default your game is capped at 75 FPS, as the bigger number can lead to diffe
 
 I have chosen _Silent Horizons ENB_ as the main ENB for the add-on. You will be able to learn why a little bit later if you want. If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
 
-Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. You don't need to paste anything into your game's root folder anymore like it always was before. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
+Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. You don't need to paste anything into your game's root folder anymore like it always was before thanks to the new [Game Stock folder system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)), which allows us to leave our root folder completely clean and this way more compatible with other modpacks. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
 
 You will have 2 available profiles in your installation:
   - _The Phoenix Flavour - Dragon's Edition_;
