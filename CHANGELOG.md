@@ -38,7 +38,7 @@ Updated installation instructions (undocumented 1.6. addition).
 
 Made all the water around Morthal murky (unfortunately, if you are gliding with the paraglider around there, you will see many seams, when you are afar from the place, and that can’t be fixed).
 
-Fixed argonian looks.
+Fixed some argonian looks.
 
 Cleaned and updated some patches.
 
