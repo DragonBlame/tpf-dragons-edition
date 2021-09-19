@@ -32,10 +32,10 @@ Now open the folder, where you have saved the add-on, and double-click on _ModOr
 
 You will have 2 available profiles in your installation:
   - _The Phoenix Flavour - Dragon's Edition_;
-  - _The Phoenix Flavour - Dragon's Edition (Performance)_, which uses TPF's performance tweaks to make better experience for users with low-end PCs.
+  - _The Phoenix Flavour - Dragon's Edition (Performance)_, which uses TPF's performance tweaks (regenerated INIs, performance friendly grass mods and DynDOLOD output) to make better experience for users with low-end PCs.
 
 Change profiles by clicking on an already active profile and choosing another profile.
-![image](https://user-images.githubusercontent.com/37147270/130832038-50afb4cc-09d9-4227-97e6-9ee83bc98fca.png)
+![image](https://user-images.githubusercontent.com/37147270/133923965-f2164646-3bfd-4aa6-bad3-2275d1501212.png)
 
 While following the main documentation of the add-on, users have a choice to use or not to use two sections' mods, which are [_Interface_](DOCUMENTATION.md#interface-optional) section and [_Music & Sound FX_](DOCUMENTATION.md#music--sound-fx-optional) section. For Wabbajack users two of those sections are enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions in the documentation.
 
@@ -45,9 +45,6 @@ Some mods of TPF are disabled in both of my add-on's profiles. Those are:
   - _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ in TPF's _Appearance_ section, because they both conflict with a mod in our _Appearance_ section called _Equipable Beast Tails - HDT SMP (Physics)_.
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
 
-Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](DOCUMENTATION.md#configurations) section of the documentation.
+Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _RUN_. You don't need to do anything else anymore - just plug in and play after setting everything up in the game. Now you should continue with the [_Configurations_](DOCUMENTATION.md#configurations) section of the documentation.
 
 I hope everything was easy to understand at this point! :)
-
-
-
