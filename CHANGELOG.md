@@ -34,7 +34,7 @@ Updated instructions for the newest version of Enhanced Blood Textures.
 
 Updated installation instructions (undocumented 1.6. addition).
 
-### Other changes
+### Other Changes
 
 Made all the water around Morthal murky (unfortunately, if you are gliding with the paraglider around there, you will see many seams, when you are afar from the place, and that can’t be fixed).
 
