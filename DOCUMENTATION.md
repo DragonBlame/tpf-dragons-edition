@@ -1677,7 +1677,7 @@ separator in the same order.
 
 *Plugin that extends Skyrim's script language (Papyrus) functionality.
 It will be needed for Strange Runes to use another version of runes for
-dual-casted spells.*  
+dual-casted spells and for Sweeping Organizes Stuff - Use Broom to Clean Mess' functionality.*  
 
 ### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
