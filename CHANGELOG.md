@@ -34,7 +34,7 @@ Made all the water around Morthal murky (unfortunately, if you are gliding with 
 
 Cleaned and updated some patches.
 
-Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
+Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion (were rerun through the newest version of DynDOLOD).
 
 ### Wabbajack
 
