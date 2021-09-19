@@ -2,7 +2,7 @@
 
 # Changelog
 
-## Version 1.6.1.
+## Version 1.7.
 
 > 19.09.2021.
 
@@ -18,7 +18,7 @@ Added missing FOMOD instructions for Landscape Fixes For Grass Mods - The Great 
 
 Added _JK's Understone Keep_.
 
-Updated FOMOD instructions for JK's Interiors Patch Collection (also added missing USSEP patch for JK’s Blue Palace – oopsies).
+Updated FOMOD instructions for JK's Interiors Patch Collection (also added missing USSEP patch for JK’s Blue Palace in 1.6. – oopsies).
 
 ### Miscellaneous
 
@@ -34,6 +34,8 @@ Made all the water around Morthal murky (unfortunately, if you are gliding with 
 
 Cleaned and updated some patches.
 
+Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion.
+
 ### Wabbajack
 
 Now using the Stock Game folder system (users don't need to paste any files into the game's root folder anymore).
@@ -43,6 +45,20 @@ Added missing Unique Unique and Simple Smithing Overhaul Patch.
 Made some cosmetic edits for MO2.
 
 Removed 2 TPF profiles.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+JK's The Bannered Mare, JK's Mistveil Keep
+
+JK's Interiors Patch Collection
+
+PrivateEye’s Royal Armory – Reforged
+
+Feminine Argonian Textures
+
+Enhanced Blood Textures
+
+Vampire Lord - Animation Replacer
 
 ---
 
