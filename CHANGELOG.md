@@ -36,6 +36,8 @@ Updated installation instructions (undocumented 1.6. addition).
 
 ### Other Changes
 
+Added some screenshots from the add-on to the Nexus page.
+
 Made all the water around Morthal murky (unfortunately, if you are gliding with the paraglider around there, you will see many seams, when you are afar from the place, and that can’t be fixed).
 
 Removed some of Enhanced Landscapes rocks near Snowpoint Beacon for Inigo's quest.
