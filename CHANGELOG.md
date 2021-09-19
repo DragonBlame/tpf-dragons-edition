@@ -18,11 +18,11 @@ Added missing FOMOD instructions for Landscape Fixes For Grass Mods - The Great 
 
 Added _JK's Understone Keep_.
 
+Updated FOMOD instructions for JK's Interiors Patch Collection (also added missing USSEP patch for JK’s Blue Palace – oopsies).
+
 ### Miscellaneous
 
 Added missing FOMOD instructions for Navigator – Navmesh Fixes (undocumented 1.6. addition).
-
-Updated FOMOD instructions for JK's Interiors Patch Collection (also added missing USSEP patch for JK’s Blue Palace – oopsies).
 
 ### Literally Unplayable
 
