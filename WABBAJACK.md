@@ -26,9 +26,9 @@ For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gal
 
 By default your game is capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that either.
 
-I have chosen _Silent Horizons ENB_ as the main ENB for the add-on. You will be able to learn why while following the documentation of the add-on, what you will need to do a bit later. If you will want to use different ENB, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
+I have chosen _Silent Horizons ENB_ as the main ENB for the add-on. You will be able to learn why a little bit later if you want. If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
 
-Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
+Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. You don't need to do anything else with your game's root folder anymore. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
 
 You will have 2 available profiles in your installation:
   - _The Phoenix Flavour - Dragon's Edition_;
@@ -45,6 +45,6 @@ Some mods of TPF are disabled in both of my add-on's profiles. Those are:
   - _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ in TPF's _Appearance_ section, because they both conflict with a mod in our _Appearance_ section called _Equipable Beast Tails - HDT SMP (Physics)_.
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
 
-Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _RUN_. You don't need to do anything else anymore - just plug in and play after setting everything up in the game. Now you should continue with the [_Configurations_](DOCUMENTATION.md#configurations) section of the documentation.
+Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_. Now you should continue with the [_Configurations_](DOCUMENTATION.md#configurations) section of the documentation.
 
 I hope everything was easy to understand at this point! :)
