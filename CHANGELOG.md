@@ -68,6 +68,8 @@ Enhanced Blood Textures
 
 Vampire Lord - Animation Replacer
 
+Like always - ENB
+
 ---
 
 ## Version 1.6.
