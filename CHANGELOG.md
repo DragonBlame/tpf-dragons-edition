@@ -42,7 +42,7 @@ Fixed some argonian looks.
 
 Cleaned and updated some patches.
 
-Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion (were rerun through the newest version of DynDOLOD).
+Updated TPF Dragon's Edition - Terrain LOD, TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion (were rerun through the newest version of DynDOLOD).
 
 ### Wabbajack
 
