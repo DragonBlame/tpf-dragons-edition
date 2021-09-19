@@ -1756,7 +1756,7 @@ grow only things I consider to be immersive to be grown by player character.*
 
 **Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
 
-**FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), Reduced Res / Default Color` two times.
+**FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), High Res / Default Color` two times.
 
 **Disable** - disable _Enhanced Blood Textures_ mod in the _VISUAL FX_ separator of TPF.
 
