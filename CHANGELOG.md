@@ -2,6 +2,20 @@
 
 # Changelog
 
+## Version 1.6.1.
+
+> 19.09.2021.
+
+### Interface
+
+Added _Disable Fast Travel SKSE - No Janky Map UI_.
+
+### Wabbajack
+
+Now using the Stock Game folder system (new users don't need to paste any files into the game's root folder anymore).
+
+---
+
 ## Version 1.6.
 
 > 15.09.2021.
