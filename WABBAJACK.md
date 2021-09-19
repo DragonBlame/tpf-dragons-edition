@@ -18,7 +18,7 @@ Phoenix also wrote a very detailed instructions on [how to set up your Skyrim Sp
 
 ## Installation
 
-For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gallery and needs to be installed manually. Download `The Phoenix Flavour - Dragon's Edition.wabbajack` file from [Google Drive](https://drive.google.com/drive/folders/1cfY3C4EzMxlPaIDT3-hPlRZY4ni6lOcG?usp=sharing) and then continue following the list installation instructions, but instead of choosing _Browse Modlists_, click _Install from Disk_ and select The Phoenix Flavour - Dragon's Edition.wabbajack from a place, where you have saved it. Then continue following the Phoenix's instructions until finishing going through _Game Folder Files_ section.
+For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gallery and needs to be installed manually. Download `The Phoenix Flavour - Dragon's Edition.wabbajack` file from [Google Drive](https://drive.google.com/drive/folders/1cfY3C4EzMxlPaIDT3-hPlRZY4ni6lOcG?usp=sharing) and then continue following the list installation instructions, but instead of choosing _Browse Modlists_, click _Install from Disk_ and select The Phoenix Flavour - Dragon's Edition.wabbajack from a place, where you have saved it. Then continue following the Phoenix's instructions until finishing going through _Troubleshooting_ section.
 
 ---
 
@@ -26,18 +26,13 @@ For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gal
 
 By default your game is capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that either.
 
-In game folder files by now you have found 3 ENB options to choose from:
-  - _Serio's ENB_, which is used in TPF by default;
-  - _Cathedral Minimalist ENB_ with Phoenix's tweaks for more performance;
-  - _Silent Horizons ENB_, which I prefer now and recommend for you to try.
+I have chosen _Silent Horizons ENB_ as the main ENB for the add-on. You will be able to learn why while following the documentation of the add-on, what you will need to do a bit later. If you will want to use different ENB, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
 
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
 
-You will have 4 available profiles in your installation, so you can play both TPF and my add-on on the same installation:
-  - _The Phoenix Flavour_;
-  - _The Phoenix Flavour (Performance)_, which uses different performance tweaks to make better experience for users with low-end PCs;
+You will have 2 available profiles in your installation:
   - _The Phoenix Flavour - Dragon's Edition_;
-  - _The Phoenix Flavour - Dragon's Edition (Performance)._
+  - _The Phoenix Flavour - Dragon's Edition (Performance)_, which uses TPF's performance tweaks to make better experience for users with low-end PCs.
 
 Change profiles by clicking on an already active profile and choosing another profile.
 ![image](https://user-images.githubusercontent.com/37147270/130832038-50afb4cc-09d9-4227-97e6-9ee83bc98fca.png)
@@ -49,8 +44,6 @@ Some mods of TPF are disabled in both of my add-on's profiles. Those are:
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ in TPF's _Appearance_ section, because they both conflict with a mod in our _Appearance_ section called _Equipable Beast Tails - HDT SMP (Physics)_.
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
-
-If you won't use Silent Horizons ENB, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour_ was already selected here, so you can start the game by clicking _RUN_. Now you should continue with the [_Configurations_](DOCUMENTATION.md#configurations) section of the documentation.
 
