@@ -1758,7 +1758,7 @@ grow only things I consider to be immersive to be grown by player character.*
 
 **FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), Reduced Res / Default Color` two times.
 
-**Disable** - disable Enhanced Blood Texture mod in the VISUAL FX separator of TPF.
+**Disable** - disable _Enhanced Blood Textures_ mod in the _VISUAL FX_ separator of TPF.
 
 *New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
