@@ -38,6 +38,8 @@ Updated installation instructions (undocumented 1.6. addition).
 
 Made all the water around Morthal murky (unfortunately, if you are gliding with the paraglider around there, you will see many seams, when you are afar from the place, and that can’t be fixed).
 
+Fixed argonian looks.
+
 Cleaned and updated some patches.
 
 Updated TPF Dragon's Edition - Texgen Output, TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance) and TPF Dragon's Edition - Occlusion (were rerun through the newest version of DynDOLOD).
