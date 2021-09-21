@@ -957,6 +957,8 @@ changes are saved.
 
 **Miscellaneous files** - SkeletonReplacer - UndeathPatch
 
+**FOMOD** - `Undeath, Version2EnbLight, 2K`.
+
 ### [Moon and Star - Undeath Remastered Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19068?tab=files)
 
 **Main files** - Moon and Star - Undeath Remastered Patch
