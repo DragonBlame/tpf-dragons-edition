@@ -1083,7 +1083,7 @@ _I have always felt that all minor cities and towns look pretty much the same. C
 
 **Optional files** - Skyrim 3D Signs Patch
 
-### [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34168)
+### [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34228)
 
 **Main files** - COTN Morthal Patch Collection
 
