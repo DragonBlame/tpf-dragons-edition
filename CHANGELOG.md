@@ -2,16 +2,6 @@
 
 # Changelog
 
-## Version 1.7.1.
-
-> xx.09.2021.
-
-### Configurations
-
-Added additional MCM instructions for some of TPF's mods, which were omitted in the guide.
-
----
-
 ## Version 1.7.
 
 > 19.09.2021.
