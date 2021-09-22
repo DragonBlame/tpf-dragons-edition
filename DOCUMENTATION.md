@@ -2880,7 +2880,7 @@ immersiveness, but couldn't, will look at that later, so let it be this
 way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
-level 15.
+level 15. Don't forget to unhide the quests, when you actually would want to start them.
 
 **Favourite Howls Menu MCM** - Enable Revert Form and Night Eye powers to make them available for you in werewolf form, when you use your favourites menu.
 
@@ -2889,7 +2889,7 @@ change her comment frequency.
 
 **Look what you see ! MCM** - In the *Follow the Camera Mode*
 menu choose hybrid head-tracking option and then choose *Disable when
-weapon drawn* in the *Other Options*. This way our character will follow our cursor's movement and will look at us if our character's face is 
+weapon drawn* in the *Other Options*. This way our character will follow our cursor's movement when the camera is behind them and will look at us if our character's face is facing the screen.
 
 **MoreHUD MCM** - No idea why, but Phoenix in her MoreHUD preset has disabled the appearance of information about potions, spell books etc., when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
 
@@ -2905,16 +2905,16 @@ shoulder swapping in *Following* by choosing your shoulder swap key. I
 recommend one of your mouse’s buttons if you have many buttons on it.
 Then in *Crosshair*, enable *3D Magic Crosshair,* set minimum and
 maximum crosshair size to 40, enable *Stealth Meter Offset* and an
-option to always offset it, then set its Y offset to 200 (stealth meter
+option to always offset it, then set its Y offset to 200 (stealth meter and its offset's activation
 instructions should not be needed after the update of Smoothcam, but I
-will leave them be for reference and for Y offset’s changes).
+will leave them to be for reference and for Y offset’s changes).
 
 **SSoB MCM** - Enable markers on the Stones of Barenziah.
 
-**Storm Lightning MCM** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose ultra realistic preset to avoid that.
+**Storm Lightning MCM** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
 
-**Strange Runes MCM** - In the *Runes* section disable the *Allow NPC
-Casting* option, otherwise NPCs can start behaving oddly and ward runes
+**Strange Runes MCM** - In the *Runes* section disable *Allow NPC
+Casting* and *Fire and Forget spells, Concentration spells* options for NPCs, otherwise they can start behaving oddly and ward runes
 look weird on them.
 
 **TK Dodge MCM** - Change input method and forward roll input to *Double Tap
