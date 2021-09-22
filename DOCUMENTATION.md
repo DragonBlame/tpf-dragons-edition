@@ -2855,18 +2855,18 @@ At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with my configurations.
+Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
 
 **Cond. Expressions MCM** - Disable out of stamina, in pain,
-headache/diseased expressions.
+headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
 
 **Diziet’s Auto Outfits MCM** - In configuration settings, check the option
-to unset all hotkeys for this mod.
+to unset all hotkeys for this mod. The mod's main functionality doesn't even need them.
 
 **End Times MCM** - Lock the slider to not be tempted to change the final
 date all time. I think one in-game year (approximately 18 real life
 days) is good enough (and even feels right somehow), disable the spell
-and countdown. You can always enter into MCM again to see how much time
+and countdown as those are pretty annoying. You can always enter into MCM again to see how much time
 you have left.
 
 **Hide Your Quests MCM** - I recommend to hide right away all quests you get
@@ -2882,12 +2882,16 @@ to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15.
 
+**Favourite Howls Menu MCM** - Enable Revert Form and Night Eye powers to make them available for you in werewolf form, when you use your favourites menu.
+
 **Improved Follower Dialogue MCM** - If Lydia is too noisy, feel free to
 change her comment frequency.
 
 **Look what you see ! MCM** - In the *Follow the Camera Mode*
 menu choose hybrid head-tracking option and then choose *Disable when
-weapon drawn* in the *Other Options*.
+weapon drawn* in the *Other Options*. This way our character will follow our cursor's movement and will look at us if our character's face is 
+
+**MoreHUD MCM** - No idea why, but Phoenix in her MoreHUD preset has disabled the appearance of information about potions, spell books etc., when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
 
 **Smart NPC Potions MCM** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
@@ -2900,10 +2904,14 @@ Octavian’s Preset* in *Load Preset*. If you want, you can also enable
 shoulder swapping in *Following* by choosing your shoulder swap key. I
 recommend one of your mouse’s buttons if you have many buttons on it.
 Then in *Crosshair*, enable *3D Magic Crosshair,* set minimum and
-maximum crosshair size to 50, enable *Stealth Meter Offset* and an
+maximum crosshair size to 40, enable *Stealth Meter Offset* and an
 option to always offset it, then set its Y offset to 200 (stealth meter
 instructions should not be needed after the update of Smoothcam, but I
 will leave them be for reference and for Y offset’s changes).
+
+**SSoB MCM** - Enable markers on the Stones of Barenziah.
+
+**Storm Lightning MCM** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose ultra realistic preset to avoid that.
 
 **Strange Runes MCM** - In the *Runes* section disable the *Allow NPC
 Casting* option, otherwise NPCs can start behaving oddly and ward runes
