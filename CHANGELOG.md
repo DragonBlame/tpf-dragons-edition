@@ -22,7 +22,7 @@ Fixed installation instructions for Dragon Priest Fix - Behaviour Overhaul (undo
 
 ### Configurations
 
-Added additional MCM instructions for some of TPF's mods, which were omitted in the guide.
+Added additional MCM instructions for some of TPF's mods, which were omitted in the guide. Added more information about the choices we make in MCM. Tweaked Smoothcam's crosshair size.
 
 ### Wabbajack
 
