@@ -2861,7 +2861,7 @@ Second, don’t forget about following Phoenix’s in-game configurations [here]
 headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
 
 **Diziet’s Auto Outfits MCM** - In configuration settings, check the option
-to unset all hotkeys for this mod. The mod's main functionality doesn't even need them.
+to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
 
 **End Times MCM** - Lock the slider to not be tempted to change the final
 date all time. I think one in-game year (approximately 18 real life
