@@ -26,7 +26,7 @@ Added additional MCM instructions for some of TPF's mods, which were omitted in 
 
 ### Wabbajack
 
-Made the game borderless for real this time (funny that noone has told me anything).
+Made the game borderless for real this time.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
