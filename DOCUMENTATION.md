@@ -2140,7 +2140,7 @@ dual sheath animations.
 `Player|MountOnly`.
 
 Create a separator and name it `SKELETON & ANIMATIONS EXTENDED` and place it
-directly below the *APPEARANCE EXTENDED* separator (and its mods).
+directly below the *SKELETON & ANIMATIONS* separator (and its mods).
 Change its colour, so that it won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
