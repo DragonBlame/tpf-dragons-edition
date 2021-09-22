@@ -2184,9 +2184,7 @@ Compatibility
 
 ### [Dragon Priest Fix - Behaviour Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51608)
 
-**Main files** - Dragon Priest Fix - Behaviour Overhaul - ESL
-
-**Optional files** - Dragon Priest Behaviour Overhaul - Undeath Patch
+**Main files** - Dragon Priest Fix - Behaviour Overhaul
 
 ### [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
 
