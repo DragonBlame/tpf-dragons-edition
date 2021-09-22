@@ -6,9 +6,29 @@
 
 > xx.09.2021.
 
+### New Content
+
+Added FOMOD instructions to Skeleton Replacer HD - Undeath Patch (undocumented 1.7. addition).
+
+### Exteriors
+
+Fixed link for Cities of the North - Morthal Patch Collection (undocumented 1.7. addition).
+
+### Skeleton & Animations
+
+Fixed instructions to move the section's separator below TPF's Skeleton & Animations separator (undocumented 1.7. addition).
+
+Fixed installation instructions for Dragon Priest Fix - Behaviour Overhaul (undocumented 1.7. addition).
+
 ### Configurations
 
 Added additional MCM instructions for some of TPF's mods, which were omitted in the guide.
+
+### Wabbajack
+
+Made the game borderless for real this time (funny that noone has told me anything).
+
+### Updated Add-on's Mods for Wabbajack Users
 
 ---
 
