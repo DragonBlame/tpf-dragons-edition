@@ -30,6 +30,10 @@ Fixed instructions to move the section's separator below TPF's Skeleton & Animat
 
 Fixed installation instructions for Dragon Priest Fix - Behaviour Overhaul (undocumented 1.7. addition).
 
+### NPC Overhauls
+
+Updated installation instructions for Pandorable's NPCs and Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium.
+
 ### Other Changes
 
 Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.  
