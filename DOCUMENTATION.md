@@ -258,12 +258,6 @@ Weapons Armor Clothing and Clutter Fixes 2.0+, The Great Cities - Minor Cities a
 
 **Main files** - Civil War Deserters
 
-### [Serenity](https://www.nexusmods.com/skyrimspecialedition/mods/30019?tab=files)
-
-**Main files** - Serenity Installer
-
-**FOMOD** - `Prefab`.
-
 ### [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files)
 
 **Main files** - Improved Follower Dialogue - Lydia
