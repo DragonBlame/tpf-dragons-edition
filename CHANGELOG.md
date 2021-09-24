@@ -44,6 +44,8 @@ Made the game borderless for real this time.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+Updated High Poly Expressive NPCs - AI Overhaul Patch
+
 ---
 
 ## Version 1.7.
