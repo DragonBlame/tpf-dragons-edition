@@ -32,7 +32,9 @@ Fixed installation instructions for Dragon Priest Fix - Behaviour Overhaul (undo
 
 ### Other Changes
 
-Fixed (hopefully) black faces issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs. 
+Fixed (hopefully) black faces issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs.
+
+Changed The Forgotten City to actually start after getting level 40 (why noone reported that...).
 
 ### Configurations
 
