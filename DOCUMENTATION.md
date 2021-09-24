@@ -174,7 +174,7 @@ reading book.*
 
 **Main files** - Alternate Conversation Camera Plus
 
-**INI** - In line 51, change _bLetterBox_ to `0`.
+**INI** - In line 5, change _fCameraSpeed_ to `850`, in line 15, change _bForceThirdPerson_ to `0`, in line 51, change _bLetterBox_ to `0`.
 
 *Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
@@ -1830,7 +1830,7 @@ people, who have to wait longer on them, will be pleased.*
 **Instructions** - rename the mod’s plugin to `TissHeadTrack.esp`.
 
 **If you installed Alternate Conversation Camera Plus** - go to _Alternate
-Conversation Camera Plus_'s INI, in line 47, change _bConversationHT_ to `0`.
+Conversation Camera Plus'_ INI, in line 47, change _bConversationHT_ to `0`.
 
 *Head tracking mod, which makes our player character (PC) observe
 things, which we move our cursor on.*
