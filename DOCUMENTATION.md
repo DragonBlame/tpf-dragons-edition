@@ -2191,7 +2191,7 @@ a piece of living rock.*
 
 **Main files** - Jog Sprint and Jump
 
-**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_.
+**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_.
 
 *Realistic animations for sprinting and running.*
 
@@ -2746,7 +2746,7 @@ The same process must be done with:
  -   Now hide `JuniperBush.nif` and `SloeBush.nif` in Official Unique Flowers and Plants by right-clicking
 the mod, then choosing the _Conflicts_ tab, selecting two files on the
 _Winning file conflicts_ section, right-clicking on them and choosing
-_Hide_.* Then go to Cathedral - 3D Mountain Flowers and hide any file, which overwrites _Fixed Mesh Lightning_ by
+_Hide_. Then go to Cathedral - 3D Mountain Flowers and hide any file, which overwrites _Fixed Mesh Lightning_ by
 right-clicking the mod, then choosing the *Conflicts* tab, selecting all
 the files on the *Winning file conflicts* section, where overwritten mod
 includes *Fixed Mesh Lightning*, right-clicking on them and choosing
