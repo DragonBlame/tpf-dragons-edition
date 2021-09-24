@@ -14,7 +14,7 @@ Tweaked Alternate Conversation Camera Plus INI's settings.
 
 Added FOMOD instructions to Skeleton Replacer HD - Undeath Patch (undocumented 1.7. addition).
 
-Removed _Serenity_.
+Removed Serenity (overall it is just fine Silent Moons Camp's exterior overhaul, other features were too intrusive and actually not as good).
 
 ### Exteriors
 
