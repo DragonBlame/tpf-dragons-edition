@@ -14,6 +14,8 @@ Tweaked Alternate Conversation Camera Plus INI's settings.
 
 Added FOMOD instructions to Skeleton Replacer HD - Undeath Patch (undocumented 1.7. addition).
 
+Removed _Serenity_.
+
 ### Exteriors
 
 Fixed link for Cities of the North - Morthal Patch Collection (undocumented 1.7. addition).
