@@ -52,6 +52,12 @@ Made the game borderless for real this time.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+JK's The Winking Skeever
+
+JK's Understone Keep
+
+JK's Interiors Patch Collection
+
 Pandorable's NPCs
 
 Updated High Poly Expressive NPCs - AI Overhaul Patch
