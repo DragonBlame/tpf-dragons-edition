@@ -1615,8 +1615,6 @@ actually uses your lockpicking skill to open doors and chests. Your lockpicks' b
 
 **Main files** - Dragonborn - Shouts Perk Tree
 
-**Miscellaneous files** - Dragonborn - Adamant Patch
-
 *Being Dragonborn and being able to shout should make us more unique
 than other characters, and this mod does that by giving us experience
 and perk points for shouting and killing dragons and a unique skill tree
