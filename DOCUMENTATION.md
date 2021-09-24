@@ -2538,8 +2538,6 @@ Thank Todd for that.
 
 ### [Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/53197)
 
-**Main files** - Pandorable's NPCs - AI Overhaul Patch
-
 **Main files** - USSEP - Pandorable's NPCs - Dawnguard - AI Overhaul
 Patch
 
