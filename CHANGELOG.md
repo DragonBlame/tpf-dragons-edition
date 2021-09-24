@@ -2,7 +2,7 @@
 
 # Changelog
 
-## Version 1.7.1.
+## Version 1.8.
 
 > xx.09.2021.
 
@@ -23,6 +23,10 @@ Fixed link for Cities of the North - Morthal Patch Collection (undocumented 1.7.
 Fixed instructions to move the section's separator below TPF's Skeleton & Animations separator (undocumented 1.7. addition).
 
 Fixed installation instructions for Dragon Priest Fix - Behaviour Overhaul (undocumented 1.7. addition).
+
+### Other Changes
+
+Fixed (hopefully) black faces issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs. 
 
 ### Configurations
 
