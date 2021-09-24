@@ -3060,7 +3060,7 @@ how to start some newly added quests.
 
 ---
 
-## GAMEPLAY GUIDE
+## Gameplay Guide
 
 Just a little heads up and how and when and how you should start newly
 added quests.
