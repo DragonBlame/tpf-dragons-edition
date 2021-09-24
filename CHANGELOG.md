@@ -40,7 +40,7 @@ Fixed some typos like always.
 
 Changed The Forgotten City to actually start after getting level 40 (I guess noone read the gameplay guide...).
 
-Fixed (hopefully) black faces issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs.
+Fixed (hopefully all) black face issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs.
 
 Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.  
 
