@@ -20,6 +20,12 @@ Removed Serenity (overall it is just fine Silent Moons Camp's exterior overhaul,
 
 Fixed link for Cities of the North - Morthal Patch Collection (undocumented 1.7. addition).
 
+### Interiors
+
+Added _JK's Riverwood Trader_.
+
+Updated FOMOD instructions for JK's Interiors Patch Collection.
+
 ### Appearance
 
 Removed Racial Body Morphs. Added _FK's Diverse Racial Skeletons_.
