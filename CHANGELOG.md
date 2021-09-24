@@ -8,7 +8,7 @@
 
 ### Interface
 
-Tweaked Alternate Conversation Camera Plus INI's settings.
+Tweaked Alternate Conversation Camera Plus INI's settings to be more user friendly.
 
 ### New Content
 
