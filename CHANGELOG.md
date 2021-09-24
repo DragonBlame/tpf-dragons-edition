@@ -48,6 +48,8 @@ Made the game borderless for real this time.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+Pandorable's NPCs
+
 Updated High Poly Expressive NPCs - AI Overhaul Patch
 
 ---
