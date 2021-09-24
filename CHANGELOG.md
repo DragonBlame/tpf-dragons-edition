@@ -36,6 +36,8 @@ Updated installation instructions for Pandorable's NPCs and Updated USSEP - Pand
 
 ### Other Changes
 
+Fixed some typos like always.
+
 Changed The Forgotten City to actually start after getting level 40 (I guess noone read the gameplay guide...).
 
 Fixed (hopefully) black faces issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs.
