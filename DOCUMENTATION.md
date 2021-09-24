@@ -562,8 +562,8 @@ v2.4.0
 **Merge** - merge all files.
 
 **Hide** - hide `shinyglass_e2.dds` by right-clicking
-the mod, then choosing the _Conflicts_ tab, selecting two files on the
-_Winning file conflicts_ section, right-clicking on them and choosing
+the mod, then choosing the _Conflicts_ tab, selecting the file on the
+_Winning file conflicts_ section, right-clicking on it and choosing
 _Hide_.
 
 ### [Darkend Balance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/29213?tab=files)
