@@ -6,6 +6,10 @@
 
 > xx.09.2021.
 
+### Interface
+
+Tweaked Alternate Conversation Camera Plus INI's settings.
+
 ### New Content
 
 Added FOMOD instructions to Skeleton Replacer HD - Undeath Patch (undocumented 1.7. addition).
