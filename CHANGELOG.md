@@ -18,6 +18,10 @@ Added FOMOD instructions to Skeleton Replacer HD - Undeath Patch (undocumented 1
 
 Fixed link for Cities of the North - Morthal Patch Collection (undocumented 1.7. addition).
 
+### Appearance
+
+Removed Racial Body Morphs. Added _FK's Diverse Racial Skeletons_.
+
 ### Skeleton & Animations
 
 Fixed instructions to move the section's separator below TPF's Skeleton & Animations separator (undocumented 1.7. addition).
