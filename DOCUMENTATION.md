@@ -1719,9 +1719,6 @@ from time to time.*
 
 **Optional files** - More Growable Plants Simple 1.5
 
-**Hide (not now, later, when you will get to the PREPARATIONS
-section)** - hide any file, which overwrites _Fixed Mesh Lightning_.
-
 *Still no idea where citizens of Skyrim get their apples, tomatoes,
 garlic and many other things from, but at least we know where we can get
 them from. And don’t worry, I have patched it, so you will be able to
@@ -2753,7 +2750,7 @@ _Hide_.* Then go to Cathedral - 3D Mountain Flowers and hide any file, which ove
 right-clicking the mod, then choosing the *Conflicts* tab, selecting all
 the files on the *Winning file conflicts* section, where overwritten mod
 includes *Fixed Mesh Lightning*, right-clicking on them and choosing
-*Hide*.
+*Hide*. Do the same for More Growable Plants.
 
 -   *Lanterns of Skyrim II* in *LIGHTNING* separator - `SMIM and Bruma`;
 
