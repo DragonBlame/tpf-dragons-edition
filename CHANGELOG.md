@@ -30,6 +30,10 @@ Updated FOMOD instructions for JK's Interiors Patch Collection.
 
 Removed Racial Body Morphs. Added _FK's Diverse Racial Skeletons_.
 
+### Gameplay Overhauls
+
+Updated installation instructions for Dragonborn - Shouts Perk Tree.
+
 ### Skeleton & Animations
 
 Fixed instructions to move the section's separator below TPF's Skeleton & Animations separator (undocumented 1.7. addition).
@@ -65,6 +69,8 @@ JK's The Winking Skeever
 JK's Understone Keep
 
 JK's Interiors Patch Collection
+
+Dragonborn - Shouts Perk Tree
 
 Pandorable's NPCs
 
