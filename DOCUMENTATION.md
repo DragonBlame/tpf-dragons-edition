@@ -2743,14 +2743,14 @@ The same process must be done with:
     and `More Growable Plants, flora for Beyond Skyrim - Bruma, Unique Flowers and
     Plants, 3D Mountain Flowers, flora for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
     
- -   Now hide `JuniperBush.nif` and `SloeBush.nif` in Official Unique Flowers and Plants by right-clicking
+ -   Now hide `JuniperBush.nif` and `SloeBush.nif` in Official Unique Flowers and Plants from the _Exteriors_ section of the add-on by right-clicking
 the mod, then choosing the _Conflicts_ tab, selecting two files on the
 _Winning file conflicts_ section, right-clicking on them and choosing
-_Hide_. Then go to Cathedral - 3D Mountain Flowers and hide any file, which overwrites _Fixed Mesh Lightning_ by
+_Hide_. Then go to Cathedral - 3D Mountain Flowers (from the same section) and hide any file, which overwrites _Fixed Mesh Lightning_ by
 right-clicking the mod, then choosing the *Conflicts* tab, selecting all
 the files on the *Winning file conflicts* section, where overwritten mod
 includes *Fixed Mesh Lightning*, right-clicking on them and choosing
-*Hide*. Do the same for More Growable Plants.
+*Hide*. Do the same for More Growable Plants from the add-on's _Miscellaneous_ section.
 
 -   *Lanterns of Skyrim II* in *LIGHTNING* separator - `SMIM and Bruma`;
 
