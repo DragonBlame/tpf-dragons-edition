@@ -995,13 +995,6 @@ _I understand that bugs like light, but that means they should sometimes get awa
 **Optional files** - Unique Flowers and Plants for Skyrim SE DLC
 Compatible ESM Version
 
-**Hide (not now, later, when you will get to the *PREPARATIONS*
-section)** - Hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
-the mod, then choosing the _Conflicts_ tab, selecting two files on the
-_Winning file conflicts_ section, right-clicking on them and choosing
-_Hide_.* Don’t worry, there will be a reference to these instructions in the
-*PREPARATIONS* section.
-
 *Adds different beautiful hand-placed flowers and plants around Skyrim
 to make it more interesting and picturesque. ESM plugin allows us not to
 worry about the mod overwriting anything we don't want to.*
@@ -1009,14 +1002,6 @@ worry about the mod overwriting anything we don't want to.*
 ### [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)
 
 **Main files** - Cathedral - 3D Mountain Flowers
-
-**Hide (not now, later, when you will get to the *PREPARATIONS*
-section)** - hide any file, which overwrites _Fixed Mesh Lightning_ by
-right-clicking the mod, then choosing the *Conflicts* tab, selecting all
-the files on the *Winning file conflicts* section, where overwritten mod
-includes *Fixed Mesh Lightning*, right-clicking on them and choosing
-*Hide*. Don’t worry, there will be a reference to these instructions in the
-_PREPARATIONS_ section.
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
@@ -2760,9 +2745,15 @@ The same process must be done with:
     here)](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2)
     and `More Growable Plants, flora for Beyond Skyrim - Bruma, Unique Flowers and
     Plants, 3D Mountain Flowers, flora for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
-
--   Now go to files with **Hide (not now, later, when you will get to the
-    PREPARATIONS section)** by using [this](#official-unique-flowers-and-plants) and do what is asked;
+    
+ -   Now hide `JuniperBush.nif` and `SloeBush.nif` in Official Unique Flowers and Plants by right-clicking
+the mod, then choosing the _Conflicts_ tab, selecting two files on the
+_Winning file conflicts_ section, right-clicking on them and choosing
+_Hide_.* Then go to Cathedral - 3D Mountain Flowers and hide any file, which overwrites _Fixed Mesh Lightning_ by
+right-clicking the mod, then choosing the *Conflicts* tab, selecting all
+the files on the *Winning file conflicts* section, where overwritten mod
+includes *Fixed Mesh Lightning*, right-clicking on them and choosing
+*Hide*.
 
 -   *Lanterns of Skyrim II* in *LIGHTNING* separator - `SMIM and Bruma`;
 
