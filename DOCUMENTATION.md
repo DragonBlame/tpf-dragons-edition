@@ -2393,6 +2393,8 @@ things up. Has Bijin series’ mods vibes, but feels more unique.*
 
 **Main files** - Pandorable's NPCs SE
 
+**Optional files** - PAN_NPCs - AI Overhaul patch
+
 **FOMOD** - `USSEP` (Pandorable has probably forgotten to change name from
 LE's Unofficial Patch in her FOMOD), `no warpaint only for Voldsea`.
 
