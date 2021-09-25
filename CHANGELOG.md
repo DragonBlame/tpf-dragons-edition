@@ -66,6 +66,8 @@ Added additional MCM instructions for some of TPF's mods, which were omitted in 
 
 Changed the settings for the game to actually be borderless.
 
+Changed file for High Poly Expressive NPCs.
+
 ### Updated Add-on's Mods for Wabbajack Users
 
 JK's The Winking Skeever
