@@ -34,10 +34,6 @@ Removed Racial Body Morphs. Added _FK's Diverse Racial Skeletons_.
 
 Updated installation instructions for Dragonborn - Shouts Perk Tree.
 
-### Miscellaneous
-
-Removed Look What You See. Added _True Directional Movement_.
-
 ### Skeleton & Animations
 
 Fixed instructions to move the section's separator below TPF's Skeleton & Animations separator (undocumented 1.7. addition).
@@ -56,7 +52,11 @@ Changed The Forgotten City to actually start after getting level 40 (I guess noo
 
 Fixed (hopefully all) black face issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs.
 
-Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.  
+Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.
+
+Updated patches.
+
+Updated TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance), TPF Dragon's Edition - Occlusion.
 
 ### Configurations
 
