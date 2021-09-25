@@ -2,6 +2,86 @@
 
 # Changelog
 
+## Version 1.8.
+
+> 25.09.2021.
+
+### Interface
+
+Changed Alternate Conversation Camera Plus INI's settings a bit to be more user friendly.
+
+### New Content
+
+Added FOMOD instructions to Skeleton Replacer HD - Undeath Patch (undocumented 1.7. addition).
+
+Removed Serenity (overall it is just fine Silent Moons Camp's exterior overhaul, other features were too intrusive and actually not as good).
+
+### Exteriors
+
+Fixed link for Cities of the North - Morthal Patch Collection (undocumented 1.7. addition).
+
+### Interiors
+
+Added _JK's Riverwood Trader_.
+
+Updated FOMOD instructions for JK's Interiors Patch Collection.
+
+### Appearance
+
+Removed Racial Body Morphs. Added _FK's Diverse Racial Skeletons_.
+
+### Gameplay Overhauls
+
+Updated installation instructions for Dragonborn - Shouts Perk Tree.
+
+### Skeleton & Animations
+
+Fixed instructions to move the section's separator below TPF's Skeleton & Animations separator (undocumented 1.7. addition).
+
+Fixed installation instructions for Dragon Priest Fix - Behaviour Overhaul (undocumented 1.7. addition).
+
+### NPC Overhauls
+
+Updated installation instructions for Pandorable's NPCs and Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium.
+
+### Other Changes
+
+Fixed some typos like always.
+
+Changed The Forgotten City to actually start after getting level 40 (I guess noone read the gameplay guide...).
+
+Fixed (hopefully all) black face issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs.
+
+Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.
+
+Updated patches.
+
+Updated TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance), TPF Dragon's Edition - Occlusion.
+
+### Configurations
+
+Added additional MCM instructions for some of TPF's mods, which were omitted in the guide. Added more information about the choices we make in MCMs. Tweaked Smoothcam's crosshair size.
+
+### Wabbajack
+
+Changed the settings for the game to actually be borderless.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+JK's The Winking Skeever
+
+JK's Understone Keep
+
+JK's Interiors Patch Collection
+
+Dragonborn - Shouts Perk Tree
+
+Pandorable's NPCs
+
+Updated High Poly Expressive NPCs - AI Overhaul Patch
+
+---
+
 ## Version 1.7.
 
 > 19.09.2021.

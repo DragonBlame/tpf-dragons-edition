@@ -174,7 +174,7 @@ reading book.*
 
 **Main files** - Alternate Conversation Camera Plus
 
-**INI** - In line 51, change _bLetterBox_ to `0`.
+**INI** - In line 5, change _fCameraSpeed_ to `850`, in line 15, change _bForceThirdPerson_ to `0`, in line 51, change _bLetterBox_ to `0`.
 
 *Another FO4 like addition to Skyrim, which makes conversations look
 much more lively.*
@@ -257,12 +257,6 @@ Weapons Armor Clothing and Clutter Fixes 2.0+, The Great Cities - Minor Cities a
 ### [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497?tab=files)
 
 **Main files** - Civil War Deserters
-
-### [Serenity](https://www.nexusmods.com/skyrimspecialedition/mods/30019?tab=files)
-
-**Main files** - Serenity Installer
-
-**FOMOD** - `Prefab`.
 
 ### [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files)
 
@@ -568,8 +562,8 @@ v2.4.0
 **Merge** - merge all files.
 
 **Hide** - hide `shinyglass_e2.dds` by right-clicking
-the mod, then choosing the _Conflicts_ tab, selecting two files on the
-_Winning file conflicts_ section, right-clicking on them and choosing
+the mod, then choosing the _Conflicts_ tab, selecting the file on the
+_Winning file conflicts_ section, right-clicking on it and choosing
 _Hide_.
 
 ### [Darkend Balance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/29213?tab=files)
@@ -1001,13 +995,6 @@ _I understand that bugs like light, but that means they should sometimes get awa
 **Optional files** - Unique Flowers and Plants for Skyrim SE DLC
 Compatible ESM Version
 
-**Hide (not now, later, when you will get to the *PREPARATIONS*
-section)** - Hide `JuniperBush.nif` and `SloeBush.nif` by right-clicking
-the mod, then choosing the _Conflicts_ tab, selecting two files on the
-_Winning file conflicts_ section, right-clicking on them and choosing
-_Hide_.* Don’t worry, there will be a reference to these instructions in the
-*PREPARATIONS* section.
-
 *Adds different beautiful hand-placed flowers and plants around Skyrim
 to make it more interesting and picturesque. ESM plugin allows us not to
 worry about the mod overwriting anything we don't want to.*
@@ -1015,14 +1002,6 @@ worry about the mod overwriting anything we don't want to.*
 ### [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312)
 
 **Main files** - Cathedral - 3D Mountain Flowers
-
-**Hide (not now, later, when you will get to the *PREPARATIONS*
-section)** - hide any file, which overwrites _Fixed Mesh Lightning_ by
-right-clicking the mod, then choosing the *Conflicts* tab, selecting all
-the files on the *Winning file conflicts* section, where overwritten mod
-includes *Fixed Mesh Lightning*, right-clicking on them and choosing
-*Hide*. Don’t worry, there will be a reference to these instructions in the
-_PREPARATIONS_ section.
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
@@ -1399,9 +1378,9 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-### [Racial Body Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/20684)
+### [FK's Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/38563)
 
-**Main files** - Racial Body Morphs 2.0
+**Main files** - FK's Diverse Racial Skeletons
 
 *Now you will find out why we needed that First
 Person Camera Height Fix. All races from this point will have their own
@@ -1636,8 +1615,6 @@ actually uses your lockpicking skill to open doors and chests. Your lockpicks' b
 
 **Main files** - Dragonborn - Shouts Perk Tree
 
-**Miscellaneous files** - Dragonborn - Adamant Patch
-
 *Being Dragonborn and being able to shout should make us more unique
 than other characters, and this mod does that by giving us experience
 and perk points for shouting and killing dragons and a unique skill tree
@@ -1740,9 +1717,6 @@ from time to time.*
 
 **Optional files** - More Growable Plants Simple 1.5
 
-**Hide (not now, later, when you will get to the PREPARATIONS
-section)** - hide any file, which overwrites _Fixed Mesh Lightning_.
-
 *Still no idea where citizens of Skyrim get their apples, tomatoes,
 garlic and many other things from, but at least we know where we can get
 them from. And don’t worry, I have patched it, so you will be able to
@@ -1830,7 +1804,7 @@ people, who have to wait longer on them, will be pleased.*
 **Instructions** - rename the mod’s plugin to `TissHeadTrack.esp`.
 
 **If you installed Alternate Conversation Camera Plus** - go to _Alternate
-Conversation Camera Plus_'s INI, in line 47, change _bConversationHT_ to `0`.
+Conversation Camera Plus'_ INI, in line 47, change _bConversationHT_ to `0`.
 
 *Head tracking mod, which makes our player character (PC) observe
 things, which we move our cursor on.*
@@ -2215,7 +2189,7 @@ a piece of living rock.*
 
 **Main files** - Jog Sprint and Jump
 
-**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_.
+**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_.
 
 *Realistic animations for sprinting and running.*
 
@@ -2417,6 +2391,8 @@ things up. Has Bijin series’ mods vibes, but feels more unique.*
 
 **Main files** - Pandorable's NPCs SE
 
+**Optional files** - PAN_NPCs - AI Overhaul patch
+
 **FOMOD** - `USSEP` (Pandorable has probably forgotten to change name from
 LE's Unofficial Patch in her FOMOD), `no warpaint only for Voldsea`.
 
@@ -2559,8 +2535,6 @@ Thank Todd for that.
 **Main files** - Shield Sisters Re-Imagined - AI Overhaul Patch
 
 ### [Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/53197)
-
-**Main files** - Pandorable's NPCs - AI Overhaul Patch
 
 **Main files** - USSEP - Pandorable's NPCs - Dawnguard - AI Overhaul
 Patch
@@ -2766,9 +2740,15 @@ The same process must be done with:
     here)](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2)
     and `More Growable Plants, flora for Beyond Skyrim - Bruma, Unique Flowers and
     Plants, 3D Mountain Flowers, flora for Bruma, ice for Bruma, creatures for Bruma, Grahl`;
-
--   Now go to files with **Hide (not now, later, when you will get to the
-    PREPARATIONS section)** by using [this](#official-unique-flowers-and-plants) and do what is asked;
+    
+ -   Now hide `JuniperBush.nif` and `SloeBush.nif` in Official Unique Flowers and Plants from the _Exteriors_ section of the add-on by right-clicking
+the mod, then choosing the _Conflicts_ tab, selecting two files on the
+_Winning file conflicts_ section, right-clicking on them and choosing
+_Hide_. Then go to Cathedral - 3D Mountain Flowers (from the same section) and hide any file, which overwrites _Fixed Mesh Lightning_ by
+right-clicking the mod, then choosing the *Conflicts* tab, selecting all
+the files on the *Winning file conflicts* section, where overwritten mod
+includes *Fixed Mesh Lightning*, right-clicking on them and choosing
+*Hide*. Do the same for More Growable Plants from the add-on's _Miscellaneous_ section.
 
 -   *Lanterns of Skyrim II* in *LIGHTNING* separator - `SMIM and Bruma`;
 
@@ -2855,18 +2835,18 @@ At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with my configurations.
+Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
 
 **Cond. Expressions MCM** - Disable out of stamina, in pain,
-headache/diseased expressions.
+headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
 
 **Diziet’s Auto Outfits MCM** - In configuration settings, check the option
-to unset all hotkeys for this mod.
+to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
 
 **End Times MCM** - Lock the slider to not be tempted to change the final
 date all time. I think one in-game year (approximately 18 real life
-days) is good enough (and even feels right somehow), disable the spell
-and countdown. You can always enter into MCM again to see how much time
+days) is good enough (and even feels right somehow) to stop Alduin and to do many other things in between saving the world for the first time. And don't worry - the game won't end if you will kill Alduin. Also disable the spell
+and countdown as those are pretty annoying. You can always enter into MCM again to see how much time
 you have left.
 
 **Hide Your Quests MCM** - I recommend to hide right away all quests you get
@@ -2880,14 +2860,18 @@ immersiveness, but couldn't, will look at that later, so let it be this
 way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
-level 15.
+level 15. Don't forget to unhide the quests, when you actually would want to start them.
+
+**Favourite Howls Menu MCM** - Enable Revert Form and Night Eye powers to make them available for you in werewolf form, when you use your favourites menu.
 
 **Improved Follower Dialogue MCM** - If Lydia is too noisy, feel free to
 change her comment frequency.
 
 **Look what you see ! MCM** - In the *Follow the Camera Mode*
 menu choose hybrid head-tracking option and then choose *Disable when
-weapon drawn* in the *Other Options*.
+weapon drawn* in the *Other Options*. This way our character will follow our cursor's movement when the camera is behind them and will look at us if our character's face is facing the screen.
+
+**MoreHUD MCM** - No idea why, but Phoenix in her MoreHUD preset has disabled the appearance of information about potions, spell books etc., when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
 
 **Smart NPC Potions MCM** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
@@ -2900,13 +2884,17 @@ Octavian’s Preset* in *Load Preset*. If you want, you can also enable
 shoulder swapping in *Following* by choosing your shoulder swap key. I
 recommend one of your mouse’s buttons if you have many buttons on it.
 Then in *Crosshair*, enable *3D Magic Crosshair,* set minimum and
-maximum crosshair size to 50, enable *Stealth Meter Offset* and an
-option to always offset it, then set its Y offset to 200 (stealth meter
+maximum crosshair size to 40, enable *Stealth Meter Offset* and an
+option to always offset it, then set its Y offset to 200 (stealth meter and its offset's activation
 instructions should not be needed after the update of Smoothcam, but I
-will leave them be for reference and for Y offset’s changes).
+will leave them to be for reference and for Y offset’s changes).
 
-**Strange Runes MCM** - In the *Runes* section disable the *Allow NPC
-Casting* option, otherwise NPCs can start behaving oddly and ward runes
+**SSoB MCM** - Enable markers on the Stones of Barenziah.
+
+**Storm Lightning MCM** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
+
+**Strange Runes MCM** - In the *Runes* section disable *Allow NPC
+Casting* and *Fire and Forget spells, Concentration spells* options for NPCs, otherwise they can start behaving oddly and ward runes
 look weird on them.
 
 **TK Dodge MCM** - Change input method and forward roll input to *Double Tap
@@ -3070,7 +3058,7 @@ how to start some newly added quests.
 
 ---
 
-## GAMEPLAY GUIDE
+## Gameplay Guide
 
 Just a little heads up and how and when and how you should start newly
 added quests.
