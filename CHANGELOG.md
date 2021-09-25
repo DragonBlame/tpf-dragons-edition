@@ -34,6 +34,10 @@ Removed Racial Body Morphs. Added _FK's Diverse Racial Skeletons_.
 
 Updated installation instructions for Dragonborn - Shouts Perk Tree.
 
+### Miscellaneous
+
+Removed Look What You See. Added _True Directional Movement_.
+
 ### Skeleton & Animations
 
 Fixed instructions to move the section's separator below TPF's Skeleton & Animations separator (undocumented 1.7. addition).
