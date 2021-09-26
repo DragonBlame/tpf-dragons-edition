@@ -76,6 +76,8 @@ JK's Interiors Patch Collection
 
 Dragonborn - Shouts Perk Tree
 
+Diziet's Auto Outfits
+
 Pandorable's NPCs
 
 Updated High Poly Expressive NPCs - AI Overhaul Patch
