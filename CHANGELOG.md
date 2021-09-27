@@ -52,7 +52,7 @@ Changed The Forgotten City to actually start after getting level 40 (I guess noo
 
 Fixed (hopefully all) black face issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs. Added facegen files for Adoption Without Murder.
 
-Fixed one left out water record for Morthal to be murky.
+Fixed one left out water record for Morthal to be completely murky.
 
 Updated patches.
 
