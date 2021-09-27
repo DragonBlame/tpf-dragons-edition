@@ -28,6 +28,8 @@ Added _JK's Riverwood Trader_.
 
 Updated installation instructions for Racial Body Morphs.
 
+Added _KS Hairdos with physics for Men_.
+
 ### Gameplay Overhauls
 
 Updated installation instructions for Dragonborn - Shouts Perk Tree.
