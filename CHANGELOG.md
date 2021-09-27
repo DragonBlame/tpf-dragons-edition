@@ -28,7 +28,7 @@ Updated FOMOD instructions for JK's Interiors Patch Collection.
 
 ### Appearance
 
-Removed Racial Body Morphs. Added _FK's Diverse Racial Skeletons_.
+Updated installation instructions for Racial Body Morphs.
 
 ### Gameplay Overhauls
 
@@ -48,11 +48,13 @@ Updated installation instructions for Pandorable's NPCs and Updated USSEP - Pand
 
 Fixed some typos like always.
 
+Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.
+
 Changed The Forgotten City to actually start after getting level 40 (I guess noone read the gameplay guide...).
 
-Fixed (hopefully all) black face issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs.
+Fixed (hopefully all) black face issues related to Diverse Skyrim (and not only) and High Poly Expressive NPCs. Added facegen files for Adoption Without Murder.
 
-Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.
+Fixed one left out water record for Morthal to be murky.
 
 Updated patches.
 
@@ -73,6 +75,8 @@ JK's The Winking Skeever
 JK's Understone Keep
 
 JK's Interiors Patch Collection
+
+Racial Body Morphs
 
 Dragonborn - Shouts Perk Tree
 
