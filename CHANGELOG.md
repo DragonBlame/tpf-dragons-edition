@@ -24,8 +24,6 @@ Fixed link for Cities of the North - Morthal Patch Collection (undocumented 1.7.
 
 Added _JK's Riverwood Trader_.
 
-Updated FOMOD instructions for JK's Interiors Patch Collection.
-
 ### Appearance
 
 Updated installation instructions for Racial Body Morphs.
