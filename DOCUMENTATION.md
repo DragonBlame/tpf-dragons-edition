@@ -1513,6 +1513,10 @@ character shouldn't wait for long anymore.*
 
 *New level of fanciness. People love hair with physics, so let them be.*
 
+### [KS Hairdos with Physics for Men](https://www.nexusmods.com/skyrimspecialedition/mods/55986)
+
+**Main files** - KS Hairdos SMP for Men
+
 ---
 
 ## Gameplay Overhauls
