@@ -1378,9 +1378,9 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-### [FK's Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/38563)
+### [Racial Body Morphs](https://www.nexusmods.com/skyrimspecialedition/mods/20684)
 
-**Main files** - FK's Diverse Racial Skeletons
+**Main files** - Racial Body Morphs 2.1
 
 *Now you will find out why we needed that First
 Person Camera Height Fix. All races from this point will have their own
