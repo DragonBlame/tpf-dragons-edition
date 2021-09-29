@@ -3212,7 +3212,7 @@ see all the data about the guard from a console, her perfect, untouched
 modlist.txt and loadorder.txt.*
 
 _Was going to Whiterun for the first time, right near the gate of the
-city one of the guards has black face. Have tried to get to Riverwood with fast travelling
+city one of the guards has black face. Have tried to get to Whiterun
 and then return, but the issue is still there._
 
 I will try to respond as fast as I can. Please, be mindful that I have
