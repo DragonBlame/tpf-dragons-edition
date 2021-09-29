@@ -80,6 +80,8 @@ Racial Body Morphs
 
 Dragonborn - Shouts Perk Tree
 
+Navigator - Navmesh Fixes
+
 Diziet's Auto Outfits
 
 Pandorable's NPCs
