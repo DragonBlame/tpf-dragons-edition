@@ -28,7 +28,7 @@ Added _JK's Riverwood Trader_.
 
 Updated installation instructions for Racial Body Morphs.
 
-Added _KS Hairdos with physics for Men_.
+Added _KS Hairdos with Physics for Men_.
 
 ### Gameplay Overhauls
 
