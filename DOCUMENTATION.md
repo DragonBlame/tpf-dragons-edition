@@ -3180,8 +3180,8 @@ sentences about that, just write what the problem is in
 Report requirements:
 
 -   Title of the report should be made according to the problem (not
-    *Issue, HELP!!!!, problem*, but something like *Black Face, Flying
-    Rock* etc.);
+    *Issue, HELP!!!!, problem*, but something like *Aela has Black Face, Flying
+    Barrel Outside Whiterun* etc.);
 
 -   Copy of YOUR *modlist.txt* and *loadorder.txt* (Navigate to your MO2
     folder, open *profiles* folder, then to the profile with the problem) (use Google Drive, text sharing service etc., **don't copy those directly to the report**);
