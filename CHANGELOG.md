@@ -68,6 +68,8 @@ Added additional MCM instructions for some of TPF's mods, which were omitted in 
 
 ### Wabbajack
 
+Added a separator with the add-on's version on it.
+
 Changed the settings for the game to actually be borderless.
 
 ### Updated Add-on's Mods for Wabbajack Users
