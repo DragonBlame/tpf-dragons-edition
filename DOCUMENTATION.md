@@ -3019,7 +3019,7 @@ change ENB files and add a good addition for it.
 
 **Optional files** - Silent Horizons - Solar Cleaner
 
-At first, delete `enbcache` folder you can find in your root folder.
+At first, delete `enbcache` folder you can find in your Stock Game folder.
 
 Put *Silent Horizons ENB Addon - Solar Cleaner* right at the start of
 the add-on’s _Exteriors_ section in your mod order and put it right under
