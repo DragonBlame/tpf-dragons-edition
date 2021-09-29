@@ -56,6 +56,8 @@ Fixed (hopefully all) black face issues related to Diverse Skyrim (and not only)
 
 Fixed one left out water record for Morthal to be completely murky.
 
+Removed flying objects around Whiterun.
+
 Updated patches.
 
 Updated TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance), TPF Dragon's Edition - Occlusion.
