@@ -3184,8 +3184,7 @@ Report requirements:
     Rock* etc.);
 
 -   Copy of YOUR *modlist.txt* and *loadorder.txt* (Navigate to your MO2
-    folder, open *profiles* folder, then *The Phoenix Flavour -
-    Dragon’s Edition*) (use Google Drive, text sharing service etc.);
+    folder, open *profiles* folder, then to the profile with the problem) (use Google Drive, text sharing service etc., **don't copy those directly to the report**);
 
 -   Screenshot of the problem (copy and paste in the report or again
     just use a picture sharing service etc.) (when the problem is
