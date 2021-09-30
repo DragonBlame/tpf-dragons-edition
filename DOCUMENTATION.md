@@ -2866,7 +2866,7 @@ immersiveness, but couldn't, will look at that later, so let it be this
 way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
-level 15. Don't forget to unhide the quests, when you actually would want to start them.
+level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
 
 **Favourite Howls Menu MCM** - Enable Revert Form and Night Eye powers to make them available for you in werewolf form, when you use your favourites menu.
 
