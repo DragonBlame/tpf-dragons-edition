@@ -189,7 +189,7 @@ much more lively.*
 
 **Main files** - Detailed Mine Markers v1.4
 
-**FOMOD** - Whichever options you like, except the one you need to use - `Install USSEP Compatibility`. I recommend lore friendly markers with an aditions of new markers for mines.
+**FOMOD** - Whichever options you like, except the one you need to use - `Install USSEP Compatibility`. I recommend lore friendly markers with an additions of new markers for mines.
 
 *Finally I won't need to ask Google about where can I get specific kind of ore. It is enough to use the search functionality in our map.*
 
