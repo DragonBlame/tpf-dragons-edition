@@ -2851,7 +2851,7 @@ to unset all hotkeys for this mod. The mod's main functionality doesn't even nee
 
 **End Times MCM** - Lock the slider to not be tempted to change the final
 date all time. I think one in-game year (approximately 18 real life
-days) is good enough (and even feels right somehow) to stop Alduin and to do many other things in between saving the world for the first time. And don't worry - the game won't end if you will kill Alduin. Also disable the spell
+days) is good enough (and even feels right somehow) to stop Alduin and to do many other things in between saving the world for the first time. And don't worry - the game won't end if you kill Alduin. Also disable the spell
 and countdown as those are pretty annoying. You can always enter into MCM again to see how much time
 you have left.
 
