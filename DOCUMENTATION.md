@@ -1517,6 +1517,8 @@ character shouldn't wait for long anymore.*
 
 **Main files** - KS Hairdos SMP for Men
 
+_You will be able to get hair with physics for men by using AddItemMenu mod, which will be covered later._
+
 ---
 
 ## Gameplay Overhauls
