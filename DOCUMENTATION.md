@@ -157,7 +157,7 @@ doors after unlocking them to open them.*
 
 **Main files** - Minimalist Quick Loot
 
-**FOMOD** - Whichever options you like. I recommend 
+**FOMOD** - Whichever options you like. I recommend `With Container Title, Original Position Modified Size`.
 
 *Useful to make Quick Loot's interface smaller and less bulky by making
 it transparent.*
