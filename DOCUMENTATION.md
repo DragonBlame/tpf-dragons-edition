@@ -1782,7 +1782,7 @@ _(ft. TPF - Dragon's Edition in its development days)_
 **Instructions** - Install the mod, right-click *Data* folder and select
 *Set as data directory*, click *OK*. Right-click the mod in your
 *Downloads* tab and select *Open File*, move *discord-rpc.dll* file to
-the game's root folder.
+the game's stock folder.
 
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
