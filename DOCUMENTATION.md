@@ -1420,9 +1420,8 @@ will need to choose a different version of Masculine Khajiit Textures.
 
 **FOMOD** - `Lizard, Heavy Scales`.
 
-*I don’t see anything too eye-catching from Forgotten Argonian Roots and
-they don’t work with the mod, so let’s use argonian skin texture from
-the same author, which textures we use for Khajiits.*
+*Flawn's Vanilla Argonians Redux mod looks very good, but there are another great looking textures for argonians, which work with the mod we want to use and
+which are done by the same author, which textures we use for Khajiits.*
 
 ### [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
 
