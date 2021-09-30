@@ -2856,7 +2856,7 @@ and countdown as those are pretty annoying. You can always enter into MCM again 
 you have left.
 
 **Hide Your Quests MCM** - I recommend to hide right away all quests you get
-right at the beginning except the main one, because you won’t be able to
+right at the beginning except the main one, because you mustn't
 start Helgen Reborn quest right at the beginning (read Gameplay Guide
 for more information) and because The Sinister Seven quest isn’t the one
 where you go to objective, just hide it, quest givers will look for you
@@ -2877,7 +2877,7 @@ change her comment frequency.
 menu choose hybrid head-tracking option and then choose *Disable when
 weapon drawn* in the *Other Options*. This way our character will follow our cursor's movement when the camera is behind them and will look at us if our character's face is facing the screen.
 
-**MoreHUD MCM** - No idea why, but Phoenix in her MoreHUD preset has disabled the appearance of information about potions, spell books etc., when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
+**MoreHUD MCM** - No idea why, but Phoenix has disabled the appearance of information about potions, spell books etc. in her MoreHUD preset, when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
 
 **Smart NPC Potions MCM** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
@@ -2951,7 +2951,7 @@ added quests are tied to it (more information in _Gameplay Guide_).
 Secondly, look inside Helgen’s Keep’s entries thoroughly as there will
 be one little reward for attentive ones.
 
-Thirdly, for people, who would want to adopt children and live with them
+Thirdly, for people, who would want to adopt children and live with them (and/or with your spouse)
 not in vanilla homes, there will be a neat spell book waiting for you
 somewhere around Riverwood.
 
