@@ -1571,7 +1571,7 @@ vampire friend Serana does, you won’t be destroyed by sun damage.*
 **Main files** - More Werewolves
 
 *Yes, more werewolves will be in Skyrim, so be attentive especially when
-traversing the area around Morthal.*
+traversing the area around Morthal and Falkreath.*
 
 **FOMOD** - `Standalone version, RFYL Patch`.
 
@@ -1609,7 +1609,8 @@ description of the mod.*
 **Main files** - NoLockPicking v2
 
 *Removes the lock picking mini-game (annoying) from the game and now
-actually uses your lockpicking skill to open doors and chests. Your lockpicks' breaking rate is also being affected by your skills.*
+actually uses your lockpicking skill to open doors and chests. Each picked lock and tries to pick it put points in your lockpicking skill like always. 
+Your lockpicks' breaking rate is also being affected by your skills.*
 
 ### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
 
@@ -1624,7 +1625,7 @@ actually uses your lockpicking skill to open doors and chests. Your lockpicks' b
 *Being Dragonborn and being able to shout should make us more unique
 than other characters, and this mod does that by giving us experience
 and perk points for shouting and killing dragons and a unique skill tree
-for spending these.*
+for spending these. It will be available after finishing The Way of the Voice quest.*
 
 ### [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
 
@@ -1970,7 +1971,7 @@ etc.*
 **Main files** - CWN - Civil War Neutrality SSE
 
 *Let Stormcloaks and the Empire play their own games, while being
-neutral, but getting your deserved reward.*
+neutral, but getting your deserved rewards.*
 
 ### [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201)
 
@@ -1994,7 +1995,7 @@ This category's mods are optional - you can just skip the category. You
 can use whichever mods you like, which are before a horizontal line, but
 you will need to install all of the music mods, which are behind the
 line, if you want everything to work correctly. Music is actually the
-same one Phoenix offers in her TPF-X, so all credit goes to those
+same one Phoenix offered in her TPF-X, so all credit goes to those
 wonderful people, who made it, and Phoenix for finding these pearls and
 making a patch for them. And wanted to reminder you that other sections' mods (excluding the _Interface_ section of the add-on, which we have already gone trough) are all obligatory and can't be skipped.
 
