@@ -2813,7 +2813,7 @@ hair and/or beard isn't right. Do you remember us installing High Poly
 Head and its hair (and beard) variations, right? Well, Wabbajack users won't, but that isn't the point. Now we need to
 actually activate our high poly head in Racemenu and then our hair will
 look fine. Also choose a beard from High Poly Head and it will look good
-if that is needed.
+if that is needed. 
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331927-051552a4-64d6-420b-8fa4-e18fd232ee4e.png" /> 
@@ -2826,11 +2826,13 @@ you see below.
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331938-43bb6a6b-dee2-439c-8fae-f3780a734c8a.png" /> 
 </p>
 
+After that customize your character to your heart's content.
+
 Later into the game, if you are planning to use shields and if you find
 one, I recommend you to go into the console with ~ key, type
 `showracemenu`, press *Enter* and make corrections to your shield’s
 position using settings you can again see below. Don’t
-overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name. After setting up the settings,
+overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name mid-game - that won't make the game happy. After setting up the settings,
 press *R* and *Enter* and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/133582938-c749b927-c34d-4bf5-b4c9-cfc29219126b.png)
