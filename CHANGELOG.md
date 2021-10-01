@@ -8,11 +8,17 @@
 
 ### New Content
 
-Added _Additional Clockwork_ and _Clockwork - Cleaned Textures_.
+Added additional instructions for Clockwork.
+
+Added _Clockwork - Cleaned Textures_ and _Additional Clockwork_.
 
 Removed Falkreath Hauntings (for the cool, little mod, it makes too many navmesh conflicts).
 
 Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many weird edits and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
+
+### Miscellaneous
+
+Added _ENB Lights For Effect Shaders_.
 
 ### Other Changes
 
