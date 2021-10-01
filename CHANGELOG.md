@@ -22,7 +22,7 @@ Added _ENB Lights For Effect Shaders_.
 
 ### Other Changes
 
-Fixed some typos, made some corrections in the documentation (some were undocumented 1.8. addition).
+Made some corrections in the documentation.
 
 Updated final patches.
 
@@ -72,7 +72,7 @@ Updated installation instructions for Pandorable's NPCs and Updated USSEP - Pand
 
 ### Other Changes
 
-Fixed some typos in the documentation.
+Made some corrections in the documentation.
 
 Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.
 
