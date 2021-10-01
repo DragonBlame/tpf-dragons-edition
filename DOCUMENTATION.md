@@ -2052,31 +2052,31 @@ shouts sound better.*
 
 **Main files** - The Northerner Diaries - Skyrim and Solstheim
 
-**Delete** - delete `Northerner Diaries in Skyrim.esp`.
+**Delete** - remove `Northerner Diaries in Skyrim.esp`.
 
 ### [Still - Skyrim Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/19401)
 
 **Main files** - Still - ESP Version
 
-**Delete** - delete `Still.esp`.
+**Delete** - remove `Still.esp`.
 
 ### [Hun Lovaas - Skyrim Fan-Made Combat Music](https://www.nexusmods.com/skyrimspecialedition/mods/16123)
 
 **Main files** - Hun Lovaas - ESP version
 
-**Delete** - delete `Hun Lovaas.esp`.
+**Delete** - remove `Hun Lovaas.esp`.
 
 ### [Melodies of Civilization - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/30014)
 
 **Main files** - Melodies of Civilization 1.01
 
-**Delete** - delete `Melodies of Civilization.esp`.
+**Delete** - remove `Melodies of Civilization.esp`.
 
 ### [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144)
 
 **Main files** - Around the Fire
 
-**Delete** - delete `Around the Fire.esp`.
+**Delete** - remove `Around the Fire.esp`.
 
 ### [Dawnguard Music Overhaul - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/48613)
 
