@@ -574,9 +574,21 @@ _Hide_.
 
 **Main files** - Clockwork_SSE_v1-0
 
+**Instructions** - delete `Clockwork - Textures.bsa`.
+
+### [Clockwork - Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/55677?tab=files)
+
+**Optional files** - Clockwork BSA
+
 ### [Skeleton Replacer HD - Clockwork Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52845?tab=files)
 
 **Miscellaneous files** - SkeletonReplacer - ClockworkPatch
+
+### [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087?tab=files)
+
+**Update files** - Additional Clockwork
+
+**FOMOD** - `Courier Counterspell, Mausoleum Dummy Door Fix, Extra Coals Fix`.
 
 ### [Clockwork Plantable Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/40875?tab=files)
 
@@ -784,13 +796,9 @@ directory*, click *OK*.
 
 **Main files** - Kaidan 2.1.1
 
-### [Kaidan 2 Visual Overhaul - High Poly Head](https://www.nexusmods.com/skyrimspecialedition/mods/47923?tab=files)
+### [Pandorable's Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/23738?tab=files)
 
-**Main files** - Kaidan V.1
-
-**Optional files** - Kaidan Underwear Patch
-
-**Merge** - Merge both files.
+**Main files** - Pandorable's Kaidan SE
 
 ### [Gladys the Corgi - A Custom Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/50164?tab=files)
 
@@ -813,12 +821,6 @@ directory*, click *OK*.
 **Main files** - Refined Auri SSE - Pointy Teeth Update
 
 **FOMOD** - `Vanilla or UNP, Sharp Teeth, Freckles (default)`.
-
-### [The Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733?tab=files)
-
-**Main files** - The Falkreath Hauntings
-
-**Optional files** - Moon and Star patch
 
 ### [The Sinister Seven](https://www.nexusmods.com/skyrimspecialedition/mods/19178?tab=files)
 
