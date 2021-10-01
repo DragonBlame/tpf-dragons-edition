@@ -1473,7 +1473,7 @@ bigger.*
 
 **Main files** - Grimoas Plantigrade Feet For Beast Races v 1_4
 
-**Delete** - delete `Gri_BeastFeet.esp`.
+**Delete** - remove `Gri_BeastFeet.esp`.
 
 *A resource from Skyrim LE to make our next mod work (thank you very
 much).*
