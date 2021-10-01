@@ -2046,7 +2046,7 @@ shouts sound better.*
 
 **Main files** - Musical Lore V1.2
 
-**Delete** - delete `NirShor-MusicalLore.esp`.
+**Delete** - remove `NirShor-MusicalLore.esp`.
 
 ### [The Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108)
 
