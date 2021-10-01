@@ -10,13 +10,13 @@
 
 Added _Additional Clockwork_ and _Clockwork - Cleaned Textures_.
 
-Removed Falkreath Huntings (for the cool, little mod, it makes too many navmesh conflicts).
+Removed Falkreath Hauntings (for the cool, little mod, it makes too many navmesh conflicts).
 
-Removed Kaidan 2 Visual Overhaul. Added _Pandorable's Kaidan_.
+Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many weird edits and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
 
 ### Other Changes
 
-Fixed some typos, made some corrections like always (some were undocumented 1.8. addition).
+Fixed some typos, made some corrections in the documentation (some were undocumented 1.8. addition).
 
 Updated final patches.
 
@@ -66,7 +66,7 @@ Updated installation instructions for Pandorable's NPCs and Updated USSEP - Pand
 
 ### Other Changes
 
-Fixed some typos like always.
+Fixed some typos in the documentation.
 
 Moved instructions to hide files, which were overwriting Fixed Mesh Lightning mod's files, to the Preparations section of the documentation from other sections.
 
