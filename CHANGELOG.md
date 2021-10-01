@@ -2,6 +2,26 @@
 
 # Changelog
 
+## Version 1.9.
+
+> xx.10.2021.
+
+### New Content
+
+Added _Additional Clockwork_ and _Clockwork - Cleaned Textures_.
+
+Removed Falkreath Huntings (for the cool, little mod, it makes too many navmesh conflicts).
+
+Removed Kaidan 2 Visual Overhaul. Added _Pandorable's Kaidan_.
+
+### Other Changes
+
+Fixed some typos, made some corrections like always (some were undocumented 1.8. addition).
+
+Updated final patches.
+
+---
+
 ## Version 1.8.
 
 > 29.09.2021.
@@ -58,7 +78,7 @@ Fixed one left out water record for Morthal to be completely murky.
 
 Removed flying objects around Whiterun.
 
-Updated patches.
+Updated final patches.
 
 Updated TPF Dragon's Edition - DynDOLOD Output, TPF Dragon's Edition - DynDOLOD Output (Performance), TPF Dragon's Edition - Occlusion.
 
