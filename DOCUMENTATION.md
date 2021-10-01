@@ -574,7 +574,7 @@ _Hide_.
 
 **Main files** - Clockwork_SSE_v1-0
 
-**Instructions** - delete `Clockwork - Textures.bsa`.
+**Delete** - remove `Clockwork - Textures.bsa`.
 
 ### [Clockwork - Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/55677?tab=files)
 
@@ -1747,7 +1747,6 @@ grow only things I consider to be immersive to be grown by player character.*
 
 *New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
-
 ### [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322)
 
 **Main files** - Animated Forge Water
@@ -1766,8 +1765,6 @@ magnificent? I would have signed it.*
 ### [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
 
 **Main files** - ENB Lights For Effect Shaders
-
-**Instructions** - 
 
 ### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
