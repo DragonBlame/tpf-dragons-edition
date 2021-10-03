@@ -804,6 +804,10 @@ directory*, click *OK*.
 
 **Main files** - Gladys the Corgi - A Custom Dog Follower Mod
 
+### [Merlin the Corgi - A Magical Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/56433?tab=files)
+
+**Main files** - Merlin the Corgi
+
 ### [Shirley - A Skyrim Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45956?tab=files)
 
 **Main files** - Shirley - A Skyrim Follower Mod
