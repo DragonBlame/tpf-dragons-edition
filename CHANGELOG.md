@@ -42,7 +42,7 @@ Added _Turn Animation Fix_.
 
 Made some corrections in the documentation.
 
-Fixed CTDs in Winterhold.
+Fixed CTD in Winterhold.
 
 Updated final patches.
 
