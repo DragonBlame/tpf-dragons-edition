@@ -10,7 +10,7 @@
 
 Added _Merlin the Corgi - A Magical Dog Follower Mod_.
 
-Added additional instructions for JK's Interiors Patch Collection.
+Added additional instructions for Clockwork.
 
 Added _Clockwork - Cleaned Textures_ and _Additional Clockwork_.
 
