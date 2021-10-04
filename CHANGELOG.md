@@ -60,6 +60,8 @@ JK's Interiors Patch Collection
 
 The Great Town of Ivarstead Patch Collection
 
+The Great Village of Mixwater Mill Patch Collection
+
 ---
 
 ## Version 1.8.
