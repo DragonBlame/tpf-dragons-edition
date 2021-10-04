@@ -16,6 +16,8 @@ Added _Clockwork - Cleaned Textures_ and _Additional Clockwork_.
 
 Changed installation instructions for The Tools of Kagrenac.
 
+Changed installation instructions for The Brotherhood of Old.
+
 Removed Falkreath Hauntings (for cool, little mod, it makes too many navmesh conflicts).
 
 Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many weird edits and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
@@ -45,6 +47,10 @@ Enhanced Blood Textures
 Pilgrim - A Religion Overhaul
 
 The Tools of Kagrenac
+
+Serana Dialogue Add-On
+
+The Brotherhood of Old
 
 ---
 
