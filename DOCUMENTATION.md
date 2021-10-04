@@ -335,7 +335,7 @@ considering the previous mod we have added.*
 
 ### [The Brotherhood of Old](https://www.nexusmods.com/skyrimspecialedition/mods/15322?tab=files)
 
-**Main files** - SSE - The Brotherhood of Old - Version 1.1.0
+**Main files** - The Brotherhood of Old - Version 1.1.1
 
 ### [Castle Volkihar Rebuilt](https://www.nexusmods.com/skyrimspecialedition/mods/324?tab=files)
 
