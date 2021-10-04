@@ -40,6 +40,10 @@ Made some corrections in the documentation.
 
 Updated final patches.
 
+### Wabbajack
+
+Removed untouched TPF's copies of some mods (for instance, NARC, Lanterns of Skyrim II etc.), because after removing TPF profiles, they just generally aren't needed anymore.
+
 ### Updated Add-on's Mods for Wabbajack Users
 
 Navigator - Navmesh Fixes
