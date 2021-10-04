@@ -58,6 +58,8 @@ The Brotherhood of Old
 
 JK's Interiors Patch Collection
 
+The Great Town of Ivarstead Patch Collection
+
 ---
 
 ## Version 1.8.
