@@ -655,7 +655,7 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 ### [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168?tab=files)
 
-**Main files** - The Tools of Kagrenac V1.58 SSE 
+**Main files** - The Tools of Kagrenac V1.58a SSE
 
 ### [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748?tab=files)
 
@@ -1540,7 +1540,7 @@ separator in the same order.
 
 ### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
 
-**Main files** - Pilgrim - A Religion Overhaul
+**Main files** - Pilgrim
 
 **FOMOD** - Don’t change anything.
 
