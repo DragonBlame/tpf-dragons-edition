@@ -64,6 +64,8 @@ The Great Village of Mixwater Mill Patch Collection
 
 The Great Town of Karthwasten Patch Collection
 
+The Great Village of Kynesgrove Patch Collection
+
 ---
 
 ## Version 1.8.
