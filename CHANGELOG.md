@@ -14,9 +14,15 @@ Added additional instructions for Clockwork.
 
 Added _Clockwork - Cleaned Textures_ and _Additional Clockwork_.
 
+Changed installation instructions for The Tools of Kagrenac.
+
 Removed Falkreath Hauntings (for cool, little mod, it makes too many navmesh conflicts).
 
 Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many weird edits and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
+
+### Gameplay Overhauls
+
+Changed installation instructions for Pilgrim - A Religion Overhaul.
 
 ### Miscellaneous
 
@@ -27,6 +33,18 @@ Added _ENB Lights For Effect Shaders_.
 Made some corrections in the documentation.
 
 Updated final patches.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+Navigator - Navmesh Fixes
+
+Feminine Khajiit Textures
+
+Enhanced Blood Textures
+
+Pilgrim - A Religion Overhaul
+
+The Tools of Kagrenac
 
 ---
 
