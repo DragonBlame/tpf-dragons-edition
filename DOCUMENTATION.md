@@ -2259,6 +2259,12 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 *Do you even need to ask me why? This is epic.*
 
+### [Turn Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/54803)
+
+**Main files** - Turning animation won't affect upper body
+
+*Literally what is written - it disables turning animations on upper body, so we won't look add while aiming our bow in the 3rd person etc.*
+
 ### [Magic Casting Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215)
 
 **Main files** - Magic Casting Animations Overhaul SSE
