@@ -34,6 +34,10 @@ Changed installation instructions for Pilgrim - A Religion Overhaul.
 
 Added _ENB Lights For Effect Shaders_.
 
+### Animations
+
+Added _Turn Animation Fix_.
+
 ### Other Changes
 
 Made some corrections in the documentation.
@@ -41,6 +45,8 @@ Made some corrections in the documentation.
 Fixed CTDs in Winterhold.
 
 Updated final patches.
+
+Updated TPF Dragon's Edition - Nemesis Output.
 
 ### Wabbajack
 
