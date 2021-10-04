@@ -38,6 +38,8 @@ Added _ENB Lights For Effect Shaders_.
 
 Made some corrections in the documentation.
 
+Fixed CTDs in Winterhold.
+
 Updated final patches.
 
 ### Wabbajack
