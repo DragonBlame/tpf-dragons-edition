@@ -42,7 +42,7 @@ Updated final patches.
 
 ### Wabbajack
 
-Removed untouched TPF's copies of some mods (for instance, NARC, Lanterns of Skyrim II etc.), because after removing TPF profiles, they just generally aren't needed anymore. Exclusion was made for some mods like Enhanced Blood Textures, Feminine Khajiit Textures etc., because their content is totally different and to make my work easier if I decide to change something.
+Removed untouched TPF's copies of some mods (for instance, NARC, Lanterns of Skyrim II etc.), because after removing TPF profiles, they generally aren't needed anymore. Exclusion was made for some mods like Enhanced Blood Textures, Feminine Khajiit Textures etc., because their content is totally different from what we use and just to make my work easier if I decide to change something.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
