@@ -1577,7 +1577,7 @@ vampire friend Serana does, you won’t be destroyed by sun damage.*
 **Main files** - More Werewolves
 
 *Yes, more werewolves will be in Skyrim, so be attentive especially when
-traversing the area around Morthal and Falkreath.*
+traversing the areas around Morthal and Falkreath.*
 
 **FOMOD** - `Standalone version, RFYL Patch`.
 
