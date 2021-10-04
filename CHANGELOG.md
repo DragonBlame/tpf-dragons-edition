@@ -20,7 +20,7 @@ Changed installation instructions for The Brotherhood of Old.
 
 Removed Falkreath Hauntings (for cool, little mod, it makes too many navmesh conflicts).
 
-Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many weird edits and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
+Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many edits not related to appearance and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
 
 ### Interiors
 
