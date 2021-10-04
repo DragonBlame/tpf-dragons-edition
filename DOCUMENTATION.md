@@ -2782,7 +2782,7 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 
 -   *Misc. College of Winterhold Tweaks* in *IMPROVED VANILLA QUESTS* -
     TPFs patches [(look
-    here)](https://thephoenixflavour.com/tpf/mod-installation/new-content/#fomod-instructions-3)
+    here)](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/#fomod-instructions-4)
     except `Scheduled Savos, A Wizard’s Walk, Erratum Etc.`, which
     aren’t chosen by FOMOD too (just for you to be sure that is
     correct), and you should make sure that `Obscure’s College of
