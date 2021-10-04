@@ -24,7 +24,7 @@ Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many weird edits and t
 
 ### Interiors
 
-Changed FOMOD instructions for The Tools of Kagrenac.
+Changed FOMOD instructions for JK's Interiors Patch Collection.
 
 ### Gameplay Overhauls
 
