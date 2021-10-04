@@ -10,7 +10,7 @@
 
 Added _Merlin the Corgi - A Magical Dog Follower Mod_.
 
-Added additional instructions for Clockwork.
+Added additional instructions for JK's Interiors Patch Collection.
 
 Added _Clockwork - Cleaned Textures_ and _Additional Clockwork_.
 
@@ -21,6 +21,10 @@ Changed installation instructions for The Brotherhood of Old.
 Removed Falkreath Hauntings (for cool, little mod, it makes too many navmesh conflicts).
 
 Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many weird edits and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
+
+### Interiors
+
+Changed FOMOD instructions for The Tools of Kagrenac.
 
 ### Gameplay Overhauls
 
@@ -51,6 +55,8 @@ The Tools of Kagrenac
 Serana Dialogue Add-On
 
 The Brotherhood of Old
+
+JK's Interiors Patch Collection
 
 ---
 
