@@ -393,9 +393,9 @@ considering the previous mod we have added.*
 
 ### [Miraak Husbando](https://www.nexusmods.com/skyrimspecialedition/mods/22063?tab=files)
 
-**Main files** - Miraak Husbando
+**Main files** - Miraak Husbando SE
 
-**Optional files** - Miraak Husbando - No Outfit Edits
+**Optional files** - Miraak Husbando SE High Poly Head No Outfit Edits
 
 **Merge** - Merge both files.
 
