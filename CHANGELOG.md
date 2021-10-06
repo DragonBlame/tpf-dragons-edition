@@ -18,6 +18,8 @@ Changed installation instructions for The Tools of Kagrenac.
 
 Changed installation instructions for The Brotherhood of Old.
 
+Changed installation instructions for Miraak Husbando.
+
 Removed Falkreath Hauntings (for cool, little mod, it makes too many navmesh conflicts).
 
 Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many edits not related to appearance and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
@@ -37,6 +39,10 @@ Added _ENB Lights For Effect Shaders_.
 ### Animations
 
 Added _Turn Animation Fix_.
+
+### Literally Unplayable
+
+Changed installation instructions.
 
 ### Other Changes
 
@@ -77,6 +83,8 @@ The Great Village of Mixwater Mill Patch Collection
 The Great Town of Karthwasten Patch Collection
 
 The Great Village of Kynesgrove Patch Collection
+
+Miraak Husbando
 
 ---
 
