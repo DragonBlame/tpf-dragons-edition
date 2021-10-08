@@ -86,6 +86,8 @@ The Great Village of Kynesgrove Patch Collection
 
 Miraak Husbando
 
+Pandorable's NPCs
+
 ---
 
 ## Version 1.8.
