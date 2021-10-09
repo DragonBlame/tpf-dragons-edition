@@ -26,6 +26,8 @@ Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many edits not related
 
 ### Interiors
 
+Actually added JK's Riverwood Trader in the documentation (thanks to me for finding out).
+
 Added _JK's Temple of Dibella_.
 
 Changed FOMOD instructions for JK's Interiors Patch Collection.
