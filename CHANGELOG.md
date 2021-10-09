@@ -92,6 +92,8 @@ Miraak Husbando
 
 Pandorable's NPCs
 
+Dragon Priest Fix - Behaviour Overhaul
+
 ---
 
 ## Version 1.8.
