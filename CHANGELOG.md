@@ -26,6 +26,12 @@ Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many edits not related
 
 ### Interiors
 
+Changed FOMOD instructions for The Great Village of Old Hroldan Patch Collection.
+
+Exteriors
+
+### Interiors
+
 Actually added JK's Riverwood Trader in the documentation (thanks to me for finding out).
 
 Added _JK's Temple of Dibella_.
@@ -93,6 +99,8 @@ Miraak Husbando
 Pandorable's NPCs
 
 Dragon Priest Fix - Behaviour Overhaul
+
+The Great Village of Old Hroldan Patch Collection
 
 ---
 
