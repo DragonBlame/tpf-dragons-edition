@@ -1124,7 +1124,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - The Great Village of Old Hroldan Patch Collection
 
-**FOMOD** - `3DNPC, AI Overhaul SSE, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP, Embers HD.esp`.
+**FOMOD** - `3DNPC, AI Overhaul, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
 ### [The Great Town of Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/34505)
 
@@ -1134,7 +1134,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - Great Town of Karthwasten Patch Collection
 
-**FOMOD** - `3DNPC, AI Overhaul SSE, Embers HD, Landscape and Water Fixes, Landscape Grass Fix, Realistic Water Two, Unofficial Skyrim Special Edition Patch, Lanterns of Skyrim II`, Kaidan 2 - `Non-JK`.
+**FOMOD** - `3DNPC, AI Overhaul, Embers HD, Landscape and Water Fixes, Landscape Grass Fix, Realistic Water Two, USSEP, Lanterns of Skyrim II`, Kaidan 2 - `Non-JK`.
 
 ### [The Great Town of Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/35977)
 
@@ -1144,7 +1144,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - Great Town of Shor's Stone Patch Collection
 
-**FOMOD** - `AI Overhaul, Embers HD, Lanterns of Skyrim II, Unofficial Skyrim Special Edition Patch`.
+**FOMOD** - `AI Overhaul, Embers HD, Lanterns of Skyrim II, USSEP`.
 
 ### [The Great Village of Mixwater Mill](https://www.nexusmods.com/skyrimspecialedition/mods/36350)
 
@@ -1156,7 +1156,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - The Great Village of Mixwater Mill Patch Collection
 
-**FOMOD** - `Landscape and Water Fixes, Lanterns of Skyrim II, Unofficial Skyrim Special Edition Patch`.
+**FOMOD** - `Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
 ### [The Great Village of Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639)
 
@@ -1166,7 +1166,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - The Great Village of Kynesgrove Patch Collection
 
-**FOMOD** - `Interesting NPCs - #DNPC, AI Overhaul SSE, Inigo, Landscape and Water Fixes, Lanterns of Skyrim II, Unofficial Skyrim Special Edition Patch`.
+**FOMOD** - `Interesting NPCs - 3DNPC, AI Overhaul, Inigo, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
 ---
 
