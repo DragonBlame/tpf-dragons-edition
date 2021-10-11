@@ -1790,6 +1790,12 @@ magnificent? I would have signed it.*
 
 **Main files** - ENB Lights For Effect Shaders
 
+### [Player Spell Lighting for Vanilla and ENB](https://www.nexusmods.com/skyrimspecialedition/mods/56830)
+
+**Main files** - Player Spell Lighting - Vanilla and ENB Compatible
+
+**Optional files** - Player Spell Lighting - Mysticism Patch
+
 ### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
 **Main files** - Strange Runes
