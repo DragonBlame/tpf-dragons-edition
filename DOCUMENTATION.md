@@ -3060,6 +3060,8 @@ change ENB files and add a good addition for it.
 
 ![image](https://user-images.githubusercontent.com/37147270/132095210-ae57e1d9-cb9f-49b7-9e27-02b93079b1c0.png)
 
+> Wabbajack users have their ENB set up already, so you can skip the next part of this section and go right to the Gameplay Guide if you wish. 
+
 ### [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
 **Main files** - D) Silent Horizons ENB for Cathedral Weathers
@@ -3102,6 +3104,12 @@ the checkmark near *enblocal.ini*. Then click the green checkmark button
 (if you want to go back to TPF’s default ENB, you will need to enable
 *enblocal.ini* again). Then click on another green checkmark at the
 bottom of the ENB Man window to install the preset.
+
+In the game you should also adjust the brightness settings of ENB for you to see more things at night while exploring outside and 
+to make interiors a bit more darker for imersiveness. If you don't want to do that, you are free to skip the next paragraph.
+
+Right at the menu of the game press _F11_ on your keyboard to open the ENB settings. In _Shader Parameters_ open _ENBEFFECT.FX_ section and 
+find _HDR COLOR GRADING_ settings. Change _Night - Exposure (F-Stops)_ to `-0.3` and _Interior - Exposure (F-Stops)_ to `-3` and then press _SAVE CONFIGURATION_ and _APPLY CHANGES_ at the top left side of the ENB settings menu.
 
 That’s all, enjoy your fancy ENB now. Of course, you can also continue
 with the *GAMEPLAY GUIDE* section of the guide if you are interested in
