@@ -1720,6 +1720,12 @@ standard _Ctrl+V_ command to paste something to your console.
 thought about adding it, well, like always), which you will probably use
 from time to time.*
 
+### [RaceMenu Undress](https://www.nexusmods.com/skyrimspecialedition/mods/56437)
+
+**Main files** - RaceMenu Undress
+
+*Makes undressing slider available for you in RaceMenu to change not only your character face's appearance more easily.*
+
 ### [High Gate Ruins Puzzle Reset Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53643)
 
 **Main files** - High Gate Ruins Puzzle Reset Fix
