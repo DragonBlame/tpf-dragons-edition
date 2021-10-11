@@ -3060,6 +3060,8 @@ change ENB files and add a good addition for it.
 
 ![image](https://user-images.githubusercontent.com/37147270/132095210-ae57e1d9-cb9f-49b7-9e27-02b93079b1c0.png)
 
+---
+
 > Wabbajack users have their ENB set up already, so you can skip the next part of this section and go right to the Gameplay Guide if you wish. 
 
 ### [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
