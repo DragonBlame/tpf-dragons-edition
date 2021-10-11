@@ -131,6 +131,12 @@ we are trying to shoot, roast, electrocute, freeze etc. things.*
 *I have tried many presets and this one feels great for playing the
 game, especially for our cause - aiming in third person mode.*
 
+### [Simple Activate](https://www.nexusmods.com/skyrimspecialedition/mods/56767)
+
+**Main files** - Simple Activate SKSE
+
+*Buttons, which we use to interact with objects in Skyrim are disabled in TPF, so let's do that with the text of these buttons too.*
+
 ### [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
 
 **Main files** - QuickLootRE
