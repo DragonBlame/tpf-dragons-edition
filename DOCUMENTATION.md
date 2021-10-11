@@ -456,6 +456,10 @@ younger.*
 
 **Main files** - Beyond Skyrim DLC Integration Patch
 
+### [Bruma - Better Forestgrassland Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56492?tab=files)
+
+**Main files** - 2048x2048
+
 ### [Beyond Skyrim - Bruma NPC Eye Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26116?tab=files)
 
 **Main files** - Beyond Skyrim Bruma SE 1.3.3 - NPC EYE Fix - Done
