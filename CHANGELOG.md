@@ -6,6 +6,10 @@
 
 > xx.10.2021.
 
+### Interface
+
+Added _Simple Activate_.
+
 ### New Content
 
 Added _Merlin the Corgi - A Magical Dog Follower Mod_.
