@@ -52,6 +52,8 @@ Added _RaceMenu Undress_.
 
 Added _ENB Lights For Effect Shaders_.
 
+Added _Player Spell Lighting for Vanilla and ENB_.
+
 ### Animations
 
 Added _Turn Animation Fix_.
