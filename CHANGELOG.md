@@ -12,6 +12,8 @@ Added _Simple Activate_.
 
 ### New Content
 
+Added _Bruma - Better Forestgrassland Textures_.
+
 Added _Merlin the Corgi - A Magical Dog Follower Mod_.
 
 Added additional instructions for Clockwork.
@@ -28,11 +30,9 @@ Removed Falkreath Hauntings (for cool, little mod, it makes too many navmesh con
 
 Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many edits not related to appearance and the author doesn't even want to hear about that). Added _Pandorable's Kaidan_.
 
-### Interiors
+### Exteriors
 
 Changed FOMOD instructions for The Great Village of Old Hroldan Patch Collection.
-
-Exteriors
 
 ### Interiors
 
