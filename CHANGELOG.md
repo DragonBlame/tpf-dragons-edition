@@ -62,6 +62,10 @@ Added _Turn Animation Fix_.
 
 Changed installation instructions.
 
+### ENB
+
+Added additional instructions to configure ENB's brightness.
+
 ### Other Changes
 
 Made some corrections in the documentation.
@@ -75,6 +79,8 @@ Updated TPF Dragon's Edition - Nemesis Output.
 ### Wabbajack
 
 Removed untouched TPF's copies of some mods (for instance, NARC, Lanterns of Skyrim II etc.), because after removing TPF profiles, they generally aren't needed anymore. Exclusion was made for some mods like Enhanced Blood Textures, Feminine Khajiit Textures etc., because their content is totally different from what we use and just to make my work easier if I decide to change something.
+
+Changed brightness settings for ENB to be a bit darker in interiors and brighter at nights in exteriors.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
