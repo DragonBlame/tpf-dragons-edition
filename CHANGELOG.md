@@ -44,6 +44,8 @@ Changed installation instructions for Pilgrim - A Religion Overhaul.
 
 ### Miscellaneous
 
+Added _RaceMenu Undress_.
+
 Added _ENB Lights For Effect Shaders_.
 
 ### Animations
