@@ -1,6 +1,6 @@
 ![image](images/Banner.png)
 
-\ test
+\test
 
 # Changelog
 
