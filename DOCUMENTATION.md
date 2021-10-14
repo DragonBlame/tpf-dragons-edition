@@ -2278,10 +2278,18 @@ even know that it was there in the first place.*
 
 **Merge** - merge both files.
 
+**Delete** - remove all files from the mod exluding the _Meshes_ folder.
+
 *Gives you an ability to sidestep, dodge attacks. Just press the
 directional key two times to dodge in that direction. I chose the side
 step version, because I don’t see characters with heavy armour rolling
 around at all, even in this fantasy world, but sidestep is alright.*
+
+### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
+
+**Main files** - TK Dodge RE-v0.43
+
+*An update for TK Dodge to make it not use any scripts and overall improve the mod.*
 
 ### [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
 
