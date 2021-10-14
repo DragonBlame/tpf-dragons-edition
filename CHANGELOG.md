@@ -62,6 +62,8 @@ Added _ENB Lights For Effect Shaders_.
 
 Added _Player Spell Lighting for Vanilla and ENB_.
 
+Moved Enhanced Blood Textures to the _Preparations_ section of the guide.
+
 ### Animations
 
 Added _iFrame Generator_.
@@ -84,13 +86,13 @@ Added additional instructions to configure ENB's brightness.
 
 Made some corrections in the documentation.
 
-Fixed some back end things noone has probably experienced yet.
+Fixed some back-end things noone has even experienced (and won't, I hope).
 
 Fixed CTD in Winterhold.
 
 Updated final patches.
 
-Updated TPF Dragon's Edition - Nemesis Output.
+Updated all outputs.
 
 ### Wabbajack
 
