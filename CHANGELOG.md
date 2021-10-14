@@ -12,7 +12,13 @@ Added _Simple Activate_.
 
 ### New Content
 
+Changed order of mods related to Beyond Skyrim - Bruma.
+
+Updated installation instructions for Beyond Skyrim - Bruma.
+
 Added _Bruma - Better Forestgrassland Textures_.
+
+Removed Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches, Beyond Skyrim - Bruma - Corrections, Beyond Skyrim - Bruma NPC Eye Fix and Bruma Lighting Mod Compatibility Patch, Bruma - Frostcrag Spire Fix (not needed anymore).
 
 Added _Merlin the Corgi - A Magical Dog Follower Mod_.
 
@@ -127,6 +133,8 @@ Dragon Priest Fix - Behaviour Overhaul
 The Great Village of Old Hroldan Patch Collection
 
 C.O.I.N. - Coins of Interesting Natures
+
+Beyond Skyrim - Bruma
 
 ---
 
