@@ -2179,6 +2179,12 @@ _A SKSE plugin, which removes the mismatch between displacement and supported an
 
 _Another SKSE plugin, which helps your power attack to be executed by relying only on your input, but not on your character's movement direction and movement speed to be in sync with your other actions to prevent issues with other animations._
 
+### [iFrame Generator](https://www.nexusmods.com/skyrimspecialedition/mods/56965)
+
+**Main files** - IFrame Generator-v0.91
+
+_And another one, which allows us to use a script-free invincibility frames feature for all animation mods, which will use the feature._
+
 ### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
 
 *When I saw Harkon for the first time, well, it was a little bit sad
@@ -2289,7 +2295,7 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 **Main files** - TK Dodge RE-v0.43
 
-*An update for TK Dodge to make it not use any scripts and overall improve the mod.*
+*An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
 
 ### [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
 
