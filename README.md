@@ -4,8 +4,10 @@
 
 ---
 
-##### Documentation of the add-on can be found [here](DOCUMENTATION.md).
+#### Main page can be found [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973).
 
-##### Changelog of the add-on can be found [here](CHANGELOG.md).
+##### Documentation can be found [here](DOCUMENTATION.md).
+
+##### Changelog can be found [here](CHANGELOG.md).
 
 ##### Instructions for Wabbajack users can be found [here](WABBAJACK.md).
