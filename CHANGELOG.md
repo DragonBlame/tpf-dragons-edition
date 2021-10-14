@@ -46,7 +46,7 @@ Updated FOMOD instructions for JK's Interiors Patch Collection.
 
 Updated installation instructions for Pilgrim - A Religion Overhaul.
 
-Updated installation instructions for C.O.I.N. - Coins of Interesting Natures.
+Updated FOMOD instructions for C.O.I.N. - Coins of Interesting Natures.
 
 ### Miscellaneous
 
