@@ -1,7 +1,5 @@
 ![image](images/Banner.png)
 
-\test\
-
 # Changelog
 
 ## Version 1.9.
