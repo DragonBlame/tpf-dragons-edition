@@ -1,4 +1,4 @@
-![image](https://drive.google.com/uc?export=view&id=1ITccfM7cqLRg1DcopinMxj-TKtBlnSG6)
+![image](images/Banner.png)
 
 # Documentation
 
