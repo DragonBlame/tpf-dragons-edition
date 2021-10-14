@@ -56,6 +56,10 @@ Added _Player Spell Lighting for Vanilla and ENB_.
 
 ### Animations
 
+Added _iFrame Generator_.
+
+Added additional instructions to TK Dodge.
+
 Added _TK Dodge RE_.
 
 Added _Turn Animation Fix_.
