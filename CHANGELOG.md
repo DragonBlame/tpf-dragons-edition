@@ -76,6 +76,8 @@ Added additional instructions to configure ENB's brightness.
 
 Made some corrections in the documentation.
 
+Fixed some back end things noone has probably experienced yet.
+
 Fixed CTD in Winterhold.
 
 Updated final patches.
