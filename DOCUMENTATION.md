@@ -452,48 +452,11 @@ younger.*
 
 ### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917?tab=files)
 
-**Main files** - Beyond Skyrim Bruma SE 1.3.3
+**Main files** - Beyond Skyrim - Assets
+
+**Main files** - Beyond Skyrim - Bruma
 
 **Main files** - Beyond Skyrim DLC Integration Patch
-
-### [Bruma - Better Forestgrassland Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56492?tab=files)
-
-**Main files** - 2048x2048
-
-### [Beyond Skyrim - Bruma NPC Eye Fix](https://www.nexusmods.com/skyrimspecialedition/mods/26116?tab=files)
-
-**Main files** - Beyond Skyrim Bruma SE 1.3.3 - NPC EYE Fix - Done
-
-### [Nordic Faces - Beyond Skyrim - Bruma Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/40658?tab=files)
-
-**Miscellaneous files** - FaceGen - Beyond Skyrim Bruma
-
-### [Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19374?tab=files)
-
-**Main files** - Beyond Skyrim - Bruma - Tweaks Enhancements and Patches
-SSE 1.7
-
-**FOMOD** - `Unofficial Skyrim Special Edition Patch ESPLite`.
-
-### [Bruma Ugly Love Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/52506?tab=files)
-
-**Main files** - BS-Bruma Ugly Love Script Fix
-
-### [Beyond Skyrim - Bruma Location Styled Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/23089?tab=files)
-
-**Main files** - Beyond Skyrim Bruma Craft Restrictions
-
-### [Beyond Skyrim - Bruma - Corrections](https://www.nexusmods.com/skyrimspecialedition/mods/33748?tab=files)
-
-**Main files** - Beyond Skyrim - Bruma - Corrections
-
-### [Bruma - Frostcrag Spire Fix](https://www.nexusmods.com/skyrimspecialedition/mods/25161?tab=files)
-
-**Main files** - Frostcrag Spire fix
-
-### [CleverCharff's Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/41316?tab=files)
-
-**Main files** - CleverCharff's Bruma 2K
 
 ### [Beyond Skyrim - Bruma Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/34413?tab=files)
 
@@ -505,13 +468,33 @@ SSE 1.7
 
 **Merge** - merge all files.
 
+### [Bruma - Better Forestgrassland Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56492?tab=files)
+
+**Main files** - 2048x2048
+
 ### [Beyond Skyrim - Bruma Tree LOD Billboards](https://www.nexusmods.com/skyrimspecialedition/mods/29386?tab=files)
 
 **Main files** - Billboards for Beyond Skyrim Bruma
 
+### [CleverCharff's Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/41316?tab=files)
+
+**Main files** - CleverCharff's Bruma 2K
+
+### [Nordic Faces - Beyond Skyrim - Bruma Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/40658?tab=files)
+
+**Miscellaneous files** - FaceGen - Beyond Skyrim Bruma
+
 ### [Imperial City LOD for Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/11010?tab=files)
 
 **Main files** - Whitegoldtowerfix
+
+### [Bruma Ugly Love Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/52506?tab=files)
+
+**Main files** - BS-Bruma Ugly Love Script Fix
+
+### [Beyond Skyrim - Bruma Location Styled Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/23089?tab=files)
+
+**Main files** - Beyond Skyrim Bruma Craft Restrictions
 
 ### [Majestic Bruma Mountains - MM 3.x Beyond Skyrim Bruma Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53152?tab=files)
 
@@ -521,6 +504,14 @@ SSE 1.7
 
 **Miscellaneous files** - Beyond Skyrim Bruma Patch v1.0
 
+### [Bruma Signs - SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/10924?tab=files)
+
+**Main files** - Bruma SE Signs SMIMed
+
+### [Apothecary - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+
+**Miscellaneous files** - Apothecary - Bruma Patch
+
 ### [IDDP - Beyond Skyrim - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4126?tab=files)
 
 **Optional files** - IDDP - Beyond Skyrim - Bruma Patch
@@ -528,21 +519,9 @@ SSE 1.7
 **Delete** - remove `AHZBetterDGEntranceSE - BSHeartland
 Patch.modgroups`.
 
-### [Bruma Lighting Mod Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/48389?tab=files)
-
-**Main files** - BS Bruma Interior Lighting Compatibility Patch
-
-### [Bruma Signs - SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/10924?tab=files)
-
-**Main files** - Bruma SE Signs SMIMed
-
 ### [Beyond Skyrim - Bruma - Gemling Queen Jewelry Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35876?tab=files)
 
 **Main files** - Beyond Skyrim - Bruma with Gemling Queen Jewelry
-
-### [Apothecary - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
-
-**Miscellaneous files** - Apothecary - Bruma Patch
 
 ### [Beyond Skyrim - Bruma - Moonpath to Elsweyr Synergy Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11069?tab=files)
 
