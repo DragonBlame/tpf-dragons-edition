@@ -56,6 +56,8 @@ Added _Player Spell Lighting for Vanilla and ENB_.
 
 ### Animations
 
+Added _TK Dodge RE_.
+
 Added _Turn Animation Fix_.
 
 ### Literally Unplayable
