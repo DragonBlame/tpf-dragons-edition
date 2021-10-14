@@ -6,8 +6,8 @@
 
 #### [Main page](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-#### [Documentation](DOCUMENTATION.md).
+#### [Documentation](DOCUMENTATION.md)
 
-#### [Changelog](CHANGELOG.md).
+#### [Changelog](CHANGELOG.md)
 
-#### [Wabbajack](WABBAJACK.md).
+#### [Wabbajack](WABBAJACK.md)
