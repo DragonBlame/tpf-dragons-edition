@@ -3243,15 +3243,15 @@ Report requirements:
 -   Confirmation that you haven't modified or added anything to the add-on;
     
     > If something even hints some kind of addition, you will be asked for **YOUR** *modlist.txt* and *loadorder.txt* (Navigate to your MO2
-    folder, open *profiles* folder, then to the profile with the problem) 
-    (**don't copy those directly to the report as a text**);
+    folder, open *profiles* folder, then to the profile with problem) 
+    (**don't copy those directly to report as text**);
     
     > Nexus users should use Google Drive, text sharing service or any other tool for the task.
 
 -   Screenshot or video of the problem if that can be done (copy and paste in the report or again
     just use any kind of picture sharing service etc.) (when the problem is
-    seeable, open the console (*\~* key) and press on
-    the problem to see maybe the console gives more information on the source of the problem, then take screenshot);
+    seeable, open the console (*\~* key) and press on the
+    problem to see maybe the console gives more information on the source of the issue, then take the screenshot);
 
 -   Description of the problem (what, when, where);
 
