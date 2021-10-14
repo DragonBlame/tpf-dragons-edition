@@ -3237,14 +3237,21 @@ Report requirements:
 -   Title of the report should be made according to the problem (not
     *Issue, HELP!!!!, problem*, but something like *Aela has Black Face, Flying
     Barrel Outside Whiterun* etc.);
+    
+    > Of course, appliable just for Nexus reports.
 
--   Copy of YOUR *modlist.txt* and *loadorder.txt* (Navigate to your MO2
-    folder, open *profiles* folder, then to the profile with the problem) (use Google Drive, text sharing service etc., **don't copy those directly to the report**);
+-   Confirmation that you haven't modified or added anything to the add-on;
+    
+    > If something even hints some kind of addition, you will be asked for **YOUR** *modlist.txt* and *loadorder.txt* (Navigate to your MO2
+    folder, open *profiles* folder, then to the profile with the problem) 
+    (**don't copy those directly to the report as a text**);
+    
+    > Nexus users should use Google Drive, text sharing service or any other tool for the task.
 
--   Screenshot of the problem (copy and paste in the report or again
-    just use a picture sharing service etc.) (when the problem is
-    seeable on the screen, open the console (*\~* key) and press on
-    the problem, then take screenshot);
+-   Screenshot or video of the problem if that can be done (copy and paste in the report or again
+    just use any kind of picture sharing service etc.) (when the problem is
+    seeable, open the console (*\~* key) and press on
+    the problem to see maybe the console gives more information on the source of the problem, then take screenshot);
 
 -   Description of the problem (what, when, where);
 
@@ -3270,5 +3277,4 @@ city one of the guards has black face. Have tried to get to Whiterun
 and then return, but the issue is still there._
 
 I will try to respond as fast as I can. Please, be mindful that I have
-studies, other hobbies and many other things to do and places to be, so
-don’t directly message me for this.
+studies, other hobbies and many other things to do and places to be.
