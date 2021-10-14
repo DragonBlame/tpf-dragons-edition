@@ -94,7 +94,7 @@
 
 ### Other Changes
 
-* Changed
+* Overhauled the Changelog section of the add-on.
 
 * Hosting the banner of the add-on on Github now instead of Google Drive.
 
