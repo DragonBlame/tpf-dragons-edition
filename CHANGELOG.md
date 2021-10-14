@@ -94,11 +94,15 @@
 
 ### Other Changes
 
-* Overhauled the Changelog section of the add-on.
-
 * Hosting the banner of the add-on on Github now instead of Google Drive.
 
 > People shoudn't experience it not appearing anymore. Don't even know why I didn't do that at first place.
+
+* Overhauled the documentation of the add-on a little bit.
+
+* Overhauled the _Bugs_ section of the add-on made changes for it everywhere.
+
+> Now it is more as an additional guide for people to write a report about an in-game problem, which has to be used to make things easier for both me and an user.
 
 * Fixed CTD, which happened near _Winterhold Deep Sea Ruins'_ area.
 
