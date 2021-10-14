@@ -1,6 +1,6 @@
 ![image](images/Banner.png)
-# <p align="center">Documentation for v. 1.9.</p>
-### <p align="center">For 4.8.0.2. v. of TPF</p>
+# <p align="center">Documentation for v. 1.10.</p>
+### <p align="center">For 4.8.0.3. v. of TPF</p>
 
 ---
 
