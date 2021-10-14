@@ -114,39 +114,22 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* Serana Dialogue Add-On
-
-* Beyond Skyrim - Bruma
-
-* The Tools of Kagrenac
-
-* Feminine Khajiit Textures
-
-
-* Pilgrim - A Religion Overhaul
-
-
-
-
 * The Brotherhood of Old
-* JK's Interiors Patch Collection
+* Serana Dialogue Add-On
+* Miraak Husbando
+* Beyond Skyrim - Bruma
+* The Tools of Kagrenac
+* The Great Town of Karthwasten Patch Collection
+* The Great Village of Old Hroldan Patch Collection
 * The Great Town of Ivarstead Patch Collection
 * The Great Village of Mixwater Mill Patch Collection
-* The Great Town of Karthwasten Patch Collection
 * The Great Village of Kynesgrove Patch Collection
-* Miraak Husbando
-
-* Pandorable's NPCs
-
-* Dragon Priest Fix - Behaviour Overhaul
-
-* The Great Village of Old Hroldan Patch Collection
-
+* JK's Interiors Patch Collection
+* Feminine Khajiit Textures
+* Pilgrim - A Religion Overhaul
 * C.O.I.N. - Coins of Interesting Natures
-
-
 * Navigator - Navmesh Fixes
-
+* Dragon Priest Fix - Behaviour Overhaul
+* Pandorable's NPCs
 * Literally Unplayable - Bruma Patch
-
 * Enhanced Blood Textures
