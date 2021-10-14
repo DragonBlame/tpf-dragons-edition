@@ -20,11 +20,11 @@ Added additional instructions for Clockwork.
 
 Added _Clockwork - Cleaned Textures_ and _Additional Clockwork_.
 
-Changed installation instructions for The Tools of Kagrenac.
+Updated installation instructions for The Tools of Kagrenac.
 
-Changed installation instructions for The Brotherhood of Old.
+Updated installation instructions for The Brotherhood of Old.
 
-Changed installation instructions for Miraak Husbando.
+Updated installation instructions for Miraak Husbando.
 
 Removed Falkreath Hauntings (for cool, little mod, it makes too many navmesh conflicts).
 
@@ -32,7 +32,7 @@ Removed Kaidan 2 Visual Overhaul (like Bijin it makes too many edits not related
 
 ### Exteriors
 
-Changed FOMOD instructions for The Great Village of Old Hroldan Patch Collection.
+Updated FOMOD instructions for The Great Village of Old Hroldan Patch Collection.
 
 ### Interiors
 
@@ -40,11 +40,13 @@ Actually added JK's Riverwood Trader in the documentation (thanks to me for find
 
 Added _JK's Temple of Dibella_.
 
-Changed FOMOD instructions for JK's Interiors Patch Collection.
+Updated FOMOD instructions for JK's Interiors Patch Collection.
 
 ### Gameplay Overhauls
 
-Changed installation instructions for Pilgrim - A Religion Overhaul.
+Updated installation instructions for Pilgrim - A Religion Overhaul.
+
+Updated installation instructions for C.O.I.N. - Coins of Interesting Natures.
 
 ### Miscellaneous
 
@@ -124,7 +126,7 @@ Dragon Priest Fix - Behaviour Overhaul
 
 The Great Village of Old Hroldan Patch Collection
 
-C.O.I.N.
+C.O.I.N. - Coins of Interesting Natures
 
 ---
 
