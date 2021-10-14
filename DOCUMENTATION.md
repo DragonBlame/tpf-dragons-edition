@@ -29,7 +29,7 @@
 
 [ENB](#enb)  
 [Gameplay Guide](#gameplay-guide)  
-[Bugs (not used right now)](#bugs-not-used-right-now)  
+[Bugs](#bugs)  
 
 ---
 
@@ -3218,18 +3218,19 @@ while exploring.
 
 ---
 
-## Bugs (not used right now)
+## Bugs
 
 I am sorry if you need to use this paragraph.
 
 You have read right at the start on the Nexus page that if something bad
 happens I want a normal report, not something like *nothing is working
 wtf help plz*. In my opinion, it is a fair request, so, please, try your
-best.
+best to follow.
 
 Of course, if you are reporting not an in-game bug, I am not expecting 5
-sentences about that, just write what the problem is in
-*#tpf-addons-support*.
+sentences about that, just write what the problem is in appropriate channels. 
+And if another person reported any kind of issue you have too, mention that you are having the same issue.
+That is important for me, because then I will know that issue is global and maybe I will need your help to resolve it. 
 
 Report requirements:
 
