@@ -124,6 +124,8 @@ Dragon Priest Fix - Behaviour Overhaul
 
 The Great Village of Old Hroldan Patch Collection
 
+C.O.I.N.
+
 ---
 
 ## Version 1.8.
