@@ -100,7 +100,7 @@
 
 * Overhauled the documentation of the add-on a little bit.
 
-* Overhauled the _Bugs_ section of the add-on made changes for it everywhere.
+* Overhauled the _Bugs_ section of the add-on, made changes for it everywhere.
 
 > Now it is more as an additional guide for people to write a report about an in-game problem, which has to be used to make things easier for both me and an user.
 
