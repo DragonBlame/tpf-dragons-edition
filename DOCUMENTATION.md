@@ -3018,7 +3018,7 @@ personally or just to learn about my preference in ENBs, continue with the *ENB*
 If you want to learn a little bit more about the content we have added,
 read the [*Gameplay Guide*](#gameplay-guide) section of the add-on.
 
-If you have experienced a bug during your walkthrough, jump into TPF's Discord server and tell me about it in _#tpf-addons-support_.
+If you have experienced a bug during your walkthrough, jump to the [*Bugs*](#bugs) section.
 
 ---
 
