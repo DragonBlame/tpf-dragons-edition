@@ -1570,7 +1570,7 @@ separator in the same order.
 
 **Main files** - C.O.I.N.
 
-**FOMOD** - `Author's Choice, Auto Conversion Enabled, The Tools of Kagrenac, WACCF, USSEP`.
+**FOMOD** - `Author's Choice`, Auto Conversion - `Enabled`, `Beyond Skyrim - Bruma, The Tools of Kagrenac, WACCF, Wyrmstooth, USSEP`.
 
 *Draugr will stop stealing any septims around Skyrim and bringing them to crypts. Only fruits and vegetables from time to time as an offering for ... themselves? Maybe someone else.*
 
