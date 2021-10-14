@@ -4,8 +4,8 @@
 
 ---
 
-##### The documentation of the add-on can be found [here](DOCUMENTATION.md).
+##### Documentation of the add-on can be found [here](DOCUMENTATION.md).
 
-##### The change-log of the add-on can be found [here](CHANGELOG.md).
+##### Changelog of the add-on can be found [here](CHANGELOG.md).
 
 ##### Instructions for Wabbajack users can be found [here](WABBAJACK.md).
