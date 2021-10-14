@@ -12,55 +12,55 @@
 
 ### New Content
 
-* Updated order of mods related to Beyond Skyrim - Bruma.
+* Updated order of mods related to _Beyond Skyrim - Bruma_.
 
-* Updated installation instructions for Beyond Skyrim - Bruma.
+* Updated installation instructions for _Beyond Skyrim - Bruma_.
 
 * Added _Bruma - Better Forestgrassland Textures_.
 
-* Removed Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches, Beyond Skyrim - Bruma - Corrections, Beyond Skyrim - Bruma NPC Eye Fix and Bruma Lighting Mod Compatibility Patch, Bruma - Frostcrag Spire Fix.
+* Removed _Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches_, _Beyond Skyrim - Bruma - Corrections_, _Beyond Skyrim - Bruma NPC Eye Fix_, _Bruma Lighting Mod Compatibility Patch_ and _Bruma - Frostcrag Spire Fix_.
 
-> Not needed anymore with the newest update of Beyond Skyrim - Bruma. The lightning mod is actually useless for us for now.
+> Not needed anymore with the newest update of _Beyond Skyrim - Bruma_. The lightning mod was actually useless for our lightning mods.
 
 * Added _Merlin the Corgi - A Magical Dog Follower Mod_.
 
-* Added additional instructions for Clockwork.
+* Added additional instructions for _Clockwork_.
 
 * Added _Clockwork - Cleaned Textures_ and _Additional Clockwork_.
 
-* Updated installation instructions for The Tools of Kagrenac.
+* Updated installation instructions for _The Tools of Kagrenac_.
 
-* Updated installation instructions for The Brotherhood of Old.
+* Updated installation instructions for _The Brotherhood of Old_.
 
-* Updated installation instructions for Miraak Husbando.
+* Updated installation instructions for _Miraak Husbando_.
 
-* Removed Falkreath Hauntings (for cool, little mod, it makes too many navmesh conflicts).
+* Removed _Falkreath Hauntings_ (for cool, little mod, it makes too many navmesh conflicts).
 
 > For short, but sweet mod, it makes too many navmesh conflicts with other more eventful mods.
 
-* Removed Kaidan 2 Visual Overhaul. Added _Pandorable's Kaidan_.
+* Removed _Kaidan 2 Visual Overhaul_. Added _Pandorable's Kaidan_.
 
 > Like Bijin series, it makes many weird edit not related to NPCs appearance at all.
 
 ### Exteriors
 
-* Updated FOMOD instructions for The Great Village of Old Hroldan Patch Collection.
+* Updated FOMOD instructions for _The Great Village of Old Hroldan Patch Collection_.
 
 ### Interiors
 
-* Added JK's Riverwood Trader in the documentation.
+* Added _JK's Riverwood Trader_ to the documentation.
 
 > Actually... Thanks to me for finding out.
 
 * Added _JK's Temple of Dibella_.
 
-* Updated FOMOD instructions for JK's Interiors Patch Collection.
+* Updated FOMOD instructions for _JK's Interiors Patch Collection_.
 
 ### Gameplay Overhauls
 
-* Updated installation instructions for Pilgrim - A Religion Overhaul.
+* Updated installation instructions for _Pilgrim - A Religion Overhaul_.
 
-* Updated FOMOD instructions for C.O.I.N. - Coins of Interesting Natures.
+* Updated FOMOD instructions for _C.O.I.N. - Coins of Interesting Natures_.
 
 ### Miscellaneous
 
@@ -70,13 +70,13 @@
 
 * Added _Player Spell Lighting for Vanilla and ENB_.
 
-* Moved Enhanced Blood Textures to the _Preparations_ section of the guide.
+* Moved _Enhanced Blood Textures_ to the _Preparations_ section of the guide.
 
 ### Animations
 
 * Added _iFrame Generator_.
 
-* Added additional instructions to TK Dodge.
+* Added additional instructions to _TK Dodge_.
 
 * Added _TK Dodge RE_.
 
@@ -90,54 +90,63 @@
 
 * Added additional instructions to configure ENB's brightness.
 
+---
+
 ### Other Changes
 
-* Fixed some back-end things noone has even experienced (and won't, I hope).
+* Changed
 
-* Fixed CTD in Winterhold.
+* Hosting the banner of the add-on on Github now instead of Google Drive.
+
+> People shoudn't experience it not appearing anymore. Don't even know why I didn't do that at first place.
+
+* Fixed CTD, which happened near _Winterhold Deep Sea Ruins'_ area.
+
+* Fixed some back-end records of some mods for better compatibility.
 
 ### Wabbajack
 
-* Removed some of copies of mods for TPF (for instance, NARC, Lanterns of Skyrim II etc.), because after removing TPF profiles, they generally aren't needed anymore. Exclusion was made for some mods like Enhanced Blood Textures, Feminine Khajiit Textures etc., because their content is totally different from what we use and just to make my work easier if I decide to change something.
+* Removed some copies of mods, which were used for TPF profiles (for instance, _NARC_, _Lanterns of Skyrim II_ etc.).
 
-* Changed brightness settings for ENB to be a bit darker in interiors and brighter at nights in exteriors.
+> After the removal of TPF profiles, they generally aren't needed anymore. Exclusion was made for some mods like Enhanced Blood Textures, Feminine Khajiit Textures etc., because their content is totally different from what we use now and just to make my work easier if I decide to change something.
+
+* Changed brightness settings for ENB to be a bit darker in interiors and a bit brighter at nights in exteriors.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-Navigator - Navmesh Fixes
+* Serana Dialogue Add-On
 
-Feminine Khajiit Textures
+* Beyond Skyrim - Bruma
 
-Enhanced Blood Textures
+* The Tools of Kagrenac
 
-Pilgrim - A Religion Overhaul
+* Feminine Khajiit Textures
 
-The Tools of Kagrenac
 
-Serana Dialogue Add-On
+* Pilgrim - A Religion Overhaul
 
-The Brotherhood of Old
 
-JK's Interiors Patch Collection
 
-The Great Town of Ivarstead Patch Collection
 
-The Great Village of Mixwater Mill Patch Collection
+* The Brotherhood of Old
+* JK's Interiors Patch Collection
+* The Great Town of Ivarstead Patch Collection
+* The Great Village of Mixwater Mill Patch Collection
+* The Great Town of Karthwasten Patch Collection
+* The Great Village of Kynesgrove Patch Collection
+* Miraak Husbando
 
-The Great Town of Karthwasten Patch Collection
+* Pandorable's NPCs
 
-The Great Village of Kynesgrove Patch Collection
+* Dragon Priest Fix - Behaviour Overhaul
 
-Miraak Husbando
+* The Great Village of Old Hroldan Patch Collection
 
-Pandorable's NPCs
+* C.O.I.N. - Coins of Interesting Natures
 
-Dragon Priest Fix - Behaviour Overhaul
 
-The Great Village of Old Hroldan Patch Collection
+* Navigator - Navmesh Fixes
 
-C.O.I.N. - Coins of Interesting Natures
+* Literally Unplayable - Bruma Patch
 
-Beyond Skyrim - Bruma
-
-Literally Unplayable - Bruma Patch
+* Enhanced Blood Textures
