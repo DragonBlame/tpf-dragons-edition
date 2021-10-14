@@ -20,7 +20,7 @@
 
 * Removed Beyond Skyrim - Bruma - Tweaks, Enhancements and Patches, Beyond Skyrim - Bruma - Corrections, Beyond Skyrim - Bruma NPC Eye Fix and Bruma Lighting Mod Compatibility Patch, Bruma - Frostcrag Spire Fix.
 
-> Not needed anymore with the newest update of Beyond Skyrim - Bruma. The lightning mod was actually useless for us for now.
+> Not needed anymore with the newest update of Beyond Skyrim - Bruma. The lightning mod is actually useless for us for now.
 
 * Added _Merlin the Corgi - A Magical Dog Follower Mod_.
 
