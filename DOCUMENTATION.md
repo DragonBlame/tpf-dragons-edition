@@ -29,7 +29,7 @@
 
 [ENB](#enb)  
 [Gameplay Guide](#gameplay-guide)  
-[Bugs (not used right now)](#bugs-not-used-right-now)  
+[Bugs](#bugs)  
 
 ---
 
@@ -3169,32 +3169,40 @@ while exploring.
 
 ---
 
-## Bugs (not used right now)
+## Bugs
 
 I am sorry if you need to use this paragraph.
 
 You have read right at the start on the Nexus page that if something bad
 happens I want a normal report, not something like *nothing is working
 wtf help plz*. In my opinion, it is a fair request, so, please, try your
-best.
+best to follow.
 
 Of course, if you are reporting not an in-game bug, I am not expecting 5
-sentences about that, just write what the problem is in
-*#tpf-addons-support*.
+sentences about that, just write what the problem is in appropriate channels. 
+And if another person reported any kind of issue you have too, mention that you are having the same issue.
+That is important for me, because then I will know that issue is global and maybe I will need your help to resolve it. 
 
 Report requirements:
 
 -   Title of the report should be made according to the problem (not
     *Issue, HELP!!!!, problem*, but something like *Aela has Black Face, Flying
     Barrel Outside Whiterun* etc.);
+    
+    > Of course, appliable just for Nexus reports.
 
--   Copy of YOUR *modlist.txt* and *loadorder.txt* (Navigate to your MO2
-    folder, open *profiles* folder, then to the profile with the problem) (use Google Drive, text sharing service etc., **don't copy those directly to the report**);
+-   Confirmation that you haven't modified or added anything to the add-on;
+    
+    > If something even hints some kind of addition, you will be asked for **YOUR** *modlist.txt* and *loadorder.txt* (Navigate to your MO2
+    folder, open *profiles* folder, then to the profile with problem) 
+    (**don't copy those directly to report as text**);
+    
+    > Nexus users should use Google Drive, text sharing service or any other tool for the task.
 
--   Screenshot of the problem (copy and paste in the report or again
-    just use a picture sharing service etc.) (when the problem is
-    seeable on the screen, open the console (*\~* key) and press on
-    the problem, then take screenshot);
+-   Screenshot or video of the problem if that can be done (copy and paste in the report or again
+    just use any kind of picture sharing service etc.) (when the problem is
+    seeable, open the console (*\~* key) and press on the
+    problem to see maybe the console gives more information on the source of the issue, then take the screenshot);
 
 -   Description of the problem (what, when, where);
 
@@ -3220,5 +3228,4 @@ city one of the guards has black face. Have tried to get to Whiterun
 and then return, but the issue is still there._
 
 I will try to respond as fast as I can. Please, be mindful that I have
-studies, other hobbies and many other things to do and places to be, so
-don’t directly message me for this.
+studies, other hobbies and many other things to do and places to be.
