@@ -104,6 +104,8 @@
 
 > Now it is more as an additional guide for people to write a report about an in-game problem, which has to be used to make things easier for both me and an user. I had added it earlier than the official update came, because the changes were made for the main page too. 
 
+* Removed TK Dodge MCM instructions as they aren't needed anymore.
+
 * Fixed CTD, which happened near _Winterhold Deep Sea Ruins'_ area.
 
 * Fixed some back-end records of some mods for better compatibility.
