@@ -2790,17 +2790,14 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 
 -   *Lanterns of Skyrim II* in *LIGHTNING* separator - `SMIM and Bruma`;
 
--   [*Enhanced Blood Textures*](https://www.nexusmods.com/skyrimspecialedition/mods/2357) in *VISUAL FX* separator, but this time we will need to download different file for it
+-   [*Enhanced Blood Textures*](https://www.nexusmods.com/skyrimspecialedition/mods/2357) in *VISUAL FX* separator;
 
-**Miscellaneous files** - 4.0 beta 2
-
-**Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
-
-**FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), High Res / Default Color` two times.
-
-**Disable** - disable _Enhanced Blood Textures_ mod in the _VISUAL FX_ separator of TPF.
-
-*New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
+    - This time you will need to download completely different version of the mod.
+    - **Miscellaneous files** - 4.0 beta 2
+    - **Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
+    - **FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), High Res / Default Color` two times.
+    - **Disable** - disable _Enhanced Blood Textures_ mod in the _VISUAL FX_ separator of TPF.
+    - *New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
 -   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
     `Default undead eyes, weaker lightning for ghosts, a patch for
