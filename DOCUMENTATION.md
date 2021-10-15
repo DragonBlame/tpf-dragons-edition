@@ -135,7 +135,7 @@ game, especially for our cause - aiming in third person mode.*
 
 **Main files** - Simple Activate SKSE
 
-**INI** - 
+**INI** - In line 46, change _Hide Locked Tag_ to `true`.
 
 *Buttons' image, which we use to interact with objects in Skyrim, is disabled in TPF, so let's do that with the text of these buttons too.*
 
