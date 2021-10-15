@@ -135,7 +135,7 @@ game, especially for our cause - aiming in third person mode.*
 
 **Main files** - Simple Activate SKSE
 
-**INI** - In line 46, change _Hide Locked Tag_ to `true`.
+**INI** - In line 46, change _Hide Locked Tag_ to `true` and, **ONLY** in line 50, delete everything after _Custom Locked Tag =_.
 
 *Buttons' image, which we use to interact with objects in Skyrim, is disabled in TPF, so let's do that with the text of these buttons too.*
 
@@ -2264,7 +2264,7 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 **Main files** - TK Dodge RE-v0.45a
 
-**INI** - In line 12, change _StepDodge_ to `true`.
+**INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes).  I recommend one of your mouse’s buttons if you have many buttons on it.
 
 *An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
 
@@ -2946,9 +2946,6 @@ will leave them to be for reference and for Y offset’s changes).
 Casting* and *Fire and Forget spells, Concentration spells* options for NPCs, otherwise they can start behaving oddly and ward runes
 look weird on them.
 
-**TK Dodge MCM** - Change input method and forward roll input to *Double Tap
-Only*, check *Step Dodge* option.
-
 **Werewolf Widget Control MCM and instructions** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
@@ -2982,6 +2979,8 @@ offer inside their plugins. I have added it for people to know that there is an 
 **Reminder about the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone. 
 
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+
+**Reminder about TK Dodge for Wabbajack users** - _Mouse 4_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 
 Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
 important updates.
