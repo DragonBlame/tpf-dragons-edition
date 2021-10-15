@@ -2262,11 +2262,9 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
 
-**Main files** - TK Dodge RE-v0.43
+**Main files** - TK Dodge RE-v0.45a
 
-**Update files** - TK Dodge RE-v0.45 Update Patch
-
-**Merge** - merge both files.
+**INI** - In line 12, change _StepDodge_ to `true`.
 
 *An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
 
