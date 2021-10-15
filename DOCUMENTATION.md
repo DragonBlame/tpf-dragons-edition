@@ -2792,7 +2792,7 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 
 -   [*Enhanced Blood Textures*](https://www.nexusmods.com/skyrimspecialedition/mods/2357) in *VISUAL FX* separator;
 
-    - This time you will need to download completely different version of the mod.
+    > This time you will need to download completely different version of the mod.
     - **Miscellaneous files** - 4.0 beta 2
     - **Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
     - **FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), High Res / Default Color` two times.
