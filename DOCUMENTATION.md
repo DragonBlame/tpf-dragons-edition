@@ -2980,7 +2980,7 @@ offer inside their plugins. I have added it for people to know that there is an 
 
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
-**Reminder about TK Dodge for Wabbajack users** - _Mouse 3_ button (it was always _Mouse 4_ button in other games for me, but ok, Skyrim is weird) is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
+**Reminder about TK Dodge for Wabbajack users** - _Mouse 4_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 
 Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
 important updates.
