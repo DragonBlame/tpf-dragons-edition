@@ -1,11 +1,12 @@
-![image](https://drive.google.com/uc?export=view&id=1ITccfM7cqLRg1DcopinMxj-TKtBlnSG6)
-# <p align="center">Documentation for v. 1.8.</p>
-### <p align="center">For 4.8.0.1. v. of TPF</p>
+![image](images/Banner.png)
+# <p align="center">Version 1.9.</p>
+### <p align="center">For 4.8.0.3. v. of TPF</p>
 
 ---
 
-##### The documentation of the add-on can be found [here](DOCUMENTATION.md).
-
-##### The change-log of the add-on can be found [here](CHANGELOG.md).
-
-##### Instructions for Wabbajack users can be found [here](WABBAJACK.md).
+<p align="center">
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/51973">Main page</a> ·
+  <a href="DOCUMENTATION.md">Documentation</a> ·
+  <a href="CHANGELOG.md">Changelog</a> ·
+  <a href="WABBAJACK.md">Wabbajack</a>
+</p>
