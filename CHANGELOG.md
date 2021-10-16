@@ -34,7 +34,7 @@
 
 * Updated installation instructions for _Miraak Husbando_.
 
-* Removed _Falkreath Hauntings_ (for cool, little mod, it makes too many navmesh conflicts).
+* Removed _Falkreath Hauntings_.
 
 > For short, but sweet mod, it makes too many navmesh conflicts with other more eventful mods.
 
