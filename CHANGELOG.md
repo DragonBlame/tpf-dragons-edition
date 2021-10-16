@@ -4,7 +4,7 @@
 
 ## Version 1.9.
 
-> Updated final patches. Updated all outputs.
+> Updated final patches and TPF Dragon's Edition - Music Patch. Updated all outputs.
 
 ### Interface
 
