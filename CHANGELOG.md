@@ -130,6 +130,7 @@
 * The Great Town of Ivarstead Patch Collection
 * The Great Village of Mixwater Mill Patch Collection
 * The Great Village of Kynesgrove Patch Collection
+* JK's The Bee and Barb
 * JK's Interiors Patch Collection
 * Feminine Khajiit Textures
 * Pilgrim - A Religion Overhaul
