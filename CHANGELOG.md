@@ -32,6 +32,8 @@
 
 > Now it is _Mouse 3_ button by default, which in other games (and even Syrim's mods) is always _Mouse 4_ (Skyrim's oddities, I guess).
 
+* Added an information about how to deal with ENB's updates while I haven't updated the modpack to the _Questions & Answers_ section of the main page.
+
 ### Updated Add-on's Mods for Wabbajack Users
 
 * Simple Activate
