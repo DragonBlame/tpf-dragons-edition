@@ -183,4 +183,5 @@
 * Pandorable's NPCs
 * Literally Unplayable - Bruma Patch
 * Enhanced Blood Textures
+* DynDOLOD, its resources
 * ENB
