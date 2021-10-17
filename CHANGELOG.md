@@ -30,7 +30,7 @@
 
 * Changed default key binding for _TK Dodge RE_.
 
-< Now it is _Mouse 3_ button by default, which in other games (and even Syrim's mods) is always _Mouse 4_ (Skyrim's oddities, I guess).
+> Now it is _Mouse 3_ button by default, which in other games (and even Syrim's mods) is always _Mouse 4_ (Skyrim's oddities, I guess).
 
 ### Updated Add-on's Mods for Wabbajack Users
 
