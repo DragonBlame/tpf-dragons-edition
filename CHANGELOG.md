@@ -8,7 +8,7 @@
 
 ### Interface
 
-* Updated _Simple Activate_ installation instructions.
+* Removed additional instructions for _Simple Activate_.
 
 ### Exteriors
 
@@ -22,7 +22,7 @@
 
 * Added reminder to setup _Simple Activate_. Changed instructions on setting it up.
 
-> It is done like that, because now INI appears only after running the game. Also there were some leftovers from instructions I have tried before.
+> It is done like that, because now INI appears only after running the game at least once. Also there were some leftovers from instructions I have tried before.
 
 ---
 
