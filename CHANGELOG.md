@@ -18,7 +18,7 @@
 
 * Updated installation instructions for _Player Spell Lighting_.
 
-### Preparations
+### Configurations
 
 * Added reminder to setup _Simple Activate_. Changed instructions on setting it up.
 
