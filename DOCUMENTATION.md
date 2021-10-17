@@ -2944,7 +2944,8 @@ will leave them to be for reference and for Y offset’s changes).
 Casting* and *Fire and Forget spells, Concentration spells* options for NPCs, otherwise they can start behaving oddly and ward runes
 look weird on them.
 
-**Werewolf Widget Control MCM and instructions** - Change opacity to 60 and
+**Werewolf Widget Control MCM and instructions (if you are using the mod from the *Interface* section of the
+add-on)** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
 you transform again, it will be at the top of the screen near your
@@ -2981,12 +2982,12 @@ offer inside their plugins. I have added it for people to know that there is an 
 
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
-**Reminder about TK Dodge for Wabbajack users** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
+**Reminder about TK Dodge RE for Wabbajack users** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 
 Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
-important updates.
+important updates. Then continue going through.
 
-And some hints (and possibly **spoilers**) before the end.
+Some hints (and possibly **spoilers**) before the end.
 
 At first, be sure to do at least half of the main quest series as some
 added quests are tied to it (more information in _Gameplay Guide_).
