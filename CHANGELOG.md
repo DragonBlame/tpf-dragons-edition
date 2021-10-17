@@ -6,6 +6,40 @@
 
 > Aka ENB update. Patches and outputs are the same.
 
+### Interface
+
+* Updated _Simple Activate_ installation instructions.
+
+### Exteriors
+
+* Updated installation instructions for _Cities of the North - Dawnstar_.
+
+### Miscellaneous
+
+* Updated installation instructions for _Player Spell Lighting_.
+
+### Preparations
+
+* Added reminder to setup _Simple Activate_. Changed instructions on setting it up.
+
+> It is done like that, because now INI appears only after running the game. Also there were some leftovers from instructions I have tried before.
+
+---
+
+### Wabbajack
+
+* Changed default key binding for _TK Dodge RE_.
+
+< Now it is _Mouse 3_ button by default, which in other games (and even Syrim's mods) is always _Mouse 4_ (Skyrim's oddities, I guess).
+
+### Updated Add-on's Mods for Wabbajack Users
+
+* Simple Activate
+* Cities of the North - Dawnstar
+* Animated Forge Water
+* Player Spell Lighting
+* ENB
+
 ---
 ---
 
@@ -75,7 +109,7 @@
 
 * Added _ENB Lights For Effect Shaders_.
 
-* Added _Player Spell Lighting for Vanilla and ENB_.
+* Added _Player Spell Lighting_.
 
 * Moved _Enhanced Blood Textures_ to the _Preparations_ section of the guide.
 
