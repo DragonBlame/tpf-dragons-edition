@@ -2,6 +2,13 @@
 
 # Changelog
 
+## Version 1.9.1.
+
+> Aka ENB update. Patches and outputs are the same.
+
+---
+---
+
 ## Version 1.9.
 
 > Updated final patches and TPF Dragon's Edition - Music Patch. Updated all outputs.
