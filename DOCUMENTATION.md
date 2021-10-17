@@ -135,8 +135,6 @@ game, especially for our cause - aiming in third person mode.*
 
 **Main files** - Simple Activate SKSE
 
-**INI** - In line 46, change _Hide Locked Tag_ to `true` and, **ONLY** in line 50, delete everything after _Custom Locked Tag =_.
-
 *Buttons' image, which we use to interact with objects in Skyrim, is disabled in TPF, so let's do that with the text of these buttons too.*
 
 ### [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
@@ -1071,7 +1069,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - Cities of the North - Dawnstar
 
-**Update files** - Cities of the North - Dawnstar (UPDATE 1.2)
+**Update files** - UPDATE 1.2.1
 
 **Merge** - Merge both files.
 
@@ -1763,9 +1761,9 @@ magnificent? I would have signed it.*
 
 **Main files** - ENB Lights For Effect Shaders
 
-### [Player Spell Lighting for Vanilla and ENB](https://www.nexusmods.com/skyrimspecialedition/mods/56830)
+### [Player Spell Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/56830)
 
-**Main files** - Player Spell Lighting - Vanilla and ENB Compatible
+**Main files** - Player Spell Lighting
 
 **Optional files** - Player Spell Lighting - Mysticism Patch
 
@@ -2927,7 +2925,7 @@ option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
 the number of potions to 3.
 
-**SmoothCam MCM (if you have followed the *Interface* section of the
+**SmoothCam MCM (if you are using the mod from the *Interface* section of the
 add-on)** - Activate the preset in *Presets* by pressing on *Slot 6:
 Octavian’s Preset* in *Load Preset*. If you want, you can also enable
 shoulder swapping in *Following* by choosing your shoulder swap key. I
@@ -2971,6 +2969,9 @@ whistle in the game.
 
 And some reminders about things:
 
+**Reminder about setting up Simple Activate (if you are using the mod from the *Interface* section of the
+add-on)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
+
 **Reminder about Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through Hide Your Quests MCM, when you decide to do it.
 
 **Reminder about AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
@@ -2980,7 +2981,7 @@ offer inside their plugins. I have added it for people to know that there is an 
 
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
-**Reminder about TK Dodge for Wabbajack users** - _Mouse 4_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
+**Reminder about TK Dodge for Wabbajack users** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 
 Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
 important updates.
