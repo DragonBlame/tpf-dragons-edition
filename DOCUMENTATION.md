@@ -1757,7 +1757,7 @@ grow only things I consider to be immersive to be grown by player character.*
 *Where is a petition that everything needs to be patched for ENB to look
 magnificent? I would have signed it.*
 
-### [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
+### [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362)
 
 **Main files** - ENB Lights For Effect Shaders
 
