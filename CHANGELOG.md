@@ -83,7 +83,7 @@
 
 * Removed _Kaidan 2 Visual Overhaul_. Added _Pandorable's Kaidan_.
 
-> Like Bijin series, it makes many weird edit not related to NPCs appearance at all.
+> Like Bijin series, it makes many weird edits not related to NPCs appearance at all.
 
 ### Exteriors
 
