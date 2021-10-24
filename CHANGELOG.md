@@ -12,8 +12,8 @@
 
 * Added _Font Overhaul - Natural Typefaces for Skyrim_ and _Consolas Font - Font Overhaul - 12th Century Book Font Patch_.
 
-> I thought about the change to the main font of the add-on for some time after people had told me it is a bit too tiny. I love Centaur font for its sophistication, 
-but for real and long gameplay we need something else, something more easier to read, but at the same time not too bland or cartoonish, so here we are. 
+> I thought about the change to the main font of the add-on for a while after people had told me it is a bit too tiny. I love Centaur font for its sophistication, 
+but for real and long gameplay we need something else, something more easier to read, but at the same time not too bland or cartoonish, so here we are. A bonus of getting different fonts in journals and notes from the new mod is very appreciated as well.
 
 ---
 
