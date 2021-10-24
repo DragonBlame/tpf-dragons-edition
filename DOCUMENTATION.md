@@ -2607,6 +2607,8 @@ When each patch is downloaded and installed, we should place them after all NPC 
 but it is just common practice to keep everything sorted and organized like it should be.
 Use the picture below if you have troubles figuring order on your own.
 
+![image](https://user-images.githubusercontent.com/37147270/138613706-47b7db06-5db6-41c3-91bd-64dcd9ca1c29.png)
+
 <p align="center">
     <img width="35%" src="https://user-images.githubusercontent.com/37147270/138613674-78c993d7-3f9a-40b3-8331-66797ce65fdc.png" /> 
 </p>
