@@ -62,13 +62,15 @@ you have decided to use one or more mods. Other sections mods (excluding the _Mu
 *I prefer the vanilla-style main menu. It also doesn’t mess up so much
 with the beautiful background.*
 
-### [Centaur Font](https://www.nexusmods.com/skyrimspecialedition/mods/14356)
+### [Font Overhaul - Natural Typefaces for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2880)
 
-**Main files** - Centaur Font SSE
+**Main files** - Font Overhaul - All In One Installer
 
-*Sovngarde font looks a little bit cartoonish to me, while Centaur font
+**FOMOD** - Whichever options you like. I recommend all the default options.
+
+*Sovngarde font looks a little bit cartoonish to me, while Fertigo Pro font from this fonts' pack
 is looking good within Skyrim's theme and is more usual, but not too
-ordinary.*
+ordinary. It even changes fonts for notes and journals, which I have always wanted to change too.*
 
 ### [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
 
@@ -85,11 +87,11 @@ Book Font.**
 **Optional files** - Consolas Font - Sovngarde Font - 12th Century
 Book Font Patch
 
-### [Consolas Font - Centaur Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [Consolas Font - Font Overhaul - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-**Needed if you use both Centaur Font and 12th Century Book Font.**
+**Needed if you use both Font Overhaul - Natural Typefaces for Skyrim and 12th Century Book Font.**
 
-**Optional files** - Consolas Font - Centaur Font - 12th Century Book
+**Optional files** - Consolas Font - Font Overhaul - 12th Century Book
 Font Patch
 
 ### [Better SkyUI Config](https://www.nexusmods.com/skyrimspecialedition/mods/49095)
@@ -2547,14 +2549,11 @@ aesthetic.*
 You will need to enable the patch only after you cure Serana to make
 her look like a human.
 
-### [Hood Plus Hair for Pandorable's Serana](https://www.nexusmods.com/skyrimspecialedition/mods/40972)
+### [Hood Plus Hair for Refined Volkihars Serana](https://www.nexusmods.com/skyrimspecialedition/mods/52610)
 
-**Main files** - Hood Plus Hair for Pandorables Serana SHORT hair KS
-Soundwave
+**Main files** - Hood Plus Hair for Refined Volkihars Serana
 
-*A present for Serana to make her hair visible, when she wears her hood.
-Don’t worry that this is a mod for Pandorable’s Serana, they both have
-the same hairstyle with this mod’s version.*
+*A present for Serana to make her hair visible, when she wears her hood.*
 
 And now there will be many, many patches for our mod overhauls and the
 mod *AI Overhaul* (which is dope by the way). I don’t know why, but
@@ -2609,7 +2608,7 @@ but it is just common practice to keep everything sorted and organized like it s
 Use the picture below if you have troubles figuring order on your own.
 
 <p align="center">
-    <img width="35%" src="https://user-images.githubusercontent.com/37147270/132406243-7118eab8-8a17-4260-a1b1-50356a8fc60e.png" /> 
+    <img width="35%" src="https://user-images.githubusercontent.com/37147270/138613674-78c993d7-3f9a-40b3-8331-66797ce65fdc.png" /> 
 </p>
 
 ---

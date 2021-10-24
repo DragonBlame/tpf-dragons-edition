@@ -2,6 +2,40 @@
 
 # Changelog
 
+## Version 1.9.2.
+
+> Who would have known - another ENB update. And the last one for some time. Updated final patches, outputs are the same.
+
+### Interface
+
+* Removed _Centaur Font_ and _Consolas Font - Centaur Font - 12th Century Book Font Patch_. Added _Font Overhaul - Natural Typefaces for Skyrim_ and _Consolas Font - Font Overhaul - 12th Century Book Font Patch_.
+
+> I thought about the change to the main font of the add-on for a while after people had told me it is a bit too tiny. I love Centaur font for its sophistication, 
+but for real and long gameplay we need something else, something more easier to read, but at the same time not too bland or cartoonish, so here we are. A bonus of getting different fonts in journals and notes from the new mod is very appreciated as well.
+
+## NPC Overhauls
+
+* Removed _Hood Plus Hair for Pandorable's Serana_. Added _Hood Plus Hair for Refined Volkihars Serana_.
+
+> I guess this type of cheat worked a long time ago, when both Pandorable's Serana and Refined Volkihars' Serana shared the same hair. Fortunately for us, the quality of life change was released for Refined Volkihars too.
+
+---
+
+### Other Changes
+
+* Fixed the issue of each sword, which has used Nightingale Blade's model, to be invisible by deleting _Frankly HD Nightingale LeanWolfs Better-Shaped Weapons and Dual Sheath Redux Patch_.
+
+### Wabbajack
+
+* ENBSeries binaries are now hosted in Google Drive, so Wabbajack won't stop setting up the modpack if Boris makes an update.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+* ENB
+
+---
+---
+
 ## Version 1.9.1.
 
 > Aka ENB update. Patches and outputs are the same.
