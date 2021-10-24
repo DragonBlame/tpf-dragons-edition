@@ -70,7 +70,7 @@ with the beautiful background.*
 
 *Sovngarde font looks a little bit cartoonish to me, while Fertigo Pro font from this fonts' pack
 is looking good within Skyrim's theme and is more usual, but not too
-ordinary. It even changes fonts for notes and journals, which I have always wanted to change too.*
+ordinary. The mod by itself even changes fonts for notes and journals, which I have always wanted to change too.*
 
 ### [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
 
