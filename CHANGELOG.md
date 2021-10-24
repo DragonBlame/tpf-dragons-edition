@@ -29,6 +29,8 @@ but for real and long gameplay we need something else, something more easier to 
 
 * ENBSeries binaries are now hosted on Wabbajack's server, so they won't stop setting up the modpack if Boris makes an update.
 
+* Removed the information about the ENB issue from the Questions & Answers section of the main page.
+
 ### Updated Add-on's Mods for Wabbajack Users
 
 * ENB
