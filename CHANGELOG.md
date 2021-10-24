@@ -27,7 +27,7 @@ but for real and long gameplay we need something else, something more easier to 
 
 ### Wabbajack
 
-* ENBSeries binaries are now hosted in Google Drive, so Wabbajack won't stop setting up the modpack if Boris makes an update.
+* ENBSeries binaries are now hosted on Wabbajack's server, so they won't stop setting up the modpack if Boris makes an update.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
