@@ -2608,7 +2608,7 @@ but it is just common practice to keep everything sorted and organized like it s
 Use the picture below if you have troubles figuring order on your own.
 
 <p align="center">
-    <img width="35%" src="https://user-images.githubusercontent.com/37147270/132406243-7118eab8-8a17-4260-a1b1-50356a8fc60e.png" /> 
+    <img width="35%" src="https://user-images.githubusercontent.com/37147270/138613674-78c993d7-3f9a-40b3-8331-66797ce65fdc.png" /> 
 </p>
 
 ---
