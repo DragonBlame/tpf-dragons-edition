@@ -2,6 +2,34 @@
 
 # Changelog
 
+## Version 1.9.2.
+
+> Who would have known - another (and overall just) ENB update. And the last one for some time. Patches and outputs are the same.
+
+### Interface
+
+* Removed _Centaur Font_ and _Consolas Font - Centaur Font - 12th Century Book Font Patch_.
+
+* Added _Font Overhaul - Natural Typefaces for Skyrim_ and _Consolas Font - Font Overhaul - 12th Century Book Font Patch_.
+
+> I thought about the change to the main font of the add-on for some time after people had told me it is a bit too tiny. I love Centaur font for its sophistication, 
+but for real and long gameplay we need something else, something more easier to read, but at the same time not too bland or cartoonish, so here we are. 
+
+---
+
+### Wabbajack
+
+* ENBSeries binaries are now hosted in Google Drive, so Wabbajack won't stop setting up the modpack if Boris makes an update.
+
+* Fixed the issue of each sword, which has used Nightingale Blade's model, to be invisible.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+* ENB
+
+---
+---
+
 ## Version 1.9.1.
 
 > Aka ENB update. Patches and outputs are the same.
