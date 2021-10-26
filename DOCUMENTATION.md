@@ -3109,7 +3109,7 @@ In the game you should also adjust the brightness settings of ENB for you to see
 to make interiors a bit more darker for imersiveness. If you don't want to do that, you are free to skip the next paragraph.
 
 Right at the menu of the game press _F11_ on your keyboard to open the ENB settings. In _Shader Parameters_ open _ENBEFFECT.FX_ section and 
-find _HDR COLOR GRADING_ settings. Change _Night - Exposure (F-Stops)_ to `-0.3` and _Interior - Exposure (F-Stops)_ to `-3` and then press _SAVE CONFIGURATION_ and _APPLY CHANGES_ at the top left side of the ENB settings menu.
+find _HDR COLOR GRADING_ settings. Change _Night - Exposure (F-Stops)_ to `-0.3` and _Interior - Exposure (F-Stops)_ to `-2.5` and then press _SAVE CONFIGURATION_ and _APPLY CHANGES_ at the top left side of the ENB settings menu.
 
 That’s all, enjoy your fancy ENB now. Of course, you can also continue
 with the *GAMEPLAY GUIDE* section of the guide if you are interested in
