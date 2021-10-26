@@ -2,6 +2,37 @@
 
 # Changelog
 
+## Version 1.10.
+
+> ...
+
+### ...
+
+## ENB
+
+* Changed configurations for interiors' brightness.
+
+---
+
+### Other Changes
+
+* ...
+
+### Wabbajack
+
+* Removed unpacked scripts.
+
+* Changed brightness in interiors.
+
+> Those are just a little bit more brighter now, which is still darker than default values.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+* ...
+
+---
+---
+
 ## Version 1.9.2.
 
 > Who would have known - another ENB update. And the last one for some time. Updated final patches, outputs are the same.
