@@ -2872,19 +2872,16 @@ left side of the screen disappear).
 
 Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
 
-**Cond. Expressions MCM** - Disable out of stamina, in pain,
+* **Cond. Expressions** - Disable out of stamina, in pain,
 headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
-
-**Diziet’s Auto Outfits MCM** - In configuration settings, check the option
+* **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
-
-**End Times MCM** - Lock the slider to not be tempted to change the final
+* **End Times** - Lock the slider to not be tempted to change the final
 date all time. I think one in-game year (approximately 18 real life
 days) is good enough (and even feels right somehow) to stop Alduin and to do many other things in between saving the world for the first time. And don't worry - the game won't end if you kill Alduin. Also disable the spell
 and countdown as those are pretty annoying. You can always enter into MCM again to see how much time
 you have left.
-
-**Hide Your Quests MCM** - I recommend to hide right away all quests you get
+* **Hide Your Quests** - I recommend to hide right away all quests you get
 right at the beginning except the main one (Unbound), because you mustn't
 start Helgen Reborn quest right at the beginning (read Gameplay Guide
 for more information) and because The Sinister Seven quest isn’t the one
@@ -2896,24 +2893,16 @@ way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
-
-**Favourite Howls Menu MCM** - Enable Revert Form and Night Eye powers to make them available for you in werewolf form, when you use your favourites menu.
-
-**Improved Follower Dialogue MCM** - If Lydia is too noisy, feel free to
-change her comment frequency.
-
-**Look what you see ! MCM** - In the *Follow the Camera Mode*
+* **Favourite Howls Menu** - Enable Revert Form and Night Eye powers to make them available for you in werewolf form, when you use your favourites menu.
+* **Look what you see !** - In the *Follow the Camera Mode*
 menu choose hybrid head-tracking option and then choose *Disable when
 weapon drawn* in the *Other Options*. This way our character will follow our cursor's movement when the camera is behind them and will look at us if our character's face is facing the screen.
-
-**MoreHUD MCM** - No idea why, but Phoenix has disabled the appearance of information about potions, spell books etc. in her MoreHUD preset, when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
-
-**Smart NPC Potions MCM** - Standard potion drops aren’t affected, so set an
+* **MoreHUD** - No idea why, but Phoenix has disabled the appearance of information about potions, spell books etc. in her MoreHUD preset, when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
+* **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
 the number of potions to 3.
-
-**SmoothCam MCM (if you are using the mod from the *Interface* section of the
+* **SmoothCam (if you are using the mod from the *Interface* section of the
 add-on)** - Activate the preset in *Presets* by pressing on *Slot 6:
 Octavian’s Preset* in *Load Preset*. If you want, you can also enable
 shoulder swapping in *Following* by choosing your shoulder swap key. I
@@ -2923,56 +2912,47 @@ maximum crosshair size to 40, enable *Stealth Meter Offset* and an
 option to always offset it, then set its Y offset to 200 (stealth meter and its offset's activation
 instructions should not be needed after the update of Smoothcam, but I
 will leave them to be for reference and for Y offset’s changes).
-
-**SSoB MCM** - Enable markers on the Stones of Barenziah.
-
-**Storm Lightning MCM** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
-
-**Werewolf Widget Control MCM and instructions (if you are using the mod from the *Interface* section of the
+* **SSoB** - Enable markers on the Stones of Barenziah.
+* **Storm Lightning** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
+* **Werewolf Widget Control (if you are using the mod from the *Interface* section of the
 add-on)** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
 you transform again, it will be at the top of the screen near your
 compass.
-
-**Wyrmstooth MCM** - Change starting requirements to be the quest starting
+* **Wyrmstooth** - Change starting requirements to be the quest starting
 after *A Blade in the Dark* quest is done (otherwise it feels too soon
 for an organization to give this quest out).
 
 Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
 
-**Animated Shouts activation** - Press your right *Alt* key.
-
-**Look What You see activation** - Press your *V* key.
+* **Animated Shouts** - Press your right *Alt* key.
+* **Look What You See** - Press your *V* key.
 
 The next ones you will use later in the game:
 
-**Inigo Whistle Key’s activation** - You can issue commands to Inigo by
+* **Inigo Whistle Key** - You can issue commands to Inigo by
 whistling to him. This ability is introduced during his quests and will
 be explained in-game. You will need to press , button to use the
 whistle in the game.
-
-**Skyrim's Paraglider activation** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
+* **Skyrim's Paraglider** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
 
 Reminders about things for the documentation users:
 
-**Reminder about setting up Simple Activate (if you are using the mod from the *Interface* section of the
+* **Simple Activate (if you are using the mod from the *Interface* section of the
 add-on)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
 
 For Wabbajack users:
 
-**Reminder about TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
+* **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 
 For all people:
 
-**Reminder about Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through Hide Your Quests MCM, when you decide to do it.
-
-**Reminder about AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
+* **Reminder about Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through Hide Your Quests MCM, when you decide to do it.
+* **Reminder about AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
-
-**Reminder about the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone. 
-
-**Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+* **Reminder about the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone. 
+* **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
 Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
 important updates. Then continue going through.
