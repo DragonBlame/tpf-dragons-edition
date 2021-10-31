@@ -2935,10 +2935,6 @@ will leave them to be for reference and for Y offset’s changes).
 
 **Storm Lightning MCM** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
 
-**Strange Runes MCM** - In the *Runes* section disable *Allow NPC
-Casting* and *Fire and Forget spells, Concentration spells* options for NPCs, otherwise they can start behaving oddly and ward runes
-look weird on them.
-
 **Werewolf Widget Control MCM and instructions (if you are using the mod from the *Interface* section of the
 add-on)** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
