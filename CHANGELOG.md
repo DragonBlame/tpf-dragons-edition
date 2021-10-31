@@ -10,6 +10,10 @@
 
 * Changed FOMOD instructions for _Additional Clockwork_.
 
+### Gameplay Overhauls
+
+* Changed FOMOD instructions for _Pilgrim - A Religion Overhaul_.
+
 ### Miscellaneous
 
 * Changed installation instructions for _powerofthree's Papyrus Extender_.
@@ -45,6 +49,7 @@
 * Dragon War - Wyrmstooth Patch
 * Merlin the Corgi - A Magical Dog Follower Mod
 > There was actually a fast travel CTD issue related to this mod, which is fixed in this update, so maybe that was also related to issues like getting CTD after death some players were having.
+* Pilgrim - A Religion Overhaul
 * C.O.I.N. - Coins of Interesting Natures
 * powerofthree's Papyrus Extender
 * Navigator - Navmesh Fixes
