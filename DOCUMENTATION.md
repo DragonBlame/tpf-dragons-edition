@@ -1541,7 +1541,7 @@ separator in the same order.
 
 **Main files** - Pilgrim
 
-**FOMOD** - Don’t change anything.
+**FOMOD** - `Beyond Skyrim - Bruma`.
 
 **Disable** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
 
