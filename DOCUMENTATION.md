@@ -64,7 +64,7 @@ if you have decided to use one or more mods. Other sections mods (excluding the 
 **FOMOD** - Whichever options you like. I recommend all the default options.
 
 *Sovngarde font looks a little bit cartoonish to me, while Fertigo Pro font from this fonts' pack is looking good within Skyrim's theme and is more usual, 
-but not too ordinary. The mod by itself even changes fonts for notes and journals, which I have always wanted to change too.*
+but not too ordinary. The mod even changes fonts for notes and journals, which I always wanted to change before too.*
 
 ### [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
 
@@ -1258,6 +1258,10 @@ _Adds a secret room to each of HearthFire houses to display our unique loot, so 
 ### [JK's Temple of Dibella](https://www.nexusmods.com/skyrimspecialedition/mods/56371)
 
 **Main files** - JK's Temple of Dibella
+
+### [JK's Temple of Kynareth](https://www.nexusmods.com/skyrimspecialedition/mods/56737)
+
+**Main files** - JK's Temple of Kynareth
 
 ### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 
