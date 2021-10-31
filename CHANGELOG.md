@@ -20,8 +20,8 @@
 ### Interiors
 
 * Added _JK's Temple of Kynareth_.
-* Removed _JK's Elgrims Elixirs - Bee and Barb Patch_.
 * Moved _JK's The Ragged Flagon_ here from the _New Content_ section.
+* Changed installation instructions for _JK's Elgrims Elixirs_.
 * Changed FOMOD instructions for _JK's Interiors Patch Collection_.
 
 ### Appearance
