@@ -1521,15 +1521,19 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
+### [No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)
 
-**Main files** - Pilgrim
+**Main files** - NoLockPicking v2
 
-**FOMOD** - `Beyond Skyrim - Bruma`.
+*Removes the lock picking mini-game (annoying) from the game and now
+actually uses your lockpicking skill to open doors and chests. Each picked lock and tries to pick it put points in your lockpicking skill like always. 
+Your lockpicks' breaking rate is also being affected by your skills.*
 
-**Disable** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
+### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
 
-*In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more important for our player character too.*
+**Main files** - Reading Is Good SE
+
+*Makes us smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.*
 
 ### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 
@@ -1548,12 +1552,30 @@ and use some potions. And not just healing potions, which they already
 use, to make our lives a little bit harder. Everything, for instance, a
 chance of them having a potion, is configurable by MCM.*
 
-### [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
+### [Sensible Bribes](https://www.nexusmods.com/skyrimspecialedition/mods/55450)
 
-**Main files** - Scion - Vampiric Sunscreen Plugin
+**Main files** - Sensible Bribes
 
-*If you wear any type of headgear, while being outdoors, like our
-vampire friend Serana does, you won’t be destroyed by sun damage.*
+*Makes bribe option in dialogues actually depend on your speech skill, so you will have to pay a fortune if you aren't skilled with your words enough.*
+
+### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
+
+**Main files** - Pilgrim
+
+**FOMOD** - `Beyond Skyrim - Bruma`.
+
+**Disable** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
+
+*In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more important for our player character too.*
+
+### [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
+
+**Main files** - Dragonborn - Shouts Perk Tree
+
+*Being Dragonborn and being able to shout should make us more unique
+than other characters, and this mod does that by giving us experience
+and perk points for shouting and killing dragons and a unique skill tree
+for spending these. It will be available after finishing The Way of the Voice quest.*
 
 ### [More Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/7259)
 
@@ -1585,6 +1607,13 @@ Aela transform into werewolf, if she is badly hurt. Aela will always
 want to stay as werewolf, not like Farkas and Vilkas, who can be cured,
 so I have decided that it will be enough just with her.*
 
+### [Scion - Vampiric Sunscreen Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/42212)
+
+**Main files** - Scion - Vampiric Sunscreen Plugin
+
+*If you wear any type of headgear, while being outdoors, like our
+vampire friend Serana does, you won’t be destroyed by sun damage.*
+
 ### [Catir’s College Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/44557)
 
 **Main files** - Catir's College Creatures
@@ -1593,40 +1622,11 @@ so I have decided that it will be enough just with her.*
 Winterhold quest line. You have been warned, don’t sneak peek at the
 description of the mod.*
 
-### [No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)
-
-**Main files** - NoLockPicking v2
-
-*Removes the lock picking mini-game (annoying) from the game and now
-actually uses your lockpicking skill to open doors and chests. Each picked lock and tries to pick it put points in your lockpicking skill like always. 
-Your lockpicks' breaking rate is also being affected by your skills.*
-
-### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
-
-**Main files** - Reading Is Good SE
-
-*Makes us smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.*
-
-### [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
-
-**Main files** - Dragonborn - Shouts Perk Tree
-
-*Being Dragonborn and being able to shout should make us more unique
-than other characters, and this mod does that by giving us experience
-and perk points for shouting and killing dragons and a unique skill tree
-for spending these. It will be available after finishing The Way of the Voice quest.*
-
 ### [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914)
 
 **Main files** - Angi's Camp Tweaks
 
 *Quality of life changes for Agni’s training session.*
-
-### [Sensible Bribes](https://www.nexusmods.com/skyrimspecialedition/mods/55450)
-
-**Main files** - Sensible Bribes
-
-*Makes bribe option in dialogues actually depend on your speech skill, so you will have to pay a fortune if you aren't skilled with your words enough.*
 
 ---
 
