@@ -61,7 +61,7 @@
 * Player Spell and Weapon Lighting
 * Strange Runes
 * TK Dodge RE
-* DynDOLOD and its resources
+* DynDOLOD's resources
 
 ---
 ---
