@@ -9,7 +9,8 @@
 ### Interface
 
 * Removed _Alternate Conversation Camera Plus_.
-> As it was added to TPF. We are also using TPF's default settings for the mod, because many people have actually said that they don't like mine. 
+> As it was added to TPF. We are also using TPF's default settings for the mod, because many people have actually said that they don't like mine.
+* Changed mod order.
 
 ### New Content
 
