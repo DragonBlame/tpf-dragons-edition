@@ -2212,10 +2212,6 @@ Sprint, Origin Dw Sprint_Type A`.
 
 *Improvements for our 1st person animations.*
 
-### [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177)
-
-**Main files** - FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
-
 ### [1st Person Parry Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20374)
 
 **Main files** - 1stPerson Parry Animation
