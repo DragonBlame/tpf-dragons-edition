@@ -6,6 +6,11 @@
 
 > Updated final patches and all outputs.
 
+### Interface
+
+* Removed _Alternate Conversation Camera Plus_.
+> As it was added to TPF.
+
 ### New Content
 
 * Changed FOMOD instructions for _Additional Clockwork_.
