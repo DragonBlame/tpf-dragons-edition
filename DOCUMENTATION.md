@@ -1771,7 +1771,7 @@ magnificent? I would have signed it.*
 
 ### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
 
-**Main files** - Strange Runes 3.7.
+**Main files** - Strange Runes 3.7
 
 *Great for screenshots and makes magic feel even more unique. MCM (Mod
 Configuration Menu) available, so you can make them appear only for some
