@@ -18,6 +18,7 @@
 ### Interiors
 
 * Added _JK's Temple of Kynareth_.
+* Removed _JK's Elgrims Elixirs - Bee and Barb Patch_.
 * Changed FOMOD instructions for _JK's Interiors Patch Collection_.
 
 ### Appearance
