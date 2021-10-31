@@ -37,7 +37,7 @@ You will have 2 available profiles in your installation:
 Change profiles by clicking on an already active profile and choosing another profile.
 ![image](https://user-images.githubusercontent.com/37147270/133923965-f2164646-3bfd-4aa6-bad3-2275d1501212.png)
 
-While following the main documentation of the add-on, users have a choice to use or not to use two sections' mods, which are [_Interface_](DOCUMENTATION.md#interface-optional) section and [_Music & Sound FX_](DOCUMENTATION.md#music--sound-fx-optional) section. For Wabbajack users two of those sections are enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions in the documentation.
+While following the main documentation, users have a choice to use or not to use the [_Interface_](DOCUMENTATION.md#interface-optional) section of the add-on. For Wabbajack users this section is enabled by default, but if you don't like a mod or two from there, you are free to disable them according to provided instructions in the documentation.
 
 Some mods of TPF are disabled in both of my add-on's profiles. Those are:
   - _Adamant - Shrines and Amulets_ in TPF's _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_ in the TPF's _Miscellaneous_ section, because they both conflict with a mod in our _Gameplay Overhauls_ section called _Pilgrim - A Religion Overhaul_. Don't worry about the last disabled mod, shrines still don't cure diseases with Pilgrim.
