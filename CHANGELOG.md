@@ -13,6 +13,7 @@
 ### Miscellaneous
 
 * Changed installation instructions for _powerofthree's Papyrus Extender_.
+* Changed installation instructions for _Strange Runes_.
 
 ## ENB
 
@@ -36,6 +37,7 @@
 
 * Additional Clockwork
 * powerofthree's Papyrus Extender
+* Strange Runes
 * DynDOLOD and its resources
 
 ---
