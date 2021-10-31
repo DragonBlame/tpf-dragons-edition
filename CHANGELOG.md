@@ -38,6 +38,7 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+* Serana Dialogue Add-On
 * Additional Clockwork
 * Dragon War - Wyrmstooth Patch
 * powerofthree's Papyrus Extender
