@@ -71,17 +71,17 @@ but not too ordinary. The mod even changes fonts for notes and journals, which I
 
 *Replaces font in Skyrim's books to look not as modern, more sophisticated.*
 
-### [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
-
-**Needed if you use TPF's default Sovngarde font and 12th Century Book Font.**
-
-**Optional files** - Consolas Font - Sovngarde Font - 12th Century Book Font Patch
-
 ### [Consolas Font - Font Overhaul - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Needed if you use both Font Overhaul - Natural Typefaces for Skyrim and 12th Century Book Font.**
 
 **Optional files** - Consolas Font - Font Overhaul - 12th Century Book Font Patch
+
+### [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+
+**Needed if you use TPF's default Sovngarde font and 12th Century Book Font.**
+
+**Optional files** - Consolas Font - Sovngarde Font - 12th Century Book Font Patch
 
 ### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
