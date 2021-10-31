@@ -39,6 +39,7 @@
 ### Updated Add-on's Mods for Wabbajack Users
 
 * Additional Clockwork
+* Dragon War - Wyrmstooth Patch
 * powerofthree's Papyrus Extender
 * Strange Runes
 * TK Dodge RE
