@@ -13,6 +13,7 @@
 ### Interiors
 
 * Added _JK's Temple of Kynareth_.
+* Changed FOMOD instructions for _JK's Interiors Patch Collection_.
 
 ### Appearance
 
@@ -59,6 +60,7 @@
 > There was actually a fast travel CTD issue related to this mod, which is fixed in this update, so maybe that was also related to issues like getting CTD after death some players were having.
 * JK's The Bannered Mare
 * JK's Sadris Used Wares
+* JK's Interiors Patch Collection
 * Masculine Argonian Textures
 * Pilgrim - A Religion Overhaul
 * C.O.I.N. - Coins of Interesting Natures
