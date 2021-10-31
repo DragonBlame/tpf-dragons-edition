@@ -10,7 +10,6 @@
 
 * Removed _Alternate Conversation Camera Plus_.
 > As it was added to TPF. We are also using TPF's default settings for the mod, because many people have actually said that they don't like mine.
-* Changed mod order.
 
 ### New Content
 
@@ -56,6 +55,8 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 ### Other Changes
 
+* Changed mod order for the _Interface_, _Apparel & Weapons_ section.
+> Purely cosmetic change, but I think it is important for everything to be in order.
 * Removed MCM instructions for _Strange Runes_.
 > One of the latest updates finally addressed issues with the mod and NPCs, so we don't need to deactivate runes for NPCs anymore.
 
