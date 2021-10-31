@@ -42,6 +42,7 @@
 * Additional Clockwork
 * Wyrmstooth
 * Dragon War - Wyrmstooth Patch
+* Merlin the Corgi - A Magical Dog Follower Mod
 * powerofthree's Papyrus Extender
 * Strange Runes
 * TK Dodge RE
