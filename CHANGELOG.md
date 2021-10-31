@@ -6,7 +6,9 @@
 
 > ...
 
-### ...
+### New Content
+
+* Changed FOMOD Instructions for _Additional Clockwork_.
 
 ## ENB
 
@@ -28,7 +30,7 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* ...
+* Additional Clockwork
 
 ---
 ---
