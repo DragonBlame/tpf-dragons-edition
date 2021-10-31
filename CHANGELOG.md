@@ -23,7 +23,8 @@
 
 ### Other Changes
 
-* ...
+* Removed MCM instructions for _Strange Runes_.
+> One of the latest updates finally addressed issues with the mod and NPCs, so we don't need to deactivate runes for NPCs anymore.
 
 ### Wabbajack
 
