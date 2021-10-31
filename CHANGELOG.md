@@ -40,6 +40,7 @@
 
 * Serana Dialogue Add-On
 * Additional Clockwork
+* Wyrmstooth
 * Dragon War - Wyrmstooth Patch
 * powerofthree's Papyrus Extender
 * Strange Runes
