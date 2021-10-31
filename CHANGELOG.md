@@ -13,12 +13,15 @@
 
 ### New Content
 
+* Changed FOMOD instructions for _Opulent Thieves Guild Patch Collection_.
+* Moved _JK's The Ragged Flagon_ to the _Interiors_ section.
 * Changed FOMOD instructions for _Additional Clockwork_.
 
 ### Interiors
 
 * Added _JK's Temple of Kynareth_.
 * Removed _JK's Elgrims Elixirs - Bee and Barb Patch_.
+* Moved _JK's The Ragged Flagon_ here from the _New Content_ section.
 * Changed FOMOD instructions for _JK's Interiors Patch Collection_.
 
 ### Appearance
@@ -34,12 +37,12 @@
 * Changed installation instructions for _powerofthree's Papyrus Extender_.
 * Changed the name for _Player Spell and Weapon Lighting_.
 * Changed installation instructions for _Strange Runes_.
-* Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ here from the the _Music & Sound FX_ section of the add-on.
+* Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ here from the the _Music & Sound FX_ section.
 
 ### Music & Sound FX
 
 * Removed _Nordic Shouts - Enigma Series_, _Better Sounding Female Dragon Shouts_, _TPF Dragon's Edition - Music Patch_ and all music mods.
-* Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ to the _Miscellaneous_ section of the add-on.
+* Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ to the _Miscellaneous_ section.
 * Removed the section completely.
 > And as the music was added back again to TPF, I don't need to worry about that anymore. 
 Conflicts with the quest mods were resolved in my conflict resolution patches. Considering a fact that not all people liked the overhauled shouting voices, the vanilla ones aren't exactly bad and me not wanting to keep this section for just those two mods, I have decided to remove them.
