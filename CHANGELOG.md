@@ -30,9 +30,9 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* DynDOLOD and its resources
-
 * Additional Clockwork
+* Powerofthree's Papyrus Extender
+* DynDOLOD and its resources
 
 ---
 ---
