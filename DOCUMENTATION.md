@@ -160,14 +160,6 @@ It also affects every other locked object, so, for example, you have to interact
 *It makes you aware of known weapon and armor enchantments, 
 books you have read and it tells you about which kind of skill you can level by reading book.*
 
-### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722)
-
-**Main files** - Alternate Conversation Camera Plus
-
-**INI** - In line 5, change _fCameraSpeed_ to `850`, in line 15, change _bForceThirdPerson_ to `0`, in line 51, change _bLetterBox_ to `0`.
-
-*Another FO4 like addition to Skyrim, which makes conversations look much more lively.*
-
 ### [Pastel SkyUI Markers](https://www.nexusmods.com/skyrimspecialedition/mods/13604)
 
 **Main files** - Pastel SkyUI SkyHUD
