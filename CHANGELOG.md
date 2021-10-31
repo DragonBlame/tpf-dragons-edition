@@ -13,6 +13,7 @@
 ### Miscellaneous
 
 * Changed installation instructions for _powerofthree's Papyrus Extender_.
+* Changed the name for _Player Spell and Weapon Lighting_.
 * Changed installation instructions for _Strange Runes_.
 
 ### Skeleton & Animations
@@ -47,6 +48,7 @@
 * C.O.I.N. - Coins of Interesting Natures
 * powerofthree's Papyrus Extender
 * Navigator - Navmesh Fixes
+* Player Spell and Weapon Lighting
 * Strange Runes
 * TK Dodge RE
 * DynDOLOD and its resources
