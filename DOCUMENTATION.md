@@ -2258,7 +2258,7 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
 
-**Main files** - TK Dodge RE-v0.45a
+**Main files** - TK Dodge RE-v0.45b
 
 **INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes).  I recommend one of your mouse’s buttons if you have many buttons on it.
 
