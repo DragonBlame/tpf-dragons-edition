@@ -29,9 +29,7 @@
 ### Wabbajack
 
 * Removed unpacked scripts.
-
 * Changed brightness in interiors.
-
 > Those are just a little bit more brighter now, which is still darker than default values.
 
 ### Updated Add-on's Mods for Wabbajack Users
