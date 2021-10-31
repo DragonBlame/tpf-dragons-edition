@@ -34,6 +34,14 @@
 * Changed the name for _Player Spell and Weapon Lighting_.
 * Changed installation instructions for _Strange Runes_.
 
+### Music & Sound FX
+
+* Removed _Nordic Shouts - Enigma Series_, _Better Sounding Female Dragon Shouts_ and _TPF Dragon's Edition - Music Patch_.
+* Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ to the _Miscellaneous_ section of the add-on.
+* Removed the section completely.
+> And as the music was added back again to TPF, I don't need to worry about that anymore. 
+Conflicts with our quest mods were resolved in the final patches. Considering a fact that not all people liked the overhauled shouting voices, the vanilla ones aren't exactly bad and me not wanting to keep this section for just 5 mods, I have decided to remove them.
+
 ### Skeleton & Animations
 
 * Changed installation instructions for _TK Dodge RE_.
