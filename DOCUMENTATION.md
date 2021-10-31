@@ -83,13 +83,6 @@ but not too ordinary. The mod even changes fonts for notes and journals, which I
 
 **Optional files** - Consolas Font - Font Overhaul - 12th Century Book Font Patch
 
-### [Better SkyUI Config](https://www.nexusmods.com/skyrimspecialedition/mods/49095)
-
-**Main files** - Better SkyUI Config
-
-*Changes default SkyUI's sorting to be more user friedly by sorting all items by their type, 
-active effects by their expiration time and by making equipped items grouped right at the top.*
-
 ### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
 **Main files** - SmoothCam
@@ -152,6 +145,13 @@ It also affects every other locked object, so, for example, you have to interact
 
 *Useful to make Quick Loot's interface smaller and less bulky by making it transparent.*
 
+### [Better SkyUI Config](https://www.nexusmods.com/skyrimspecialedition/mods/49095)
+
+**Main files** - Better SkyUI Config
+
+*Changes default SkyUI's sorting to be more user friedly by sorting all items by their type, 
+active effects by their expiration time and by making equipped items grouped right at the top.*
+
 ### [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
 
 **Main files** - moreHUD Inventory Edition Loose Version
@@ -174,13 +174,6 @@ I recommend lore friendly markers with an additions of new markers for mines.
 
 *Finally I won't need to ask Google about where can I get specific kind of ore. It is enough to use the search functionality in our map.*
 
-### [Werewolf Transformation Timer](https://www.nexusmods.com/skyrimspecialedition/mods/45326)
-
-**Main files** - Werewolf Transformation Timer
-
-*Informs us about how much time you have left before you need to find another body to feed and 
-not to think about it every single time you transform into werewolf.*
-
 ### [Disable Fast Travel SKSE - No Janky Map UI](https://www.nexusmods.com/skyrimspecialedition/mods/54217)
 
 **Main files** - Disable Fast Travel
@@ -190,6 +183,13 @@ not to think about it every single time you transform into werewolf.*
 *There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, 
 so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. 
 Probably it is a mod, which you love or hate, and considering the fact that it touches the map, I have decided to put it here.*
+
+### [Werewolf Transformation Timer](https://www.nexusmods.com/skyrimspecialedition/mods/45326)
+
+**Main files** - Werewolf Transformation Timer
+
+*Informs us about how much time you have left before you need to find another body to feed and 
+not to think about it every single time you transform into werewolf.*
 
 ---
 
