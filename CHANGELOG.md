@@ -46,6 +46,7 @@
 > There was actually a fast travel CTD issue related to this mod, which is fixed in this update, so maybe that was also related to issues like getting CTD after death some players were having.
 * C.O.I.N. - Coins of Interesting Natures
 * powerofthree's Papyrus Extender
+* Navigator - Navmesh Fixes
 * Strange Runes
 * TK Dodge RE
 * DynDOLOD and its resources
