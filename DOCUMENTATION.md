@@ -1808,8 +1808,8 @@ people, who have to wait longer on them, will be pleased.*
 
 **Instructions** - rename the mod’s plugin to `TissHeadTrack.esp`.
 
-**If you installed Alternate Conversation Camera Plus** - go to _Alternate
-Conversation Camera Plus'_ INI, in line 47, change _bConversationHT_ to `0`.
+**Alternate Conversation Camera Plus tweaks** - go to _Alternate
+Conversation Camera Plus_ INI (you can find the mod under TPF's _INTERFACE_ separator) , in line 47, change _bConversationHT_ to `0`.
 
 *Head tracking mod, which makes our player character (PC) observe
 things, which we move our cursor on.*
