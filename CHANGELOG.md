@@ -12,7 +12,7 @@
 
 ### Miscellaneous
 
-* Changed installation instructions for _Powerofthree's Papyrus Extender_.
+* Changed installation instructions for _powerofthree's Papyrus Extender_.
 
 ## ENB
 
@@ -35,7 +35,7 @@
 ### Updated Add-on's Mods for Wabbajack Users
 
 * Additional Clockwork
-* Powerofthree's Papyrus Extender
+* powerofthree's Papyrus Extender
 * DynDOLOD and its resources
 
 ---
