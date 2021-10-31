@@ -37,7 +37,7 @@
 
 ### Music & Sound FX
 
-* Removed _Nordic Shouts - Enigma Series_, _Better Sounding Female Dragon Shouts_ and _TPF Dragon's Edition - Music Patch_ and all music mods.
+* Removed _Nordic Shouts - Enigma Series_, _Better Sounding Female Dragon Shouts_, _TPF Dragon's Edition - Music Patch_ and all music mods.
 * Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ to the _Miscellaneous_ section of the add-on.
 * Removed the section completely.
 > And as the music was added back again to TPF, I don't need to worry about that anymore. 
