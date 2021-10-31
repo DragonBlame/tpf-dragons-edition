@@ -2960,17 +2960,14 @@ important updates. Then continue going through.
 
 Some hints (and possibly **spoilers**) before the end.
 
-At first, be sure to do at least half of the main quest series as some
+* At first, be sure to do at least half of the main quest series as some
 added quests are tied to it (more information in _Gameplay Guide_).
-
-Secondly, look inside Helgen’s Keep’s entries thoroughly as there will
+* Secondly, look inside Helgen’s Keep’s entries thoroughly as there will
 be one little reward for attentive ones.
-
-Thirdly, for people, who would want to adopt children and live with them (and/or with your spouse)
+* Thirdly, for people, who would want to adopt children and live with them (and/or with your spouse)
 not in vanilla homes, there will be a neat spell book waiting for you
 somewhere around Riverwood.
-
-And another one - be sure to travel around Falkreath. Something interesting might happen.
+* And another one - be sure to travel around Falkreath. Something interesting might happen.
 
 ---
 
