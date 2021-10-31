@@ -10,6 +10,10 @@
 
 * Changed FOMOD instructions for _Additional Clockwork_.
 
+### Appearance
+
+* Changed installation and FOMOD instructions for _Masculine Argonian Textures_.
+
 ### Gameplay Overhauls
 
 * Changed FOMOD instructions for _Pilgrim - A Religion Overhaul_.
@@ -49,6 +53,7 @@
 * Dragon War - Wyrmstooth Patch
 * Merlin the Corgi - A Magical Dog Follower Mod
 > There was actually a fast travel CTD issue related to this mod, which is fixed in this update, so maybe that was also related to issues like getting CTD after death some players were having.
+* Masculine Argonian Textures
 * Pilgrim - A Religion Overhaul
 * C.O.I.N. - Coins of Interesting Natures
 * powerofthree's Papyrus Extender
