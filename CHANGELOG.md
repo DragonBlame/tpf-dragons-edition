@@ -60,6 +60,8 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 ### Wabbajack
 
+* Changed the instructions for Wabbajack users, which were related to the optional mods.
+> As the _Music & Sound FX section was completely removed, there is only the _Interface_ section left.
 * Removed unpacked scripts.
 * Changed brightness in interiors.
 > Those are just a little bit more brighter now, which is still darker than default values.
