@@ -1287,39 +1287,6 @@ from here, there will be a button *Download this file*. If mod has
 different versions, there will be instructions on which one to get like
 always.
 
-### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
-
-**Main files** - Elemental Staffs SE
-
-**Optional files** - Elemental Staffs SE Basic
-
-**Merge** - Merge both files.
-
-*Alters the appearance of almost all staffs to appear more like they are
-imbued with the power of magic we are actually using them for.*
-
-### [KD Circlets Redone by zzjay](https://www.nexusmods.com/skyrimspecialedition/mods/10320)
-
-**Main files** - KD Cirlets by zzjay main file
-
-*At first, I wasn’t a fan, because if we compare this mod to JS Circlet
-Replacer, the replacer is definitely the winner, but after looking more
-at some of these minimalistic and sweet circlets, I have decided that a
-bunch of people will use them. They can be obtained only by crafting at
-forge.*
-
-### [Heavy Armored Pants](https://vectorplexus.com/files/file/404-heavy-armored-pants/)
-
-*You will be able to get these in exchange for their counterparts (heavy
-armors) in Skyrim. Just use any forge for that. Tempered the same way as
-any other armor, pants have the same stats as their counterparts.*
-
-<p align="center">
-    <img width="75%" src="https://user-images.githubusercontent.com/37147270/132089849-f158e201-3eae-4a2e-b9cd-259832fb15a8.png" /> 
-</p>
-
-_(ft. 1.6. v. of TPF - Dragon's Edition's new content, appearance and animation mods)_
-
 ### [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
 
 **Main files** - Royal Armory V2.2
@@ -1341,6 +1308,39 @@ _(ft. 1.6. v. of TPF - Dragon's Edition's new content, appearance and animation 
 **Main files** - Royal Armory - Replacer
 
 **FOMOD** - `Obscure’s College of Winterhold - Cell Setting Patch`.
+
+### [KD Circlets Redone by zzjay](https://www.nexusmods.com/skyrimspecialedition/mods/10320)
+
+**Main files** - KD Cirlets by zzjay main file
+
+*At first, I wasn’t a fan, because if we compare this mod to JS Circlet
+Replacer, the replacer is definitely the winner, but after looking more
+at some of these minimalistic and sweet circlets, I have decided that a
+bunch of people will use them. They can be obtained only by crafting at
+forge.*
+
+### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
+
+**Main files** - Elemental Staffs SE
+
+**Optional files** - Elemental Staffs SE Basic
+
+**Merge** - Merge both files.
+
+*Alters the appearance of almost all staffs to appear more like they are
+imbued with the power of magic we are actually using them for.*
+
+### [Heavy Armored Pants](https://vectorplexus.com/files/file/404-heavy-armored-pants/)
+
+*You will be able to get these in exchange for their counterparts (heavy
+armors) in Skyrim. Just use any forge for that. Tempered the same way as
+any other armor, pants have the same stats as their counterparts.*
+
+<p align="center">
+    <img width="75%" src="https://user-images.githubusercontent.com/37147270/132089849-f158e201-3eae-4a2e-b9cd-259832fb15a8.png" /> 
+</p>
+
+_(ft. 1.6. v. of TPF - Dragon's Edition's new content, appearance and animation mods)_
 
 --- 
 
