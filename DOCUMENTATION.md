@@ -267,10 +267,6 @@ Redux 4.0
 me. Not even talking about Thieves Guild becoming something more than
 just a bunch of ordinary thieves united.*
 
-### [JK's The Ragged Flagon](https://www.nexusmods.com/skyrimspecialedition/mods/50765?tab=files)
-
-**Main files** - JK's The Ragged Flagon
-
 ### [Opulent Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/931?tab=files)
 
 **Main files** - Opulent Thieves Guild
@@ -289,7 +285,7 @@ just a bunch of ordinary thieves united.*
 
 **Main files** - Opulent Thieves Guild Patch Collection
 
-**FOMOD** - `JK's The Ragged Flagon, USSEP`.
+**FOMOD** - `USSEP`.
 
 ### [Adoption Without Murder](https://www.nexusmods.com/skyrimspecialedition/mods/46741?tab=files)
 
@@ -1216,11 +1212,13 @@ _Adds a secret room to each of HearthFire houses to display our unique loot, so 
 
 **Main files** - JK's Elgrims Elixirs
 
-**Optional files** - JK's Elgrims Elixirs - Bee and Barb Patch
-
 ### [JK's The Pawned Prawn](https://www.nexusmods.com/skyrimspecialedition/mods/50135)
 
 **Main files** - JK's The Pawned Prawn
+
+### [JK's The Ragged Flagon](https://www.nexusmods.com/skyrimspecialedition/mods/50765?tab=files)
+
+**Main files** - JK's The Ragged Flagon
 
 ### [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
 
