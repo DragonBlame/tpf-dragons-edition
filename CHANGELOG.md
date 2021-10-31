@@ -10,6 +10,10 @@
 
 * Changed FOMOD instructions for _Additional Clockwork_.
 
+### Interiors
+
+* Added _JK's Temple of Kynareth_.
+
 ### Appearance
 
 * Changed installation and FOMOD instructions for _Masculine Argonian Textures_.
