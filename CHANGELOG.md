@@ -8,7 +8,7 @@
 
 ### New Content
 
-* Changed FOMOD Instructions for _Additional Clockwork_.
+* Changed FOMOD instructions for _Additional Clockwork_.
 
 ## ENB
 
