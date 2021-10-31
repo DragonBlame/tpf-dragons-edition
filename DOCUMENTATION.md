@@ -1425,6 +1425,12 @@ will need to choose a different version of Masculine Khajiit Textures.
 
 **FOMOD** - `Lizard, Heavy Scales`.
 
+**Update files** - Masculine Argonian EXTRA (Vanilla) 4K
+
+**FOMOD** - `Lizard, Heavy Scales - Abs` 3 times.
+
+**Merge** - Merge both files.
+
 *Flawn's Vanilla Argonians Redux mod looks very good, but there are another great looking textures for argonians, which work with the mod we want to use and
 which are done by the same author, which textures we use for Khajiits.*
 
