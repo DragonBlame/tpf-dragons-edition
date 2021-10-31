@@ -41,7 +41,7 @@
 * Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ to the _Miscellaneous_ section of the add-on.
 * Removed the section completely.
 > And as the music was added back again to TPF, I don't need to worry about that anymore. 
-Conflicts with our quest mods were resolved in the final patches. Considering a fact that not all people liked the overhauled shouting voices, the vanilla ones aren't exactly bad and me not wanting to keep this section for just 5 mods, I have decided to remove them.
+Conflicts with the quest mods were resolved in my conflict resolution patches. Considering a fact that not all people liked the overhauled shouting voices, the vanilla ones aren't exactly bad and me not wanting to keep this section for just those two mods, I have decided to remove them.
 
 ### Skeleton & Animations
 
