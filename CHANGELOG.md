@@ -49,6 +49,8 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 ### Skeleton & Animations
 
+* Removed _First Person Combat Animations Overhaul_.
+> After playing with it for a while I understood that it is a little bit much.
 * Changed installation instructions for _TK Dodge RE_.
 
 ### ENB
