@@ -35,32 +35,27 @@
 
 ## Getting Started
 
-Select _Profiles_ option from the Mod Organizer 2 (MO2) menu, select
-your TPF profile, which you use for playing (basic or performance version), and select _Copy_ on the
-right side and then name the copied profile `The Phoenix Flavour -
-Dragon’s Edition` (and add `(Performance)` to the name if you have copied the performance version of TPF).
+Select _Profiles_ option from the Mod Organizer 2 (MO2) menu, select your TPF profile, which you use for playing (basic or performance version), 
+and select _Copy_ on the right side and then name the copied profile `The Phoenix Flavour - Dragon’s Edition` 
+(and add `(Performance)` to the name if you have copied the performance version of TPF).
 
 ---
 
 ## Interface (optional)
 
-Create a separator and name it `INTERFACE EXTENDED` and place it
-directly below the *INTERFACE* separator (and its mods). Change its
-colour, so that it won't be the same as TPF's ones.
+Create a separator and name it `INTERFACE EXTENDED` and place it directly below the *INTERFACE* separator (and its mods). 
+Change its colour, so that it won't be the same as TPF's ones.
 
-All of the following mods in this category will be placed under this
-separator in the same order.
+All of the following mods in this category will be placed under this separator in the same order.
 
-This category's mods are optional - you can just skip it or install the
-mods you like. There will be instructions on files, which are needed, if
-you have decided to use one or more mods. Other sections mods (excluding the _Music & Sound FX_ section of the add-on) are all obligatory and can't be skipped.
+This category's mods are optional - you can just skip it or install the mods you like. There will be instructions on files, which are needed, 
+if you have decided to use one or more mods. Other sections mods (excluding the _Music & Sound FX_ section of the add-on) are all obligatory and can't be skipped.
 
 ### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
 **Main files** - ReCleanedMenus
 
-*I prefer the vanilla-style main menu. It also doesn’t mess up so much
-with the beautiful background.*
+*I prefer the vanilla-style main menu. It also doesn’t mess up so much with the beautiful background.*
 
 ### [Font Overhaul - Natural Typefaces for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2880)
 
@@ -68,51 +63,45 @@ with the beautiful background.*
 
 **FOMOD** - Whichever options you like. I recommend all the default options.
 
-*Sovngarde font looks a little bit cartoonish to me, while Fertigo Pro font from this fonts' pack
-is looking good within Skyrim's theme and is more usual, but not too
-ordinary. The mod by itself even changes fonts for notes and journals, which I have always wanted to change too.*
+*Sovngarde font looks a little bit cartoonish to me, while Fertigo Pro font from this fonts' pack is looking good within Skyrim's theme and is more usual, 
+but not too ordinary. The mod by itself even changes fonts for notes and journals, which I have always wanted to change too.*
 
 ### [12th Century Book Font](https://www.nexusmods.com/skyrim/mods/72159)
 
 **Main files** - Font
 
-*Replaces font in Skyrim's books to look not as modern, more
-sophisticated.*
+*Replaces font in Skyrim's books to look not as modern, more sophisticated.*
 
 ### [Consolas Font - Sovngarde Font - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
-**Needed if you use TPF's default Sovngarde font and 12th Century
-Book Font.**
+**Needed if you use TPF's default Sovngarde font and 12th Century Book Font.**
 
-**Optional files** - Consolas Font - Sovngarde Font - 12th Century
-Book Font Patch
+**Optional files** - Consolas Font - Sovngarde Font - 12th Century Book Font Patch
 
 ### [Consolas Font - Font Overhaul - 12th Century Book Font Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
 
 **Needed if you use both Font Overhaul - Natural Typefaces for Skyrim and 12th Century Book Font.**
 
-**Optional files** - Consolas Font - Font Overhaul - 12th Century Book
-Font Patch
+**Optional files** - Consolas Font - Font Overhaul - 12th Century Book Font Patch
 
 ### [Better SkyUI Config](https://www.nexusmods.com/skyrimspecialedition/mods/49095)
 
 **Main files** - Better SkyUI Config
 
-*Changes default SkyUI's sorting to be more user friedly by sorting all items by their type, active effects by their expiration time and by making equipped items grouped right at the top.*
+*Changes default SkyUI's sorting to be more user friedly by sorting all items by their type, 
+active effects by their expiration time and by making equipped items grouped right at the top.*
 
 ### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
 
 **Main files** - SmoothCam
 
-**FOMOD** - if you have a modern CPU, choose `SmoothCam AVX`, `SmoothCam
-SSE` otherwise, then `ESL`.
+**FOMOD** - if you have a modern CPU, choose `SmoothCam AVX`, `SmoothCam SSE` otherwise, then `ESL`.
 
 **Instructions** - rename the mod’s plugin to *SmoothCam.esp*.
 
-*Have you ever been in a situation, when you were playing in third
-person mode and fighting your enemy and you thought that you would land
-your arrow or a spell on the enemy, because your crosshair was right on
-them, but Skyrim has decided otherwise... Then this is a mod for you.*
+*Have you ever been in a situation, 
+when you were playing in third person mode and fighting your enemy and you thought that you would land your arrow or a spell on the enemy, 
+because your crosshair was right on them, but Skyrim has decided otherwise... Then this is a mod for you.*
 
 ### [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
 
@@ -120,9 +109,8 @@ them, but Skyrim has decided otherwise... Then this is a mod for you.*
 
 **Main files** - iHUD - SmoothCam Automated Compatibility Patch
 
-*SmoothCam has its own crosshair, which appears right, when you aim. We
-need this patch to disable our basic crosshair not to confuse us, while
-we are trying to shoot, roast, electrocute, freeze etc. things.*
+*SmoothCam has its own crosshair, which appears right, when you aim. We need this patch to disable our basic crosshair not to confuse us, 
+while we are trying to shoot, roast, electrocute, freeze etc. things.*
 
 ### [SmoothCam - Octavian's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/43927)
 
@@ -130,8 +118,7 @@ we are trying to shoot, roast, electrocute, freeze etc. things.*
 
 **Main files** - SmoothCam - Octavian's Preset 1.1.2
 
-*I have tried many presets and this one feels great for playing the
-game, especially for our cause - aiming in third person mode.*
+*I have tried many presets and this one feels great for playing the game, especially for our cause - aiming in third person mode.*
 
 ### [Simple Activate](https://www.nexusmods.com/skyrimspecialedition/mods/56767)
 
@@ -144,8 +131,7 @@ game, especially for our cause - aiming in third person mode.*
 **Main files** - QuickLootRE
 
 *One of the best additions to Fallout 4 (FO4) was the looting menu,
-which appears right when you move your cursor over lootable item without
-need to open game's full menu. This mod allows us to use this addition,
+which appears right when you move your cursor over lootable item without need to open game's full menu. This mod allows us to use this addition,
 but in Skyrim.*
 
 ### [No Lockpick Activate](https://www.nexusmods.com/skyrimspecialedition/mods/26790)
@@ -154,10 +140,8 @@ but in Skyrim.*
 
 **Main files** - No Lockpick Activate (SKSE) - Updated
 
-*Fixes game's and looting menu mod's interaction, where you would be
-forced into the full menu upon unlocking container. It also affects
-every other locked object, so, for example, you have to interact with
-doors after unlocking them to open them.*
+*Fixes game's and looting menu mod's interaction, where you would be forced into the full menu upon unlocking container. 
+It also affects every other locked object, so, for example, you have to interact with doors after unlocking them to open them.*
 
 ### [Minimalist Quick Loot](https://www.nexusmods.com/skyrimspecialedition/mods/45581)
 
@@ -167,16 +151,14 @@ doors after unlocking them to open them.*
 
 **FOMOD** - Whichever options you like. I recommend `With Container Title, Original Position Modified Size`.
 
-*Useful to make Quick Loot's interface smaller and less bulky by making
-it transparent.*
+*Useful to make Quick Loot's interface smaller and less bulky by making it transparent.*
 
 ### [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
 
 **Main files** - moreHUD Inventory Edition Loose Version
 
-*It makes you aware of known weapon and armor enchantments, books you
-have read and it tells you about which kind of skill you can level by
-reading book.*
+*It makes you aware of known weapon and armor enchantments, 
+books you have read and it tells you about which kind of skill you can level by reading book.*
 
 ### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722)
 
@@ -184,8 +166,7 @@ reading book.*
 
 **INI** - In line 5, change _fCameraSpeed_ to `850`, in line 15, change _bForceThirdPerson_ to `0`, in line 51, change _bLetterBox_ to `0`.
 
-*Another FO4 like addition to Skyrim, which makes conversations look
-much more lively.*
+*Another FO4 like addition to Skyrim, which makes conversations look much more lively.*
 
 ### [Pastel SkyUI Markers](https://www.nexusmods.com/skyrimspecialedition/mods/13604)
 
@@ -197,7 +178,8 @@ much more lively.*
 
 **Main files** - Detailed Mine Markers v1.4
 
-**FOMOD** - Whichever options you like, except the one you need to use - `Install USSEP Compatibility`. I recommend lore friendly markers with an additions of new markers for mines.
+**FOMOD** - Whichever options you like, except the one you need to use - `Install USSEP Compatibility`. 
+I recommend lore friendly markers with an additions of new markers for mines.
 
 *Finally I won't need to ask Google about where can I get specific kind of ore. It is enough to use the search functionality in our map.*
 
@@ -205,9 +187,8 @@ much more lively.*
 
 **Main files** - Werewolf Transformation Timer
 
-*Informs us about how much time you have left before you need to
-find another body to feed and not to think about it every single time
-you transform into werewolf.*
+*Informs us about how much time you have left before you need to find another body to feed and 
+not to think about it every single time you transform into werewolf.*
 
 ### [Disable Fast Travel SKSE - No Janky Map UI](https://www.nexusmods.com/skyrimspecialedition/mods/54217)
 
@@ -215,7 +196,9 @@ you transform into werewolf.*
 
 **Instructions** - go to _powerofthree's Tweaks_'s INI (TPF's mod in the _Fixes_ section), in line 7, change _Map Marker Placement Fix_ to `false`.
 
-*There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. Probably it is a mod, which you love or hate, and considering the fact that it touches the map, I have decided to put it here.*
+*There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, 
+so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. 
+Probably it is a mod, which you love or hate, and considering the fact that it touches the map, I have decided to put it here.*
 
 ---
 
@@ -2952,11 +2935,13 @@ compass.
 after *A Blade in the Dark* quest is done (otherwise it feels too soon
 for an organization to give this quest out).
 
-Now we need to activate some of the mods to actually make them work. Some of these won't be available right at the beginning of the game. Close the MCM menu and the system page and do this:
+Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
 
 **Animated Shouts activation** - Press your right *Alt* key.
 
 **Look What You see activation** - Press your *V* key.
+
+The next ones you will use later in the game:
 
 **Inigo Whistle Key’s activation** - You can issue commands to Inigo by
 whistling to him. This ability is introduced during his quests and will
@@ -2965,10 +2950,16 @@ whistle in the game.
 
 **Skyrim's Paraglider activation** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
 
-And some reminders about things:
+Reminders about things for the documentation users:
 
 **Reminder about setting up Simple Activate (if you are using the mod from the *Interface* section of the
 add-on)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
+
+For Wabbajack users:
+
+**Reminder about TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
+
+For all people:
 
 **Reminder about Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through Hide Your Quests MCM, when you decide to do it.
 
@@ -2978,8 +2969,6 @@ offer inside their plugins. I have added it for people to know that there is an 
 **Reminder about the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone. 
 
 **Reminder about Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
-
-**Reminder about TK Dodge RE for Wabbajack users** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 
 Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
 important updates. Then continue going through.
