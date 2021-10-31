@@ -579,7 +579,7 @@ _Hide_.
 
 **Update files** - Additional Clockwork
 
-**FOMOD** - `Courier Counterspell, Mausoleum Dummy Door Fix, Extra Coals Fix`.
+**FOMOD** - `Second Person, Never Used on This Playthrough, Enable SKSE Modules, Bug Fixes, Superior Sorting, Extra Coal Mesh Fix`.
 
 ### [Clockwork Plantable Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/40875?tab=files)
 
