@@ -33,6 +33,7 @@
 * Changed installation instructions for _powerofthree's Papyrus Extender_.
 * Changed the name for _Player Spell and Weapon Lighting_.
 * Changed installation instructions for _Strange Runes_.
+* Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ here from the the _Music & Sound FX_ section of the add-on.
 
 ### Music & Sound FX
 
