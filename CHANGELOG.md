@@ -15,6 +15,10 @@
 * Changed installation instructions for _powerofthree's Papyrus Extender_.
 * Changed installation instructions for _Strange Runes_.
 
+### Skeleton & Animations
+
+* Changed installation instructions for _TK Dodge RE_.
+
 ## ENB
 
 * Changed configurations for interiors' brightness.
@@ -37,6 +41,7 @@
 * Additional Clockwork
 * powerofthree's Papyrus Extender
 * Strange Runes
+* TK Dodge RE
 * DynDOLOD and its resources
 
 ---
