@@ -10,6 +10,10 @@
 
 * Changed FOMOD instructions for _Additional Clockwork_.
 
+### Miscellaneous
+
+* Changed installation instructions for _Powerofthree's Papyrus Extender_.
+
 ## ENB
 
 * Changed configurations for interiors' brightness.
