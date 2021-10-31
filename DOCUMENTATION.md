@@ -1763,7 +1763,7 @@ magnificent? I would have signed it.*
 
 **Main files** - ENB Lights For Effect Shaders
 
-### [Player Spell Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/56830)
+### [Player Spell and Weapon Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/56830)
 
 **Main files** - Player Spell Lighting
 
