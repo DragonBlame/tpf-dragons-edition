@@ -14,7 +14,6 @@
 [Appearance](#appearance)  
 [Gameplay Overhauls](#gameplay-overhauls)  
 [Miscellaneous](#miscellaneous)  
-[Music & Sound FX (optional)](#music--sound-fx-optional)  
 [Skeleton & Animations](#skeleton--animations)  
 [NPC Overhauls](#npc-overhauls)  
 [Salt & Wind Hair Retextures](#salt--wind-hair-retextures)  
@@ -49,7 +48,7 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this separator in the same order.
 
 This category's mods are optional - you can just skip it or install the mods you like. There will be instructions on files, which are needed, 
-if you have decided to use one or more mods. Other sections mods (excluding the _Music & Sound FX_ section of the add-on) are all obligatory and can't be skipped.
+if you have decided to use one or more mods. Other sections mods are all obligatory and can't be skipped.
 
 ### [ReCleaned Menu](https://www.nexusmods.com/skyrimspecialedition/mods/26680)
 
@@ -1716,6 +1715,28 @@ from time to time.*
 
 *Navmesh tweaks for some dungeons.*
 
+### [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
+
+**Main files** - Talkative Dragons
+
+*For species, which can actually speak the way that humans understand,
+dragons in the game don’t like to speak at all. Let’s change that.*
+
+### [Talkative Dragons - Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269)
+
+**Main files** - TDReplacer
+
+*Just a little replacer for some voice lines in the original mods, which
+sounded a little bit too silly.*
+
+### [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
+
+**Main files** - BA_BardSongs_FOMOD
+
+**FOMOD** - `AIO`.
+
+*I am sick of hearing the same compositions from bards over and over again.*
+
 ### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
 
 **Optional files** - More Growable Plants Simple 1.5
@@ -1969,121 +1990,6 @@ neutral, but getting your deserved rewards.*
 
 *Now try to do everything else, but not the main quest. I dare you. If
 you don’t listen then your game will be over.*
-
----
-
-## Music & Sound FX (optional)
-
-Create a separator and name it `MUSIC & SOUND FX EXTENDED` and place it
-directly below the *SOUND FX* separator (and its mods). Change its
-colour, so that it won't be the same as TPF's ones.
-
-All of the following mods in this category will be placed under this
-separator in the same order.
-
-This category's mods are optional - you can just skip the category. You
-can use whichever mods you like, which are before a horizontal line, but
-you will need to install all of the music mods, which are behind the
-line, if you want everything to work correctly. Music is actually the
-same one Phoenix offered in her TPF-X, so all credit goes to those
-wonderful people, who made it, and Phoenix for finding these pearls and
-making a patch for them. And wanted to reminder you that other sections' mods (excluding the _Interface_ section of the add-on, which we have already gone trough) are all obligatory and can't be skipped.
-
-### [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
-
-**Main files** - Talkative Dragons
-
-*For species, which can actually speak the way that humans understand,
-dragons in the game don’t like to speak at all. Let’s change that.*
-
-### [Talkative Dragons - Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269)
-
-**Main files** - TDReplacer
-
-*Just a little replacer for some voice lines in the original mods, which
-sounded a little bit too silly.*
-
-### [Nordic Shouts - Enigma Series](https://www.nexusmods.com/skyrimspecialedition/mods/41401)
-
-**Main files** - Nordic Shouts - Enigma Series All In One-
-
-*An author of the mod has done a great job with filters to make male
-shouts sound better.*
-
-### [Better Sounding Female Dragon Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/18637)
-
-**Main files** - HPFSV All in One
-
-*Exactly.*
-
-### [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
-
-**Main files** - BA_BardSongs_FOMOD
-
-**FOMOD** - `AIO`.
-
-*Exactly x2. Don’t worry, they are also immersive.*
-
----
-
-### [Musical Lore - Soundtrack Mod by Nir Shor](https://www.nexusmods.com/skyrimspecialedition/mods/3200)
-
-**Main files** - Musical Lore V1.2
-
-**Delete** - remove `NirShor-MusicalLore.esp`.
-
-### [The Northerner Diaries - Immersive Edition](https://www.nexusmods.com/skyrimspecialedition/mods/28108)
-
-**Main files** - The Northerner Diaries - Skyrim and Solstheim
-
-**Delete** - remove `Northerner Diaries in Skyrim.esp`.
-
-### [Still - Skyrim Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/19401)
-
-**Main files** - Still - ESP Version
-
-**Delete** - remove `Still.esp`.
-
-### [Hun Lovaas - Skyrim Fan-Made Combat Music](https://www.nexusmods.com/skyrimspecialedition/mods/16123)
-
-**Main files** - Hun Lovaas - ESP version
-
-**Delete** - remove `Hun Lovaas.esp`.
-
-### [Melodies of Civilization - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/30014)
-
-**Main files** - Melodies of Civilization 1.01
-
-**Delete** - remove `Melodies of Civilization.esp`.
-
-### [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144)
-
-**Main files** - Around the Fire
-
-**Delete** - remove `Around the Fire.esp`.
-
-### [Dawnguard Music Overhaul - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/48613)
-
-**Main files** - Dawnguard Music Overhaul - Main Module
-
-**Main files** - Dawnguard Music Overhaul - Combat Module
-
-**Instructions** - merge both files and then delete `Dawnguard Music
-Overhaul.esp` and `Dawnguard Music Overhaul - Combat.esp`.
-
-### [Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725)
-
-**Main files** - Yet Another Music Merge
-
-*Phoenix’s merge of all the music mods as well as a patch combining
-their tracks in the playlists.*
-
-### [TPF Dragon’s Edition - Quests & Music Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
-
-**Optional files** - TPF Dragon’s Edition - Quests & Music Patch
-
-*A patch to make all these music mods work with music from one quest
-mod.*
 
 ---
 
