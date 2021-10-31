@@ -43,7 +43,8 @@
 * Wyrmstooth
 * Dragon War - Wyrmstooth Patch
 * Merlin the Corgi - A Magical Dog Follower Mod
-> There was actually a fast travel CTD issue related to this mod, which is fixed in this update, so maybe that was also related to issues like getting CTD after death some players were having. 
+> There was actually a fast travel CTD issue related to this mod, which is fixed in this update, so maybe that was also related to issues like getting CTD after death some players were having.
+* C.O.I.N. - Coins of Interesting Natures
 * powerofthree's Papyrus Extender
 * Strange Runes
 * TK Dodge RE
