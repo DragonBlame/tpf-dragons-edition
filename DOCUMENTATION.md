@@ -3119,86 +3119,68 @@ differs.
 
 #### Early and Mid Game Quests
 
-**Winterhold Deep Sea Ruins** - Can be started any time by going northeast
+* **Winterhold Deep Sea Ruins** - Can be started any time by going northeast
 from Winterhold. A journal can be found there in small ruins, which will
 point you to the location with a ship marker. Should be done without a
 follower.
-
-**Clockwork** - Automatically after reaching level 5. Without a follower.
-
-**Beyond Skyrim - Bruma** - Can be started any time in *Pale Pass* (will be
+* **Clockwork** - Automatically after reaching level 5. Without a follower.
+* **Beyond Skyrim - Bruma** - Can be started any time in *Pale Pass* (will be
 marked as two rocks together) southeast of Helgen.
-
-**Moonpath to Elsweyr** - Can be started any time in Bruma’s *Greenwood*,
+* **Moonpath to Elsweyr** - Can be started any time in Bruma’s *Greenwood*,
 the southernmost point of County Bruma.
-
-**Identity Crisis** - Can be started any time in *Abandoned Stables*
+* **Identity Crisis** - Can be started any time in *Abandoned Stables*
 southeast of Yngol Barrow. Without a follower.
-
-**Moon and Star** - Automatically after finishing the main quest *The* *Way
+* **Moon and Star** - Automatically after finishing the main quest *The* *Way
 of the Voice.*
-
-**Carved Bink** - After reaching level 10 in *Abandoned Grotto* west of Lost
+* **Carved Bink** - After reaching level 10 in *Abandoned Grotto* west of Lost
 Knife Hideout.
-
-**Project AHO** - After reaching level 15, head to Braidwood Inn (located at
+* **Project AHO** - After reaching level 15, head to Braidwood Inn (located at
 Kynesgrove) and talk to the innkeeper. Without a follower.
-
-**Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
+* **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
 Tomb. At least level 15 is recommended. Without a follower.
-
-**The Wheels of Lull** - Automatically after reaching level 20, can be
+* **The Wheels of Lull** - Automatically after reaching level 20, can be
 finished after reaching level 35.
-
-**Helgen Reborn** - **Must** be started after 5 days after you have finished the
+* **Helgen Reborn** - **Must** be started after 5 days after you have finished the
 main quest *Unbound*. Recommended to be started at level 20. Read the
 book *Helgen Reborn Guide* in your inventory to start the quest.
-
-**The Tools of Kagrenac** - Join College of Winterhold and finish the
+* **The Tools of Kagrenac** - Join College of Winterhold and finish the
 side questline *Arniel’s Endeavor*. You’ll also need to have finished
 *The Way of the Voice*. A couple of days after you completed *Arniel’s
 Endeavor* and claimed _Keening_, the quest will start automatically. Make
 sure you have Keening in your inventory, it will turn into a quest item
 when the mod starts.
-
-**The Gray Cowl of Nocturnal** - After reaching level 20 and after
+* **The Gray Cowl of Nocturnal** - After reaching level 20 and after
 pickpocketing or stealing anything. Level 30-35 is recommended, for
 thief characters (sneaking and pickpocketing).
 
 #### Late Game Quests
 
-**Undeath** - Automatically without anything happening after reaching level
+* **Undeath** - Automatically without anything happening after reaching level
 30 (I know, not immersive, unfortunately the patch for making it start
 in a better way was removed from Nexus, going to deal with that later,
 the late game quest, considered you should have gotten it after one
 Dragonborn quest).
-
-**The Forgotten City** - Automatically after reaching level 40. The story
+* **The Forgotten City** - Automatically after reaching level 40. The story
 responds to your character’s individual history, actions, so a high
 level of speech skill (approximately 60) is also recommended. Enemies
 will be pretty tough, but not as tough as within other late game quests.
 That’s and also the immersiveness is the reason for setting this quest
 requirements as high, because by default it starts at level 5. Without a
 follower.
-
-**The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
+* **The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
 Trench* northeast of The Tower Stone, hard mod.
-
-**The Tournament of the Ten Bloods** - Can be started after reading *The
+* **The Tournament of the Ten Bloods** - Can be started after reading *The
 Story of Lyrisius* in the Arcanaeum, hard mod.
-
-**Wyrmstooth** - automatically after Level 10 and after finishing the main
+* **Wyrmstooth** - automatically after Level 10 and after finishing the main
 quest *A Blade in the Dark*. According to the official guide book, it
 can be challenging even for level 70 characters. It is also recommended
 to be prepared before venturing into the quest with some potions and
 arrows if you are an archer.
-
-**The Grand Paladin** - After reading a book *The Grand Paladin* in Bards
+* **The Grand Paladin** - After reading a book *The Grand Paladin* in Bards
 College or Skaal's Village Great Hall and after
 finishing the main quest *Dragon Rising*. Having more than 300 health is
 highly recommended. PC must be able to shout, very hard mod.
-
-**The Final Cataclysm** - Automatically after reaching level 50 and after
+* **The Final Cataclysm** - Automatically after reaching level 50 and after
 finishing the main quest *The Horn of Jurgen Windcaller*. Stealth and
 combat oriented character required, very hard mod. After reaching level
 60, a bonus quest becomes available.
@@ -3226,13 +3208,13 @@ That is important for me, because then I will know that issue is global and mayb
 
 Report requirements:
 
--   Title of the report should be made according to the problem (not
+*   Title of the report should be made according to the problem (not
     *Issue, HELP!!!!, problem*, but something like *Aela has Black Face, Flying
     Barrel Outside Whiterun* etc.);
     
     > Of course, appliable just for Nexus reports.
 
--   Confirmation that you haven't modified or added anything to the add-on;
+*   Confirmation that you haven't modified or added anything to the add-on;
     
     > If something even hints some kind of addition, you will be asked for **YOUR** *modlist.txt* and *loadorder.txt* (Navigate to your MO2
     folder, open *profiles* folder, then to the profile with problem) 
@@ -3240,17 +3222,17 @@ Report requirements:
     
     > Nexus users should use Google Drive, text sharing service or any other tool for the task.
 
--   Screenshot or video of the problem if that can be done (copy and paste in the report or again
+*   Screenshot or video of the problem if that can be done (copy and paste in the report or again
     just use any kind of picture sharing service etc.) (when the problem is
     seeable, open the console (*\~* key) and press on the
     problem to see maybe the console gives more information on the source of the issue, then take the screenshot);
 
--   Description of the problem (what, when, where);
+*   Description of the problem (what, when, where);
 
--   Try to repeat the issue (go somewhere else, then do whatever you
+*   Try to repeat the issue (go somewhere else, then do whatever you
     were doing before again for at least 3 times);
 
--   How to repeat the issue (remember that Skyrim is Skyrim, so if the
+*   How to repeat the issue (remember that Skyrim is Skyrim, so if the
     issue can’t be repeated, I won’t be able to help) (if by your
     report it is understandable how to repeat the issue (in the
     example), of course, you don’t need to write the same thing
@@ -3260,9 +3242,9 @@ Report requirements:
 
 ***Black Face***
 
-*A person has sent me a screenshot of a guard with black face and I
+A person has sent me a screenshot of a guard with black face and I
 see all the data about the guard from a console, her perfect, untouched
-modlist.txt and loadorder.txt.*
+modlist.txt and loadorder.txt.
 
 _Was going to Whiterun for the first time, right near the gate of the
 city one of the guards has black face. Have tried to get to Whiterun
