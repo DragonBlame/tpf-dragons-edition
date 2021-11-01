@@ -16,6 +16,7 @@
 * Changed FOMOD instructions for _Opulent Thieves Guild Patch Collection_.
 * Moved _JK's The Ragged Flagon_ to the _Interiors_ section.
 * Changed FOMOD instructions for _Additional Clockwork_.
+* Changed installation instructions for _The Wheels of Lull_.
 
 ### Interiors
 
@@ -77,6 +78,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 * Serana Dialogue Add-On
 * Additional Clockwork
+* The Wheels of Lull
 * Wyrmstooth
 * Dragon War - Wyrmstooth Patch
 * Merlin the Corgi - A Magical Dog Follower Mod
