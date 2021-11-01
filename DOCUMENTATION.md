@@ -620,7 +620,7 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 ### [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748?tab=files)
 
-**Main files** - The Wheels of Lull SE Unwound Edition
+**Main files** - The Wheels of Lull SE
 
 **FOMOD** - don’t change anything.
 
