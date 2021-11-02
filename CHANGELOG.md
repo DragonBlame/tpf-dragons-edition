@@ -83,7 +83,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 * Wyrmstooth
 * Dragon War - Wyrmstooth Patch
 * Merlin the Corgi - A Magical Dog Follower Mod
-> There was actually a fast travel CTD issue related to this mod, which is fixed in this update, so maybe that was also related to issues like getting CTD after death some players were having.
+> There was actually a fast travel CTD issue related to this mod, which is fixed in this update.
 * JK's The Bannered Mare
 * JK's Sadris Used Wares
 * JK's Interiors Patch Collection
