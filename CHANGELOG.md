@@ -21,6 +21,7 @@
 ### Exteriors
 
 * Changed FOMOD instructions for _Cities of the North - Winterhold Patch Collection_.
+* Changed FOMOD instructions for _Cities of the North - Dawnstar Patch Collection_.
 
 ### Interiors
 
