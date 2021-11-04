@@ -2067,18 +2067,6 @@ times, `2hm Block, 2hm Sprint`.
 **FOMOD** - `Guardian, choose _Skip_ option 4 times, 1hm Block, 1hm
 Sprint, Origin Dw Sprint_Type A`.
 
-### [Vanargand Animations - Female Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/51681)
-
-**Main files** - Vanargand Animations - Female idle Walk and Run
-
-**Hide** - hide `mt_idle.hkx`.
-
-### [Vanargand Animations - Male Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/52488)
-
-**Main files** - Vanargand Animations - Male idle Walk and Run
-
-**Hide** - hide `mt_idle.hkx`.
-
 ### [Leviathan Animations - Two-Handed High Stance](https://www.nexusmods.com/skyrimspecialedition/mods/47092)
 
 **Main files** - Leviathan Animations - Two-Handed High Stance SE
@@ -2146,7 +2134,7 @@ people, who like to swim with heavy armour equipped.*
 
 **Main files** - Jog Sprint and Jump
 
-**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_. Then hide everything else in the mod, except two files with the same name in _female_ and _male_ folders - _mt_sprintforward.HKX_.
+**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_.
 
 ### [Magic Casting Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215)
 
