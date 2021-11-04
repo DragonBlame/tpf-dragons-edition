@@ -35,6 +35,7 @@
 
 ### Miscellaneous
 
+* Removed _Simple Load Screens_. Added _Starlit Lakes Loading Screens_ and _Interesting Loading Screens_.
 * Changed installation instructions for _powerofthree's Papyrus Extender_.
 * Changed the name for _Player Spell and Weapon Lighting_.
 * Changed installation instructions for _Strange Runes_.
@@ -68,7 +69,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 ### Other Changes
 
-* Changed mod order for the _Interface_, _Interiors_, _Apparel & Weapons_, _Gameplay Overhauls_ and _Skeleton & Animations_ section.
+* Changed mod order for the _Interface_, _Interiors_, _Apparel & Weapons_, _Gameplay Overhauls_, _Miscellaneous_ and _Skeleton & Animations_ section.
 > Just to make more sense.
 * Removed MCM instructions for _Strange Runes_.
 > One of the latest updates finally addressed issues with the mod and NPCs, so we don't need to deactivate runes for NPCs anymore.
