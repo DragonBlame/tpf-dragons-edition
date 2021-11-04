@@ -68,7 +68,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 ### Other Changes
 
-* Changed mod order for the _Interface_, _Interiors_, _Apparel & Weapons_, _Gameplay Overhauls_ section.
+* Changed mod order for the _Interface_, _Interiors_, _Apparel & Weapons_, _Gameplay Overhauls_ and _Skeleton & Animations_ section.
 > Just to make more sense.
 * Removed MCM instructions for _Strange Runes_.
 > One of the latest updates finally addressed issues with the mod and NPCs, so we don't need to deactivate runes for NPCs anymore.
