@@ -2147,7 +2147,7 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
 
-**Main files** - TK Dodge RE-v0.45b
+**Main files** - TK Dodge RE-v0.46
 
 **Optional files** - Weapon Sheathed Firstperson Dodge Animations
 
