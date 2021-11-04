@@ -622,7 +622,7 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 **Main files** - The Wheels of Lull SE
 
-**FOMOD** - don’t change anything.
+**FOMOD** - `High Poly NPCs`.
 
 ### [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351?tab=files)
 
