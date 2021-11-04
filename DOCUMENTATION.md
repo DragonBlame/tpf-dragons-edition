@@ -104,11 +104,11 @@ because your crosshair was right on them, but Skyrim has decided otherwise... Th
 *SmoothCam has its own crosshair, which appears right, when you aim. We need this patch to disable our basic crosshair not to confuse us, 
 while we are trying to shoot, roast, electrocute, freeze etc. things.*
 
-### [SmoothCam - Octavian's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/43927)
+### [SmoothCam - DocOct Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45557)
 
 **Not needed without SmoothCam. Recommended with it.**
 
-**Main files** - SmoothCam - Octavian's Preset 1.1.2
+**Main files** - SmoothCam - DocOct Preset
 
 *I have tried many presets and this one feels great for playing the game, especially for our cause - aiming in third person mode.*
 
