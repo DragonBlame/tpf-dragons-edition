@@ -97,6 +97,9 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 * Merlin the Corgi - A Magical Dog Follower Mod
 > There was actually a fast travel CTD issue related to this mod, which is fixed in this update.
 * Undeath - Classical Lichdom
+* Cities of the North - Winterhold Patch Collection
+* Cities of the North - Dawnstar Patch Collection
+* Cities of the North - Morthal Patch Collection
 * JK's The Bannered Mare
 * JK's Sadris Used Wares
 * JK's Interiors Patch Collection
