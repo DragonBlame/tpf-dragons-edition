@@ -2821,15 +2821,12 @@ option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
 the number of potions to 3.
 * **SmoothCam (if you are using the mod from the *Interface* section of the
-add-on)** - Activate the preset in *Presets* by pressing on *Slot 6:
-Octavian’s Preset* in *Load Preset*. If you want, you can also enable
+add-on)** - Activate the preset in *Presets* by pressing on *Slot 1:
+DocOct* in *Load Preset*. If you want, you can also enable
 shoulder swapping in *Following* by choosing your shoulder swap key. I
 recommend one of your mouse’s buttons if you have many buttons on it.
-Then in *Crosshair*, enable *3D Magic Crosshair,* set minimum and
-maximum crosshair size to 40, enable *Stealth Meter Offset* and an
-option to always offset it, then set its Y offset to 200 (stealth meter and its offset's activation
-instructions should not be needed after the update of Smoothcam, but I
-will leave them to be for reference and for Y offset’s changes).
+Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set minimum and
+maximum crosshair size to 40, then set stealth meter's Y offset to 200.
 * **SSoB** - Enable markers on the Stones of Barenziah.
 * **Storm Lightning** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
 * **Werewolf Widget Control (if you are using the mod from the *Interface* section of the
