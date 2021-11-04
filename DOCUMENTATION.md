@@ -2111,6 +2111,26 @@ Sprint, Origin Dw Sprint_Type A`.
 
 **Main files** - Vanargand Animations - One handed Mid Stance
 
+### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
+
+**Main files** - SkyrimsParaglider
+
+**FOMOD** - `Contrails Off, Dragon Paraglider`.
+
+*Traverse through Skyrim in even more ways than you have thought is possible.*
+
+### [Paraglider Auto - Equip Tarhiel's Gale](https://www.nexusmods.com/skyrimspecialedition/mods/53436)
+
+**Main files** - Paraglider Auto-Equip Tarhiel's Gale
+
+*Paraglider comes with a spell book that allows us to get higher in the air. This mod makes the spell automatically eqipped, when we glide.*
+
+### [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
+
+**Main files** - Thu'um - Animated Shouts
+
+*Do you even need to ask me why? This is epic.*
+
 ### [Dynamic Swimming](https://www.nexusmods.com/skyrimspecialedition/mods/34853)
 
 **Main files** - DAR - Dynamic Swimming
@@ -2126,65 +2146,7 @@ people, who like to swim with heavy armour equipped.*
 
 **Main files** - Jog Sprint and Jump
 
-**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_. Then hide everything else in the mod, except two files with the same name in _female_ and _male_ folders - _mt_sprintforward.HKX_. 
-
-### [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157)
-
-**Main files** - Crouch Sliding Main
-
-**Optional files** - Toned Down Slide Dust Effect
-
-**Merge** - merge both files.
-
-*When you are running around and suddenly see enemies or just want to
-hide behind cover as soon as you can, just press your sneaking button
-while sprinting.*
-
-### [Crouch Sliding - Remove Ragdolling for Good](https://www.nexusmods.com/skyrimspecialedition/mods/46828)
-
-**Main files** - Crouch Sliding - Remove Ragdolling for Good
-
-*Removes one overpowered mechanic from the previous mod, so you won’t
-even know that it was there in the first place.*
-
-### [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
-
-**Main files** - TK Dodge SE
-
-**Main files** - Replace to Step Dodge
-
-**Merge** - merge both files.
-
-**Delete** - remove all files from the mod exluding the _Meshes_ folder.
-
-*Gives you an ability to sidestep, dodge attacks. Just press the
-directional key two times to dodge in that direction. I chose the side
-step version, because I don’t see characters with heavy armour rolling
-around at all, even in this fantasy world, but sidestep is alright.*
-
-### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
-
-**Main files** - TK Dodge RE-v0.46
-
-**Optional files** - Weapon Sheathed Firstperson Dodge Animations
-
-**Merge** - merge both files.
-
-**INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes).  I recommend one of your mouse’s buttons if you have many buttons on it.
-
-*An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
-
-### [Thu'um - Fully Animated Shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559)
-
-**Main files** - Thu'um - Animated Shouts
-
-*Do you even need to ask me why? This is epic.*
-
-### [Turn Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/54803)
-
-**Main files** - Turning animation won't affect upper body
-
-*Literally what is written - it disables turning animations on upper body, so we won't look add while aiming our bow in the 3rd person etc.*
+**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_. Then hide everything else in the mod, except two files with the same name in _female_ and _male_ folders - _mt_sprintforward.HKX_.
 
 ### [Magic Casting Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/5215)
 
@@ -2206,34 +2168,67 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 **FOMOD** - `01 Variant 1 FPMA 7.0`.
 
-*Improvements for our 1st person animations.*
-
 ### [1st Person Parry Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20374)
 
 **Main files** - 1stPerson Parry Animation
 
 **FOMOD** - `01, 02, 03`.
 
-### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
+### [Crosshair-aligned Crossbow](https://www.nexusmods.com/skyrimspecialedition/mods/42267)
 
-**Main files** - SkyrimsParaglider
+**Main files** - Crosshair-aligned Crossbow
 
-**FOMOD** - `Contrails Off, Dragon Paraglider`.
+### [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309)
 
-*Traverse through Skyrim in even more ways than you have thought is possible.*
+**Main files** - TK Dodge SE
 
-### [Paraglider Auto - Equip Tarhiel's Gale](https://www.nexusmods.com/skyrimspecialedition/mods/53436)
+**Main files** - Replace to Step Dodge
 
-**Main files** - Paraglider Auto-Equip Tarhiel's Gale
+**Merge** - merge both files.
 
-*Paraglider comes with a spell book that allows us to get higher in the air. This mod makes the spell automatically eqipped, when we glide.*
+**Delete** - remove all files from the mod exluding the _Meshes_ folder with its contents.
 
-### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
+*Gives you an ability to sidestep, dodge attacks. Just press the
+directional key two times to dodge in that direction. I chose the side
+step version, because I don’t see characters with heavy armour rolling
+around at all, even in this fantasy world, but sidestep is alright.*
 
-*When I saw Harkon for the first time, well, it was a little bit sad
-that Vampire Lord looks like a noodle. And with that mass, he probably
-looked awkward, when he used melee combat against us. Let’s separate
-Vampire Lords even more from senile ordinary vampires.*
+### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
+
+**Main files** - TK Dodge RE-v0.46
+
+**Optional files** - Weapon Sheathed Firstperson Dodge Animations
+
+**Merge** - merge both files.
+
+**INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes).  I recommend one of your mouse’s buttons if you have many buttons on it.
+
+*An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
+
+### [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157)
+
+**Main files** - Crouch Sliding Main
+
+**Optional files** - Toned Down Slide Dust Effect
+
+**Merge** - merge both files.
+
+*When you are running around and suddenly see enemies or just want to
+hide behind cover as soon as you can, just press your sneaking button
+while sprinting.*
+
+### [Crouch Sliding - Remove Ragdolling for Good](https://www.nexusmods.com/skyrimspecialedition/mods/46828)
+
+**Main files** - Crouch Sliding - Remove Ragdolling for Good
+
+*Removes one overpowered mechanic from the previous mod, so you won’t
+even know that it was there in the first place.*
+
+### [Turn Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/54803)
+
+**Main files** - Turning animation won't affect upper body
+
+*Literally what is written - it disables turning animations on upper body, so we won't look add while aiming our bow in the 3rd person etc.*
 
 ### [Undeath - XPMSSE - Strange Runes - Skeleton Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50694)
 
@@ -2256,13 +2251,12 @@ Compatibility
 
 **Main files** - Dragon Priest Fix - Behaviour Overhaul
 
-### [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
+### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
 
-**Main files** - Undead summons emerge from the ground
-
-*I know that undead work a little bit differently in the Elder Scrolls
-universe, but it still doesn’t make sense for soul’s physical form to
-appear out of thin air, so here we go.*
+*When I saw Harkon for the first time, well, it was a little bit sad
+that Vampire Lord looks like a noodle. And with that mass, he probably
+looked awkward, when he used melee combat against us. Let’s separate
+Vampire Lords even more from senile ordinary vampires.*
 
 ### [Vampire Lord - Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/54441)
 
@@ -2271,6 +2265,14 @@ appear out of thin air, so here we go.*
 **Instructions** - Install the mod, double click on _SE_, then right-click _Data_ folder and select _Set as data directory_, click _OK_.
 
 *You can even see wings actually moving, while we are flying. A must have mod.*
+
+### [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
+
+**Main files** - Undead summons emerge from the ground
+
+*I know that undead work a little bit differently in the Elder Scrolls
+universe, but it still doesn’t make sense for soul’s physical form to
+appear out of thin air, so here we go.*
 
 ---
 
