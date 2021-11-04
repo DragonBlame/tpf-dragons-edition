@@ -16,7 +16,7 @@
 * Changed FOMOD instructions for _Opulent Thieves Guild Patch Collection_.
 * Moved _JK's The Ragged Flagon_ to the _Interiors_ section.
 * Changed FOMOD instructions for _Additional Clockwork_.
-* Changed installation instructions for _The Wheels of Lull_.
+* Changed installation and FOMOD instructions for _The Wheels of Lull_.
 
 ### Interiors
 
