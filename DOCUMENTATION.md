@@ -2149,6 +2149,10 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 **Main files** - TK Dodge RE-v0.45b
 
+**Optional files** - Weapon Sheathed Firstperson Dodge Animations
+
+**Merge** - merge both files.
+
 **INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes).  I recommend one of your mouse’s buttons if you have many buttons on it.
 
 *An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
