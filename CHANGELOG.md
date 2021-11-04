@@ -100,6 +100,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 * Cities of the North - Winterhold Patch Collection
 * Cities of the North - Dawnstar Patch Collection
 * Cities of the North - Morthal Patch Collection
+* The Great Village of Kynesgrove Patch Collection
 * JK's The Bannered Mare
 * JK's Sadris Used Wares
 * JK's Interiors Patch Collection
