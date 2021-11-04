@@ -1061,7 +1061,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - COTN Winterhold Patch Collection
 
-**FOMOD** - `3DNPC - Interesting NPCs, AI Overhaul, Embers HD, The Great Cities - Minor Cities and Towns`, for Landscape and Water Fixes and Lanterns of Skyrim II - `Non-JK`.
+**FOMOD** - `3DNPC - Interesting NPCs, AI Overhaul, Cathedral 3D Flowers, Embers HD, The Great Cities - Minor Cities and Towns`, for Landscape and Water Fixes and Lanterns of Skyrim II - `Non-JK`.
 
 ### [Winterhold Keep Tweaks for COTN](https://www.nexusmods.com/skyrimspecialedition/mods/52371)
 
