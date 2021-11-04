@@ -55,7 +55,8 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 * Removed _Tiny Improvement for 1st Person Crossbow Animations_.
 > With the mod each crossbow was constantly jiggling while being in idle position.
 * Removed _Blocking Animation Pack_.
-> It just doesn't offer much and many of it conflicts with a new addition.
+> It just doesn't offer much and much of it conflicts with a new addition.
+* Added many of Vanargrand and Leviathan animation packs.
 * Added _Crosshair-aligned Crossbow_.
 * Changed additional instructions for _Jog, Sprint and Jump_.
 * Changed installation instructions for _TK Dodge RE_.
