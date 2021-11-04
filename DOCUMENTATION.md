@@ -2031,7 +2031,7 @@ _A SKSE plugin, which removes the mismatch between displacement and supported an
 
 **Main files** - Better PowerAttack Control-SSE
 
-_Another SKSE plugin, which helps your power attack to be executed by relying only on your input, but not on your character's movement direction and movement speed to be in sync with your other actions to prevent issues with other animations._
+_Another plugin, which helps your power attack to be executed by relying only on your input, but not on your character's movement direction and movement speed to be in sync with your other actions to prevent issues with other animations._
 
 ### [iFrame Generator](https://www.nexusmods.com/skyrimspecialedition/mods/56965)
 
@@ -2039,49 +2039,9 @@ _Another SKSE plugin, which helps your power attack to be executed by relying on
 
 _And another one, which allows us to use a script-free invincibility frames feature for all animation mods, which will use the feature._
 
-### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
+### [War Hammer and Battle Axe Movement Fix](https://www.nexusmods.com/skyrimspecialedition/mods/51615)
 
-*When I saw Harkon for the first time, well, it was a little bit sad
-that Vampire Lord looks like a noodle. And with that mass, he probably
-looked awkward, when he used melee combat against us. Let’s separate
-Vampire Lords even more from senile ordinary vampires.*
-
-### [Undeath - XPMSSE - Strange Runes - Skeleton Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50694)
-
-**Main files** - Undeath - XPMSSE - Strange Runes - Skeleton Patch
-
-*If we don’t overwrite one of the XP32MSSE skeleton’s with this one, our
-character in some scenarios would have been invisible and their spell
-runes would have appeared near their feet, so let’s put it here.*
-
-### [Ultimate Combat and Creature Behaviour's Nemesis Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
-
-**Main files** - Ultimate Combat and Creature Behaviour's Nemesis
-Compatibility
-
-*Yeah, and some other utilities needed.*
-
-**FOMOD** - Don’t change anything.
-
-### [Dragon Priest Fix - Behaviour Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51608)
-
-**Main files** - Dragon Priest Fix - Behaviour Overhaul
-
-### [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
-
-**Main files** - Undead summons emerge from the ground
-
-*I know that undead work a little bit differently in the Elder Scrolls
-universe, but it still doesn’t make sense for soul’s physical form to
-appear out of thin air, so here we go.*
-
-### [Vampire Lord - Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/54441)
-
-**Main files** - VL_AR
-
-**Instructions** - Install the mod, double click on _SE_, then right-click _Data_ folder and select _Set as data directory_, click _OK_.
-
-*You can even see wings actually moving, while we are flying. A must have mod.*
+**Main files** - SSE Version
 
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
@@ -2092,13 +2052,13 @@ appear out of thin air, so here we go.*
 *Gives our character a bit of emotions, to finally make us not look like
 a piece of living rock.*
 
-### [Jog & Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/15881)
+### [Run Sprint and Jump](https://www.nexusmods.com/skyrimspecialedition/mods/15881)
 
 **Main files** - Jog Sprint and Jump
 
-**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_.
+**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_. Then hide everything else in the mod, except two files with the same name in _female_ and _male_ folders - _mt_sprintforward.HKX_. 
 
-*Realistic animations for sprinting and running.*
+*Realistic animations for sprinting.*
 
 ### [Dynamic Swimming](https://www.nexusmods.com/skyrimspecialedition/mods/34853)
 
@@ -2183,10 +2143,6 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 **Hide** - hide `staffright_idle.hkx` and `staff_idle.hkx`.
 
-### [War Hammer and Battle Axe Movement Fix](https://www.nexusmods.com/skyrimspecialedition/mods/51615)
-
-**Main files** - SSE Version
-
 ### [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
 **Main files** - Pretty Combat Animations 1.38
 
@@ -2235,6 +2191,50 @@ Sprint, Origin Dw Sprint_Type A`.
 **Main files** - Paraglider Auto-Equip Tarhiel's Gale
 
 *Paraglider comes with a spell book that allows us to get higher in the air. This mod makes the spell automatically eqipped, when we glide.*
+
+### [SavrenX Vampire Lord Tank](https://vectorplexus.com/files/file/271-savrenx-vampire-lord-tank/)
+
+*When I saw Harkon for the first time, well, it was a little bit sad
+that Vampire Lord looks like a noodle. And with that mass, he probably
+looked awkward, when he used melee combat against us. Let’s separate
+Vampire Lords even more from senile ordinary vampires.*
+
+### [Undeath - XPMSSE - Strange Runes - Skeleton Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50694)
+
+**Main files** - Undeath - XPMSSE - Strange Runes - Skeleton Patch
+
+*If we don’t overwrite one of the XP32MSSE skeleton’s with this one, our
+character in some scenarios would have been invisible and their spell
+runes would have appeared near their feet, so let’s put it here.*
+
+### [Ultimate Combat and Creature Behaviour's Nemesis Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
+
+**Main files** - Ultimate Combat and Creature Behaviour's Nemesis
+Compatibility
+
+*Yeah, and some other utilities needed.*
+
+**FOMOD** - Don’t change anything.
+
+### [Dragon Priest Fix - Behaviour Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51608)
+
+**Main files** - Dragon Priest Fix - Behaviour Overhaul
+
+### [Undead Summons Emerge from the Ground](https://www.nexusmods.com/skyrimspecialedition/mods/33955)
+
+**Main files** - Undead summons emerge from the ground
+
+*I know that undead work a little bit differently in the Elder Scrolls
+universe, but it still doesn’t make sense for soul’s physical form to
+appear out of thin air, so here we go.*
+
+### [Vampire Lord - Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/54441)
+
+**Main files** - VL_AR
+
+**Instructions** - Install the mod, double click on _SE_, then right-click _Data_ folder and select _Set as data directory_, click _OK_.
+
+*You can even see wings actually moving, while we are flying. A must have mod.*
 
 ---
 
