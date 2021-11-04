@@ -2079,6 +2079,10 @@ Sprint, Origin Dw Sprint_Type A`.
 
 **Main files** - Leviathan Animations - Two-Handed Power Attacks For High Stance
 
+### [Vanargand Animations - One Handed Mid Stance](https://www.nexusmods.com/skyrimspecialedition/mods/57544)
+
+**Main files** - Vanargand Animations - One handed Mid Stance
+
 ### [Vanargand Animations - Sneak Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/54351)
 
 **Main files** - Vanargand Animations - Sneak Idle Walk and Run
@@ -2090,14 +2094,6 @@ Sprint, Origin Dw Sprint_Type A`.
 ### [Vanargand Animations - Sneak Strike Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/55420)
 
 **Main files** - Vanargand Animations - Sneak Strike Attacks
-
-### [Vanargand Animations - Sneak Archery](https://www.nexusmods.com/skyrimspecialedition/mods/56788)
-
-**Main files** - Vanargand Animations - Sneak Archery
-
-### [Vanargand Animations - One Handed Mid Stance](https://www.nexusmods.com/skyrimspecialedition/mods/57544)
-
-**Main files** - Vanargand Animations - One handed Mid Stance
 
 ### [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)
 
