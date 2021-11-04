@@ -2043,6 +2043,8 @@ _And another one, which allows us to use a script-free invincibility frames feat
 
 **Main files** - SSE Version
 
+*A little fix for war hammers and battle axes' movement animations, so they won't get a bit jank after running or starting to run.*
+
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
 **Main files** - Conditional Expressions
@@ -2052,13 +2054,62 @@ _And another one, which allows us to use a script-free invincibility frames feat
 *Gives our character a bit of emotions, to finally make us not look like
 a piece of living rock.*
 
-### [Run Sprint and Jump](https://www.nexusmods.com/skyrimspecialedition/mods/15881)
+### [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
+**Main files** - Pretty Combat Animations 1.38
 
-**Main files** - Jog Sprint and Jump
+**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer` two
+times, `2hm Block, 2hm Sprint`.
 
-**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_. Then hide everything else in the mod, except two files with the same name in _female_ and _male_ folders - _mt_sprintforward.HKX_. 
+### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
-*Realistic animations for sprinting.*
+**Main files** - PCA-1hm Overhaul 1.13c SSE
+
+**FOMOD** - `Guardian, choose _Skip_ option 4 times, 1hm Block, 1hm
+Sprint, Origin Dw Sprint_Type A`.
+
+### [Vanargand Animations - Female Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/51681)
+
+**Main files** - Vanargand Animations - Female idle Walk and Run
+
+**Hide** - hide `mt_idle.hkx`.
+
+### [Vanargand Animations - Male Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/52488)
+
+**Main files** - Vanargand Animations - Male idle Walk and Run
+
+**Hide** - hide `mt_idle.hkx`.
+
+### [Leviathan Animations - Two-Handed High Stance](https://www.nexusmods.com/skyrimspecialedition/mods/47092)
+
+**Main files** - Leviathan Animations - Two-Handed High Stance SE
+
+### [Leviathan Animations - Two-Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/48550)
+
+**Main files** - Leviathan Animations - Two-Handed Normal Attacks For High Stance
+
+### [Leviathan Animations - Two-Handed Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/50545)
+
+**Main files** - Leviathan Animations - Two-Handed Power Attacks For High Stance
+
+### [Vanargand Animations - Sneak Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/54351)
+
+**Main files** - Vanargand Animations - Sneak Idle Walk and Run
+
+### [Vanargand Animations - Sneak Thrust Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/55031)
+
+**Main files** - Vanargand Animations - Sneak Thrust Attacks
+
+### [Vanargand Animations - Sneak Strike Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/55420)
+
+**Main files** - Vanargand Animations - Sneak Strike Attacks
+
+### [Vanargand Animations - Sneak Archery](https://www.nexusmods.com/skyrimspecialedition/mods/56788)
+
+**Main files** - Vanargand Animations - Sneak Archery
+
+### [Vanargand Animations - One Handed Mid Stance](https://www.nexusmods.com/skyrimspecialedition/mods/57544)
+
+**Main files** - Vanargand Animations - One handed Mid Stance
 
 ### [Dynamic Swimming](https://www.nexusmods.com/skyrimspecialedition/mods/34853)
 
@@ -2070,6 +2121,12 @@ a piece of living rock.*
 
 *Vanilla swimming animation looks shabby, so let it be used just for
 people, who like to swim with heavy armour equipped.*
+
+### [Run Sprint and Jump](https://www.nexusmods.com/skyrimspecialedition/mods/15881)
+
+**Main files** - Jog Sprint and Jump
+
+**Hide** - hide any file, which overwrites _Jump Behavior Overhaul_ by right-clicking the mod, then choosing the _Conflicts_ tab, selecting all the files on the _Winning file conflicts section_, where overwritten mod includes _Jump Behavior Overhaul_, right-clicking on them and choosing _Hide_. Then hide everything else in the mod, except two files with the same name in _female_ and _male_ folders - _mt_sprintforward.HKX_. 
 
 ### [Crouch Sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157)
 
@@ -2142,27 +2199,6 @@ around at all, even in this fantasy world, but sidestep is alright.*
 **Optional files** - New Animation for magic cast v0.8
 
 **Hide** - hide `staffright_idle.hkx` and `staff_idle.hkx`.
-
-### [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
-**Main files** - Pretty Combat Animations 1.38
-
-**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer` two
-times, `2hm Block, 2hm Sprint`.
-
-### [Tiny Improvement for 1st Person Crossbow Animations](https://www.nexusmods.com/skyrimspecialedition/mods/49167)
-
-**Main files** - Tiny improvement for 1st-person crossbow animations
-
-### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
-
-**Main files** - PCA-1hm Overhaul 1.13c SSE
-
-**FOMOD** - `Guardian, choose _Skip_ option 4 times, 1hm Block, 1hm
-Sprint, Origin Dw Sprint_Type A`.
-
-### [Blocking Animation Pack](https://www.nexusmods.com/skyrimspecialedition/mods/4352)
-
-**Main files** - Blocking Animation Pack v1.5--SSE 
 
 ### [First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
 
