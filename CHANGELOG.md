@@ -52,6 +52,11 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 * Removed _First Person Combat Animations Overhaul_.
 > After playing with it for a while I understood that it is a little bit too much. And then everything else followed.
+* Removed _Tiny Improvement for 1st Person Crossbow Animations_.
+> With the mod each crossbow was constantly jiggling while being in idle position.
+* Removed _Blocking Animation Pack_.
+> It just doesn't offer much and many of it conflicts with a new addition.
+* Changed additional instructions for _Jog, Sprint and Jump_.
 * Changed installation instructions for _TK Dodge RE_.
 
 ### ENB
