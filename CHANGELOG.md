@@ -18,6 +18,10 @@
 * Changed FOMOD instructions for _Additional Clockwork_.
 * Changed installation and FOMOD instructions for _The Wheels of Lull_.
 
+### Exteriors
+
+* Changed FOMOD instructions for _Cities of the North - Winterhold Patch Collection_.
+
 ### Interiors
 
 * Added _JK's Temple of Kynareth_.
