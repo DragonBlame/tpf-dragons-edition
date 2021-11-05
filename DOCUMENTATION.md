@@ -1142,31 +1142,25 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-### [Hearthfire - Unique Display Rooms](https://www.nexusmods.com/skyrimspecialedition/mods/4770)
+### [JK's Arcadia's Cauldron](https://www.nexusmods.com/skyrimspecialedition/mods/33565)
 
-**Main files** - HearthFires - Unique Special Edition Display Room
-
-_Adds a secret room to each of HearthFire houses to display our unique loot, so you can consider using them too this or some other time._
-
-### [JK's Sleeping Giant Inn](https://www.nexusmods.com/skyrimspecialedition/mods/35806)
-
-**Main files** - JK's Sleeping Giant Inn
-
-### [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000)
-
-**Main files** - JK's Dragonsreach
-
-### [JK's The Bannered Mare](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
-
-**Main files** - JK's The Bannered Mare
+**Main files** - JK's Arcadia's Cauldron
 
 ### [JK's Belethor's General Goods](https://www.nexusmods.com/skyrimspecialedition/mods/33636)
 
 **Main files** - JK's Belethor's General Goods
 
-### [JK's Arcadia's Cauldron](https://www.nexusmods.com/skyrimspecialedition/mods/33565)
+### [JK's The Bannered Mare](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
 
-**Main files** - JK's Arcadia's Cauldron
+**Main files** - JK's The Bannered Mare
+
+### [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000)
+
+**Main files** - JK's Dragonsreach
+
+### [JK's Sleeping Giant Inn](https://www.nexusmods.com/skyrimspecialedition/mods/35806)
+
+**Main files** - JK's Sleeping Giant Inn
 
 ### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991)
 
@@ -1228,13 +1222,13 @@ _Adds a secret room to each of HearthFire houses to display our unique loot, so 
 
 **Main files** - JK's The Temple of Mara
 
-### [JK's Arnleif and Sons Trading Company](https://www.nexusmods.com/skyrimspecialedition/mods/54166)
-
-**Main files** - JK's Arnleif and Sons Trading Company
-
 ### [JK's Silver-Blood Inn](https://www.nexusmods.com/skyrimspecialedition/mods/53554)
 
 **Main files** - JK's Silver-Blood Inn
+
+### [JK's Arnleif and Sons Trading Company](https://www.nexusmods.com/skyrimspecialedition/mods/54166)
+
+**Main files** - JK's Arnleif and Sons Trading Company
 
 ### [JK's Understone Keep](https://www.nexusmods.com/skyrimspecialedition/mods/55571)
 
