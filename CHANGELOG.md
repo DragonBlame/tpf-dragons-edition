@@ -27,6 +27,9 @@
 
 ### Interiors
 
+* Removed _Hearthfire - Unique Display Rooms_.
+> Taking into consideration that it just adds cellars to our build by ourselves houses without actually doing anything in the places we would have loved to be overhauled and 
+that it has deleted navmeshes.
 * Added _JK's Temple of Kynareth_.
 * Moved _JK's The Ragged Flagon_ here from the _New Content_ section.
 * Changed installation instructions for _JK's Elgrims Elixirs_.
