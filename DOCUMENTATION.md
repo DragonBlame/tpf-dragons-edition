@@ -3043,8 +3043,6 @@ of the Voice.*
 Knife Hideout.
 * **Project AHO** - After reaching level 15, head to Braidwood Inn (located at
 Kynesgrove) and talk to the innkeeper. Without a follower.
-* **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
-Tomb. At least level 15 is recommended. Without a follower.
 * **The Wheels of Lull** - Automatically after reaching level 20, can be
 finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the
@@ -3062,6 +3060,9 @@ thief characters (sneaking and pickpocketing).
 
 #### Late Game Quests
 
+* **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
+Tomb. While generic enemies can be not as tough, the bosses will kick your ass.
+At least level 15 is recommended from the author, I recommend at least level 35 even with the patches, which nerf the bosses. Without a follower.
 * **Undeath** - Automatically without anything happening after reaching level
 30 (I know, not immersive, unfortunately the patch for making it start
 in a better way was removed from Nexus, going to deal with that later,
