@@ -15,7 +15,9 @@
 
 ### New Content
 
-* Added _Nilheim - Misc Quest Expansion_, _House of Horrors - Quest Expansion_, _Interesting Follower Requirements for Interesting NPCs_ and _Darkend - Enemy Rebalance_.
+* Added _Nilheim - Misc Quest Expansion_ and _House of Horrors - Quest Expansion_.
+* Added _Interesting Follower Requirements for Interesting NPCs_.
+* Added _Darkend - Enemy Rebalance_.
 * Changed FOMOD instructions for _Opulent Thieves Guild Patch Collection_.
 * Moved _JK's The Ragged Flagon_ to the _Interiors_ section.
 * Changed FOMOD instructions for _Additional Clockwork_.
@@ -68,7 +70,8 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 > With the mod each crossbow was constantly jiggling while being in idle position.
 * Removed _Blocking Animation Pack_.
 > It just doesn't offer much and much of it conflicts with a new addition.
-* Added _Ice Skating Fixed_ and many of Vanargrand and Leviathan animation packs.
+* Added _Ice Skating Fixed_.
+* Added many of Vanargrand and Leviathan animation packs.
 * Added _Crosshair-aligned Crossbow_.
 * Changed installation instructions for _TK Dodge RE_.
 
