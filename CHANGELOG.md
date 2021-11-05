@@ -68,7 +68,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 > With the mod each crossbow was constantly jiggling while being in idle position.
 * Removed _Blocking Animation Pack_.
 > It just doesn't offer much and much of it conflicts with a new addition.
-* Added many of Vanargrand and Leviathan animation packs.
+* Added _Ice Skating Fixed_ and many of Vanargrand and Leviathan animation packs.
 * Added _Crosshair-aligned Crossbow_.
 * Changed installation instructions for _TK Dodge RE_.
 
