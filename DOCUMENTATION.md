@@ -213,6 +213,14 @@ won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792?tab=files)
+
+**Main files** - Nilheim - Quest Expansion
+
+### [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285?tab=files)
+
+**Main files** - House of Horrors - Quest Expansion
+
 ### [Winterhold Deep Sea Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/53707?tab=files)
 
 **Main files** - winterholddeepsearuins
@@ -871,6 +879,10 @@ gems)
 **Update files** - Interesting NPCs SE - 4.3.6 to 4.4 Hotfix
 
 **Miscellaneous files** - Interesting NPCs SE - AI Overhaul SSE Patch
+
+### [Interesting Follower Requirements for Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646?tab=files)
+
+**Optional files** - Interesting Follower Requirements for 3DNPC (Soft Requirements)
 
 ### [Nordic Faces - Interesting NPCs Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/40658?tab=files)
 
