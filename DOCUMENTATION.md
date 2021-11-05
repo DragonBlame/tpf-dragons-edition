@@ -1669,6 +1669,17 @@ with shouts together with Forceful Tongue - Shouts Overhaul.*
 scenario, with moving hair. Bonk people, who thought about something
 else.*
 
+### [Copy and Paste in Console](https://www.nexusmods.com/skyrimspecialedition/mods/30928)
+
+**Main files** - Copy and Paste in Console v1.0.1 for Skyrim SE
+
+**INI** - In line 2, change _PasteKeyCode_ to `47`, so you will need
+standard _Ctrl+V_ command to paste something to your console.
+
+*A neat functionality in one mod (very weird that Bethesda haven't
+thought about adding it, well, like always), which you will probably use
+from time to time.*
+
 ### [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
 
 **Main files** - AddItemMenuSE_114_SKSE2019
@@ -1687,18 +1698,6 @@ the game's stock folder.
 
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
-
-
-### [Copy and Paste in Console](https://www.nexusmods.com/skyrimspecialedition/mods/30928)
-
-**Main files** - Copy and Paste in Console v1.0.1 for Skyrim SE
-
-**INI** - In line 2, change _PasteKeyCode_ to `47`, so you will need
-standard _Ctrl+V_ command to paste something to your console.
-
-*A neat functionality in one mod (very weird that Bethesda haven't
-thought about adding it, well, like always), which you will probably use
-from time to time.*
 
 ### [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
 
@@ -1729,206 +1728,12 @@ install later, will greatly help us in using this mod’s capabilities.*
 
 *For you to be able to clean High Gate Ruins again and get that loot if you will want to go through that again.*
 
-### [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362)
+### [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201)
 
-**Main files** - ENB Lights For Effect Shaders
+**Main files** - End Times SE
 
-*Where is a petition that everything needs to be patched for ENB to look
-magnificent? I would have signed it.*
-
-### [Player Spell and Weapon Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/56830)
-
-**Main files** - Player Spell Lighting
-
-**Optional files** - Player Spell Lighting - Mysticism Patch
-
-### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
-
-**Main files** - ENB Lava Particle Light Patch
-
-### [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
-
-**Main files** - More Growable Plants_3D Mountain Flowers patch
-
-### [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322)
-
-**Main files** - Animated Forge Water
-
-**FOMOD** - `Slower Embers HD`.
-
-*Just look at that monstrous vanilla forge water and you won't have any questions.*
-
-### [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184)
-
-**Main files** - Serio's Cycle Hotkeys
-
-*Makes it possible to adjust one hotkey to equip not just one spell or
-option, but different sets of things. For instance, if I am a mage, I
-can use my first hotkey to equip Ice Storm spell in both hands and Ice
-Form shout to battle with melee enemies, then press my second hotkey to
-get my ward spell and Thunderbolt to deal with that pesky bandit mage.
-You can set whatever buttons you want as these hotkeys. Pretty detailed
-instructions on how to use the mod can be found in the mod's page.*
-
-### [Don't Stay in The Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
-
-**Main files** - Don't Stay in The Water
-
-*Now you won’t be able to “outsmart” your enemies by going into water (except animals like sabercats, which don't like water).*
-
-### [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
-
-**Main files** - Forget Spell
-
-**FOMOD** - `Skyrim Special Edition, SkyUI`.
-
-*Another neat addition - allows us to forget spells we won't use
-anymore. Why would I need to clutter my menu with Flames, while I am
-level 80 mage. You will see an option to forget spells in your spells
-menu.*
-
-### [Quicker Bed Exit](https://www.nexusmods.com/skyrimspecialedition/mods/47554)
-
-**Main files** - Quicker Bed Exit
-
-*I understand that sometimes it is very hard to get out of bed, but come on, NPCs, you are getting attacked. I will even help you with this.*
-
-### [Hide Your Quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125)
-
-**Main files** - Hide Your Quests 1.0.1
-
-*Successor of the mod Hide Those Futile Quests, which gives you an
-option to hide a quest you will do later from your journal by using
-MCM.*
-
-### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
-
-**Main files** - DIVERSE SKYRIM SSE
-
-*Skyrim isn’t just for Nords, it is for everyone. Groups like bandits,
-mages etc. will also include some Khajiits, Argonians from time to time
-etc.*
-
-### [DIVERSE SKYRIM - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514)
-
-**Main files** - DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
-
-*And let’s also fix them and make them better to look at.*
-
-### [Diverse Skyrim - Battle of Whiterun Fix](https://www.nexusmods.com/skyrimspecialedition/mods/47939https://www.nexusmods.com/skyrimspecialedition/mods/47939)
-
-**Main files** - Diverse Skyrim Battle of Whiterun Fix
-
-### [RaceMenu Undress](https://www.nexusmods.com/skyrimspecialedition/mods/56437)
-
-**Main files** - RaceMenu Undress
-
-*Makes undressing slider available for you in RaceMenu to change not only your character face's appearance more easily.*
-
-### [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
-
-**Main files** - Talkative Dragons
-
-*For species, which can actually speak the way that humans understand,
-dragons in the game don’t like to speak at all. Let’s change that.*
-
-### [Talkative Dragons - Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269)
-
-**Main files** - TDReplacer
-
-*Just a little replacer for some voice lines in the original mods, which
-sounded a little bit too silly.*
-
-### [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
-
-**Main files** - BA_BardSongs_FOMOD
-
-**FOMOD** - `AIO`.
-
-*I am sick of hearing the same compositions from bards over and over again.*
-
-### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
-
-**Optional files** - More Growable Plants Simple 1.5
-
-*Still no idea where citizens of Skyrim get their apples, tomatoes,
-garlic and many other things from, but at least we know where we can get
-them from. And don’t worry, I have patched it, so you will be able to
-grow only things I consider to be immersive to be grown by player character.*
-
-### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
-
-**Main files** - Strange Runes 3.7
-
-*Great for screenshots and makes magic feel even more unique. MCM (Mod
-Configuration Menu) available, so you can make them appear only for some
-specific spell group etc. You need it! Just look at my
-character.*
-
-![image](https://user-images.githubusercontent.com/37147270/132093585-9427e5c8-9e41-46d8-af97-2aac9627547a.png)
-_(ft. 1.6. v. of TPF - Dragon's Edition's appearance, apparel & weapons mods)_
-![image](https://user-images.githubusercontent.com/37147270/130328931-2f92e74c-1a43-4696-8404-0f2cf1a8c222.png)
-_(ft. TPF - Dragon's Edition in its development days)_
-
-### [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529)
-
-**Main files** - Simple Load Screens
-
-*Replaces stale, not eye-catching loading screens with new ones with
-lore-friendly artwork of Skyrim and what it has to offer. At least
-people, who have to wait longer on them, will be pleased.*
-
-### [Less Boring Loading Screen](https://www.nexusmods.com/skyrimspecialedition/mods/55062)
-
-**Main files** - Less boring loading screen main
-
-### [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
-
-**Main files** - Look what you see
-
-**FOMOD** - `ESL`.
-
-**Instructions** - rename the mod’s plugin to `TissHeadTrack.esp`.
-
-**Alternate Conversation Camera Plus tweaks** - go to _Alternate
-Conversation Camera Plus_ INI (you can find the mod under TPF's _INTERFACE_ separator) , in line 47, change _bConversationHT_ to `0`.
-
-*Head tracking mod, which makes our player character (PC) observe
-things, which we move our cursor on.*
-
-### [Diziet's Auto Outfits](https://www.nexusmods.com/skyrimspecialedition/mods/40801)
-
-**Main files** - Diziet's Auto Outfits
-
-**FOMOD** - don’t change anything.
-
-*The mod makes you automatically change your outfit according to
-different conditions, which can be configured inside the mod's MCM. For
-example, I use it to change my default gear to ordinary clothing with
-speech etc. enchantments for traders, when I am inside big cities.
-Otherwise I will probably forget to do that.*
-
-### [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
-
-**Main files** - Sweeping Organizes Stuff - Use Broom to Clean Mess
-
-*Let's say you accidentally pressed your shout button in your home or
-just wanted to make some chaos, now you can clean the mess by using a
-broom from your inventory.*
-
-### [Hearthfire Multiple Adoptions and Custom Home Support](https://www.nexusmods.com/skyrimspecialedition/mods/3862)
-
-**Main files** - Hearthfire Multiple Adoptions and Custom Home Support SE
-
-*Not only allows you to adopt more children, but also to bring your
-spouse and kids to the new houses we have added.*
-
-### [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329)
-
-**Main files** - Dragon Claws Auto-Unlock (Simultaneous)
-
-*I don’t want to check these claw combinations again and again. It was
-fun, when Skyrim was a new game for me.*
+*Now try to do everything else, but not the main quest. I dare you. If
+you don’t listen then your game will be over. It was a joke by the way. More about this later.*
 
 ### [BlockSteal](https://www.nexusmods.com/skyrimspecialedition/mods/18732)
 
@@ -1938,6 +1743,12 @@ fun, when Skyrim was a new game for me.*
 won’t get punished by just wanting to take another item, which that
 annoying, but expensive cup was near. There is also an option to press
 on items multiple times, which is configurable through MCM.*
+
+### [Don't Stay in The Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
+
+**Main files** - Don't Stay in The Water
+
+*Now you won’t be able to “outsmart” your enemies by going into water (except animals like sabercats, which don't like water).*
 
 ### [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098)
 
@@ -1963,6 +1774,177 @@ This mod allows us to do that.*
 *Finally makes Clairvoyance spell useful by making it summon a wisp that
 leads you to your quest objective.*
 
+### [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
+
+**Main files** - CWN - Civil War Neutrality SSE
+
+*Let Stormcloaks and the Empire play their own games, while being
+neutral, but getting your deserved rewards.*
+
+### [Quicker Bed Exit](https://www.nexusmods.com/skyrimspecialedition/mods/47554)
+
+**Main files** - Quicker Bed Exit
+
+*I understand that sometimes it is very hard to get out of bed, but come on, NPCs, you are getting attacked. I will even help you with this.*
+
+### [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184)
+
+**Main files** - Serio's Cycle Hotkeys
+
+*Makes it possible to adjust one hotkey to equip not just one spell or
+option, but different sets of things. For instance, if I am a mage, I
+can use my first hotkey to equip Ice Storm spell in both hands and Ice
+Form shout to battle with melee enemies, then press my second hotkey to
+get my ward spell and Thunderbolt to deal with that pesky bandit mage.
+You can set whatever buttons you want as these hotkeys. Pretty detailed
+instructions on how to use the mod can be found in the mod's page.*
+
+### [Hide Your Quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125)
+
+**Main files** - Hide Your Quests 1.0.1
+
+*Successor of the mod Hide Those Futile Quests, which gives you an
+option to hide a quest you will do later from your journal by using
+MCM.*
+
+### [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
+
+**Main files** - Forget Spell
+
+**FOMOD** - `Skyrim Special Edition, SkyUI`.
+
+*Another neat addition - allows us to forget spells we won't use
+anymore. Why would I need to clutter my menu with Flames, while I am
+level 80 mage. You will see an option to forget spells in your spells
+menu.*
+
+### [Diziet's Auto Outfits](https://www.nexusmods.com/skyrimspecialedition/mods/40801)
+
+**Main files** - Diziet's Auto Outfits
+
+**FOMOD** - don’t change anything.
+
+*The mod makes you automatically change your outfit according to
+different conditions, which can be configured inside the mod's MCM. For
+example, I use it to change my default gear to ordinary clothing with
+speech etc. enchantments for traders, when I am inside big cities.
+Otherwise I will probably forget to do that.*
+
+### [More Growable Plants](https://www.nexusmods.com/skyrimspecialedition/mods/3880)
+
+**Optional files** - More Growable Plants Simple 1.5
+
+*Still no idea where citizens of Skyrim get their apples, tomatoes,
+garlic and many other things from, but at least we know where we can get
+them from. And don’t worry, I have patched it, so you will be able to
+grow only things I consider to be immersive to be grown by player character.*
+
+### [Hearthfire Multiple Adoptions and Custom Home Support](https://www.nexusmods.com/skyrimspecialedition/mods/3862)
+
+**Main files** - Hearthfire Multiple Adoptions and Custom Home Support SE
+
+*Not only allows you to adopt more children, but also to bring your
+spouse and kids to the new houses we have added.*
+
+### [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)
+
+**Main files** - Sweeping Organizes Stuff - Use Broom to Clean Mess
+
+*Let's say you accidentally pressed your shout button in your home or
+just wanted to make some chaos, now you can clean the mess by using a
+broom from your inventory.*
+
+### [Dragon Claws Auto-Unlock](https://www.nexusmods.com/skyrimspecialedition/mods/47329)
+
+**Main files** - Dragon Claws Auto-Unlock (Simultaneous)
+
+*I don’t want to check these claw combinations again and again. It was
+fun, when Skyrim was a new game for me.*
+
+### [Look What You See](https://www.nexusmods.com/skyrimspecialedition/mods/19189)
+
+**Main files** - Look what you see
+
+**FOMOD** - `ESL`.
+
+**Instructions** - rename the mod’s plugin to `TissHeadTrack.esp`.
+
+**Alternate Conversation Camera Plus tweaks** - go to _Alternate
+Conversation Camera Plus_ INI (you can find the mod under TPF's _INTERFACE_ separator) , in line 47, change _bConversationHT_ to `0`.
+
+*Head tracking mod, which makes our player character (PC) observe
+things, which we move our cursor on.*
+
+### [DIVERSE SKYRIM](https://www.nexusmods.com/skyrimspecialedition/mods/7707)
+
+**Main files** - DIVERSE SKYRIM SSE
+
+*Skyrim isn’t just for Nords, it is for everyone. Groups like bandits,
+mages etc. will also include some Khajiits, Argonians from time to time
+etc.*
+
+### [DIVERSE SKYRIM - Cathedral NPCs Facegen Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43514)
+
+**Main files** - DIVERSE SKYRIM - Cathedral NPCs Facegen Patch
+
+*And let’s also fix them and make them better to look at.*
+
+### [Diverse Skyrim - Battle of Whiterun Fix](https://www.nexusmods.com/skyrimspecialedition/mods/47939)
+
+**Main files** - Diverse Skyrim Battle of Whiterun Fix
+
+### [Starlit Lakes Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/57579)
+
+**Main files** - Starlit Lakes Loading Screens - SSE
+
+*Replaces stale, not eye-catching loading screens with new ones with
+lore-friendly artwork of Skyrim and what it has to offer. At least
+people, who have to wait longer on them, will be pleased and maybe will actually learn something new from these.*
+
+### [Less Boring Loading Screen](https://www.nexusmods.com/skyrimspecialedition/mods/55062)
+
+**Main files** - Less boring loading screen main
+
+### [Interesting Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/26282)
+
+**Main files** - Interesting Loading Screens
+
+### [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456)
+
+**Main files** - Strange Runes 3.7
+
+*Great for screenshots and makes magic feel even more unique. MCM (Mod
+Configuration Menu) available, so you can make them appear only for some
+specific spell group etc. You need it! Just look at my
+character.*
+
+![image](https://user-images.githubusercontent.com/37147270/132093585-9427e5c8-9e41-46d8-af97-2aac9627547a.png)
+_(ft. 1.6. v. of TPF - Dragon's Edition's appearance, apparel & weapons mods)_
+![image](https://user-images.githubusercontent.com/37147270/130328931-2f92e74c-1a43-4696-8404-0f2cf1a8c222.png)
+_(ft. TPF - Dragon's Edition in its development days)_
+
+### [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
+
+**Main files** - BA_BardSongs_FOMOD
+
+**FOMOD** - `AIO`.
+
+*I am sick of hearing the same compositions from bards over and over again.*
+
+### [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955)
+
+**Main files** - Talkative Dragons
+
+*For species, which can actually speak the way that humans understand,
+dragons in the game don’t like to speak at all. Let’s change that.*
+
+### [Talkative Dragons - Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269)
+
+**Main files** - TDReplacer
+
+*Just a little replacer for some voice lines in the original mods, which
+sounded a little bit too silly.*
+
 ### [Gildergreen Regrown](https://www.nexusmods.com/skyrimspecialedition/mods/348)
 
 **Main files** - Gildergreen Regrown
@@ -1970,12 +1952,40 @@ leads you to your quest objective.*
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
 
-### [End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201)
+### [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322)
 
-**Main files** - End Times SE
+**Main files** - Animated Forge Water
 
-*Now try to do everything else, but not the main quest. I dare you. If
-you don’t listen then your game will be over.*
+**FOMOD** - `Slower Embers HD`.
+
+*Just look at that monstrous vanilla forge water and you won't have any questions.*
+
+### [RaceMenu Undress](https://www.nexusmods.com/skyrimspecialedition/mods/56437)
+
+**Main files** - RaceMenu Undress
+
+*Makes undressing slider available for you in RaceMenu to change not only your character face's appearance more easily.*
+
+### [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
+
+**Main files** - More Growable Plants_3D Mountain Flowers patch
+
+### [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362)
+
+**Main files** - ENB Lights For Effect Shaders
+
+*Where is a petition that everything needs to be patched for ENB to look
+magnificent? I would have signed it.*
+
+### [Player Spell and Weapon Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/56830)
+
+**Main files** - Player Spell Lighting
+
+**Optional files** - Player Spell Lighting - Mysticism Patch
+
+### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
+
+**Main files** - ENB Lava Particle Light Patch
 
 ---
 
