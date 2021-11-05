@@ -2035,11 +2035,17 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [Ice Skating Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55417)
+
+**Main files** - EVE - Ice skating fixed for real - No more attack skating movement
+
+_Fixes the vanilla issue, where attacking, while moving slowly, will make you slide across the ground giving the impression of an ice-skater._
+
 ### [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)
 
 **Main files** - Animation Motion Revolution
 
-_A SKSE plugin, which removes the mismatch between displacement and supported animations (also called as ice-skating)._
+_A SKSE plugin, which removes the mismatch between displacement and supported animations. It basically fixes ice-skating for new animation mods._
 
 ### [Better Power Attack Direction Control](https://www.nexusmods.com/skyrimspecialedition/mods/49648)
 
