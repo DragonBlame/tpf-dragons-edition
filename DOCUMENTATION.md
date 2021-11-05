@@ -539,6 +539,10 @@ _Hide_.
 
 **Main files** - Darkend Balance Patch
 
+### [Darkend - Enemy Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/57463?tab=files)
+
+**Main files** - Darkend - Enemy Rebalance 1.6
+
 ### [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155?tab=files)
 
 **Main files** - Clockwork_SSE_v1-0
