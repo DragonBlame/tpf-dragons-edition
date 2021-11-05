@@ -15,6 +15,7 @@
 
 ### New Content
 
+* Added _Interesting Follower Requirements for Interesting NPCs_.
 * Changed FOMOD instructions for _Opulent Thieves Guild Patch Collection_.
 * Moved _JK's The Ragged Flagon_ to the _Interiors_ section.
 * Changed FOMOD instructions for _Additional Clockwork_.
