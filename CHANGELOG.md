@@ -83,6 +83,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 > Just to make more sense.
 * Removed MCM instructions for _Strange Runes_.
 > One of the latest updates finally addressed issues with the mod and NPCs, so we don't need to deactivate runes for NPCs anymore.
+* Changed MCM instructions for _SmoothCam_.
 
 ### Wabbajack
 
