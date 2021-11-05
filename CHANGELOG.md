@@ -76,6 +76,10 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 * Changed configurations for interiors' brightness.
 
+### Gameplay Guide
+
+* Changed information about _Darkend_.
+
 ---
 
 ### Other Changes
