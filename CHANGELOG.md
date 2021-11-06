@@ -18,6 +18,9 @@
 * Added _Nilheim - Misc Quest Expansion_ and _House of Horrors - Quest Expansion_.
 * Added _Interesting Follower Requirements for Interesting NPCs_.
 * Added _Darkend - Enemy Rebalance_.
+* Removed _Identity Crisis_.
+> Unfortunately the mod not only makes a bunch of navmesh conflicts and deleted navmeshes, but also is the culprit of making Volkihar Castle not reachable by any means, 
+so for now we will say goodbye.
 * Changed FOMOD instructions for _Opulent Thieves Guild Patch Collection_.
 * Moved _JK's The Ragged Flagon_ to the _Interiors_ section.
 * Changed FOMOD instructions for _Additional Clockwork_.
