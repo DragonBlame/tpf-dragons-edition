@@ -92,6 +92,8 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 ### Other Changes
 
+* Fixed the problem of not being able to get to Volkihar Castle.
+* Fixed Laelette's and other vampire black face issues.
 * Changed mod order for the _Interface_, _Interiors_, _Apparel & Weapons_, _Gameplay Overhauls_, _Miscellaneous_ and _Skeleton & Animations_ section.
 > Just to make more sense.
 * Overhauled _Configurations_ section.
