@@ -91,9 +91,9 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 ### Other Changes
 
 * Changed mod order for the _Interface_, _Interiors_, _Apparel & Weapons_, _Gameplay Overhauls_, _Miscellaneous_ and _Skeleton & Animations_ section.
+> Just to make more sense.
 * Added _Requirements_ section on the main page of the add-on.
 > Mainly because of Microsoft .NET 5.0.
-> Just to make more sense.
 * Removed MCM instructions for _Strange Runes_.
 > One of the latest updates finally addressed issues with the mod and NPCs, so we don't need to deactivate runes for NPCs anymore.
 * Changed MCM instructions for _SmoothCam_.
