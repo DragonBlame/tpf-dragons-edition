@@ -689,14 +689,6 @@ directory*, click *OK*.
 
 **Miscellaneous files** - Dragon War - Wyrmstooth Patch
 
-### [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634?tab=files)
-
-**Main files** - Identity Crisis
-
-**Optional files** - Better Dawnguard Entrance Patch
-
-**Optional files** - Beyond Skyrim - Bruma Patch
-
 ### [The Grand Paladin - 2021](https://www.nexusmods.com/skyrimspecialedition/mods/46867?tab=files)
 
 **Main files** - The Grand Paladin - 2021
