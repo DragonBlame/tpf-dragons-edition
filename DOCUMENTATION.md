@@ -2772,7 +2772,7 @@ hair and/or beard isn't right. Do you remember us installing High Poly
 Head and its hair (and beard) variations, right? Well, Wabbajack users won't, but that isn't the point. Now we need to
 actually activate our high poly head in Racemenu and then our hair will
 look fine. Also choose a beard from High Poly Head and it will look good
-if that is needed. 
+if that is needed. If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331927-051552a4-64d6-420b-8fa4-e18fd232ee4e.png" /> 
@@ -2832,8 +2832,7 @@ weapon drawn* in the *Other Options*. This way our character will follow our cur
 option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
 the number of potions to 3.
-* **SmoothCam (if you are using the mod from the *Interface* section of the
-add-on)** - Activate the preset in *Presets* by pressing on *Slot 1:
+* **SmoothCam (if you are using the mod from the *Interface* section)** - Activate the preset in *Presets* by pressing on *Slot 1:
 DocOct* in *Load Preset*. If you want, you can also enable
 shoulder swapping in *Following* by choosing your shoulder swap key. I
 recommend one of your mouse’s buttons if you have many buttons on it.
@@ -2841,8 +2840,7 @@ Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set 
 maximum crosshair size to 40, then set stealth meter's Y offset to 200.
 * **SSoB** - Enable markers on the Stones of Barenziah.
 * **Storm Lightning** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
-* **Werewolf Widget Control (if you are using the mod from the *Interface* section of the
-add-on)** - Change opacity to 60 and
+* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
 you transform again, it will be at the top of the screen near your
@@ -2866,8 +2864,7 @@ whistle in the game.
 
 Reminders about things for the documentation users:
 
-* **Simple Activate (if you are using the mod from the *Interface* section of the
-add-on)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
+* **Simple Activate (if you are using the mod from the *Interface* section)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
 
 For Wabbajack users:
 
@@ -2879,8 +2876,30 @@ For all people:
 * **About AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
+* **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **About lockpicking** - Now you don't need to do the annoying lockpicking game anymore. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful too. Locks will break according to your skill too.
+* **About reading** - Now you will get experience boost to your leveling speed in a skill, which you have read about. 
+* **About different coins** - Now there are much more different coins around Skyrim, which will then be converted to their value in septims, when you pick them up.
+* **About bribing** - Now it depends on our speech skill too.
+* **About praying** - Now praying and religion as a whole makes much more sense. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099).
+* **About Dragonborn's unique powers** - After finishing _The Way of the Voice_, you will unlock an interesting power. You will be able to upgrade this power by shouting and killing dragons.
+* **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
+* **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
+* **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
+* **About College of Winterhold** - Now you will actually need magic to beat College of Winterhold. You have been warned.
+* **About stealing** - Now you need to be crouched to steal items, which aren't the ones in containers.
+* **About knocking** - Now you can knock on locked doors by activating them.
+* **About Clairvoyance** - Now it is much more useful. Try it out.
+* **About being neutral during the Civil War** - Now you can become Thane of Eastmarch without licking Ulfric's boots (that means getting Hjerim, Calder the Housecarl, unblocking Korvanjund and much more). If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/21176).
+* **About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
+* **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
+* **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.
+* **About getting armored pants** - You will be able to get these in exchange for their counterparts (heavy armors) in Skyrim. Just use any forge for that.
+* **About cleaning up your mess** - Now if you have accidentally Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
 * **About Lydia** - If Lydia is too noisy, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
 * **About Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+
 
 Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
 important updates. Then continue going through.
