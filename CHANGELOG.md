@@ -92,6 +92,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 * Changed mod order for the _Interface_, _Interiors_, _Apparel & Weapons_, _Gameplay Overhauls_, _Miscellaneous_ and _Skeleton & Animations_ section.
 > Just to make more sense.
+* Overhauled _Configurations_ section.
 * Added _Requirements_ section on the main page of the add-on.
 > Mainly because of Microsoft .NET 5.0.
 * Removed MCM instructions for _Strange Runes_.
