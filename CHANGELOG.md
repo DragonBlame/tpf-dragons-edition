@@ -77,6 +77,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 * Added _Ice Skating Fixed_.
 * Added many of Vanargrand and Leviathan animation packs.
 * Added _Crosshair-aligned Crossbow_.
+* Added 60 mana cost to Tarhiel's Gale. It can be reduced by investing into alteration.
 * Changed installation instructions for _TK Dodge RE_.
 
 ### ENB
