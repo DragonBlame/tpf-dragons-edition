@@ -630,12 +630,6 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 **Main files** - The Tools of Kagrenac V1.58a SSE
 
-### [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748?tab=files)
-
-**Main files** - The Wheels of Lull SE
-
-**FOMOD** - `High Poly NPCs`.
-
 ### [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351?tab=files)
 
 **Main files** - Carved Brink (EN)
@@ -720,6 +714,12 @@ directory*, click *OK*.
 ### [FaceGen Output for Different Mods](https://www.nexusmods.com/skyrimspecialedition/mods/24174?tab=files)
 
 **Optional files** - FaceGen Output for Random Mods
+
+### [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748?tab=files)
+
+**Main files** - The Wheels of Lull SE
+
+**FOMOD** - `High Poly NPCs`.
 
 ### [INIGO](https://www.nexusmods.com/skyrimspecialedition/mods/1461?tab=files)
 
