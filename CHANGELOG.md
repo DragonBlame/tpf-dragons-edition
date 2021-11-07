@@ -37,6 +37,7 @@ so for now we will say goodbye.
 * Changed installation instructions for _The Great Town of Ivarstead Patch Collection_.
 * Changed installation instructions for _The Great Town of Shor's Stone Patch Collection_.
 * Changed installation instructions for _The Great Village of Mixwater Mill Patch Collection_.
+* Changed installation instructions for _The Great Village of Kynesgrove Patch Collection_.
 
 ### Interiors
 
