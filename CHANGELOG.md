@@ -89,7 +89,9 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 ### ENB
 
+* Added _Viven Rain for ENB_.
 * Changed configurations for interiors' brightness.
+* Added additional instructions for users, which have installed TPF's modpack and now want to follow my add-on manually.
 
 ### Gameplay Guide
 
