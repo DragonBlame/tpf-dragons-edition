@@ -1067,7 +1067,7 @@ Lanterns of Skyrim II`.
 
 ### [Cities of the North - Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/40181)
 
-**Main files** - COTN Winterhold Patch Collection
+**Old files (v. 2.7.)** - COTN Winterhold Patch Collection
 
 **FOMOD** - `3DNPC - Interesting NPCs, AI Overhaul, Cathedral 3D Flowers, Embers HD, The Great Cities - Minor Cities and Towns`, for Landscape and Water Fixes and Lanterns of Skyrim II - `Non-JK`.
 
@@ -1081,7 +1081,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Town of Karthwasten Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37471)
 
-**Main files** - The Great Town of Karthwasten Patch Collection
+**Old files (v. 2.1.)** - The Great Town of Karthwasten Patch Collection
 
 **FOMOD** - `3DNPC, AI Overhaul SSE, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
@@ -1091,7 +1091,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Village of Old Hroldan Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37650)
 
-**Main files** - The Great Village of Old Hroldan Patch Collection
+**Old files (v. 2.0.4.)** - The Great Village of Old Hroldan Patch Collection
 
 **FOMOD** - `3DNPC, AI Overhaul, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
@@ -1101,7 +1101,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Town of Ivarstead Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/36380)
 
-**Main files** - Great Town of Karthwasten Patch Collection
+**Old files (v. 2.3.)** - Great Town of Karthwasten Patch Collection
 
 **FOMOD** - `3DNPC, AI Overhaul, Embers HD, Landscape and Water Fixes, Landscape Grass Fix, Realistic Water Two, USSEP, Lanterns of Skyrim II`, Kaidan 2 - `Non-JK`.
 
@@ -1111,7 +1111,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Town of Shor's Stone Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/36462)
 
-**Main files** - Great Town of Shor's Stone Patch Collection
+**Old files (v. 2.0.3.)** - Great Town of Shor's Stone Patch Collection
 
 **FOMOD** - `AI Overhaul, Embers HD, Lanterns of Skyrim II, USSEP`.
 
@@ -1123,7 +1123,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Village of Mixwater Mill Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37414)
 
-**Main files** - The Great Village of Mixwater Mill Patch Collection
+**Old files (v. 2.1.)** - The Great Village of Mixwater Mill Patch Collection
 
 **FOMOD** - `Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
@@ -1133,7 +1133,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Village of Kynesgrove Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/42957)
 
-**Main files** - The Great Village of Kynesgrove Patch Collection
+**Old files (v. 1.1.6.)** - The Great Village of Kynesgrove Patch Collection
 
 **FOMOD** - `Interesting NPCs - 3DNPC, AI Overhaul, Inigo, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
