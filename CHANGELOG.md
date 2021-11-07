@@ -29,8 +29,14 @@ so for now we will say goodbye.
 
 ### Exteriors
 
-* Changed installation and FOMOD instructions for _Cities of the North - Winterhold Patch Collection_.
+
 * Changed FOMOD instructions for _Cities of the North - Dawnstar Patch Collection_.
+* Changed installation and FOMOD instructions for _Cities of the North - Winterhold Patch Collection_.
+* Changed installation instructions for _The Great Town of Karthwasten Patch Collection_.
+* Changed installation instructions for _The Great Village of Old Hroldan Patch Collection_.
+* Changed installation instructions for _The Great Town of Ivarstead Patch Collection_.
+* Changed installation instructions for _The Great Town of Shor's Stone Patch Collection_.
+* Changed installation instructions for _The Great Village of Mixwater Mill Patch Collection_.
 
 ### Interiors
 
