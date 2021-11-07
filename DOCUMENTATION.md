@@ -1254,6 +1254,10 @@ separator in the same order.
 
 **Main files** - JK's Temple of Kynareth
 
+### [JK's Temple of the Divines](https://www.nexusmods.com/skyrimspecialedition/mods/57304)
+
+**Main files** - JK's Temple of the Divines
+
 ### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 
 **Old files (v. 3.24.1.)** - JKs Interiors Patch Collection
