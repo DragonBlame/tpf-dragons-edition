@@ -1101,7 +1101,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Town of Ivarstead Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/36380)
 
-**Old files (v. 2.3.)** - Great Town of Karthwasten Patch Collection
+**Old files (v. 2.3.)** - Great Town of Ivastead Patch Collection
 
 **FOMOD** - `3DNPC, AI Overhaul, Embers HD, Landscape and Water Fixes, Landscape Grass Fix, Realistic Water Two, USSEP, Lanterns of Skyrim II`, Kaidan 2 - `Non-JK`.
 
