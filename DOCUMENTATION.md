@@ -2987,8 +2987,6 @@ change ENB files and add a good addition for it.
 
 **Optional files** - Silent Horizons - Solar Cleaner
 
-At first, delete `enbcache` folder you can find in your Stock Game folder.
-
 Put *Silent Horizons ENB Addon - Solar Cleaner* right at the start of
 the add-on’s _Exteriors_ section in your mod order and put it right under
 *Reasonable Quest Rewards - Dark Brotherhood.esp* in your plugins’ load order. Then
@@ -3000,7 +2998,34 @@ inside, go back to the beginning and open *Silent Horizon 7.1 Cathedral
 Weathers* folder, paste your chosen folder here and confirm the
 override.
 
-Open `enblocal.ini` file in the folder, change input commands to be as
+### [Viven Rain for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/42629)
+
+**Main files** - Viven Rain for ENB
+
+The mod, which changes rain for TPF can be used for all ENBs. Manually download the main file, drop the _HD_ folder's content inside Silent Horizons _enbseries_ folder and 
+confirm overwrite.
+Then open `enbseries.ini` file and change the following lines under [RAIN] separator:
+
+- IgnoreWeatherSystem=true
+- Enable=true
+- EnableSupersampling=true
+- UseOriginalTexture=false
+- MotionStretch=0.52
+- MotionTransparency=0.25
+- RefractionFactor=0.27
+- MotionBluriness=0.32
+- BrightnessDawn=1.5
+- BrightnessSunrise=1.5
+- BrightnessDay=1.5
+- BrightnessSunset=1.5
+- BrightnessDusk=1.5
+- BrightnessNight=1.5
+- BrightnessInteriorDay=1.0
+- BrightnessInteriorNight=1.0
+
+Save changes to the file.
+
+Now open `enblocal.ini` file in the folder, change input commands to be as
 the some ones as in TPF:
 
 -   KeyCombination=0
@@ -3012,6 +3037,8 @@ the some ones as in TPF:
 -   KeyDof=0
 
 Save changes to the file.
+
+> Some users maybe have installed TPF's modpack and now want to follow my add-on manually. In that scenario, you don't have a tool called ENB Man, which is used in the next paragraph. Just skip it. Do the following - remove _enbseries_, _enbcache_ folders, _enbseries.ini_ and _enbloca.ini_ from your stock game folder, then drop _enbseries_ folder from our ENB.
 
 Open *ENB Man*, click the arrow under *Presets* and select *Blank
 preset*, enter a name for the new preset – `Silent Horizons ENB for
