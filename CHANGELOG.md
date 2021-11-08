@@ -24,6 +24,7 @@ so for now we will say goodbye.
 * Changed FOMOD instructions for _Opulent Thieves Guild Patch Collection_.
 * Moved _JK's The Ragged Flagon_ to the _Interiors_ section.
 * Changed FOMOD instructions for _Additional Clockwork_.
+* Changed installation instructions for _Additional Clockwork_.
 * Changed _The Wheels of Lull_ order.
 * Changed installation and FOMOD instructions for _The Wheels of Lull_.
 
@@ -124,6 +125,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 
 * Serana Dialogue Add-On
 * Additional Clockwork
+* The Tools of Kagrenac
 * The Wheels of Lull
 * Wyrmstooth
 * Dragon War - Wyrmstooth Patch
