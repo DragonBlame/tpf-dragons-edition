@@ -120,6 +120,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 * Removed unpacked scripts.
 * Changed brightness in interiors.
 > Those are just a little bit more brighter now, which is still darker than default values.
+* Added outputs, which are being generated, after the game runs for the first time.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
