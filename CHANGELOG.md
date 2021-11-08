@@ -111,7 +111,7 @@ Conflicts with the quest mods were resolved in my conflict resolution patches. C
 > Mainly because of Microsoft .NET 5.0.
 * Removed MCM instructions for _Strange Runes_.
 > One of the latest updates finally addressed issues with the mod and NPCs, so we don't need to deactivate runes for NPCs anymore.
-* Changed MCM instructions for _SmoothCam_.
+* Changed MCM instructions for _Look What You See_ and _SmoothCam_.
 
 ### Wabbajack
 
