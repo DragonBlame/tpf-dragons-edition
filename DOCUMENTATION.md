@@ -221,6 +221,10 @@ separator in the same order.
 
 **Main files** - House of Horrors - Quest Expansion
 
+### [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683?tab=files)
+
+**Main files** - The Only Cure - Quest Expansion
+
 ### [Winterhold Deep Sea Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/53707?tab=files)
 
 **Main files** - winterholddeepsearuins
