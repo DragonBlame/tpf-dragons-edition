@@ -2834,7 +2834,7 @@ level 15. Don't forget to unhide the quests, when you actually would want and wo
 * **Favourite Howls Menu** - Enable Revert Form and Night Eye powers to make them available for you in werewolf form, when you use your favourites menu.
 * **Look what you see !** - In the *Follow the Camera Mode*
 menu choose hybrid head-tracking option and then choose *Disable when
-weapon drawn* in the *Other Options*. This way our character will follow our cursor's movement when the camera is behind them and will look at us if our character's face is facing the screen.
+weapon drawn* and *Auto lock during dialogues* in the *Other Options*. This way our character will follow our cursor's movement when the camera is behind them and will look at us if our character's face is facing the screen.
 * **MoreHUD** - No idea why, but Phoenix has disabled the appearance of information about potions, spell books etc. in her MoreHUD preset, when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
 * **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
