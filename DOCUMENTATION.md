@@ -646,7 +646,7 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 ### [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168?tab=files)
 
-**Main files** - The Tools of Kagrenac V1.58a SSE
+**Main files** - The Tools of Kagrenac V1.58b SSE
 
 ### [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748?tab=files)
 
