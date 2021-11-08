@@ -15,7 +15,7 @@
 
 ### New Content
 
-* Added _Nilheim - Misc Quest Expansion_ and _House of Horrors - Quest Expansion_.
+* Added _Nilheim - Misc Quest Expansion_, _House of Horrors - Quest Expansion_ and _The Only Cure - Quest Expansion_.
 * Added _Interesting Follower Requirements for Interesting NPCs_.
 * Added _Darkend - Enemy Rebalance_.
 * Removed _Identity Crisis_.
