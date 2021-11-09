@@ -3042,7 +3042,7 @@ the some ones as in TPF:
 
 Save changes to the file.
 
-> Some users maybe have installed TPF's modpack and now want to follow my add-on manually. In that scenario, you don't have a tool called ENB Man, which is used in the next paragraph. Just skip it. Do the following - remove _enbseries_, _enbcache_ folders, _enbseries.ini_ and _enbloca.ini_ from your stock game folder, then drop _enbseries_ folder from our ENB.
+> Some users maybe have installed TPF's modpack and now want to follow my add-on manually. In that scenario, you don't have a tool called ENB Man, which is used in the next paragraph. Just skip it. Do the following - remove _enbseries_, _enbcache_ folders, _enbseries.ini_ and _enblocal.ini_ from your stock game folder, then drop the same files from our ENB folder inside.
 
 Open *ENB Man*, click the arrow under *Presets* and select *Blank
 preset*, enter a name for the new preset – `Silent Horizons ENB for
