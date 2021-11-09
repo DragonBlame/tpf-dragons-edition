@@ -3062,7 +3062,7 @@ Right at the menu of the game press _F11_ on your keyboard to open the ENB setti
 find _HDR COLOR GRADING_ settings. Change _Night - Exposure (F-Stops)_ to `-0.3` and _Interior - Exposure (F-Stops)_ to `-2.5` and then press _SAVE CONFIGURATION_ and _APPLY CHANGES_ at the top left side of the ENB settings menu.
 
 That’s all, enjoy your fancy ENB now. Of course, you can also continue
-with the *GAMEPLAY GUIDE* section of the guide if you are interested in
+with the *GAMEPLAY GUIDE* section if you are interested in
 how to start some newly added quests.
 
 ---
