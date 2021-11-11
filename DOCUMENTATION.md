@@ -2594,7 +2594,7 @@ Create a separator and name it `LITERALLY UNPLAYABLE` and place
 it directly below the *SALT & WIND HAIR RETEXTURES* separator (and its mods). Change
 its colour, so that it won't be the same as TPF's ones.
 
-### [Literally Unplayable - Remove Random Head Parts from Character Creation](https://www.nexusmods.com/skyrimspecialedition/mods/54135)
+### [Literally Unplayable - Remove Not Needed Head Parts from Character Creation](https://www.nexusmods.com/skyrimspecialedition/mods/54135)
 
 **Main files** - Literally Unplayable - Miraak Husbando Patch
 
