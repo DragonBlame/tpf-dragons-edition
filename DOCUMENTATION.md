@@ -2810,17 +2810,8 @@ left side of the screen disappear).
 
 Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
 
-* **SmoothCam (if you are using the mod from the *Interface* section)** - Activate the preset in *Presets* by pressing on *Slot 1:
-DocOct* in *Load Preset*. If you want, you can also enable
-shoulder swapping in *Following* by choosing your shoulder swap key. I
-recommend one of your mouse’s buttons if you have many buttons on it.
-Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set minimum and
-maximum crosshair size to 40, then set stealth meter's Y offset to 200.
-* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
-text colour to white. The timer won’t work during your first
-transformation, after transforming at least once, save your game. When
-you transform again, it will be at the top of the screen near your
-compass.
+* **Cond. Expressions** - Disable out of stamina, in pain,
+headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
 * **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
 * **End Times** - Lock the slider to not be tempted to change the final
@@ -2840,6 +2831,22 @@ way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
+* **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
+option to drop this mod’s potions to 0%. Change the chance of NPCs
+having potions to 20% (we don’t want everyone to have those, right?) and
+the number of potions to 3.
+* **SmoothCam (if you are using the mod from the *Interface* section)** - Activate the preset in *Presets* by pressing on *Slot 1:
+DocOct* in *Load Preset*. If you want, you can also enable
+shoulder swapping in *Following* by choosing your shoulder swap key. I
+recommend one of your mouse’s buttons if you have many buttons on it.
+Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set minimum and
+maximum crosshair size to 40, then set stealth meter's Y offset to 200.
+* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
+text colour to white. The timer won’t work during your first
+transformation, after transforming at least once, save your game. When
+you transform again, it will be at the top of the screen near your
+compass.
+
 
 Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
 
