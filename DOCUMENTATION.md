@@ -2808,7 +2808,7 @@ At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
+At second, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
 
 * **Cond. Expressions** - Disable out of stamina, in pain,
 headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
@@ -2846,7 +2846,6 @@ text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
 you transform again, it will be at the top of the screen near your
 compass.
-
 
 Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
 
