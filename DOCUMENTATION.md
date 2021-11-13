@@ -2810,8 +2810,17 @@ left side of the screen disappear).
 
 Second, don’t forget about following Phoenix’s in-game configurations [here](https://thephoenixflavour.com/tpf/mod-configuration/) and also remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
 
-* **Cond. Expressions** - Disable out of stamina, in pain,
-headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
+* **SmoothCam (if you are using the mod from the *Interface* section)** - Activate the preset in *Presets* by pressing on *Slot 1:
+DocOct* in *Load Preset*. If you want, you can also enable
+shoulder swapping in *Following* by choosing your shoulder swap key. I
+recommend one of your mouse’s buttons if you have many buttons on it.
+Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set minimum and
+maximum crosshair size to 40, then set stealth meter's Y offset to 200.
+* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
+text colour to white. The timer won’t work during your first
+transformation, after transforming at least once, save your game. When
+you transform again, it will be at the top of the screen near your
+compass.
 * **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
 * **End Times** - Lock the slider to not be tempted to change the final
@@ -2831,31 +2840,6 @@ way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
-* **Favourite Howls Menu** - Enable Revert Form and Night Eye powers to make them available for you in werewolf form, when you use your favourites menu.
-* **Look what you see !** - In the *Follow the Camera Mode*
-menu choose hybrid head-tracking option and then choose *Disable when
-weapon drawn* and *Auto lock during dialogues* in the *Other Options*. This way our character will follow our cursor's movement when the camera is behind them and will look at us if our character's face is facing the screen.
-* **MoreHUD** - No idea why, but Phoenix has disabled the appearance of information about potions, spell books etc. in her MoreHUD preset, when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options. 
-* **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
-option to drop this mod’s potions to 0%. Change the chance of NPCs
-having potions to 20% (we don’t want everyone to have those, right?) and
-the number of potions to 3.
-* **SmoothCam (if you are using the mod from the *Interface* section)** - Activate the preset in *Presets* by pressing on *Slot 1:
-DocOct* in *Load Preset*. If you want, you can also enable
-shoulder swapping in *Following* by choosing your shoulder swap key. I
-recommend one of your mouse’s buttons if you have many buttons on it.
-Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set minimum and
-maximum crosshair size to 40, then set stealth meter's Y offset to 200.
-* **SSoB** - Enable markers on the Stones of Barenziah.
-* **Storm Lightning** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
-* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
-text colour to white. The timer won’t work during your first
-transformation, after transforming at least once, save your game. When
-you transform again, it will be at the top of the screen near your
-compass.
-* **Wyrmstooth** - Change starting requirements to be the quest starting
-after *A Blade in the Dark* quest is done (otherwise it feels too soon
-for an organization to give this quest out).
 
 Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
 
@@ -2870,7 +2854,7 @@ be explained in-game. You will need to press , button to use the
 whistle in the game.
 * **Skyrim's Paraglider** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
 
-Reminders about things for the documentation users:
+Reminders about things for users, who were following all the documentation to manually setup the add-on:
 
 * **Simple Activate (if you are using the mod from the *Interface* section)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
 
