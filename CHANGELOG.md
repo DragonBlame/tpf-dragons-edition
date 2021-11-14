@@ -23,5 +23,7 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+* Apothecary - Bruma Patch
+* Apothecary - Wyrmstooth Patch
 * JK's The Winking Skeever
 * Strange Runes
