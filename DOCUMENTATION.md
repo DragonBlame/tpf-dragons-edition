@@ -2316,7 +2316,7 @@ correctly.
 If you don't understand or want to know what will happen if you do
 something incorrectly, here are some examples. You have probably heard about the
 issue once or twice - black face bug. CTDs can happen if overhaul uses
-unique body parts (like The Ordinary Women) and you enter into the place
+unique body parts (like the previous versions of The Ordinary Women) and you enter into the place
 where this incorrect NPC is.
 
 <p align="center">
@@ -2416,11 +2416,9 @@ because it has high poly faces and almost each of those looks diverse.*
 
 ### [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376)
 
-**Main files** - The Ordinary Women SSE 4.0
+**Main files** - The Ordinary Women
 
-**Optional files** - The Ordinary Women SSE 4.0 USSEP - ESP Only
-
-**Merge** - merge both files.
+**FOMOD** - `USSEP`.
 
 *Definitely the most immersive looks for women of Skyrim in all Nexus,
 which slightly outshine blocky vanilla faces.*
@@ -2587,7 +2585,7 @@ separator in the same order.
 Briefly, mods we are going to install are going to help us mask head parts from mods we have installed before 
 not to mess up with our game. How can they mess up the game? For instance, just by cluttering up your Racemenu.
 And making your hair dissapear or making even more problems if you have used an appearance asset from the mod you weren't supposed to and then removed it. 
-Also do you remember the mod Ordinary Women mod we have talked about and how its head parts can crash the game?
+Also do you remember the mod Ordinary Women mod we have talked about and how its head parts could have crashed the game?
 So guess what will happen if you equip that head part to your character.
 
 Create a separator and name it `LITERALLY UNPLAYABLE` and place
@@ -2613,8 +2611,6 @@ its colour, so that it won't be the same as TPF's ones.
 **Main files** - Literally Unplayable - Cuyima's 3DNPC Patch
 
 **Main files** - Literally Unplayable - Shield Sisters Re-Imagined Patch
-
-**Main files** - Literally Unplayable - Ordinary Women Patch
 
 ---
 
