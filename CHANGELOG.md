@@ -17,6 +17,7 @@
 
 * Removed _Bruma Ugly Love Script Fix_.
 > Not needed anymore with the latest updates of _Beyond Skyrim - Bruma_.
+* Added _Wyrmstooth - Settings Loader_.
 * Changed installation instructions for _Gladys the Corgi - A Custom Dog Follower Mod_.
 
 ### Exteriors
