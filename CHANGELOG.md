@@ -28,6 +28,10 @@
 
 ### Other Changes
 
+* Removed the performance profile and the performance output of DynDOLOD.
+> This change probably won't be the most appealing change for everyone. I have tried to maintain it as much as I can, but 
+overall I have spent too much of time and resources on that (outputs). I have never thought of my add-on as the performance friendly one, 
+so there isn't even a point in maintaining the performance changes for me and considering many people, who struggle with performance already, use just TPF or something even lighter. And especially considering the exterior changes.
 * Removed some of MCMs to change.
 > Because all removed ones are automated, no need to worry about them anymore.
 
