@@ -771,7 +771,7 @@ directory*, click *OK*.
 
 ### [Gladys the Corgi - A Custom Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/50164?tab=files)
 
-**Main files** - Gladys the Corgi - A Custom Dog Follower Mod
+**Main files** - Gladys the Corgi
 
 ### [Merlin the Corgi - A Magical Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/56433?tab=files)
 
