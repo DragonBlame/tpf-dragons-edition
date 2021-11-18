@@ -4,7 +4,7 @@
 
 ## Version 1.11.
 
-> Updated final patches, Texgen and DynDOLOD outputs.
+> Updated final patches, all outputs.
 
 ### Interface
 
