@@ -2666,11 +2666,9 @@ After enabling these outputs, disable TPF’s outputs.
 
 **Main files** - TPF Dragon’s Edition - Texgen Output
 
-**Main files** - TPF Dragon’s Edition - DynDOLOD Output **or** TPF
-Dragon’s Edition - DynDOLOD Output (Performance) - was generated with
-medium INIs and performance grass mods
+**Main files** - TPF Dragon’s Edition - DynDOLOD Output
 
-(don’t forget to put Solstheim Ice Piles Fix after my DynDOLOD’s output)
+(don’t forget to put Solstheim Ice Piles Fix after my DynDOLOD’s output in both mod (just for clarity) and load order)
 
 **Main files** - TPF Dragon’s Edition - Occlusion
 
