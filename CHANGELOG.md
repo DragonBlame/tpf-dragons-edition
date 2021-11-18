@@ -11,6 +11,7 @@
 * Removed _Pastel SkyUI Markers_.
 > Unfortunately together with TPF's _CoMAP_, they don't make the greatest combo without a patch to make CoMAP markers use pastel colours too. I let people decide, what they would want to see, and the decision was made.
 * Changed FOMOD instructions for _SmoothCam_.
+* Changed installation instructions for _No Lockpick Activate_.
 
 ### Exteriors
 
@@ -57,6 +58,7 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 ### Updated Add-on's Mods for Wabbajack Users
 
 * SmoothCam
+* No Lockpick Activate
 * Apothecary - Bruma Patch
 * Forceful Tongue - Wyrmstooth Patch
 * Apothecary - Wyrmstooth Patch
