@@ -15,6 +15,8 @@
 
 * Added _Bent Pines_.
 
+* Added _Cities of the North - Falkreath_ and _Cities of the North - Falkreath Patch Collection_.
+
 ### Miscellaneous
 
 * Changed installation instructions for _Strange Runes_.
