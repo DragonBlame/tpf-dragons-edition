@@ -655,6 +655,10 @@ Corrupted Shade) ESL
 
 **Main files** - Wyrmstooth
 
+### [Wyrmstooth - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56504?tab=files)
+
+**Main files** - Wyrmstooth - Settings Loader
+
 ### [Wyrmstooth Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39992?tab=files)
 
 **Main files** - Wyrmstooth_2x
