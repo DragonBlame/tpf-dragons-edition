@@ -964,6 +964,12 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [Lanterns of Skyrim II - Insects Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50670)
+
+**Main files** - Lanterns of Skyrim II Insects Patch (v1.1 esm)
+
+_I understand that bugs like light, but that means they should sometimes get away from all the lanterns to fly to different source of light._
+
 ### [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
 
 **Main files** - Happy Little Trees
@@ -975,12 +981,6 @@ _These ones make me happy too._
 ### [Happy Little Trees Add-On - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
 
 **Main files** - Happy Little Trees 3D LOD - Quality
-
-### [Lanterns of Skyrim II - Insects Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50670)
-
-**Main files** - Lanterns of Skyrim II Insects Patch (v1.1 esm)
-
-_I understand that bugs like light, but that means they should sometimes get away from all the lanterns to fly to different source of light._
 
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
@@ -1015,22 +1015,6 @@ Mountain Flowers
 ### [Butterflies Unchained](https://www.nexusmods.com/skyrimspecialedition/mods/29538)
 
 **Main files** - Butterflies Unchained (ESL Version)
-
-### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718)
-
-**Main files** - Rorikstead Basalt Cliffs
-
-*By adding some unique things to regions of Skyrim like this one, we can definitely achieve our goal of making Skyrim a majestic land it is supposed to be.*
-
-### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
-
-**Optional files** - AIO-LT- A Tree Placement for Whiterun City
-
-*Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
-
-### [Little Touches - Stairway to The Wind District](https://www.nexusmods.com/skyrimspecialedition/mods/54936)
-
-**Main files** - LT-Stairway_to_The_Wind_District_Fixed
 
 ### [The Great Cities - Minor Cities and Towns](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
 
@@ -1170,6 +1154,22 @@ Lanterns of Skyrim II`.
 **Optional files** - Navmesh .esp by CakeofHonor
 
 **Merge** - merge both files.
+
+### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718)
+
+**Main files** - Rorikstead Basalt Cliffs
+
+*By adding some unique things to regions of Skyrim like this one, we can definitely achieve our goal of making Skyrim a majestic land it is supposed to be.*
+
+### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
+
+**Optional files** - AIO-LT- A Tree Placement for Whiterun City
+
+*Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
+
+### [Little Touches - Stairway to The Wind District](https://www.nexusmods.com/skyrimspecialedition/mods/54936)
+
+**Main files** - LT-Stairway_to_The_Wind_District_Fixed
 
 ---
 
