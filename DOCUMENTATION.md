@@ -1141,6 +1141,14 @@ Lanterns of Skyrim II`.
 
 **FOMOD** - `Interesting NPCs - 3DNPC, AI Overhaul, Inigo, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
+### [Bent Pines](https://www.nexusmods.com/skyrimspecialedition/mods/8306)
+
+**Main files** - Bent Pines II
+
+**Optional files** - Navmesh .esp by CakeofHonor
+
+**Merge** - merge both files.
+
 ---
 
 ## Interiors
