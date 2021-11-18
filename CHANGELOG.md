@@ -33,6 +33,13 @@ _The Great Village of Kynesgrove Patch Collection_.
 
 * Changed FOMOD instructions for _JK's Interiors Patch Collection_.
 
+### Appearance
+
+* Removed _KS Hairdos Lite_.
+* Added _KS Hairdos_ and _Immersive KS Hairdos_.
+> I felt that _KS Hairdos Lite_ gave us a little bit too less choice on which hairstyle to pick. _KS Hairdos_ is too massive for us, so
+there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even sorting the mod's hair by their size.
+
 ### Miscellaneous
 
 * Changed installation instructions for _Simply Knock SKSE64 DLL_.
