@@ -38,7 +38,8 @@ you can make the changes to performance and DynDOLOD by yourself, but don't ask 
 
 ### Wabbajack
 
-* Removed the performance grass mods as they were used in the performance profile only. Made changes in the Wabbajack's document related to the removal of the performance options.
+* Removed the performance grass mods. Made changes in the Wabbajack's document related to the removal of the performance options.
+> As those were used in the performance profile only.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
