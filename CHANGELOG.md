@@ -71,6 +71,7 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * Apothecary - Wyrmstooth Patch
 * Lucien - Immersive Fully Voiced Male Follower
 * Gladys the Corgi - A Custom Dog Follower Mod
+* Merlin the Corgi - A Magical Dog Follower Mod
 * Undeath - Classical Lichdom
 * JK's The Winking Skeever
 * Strange Runes
