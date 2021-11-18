@@ -64,6 +64,7 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 
 * SmoothCam
 * No Lockpick Activate
+* Beyond Skyrim - Bruma
 * Apothecary - Bruma Patch
 * Forceful Tongue - Wyrmstooth Patch
 * Apothecary - Wyrmstooth Patch
