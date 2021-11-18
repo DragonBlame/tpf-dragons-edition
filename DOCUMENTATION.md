@@ -130,7 +130,7 @@ but in Skyrim.*
 
 **Needed if you want to use Quick Loot RE.**
 
-**Main files** - No Lockpick Activate (SKSE) - Updated
+**Main files** - No Lockpick Activate
 
 *Fixes game's and looting menu mod's interaction, where you would be forced into the full menu upon unlocking container. 
 It also affects every other locked object, so, for example, you have to interact with doors after unlocking them to open them.*
