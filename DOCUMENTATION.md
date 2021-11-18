@@ -1079,6 +1079,16 @@ Lanterns of Skyrim II`.
 
 **Main files** - Winterhold Keep Tweaks for COTN
 
+### [Cities of the North - Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/56731)
+
+**Main files** - Cities of the North - Falkreath
+
+### [Cities of the North - Falkreath Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/56734)
+
+**New files** - Cities of the North - Falkreath Patch Collection
+
+**FOMOD** - `The Great Cities - Minor Cities and Towns, TGC - Helgen Reborn, TGC - Clockwork, Lanterns of Skyrim II, TGC - LAWF, 3DNPC, AI Overhaul, Bring Meeko to Lod, Immersive Patrols II, Skyrim 3D Signs, Janquel's Addons`, **untick** `Landscape and Grass Fixes`.
+
 ### [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032)
 
 **Main files** - The Great Town of Karthwasten 1.2
