@@ -13,6 +13,11 @@
 * Changed FOMOD instructions for _SmoothCam_.
 * Changed installation instructions for _No Lockpick Activate_.
 
+### New Content
+
+* Removed _Bruma Ugly Love Script Fix_.
+> Not needed anymore with the latest updates of _Beyond Skyrim - Bruma_.
+
 ### Exteriors
 
 * Added _Happy Little Trees_.
