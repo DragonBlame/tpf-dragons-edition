@@ -16,6 +16,7 @@
 * Added _Happy Little Trees_.
 * Added _Cities of the North - Falkreath_ and _Cities of the North - Falkreath Patch Collection_.
 * Added _Bent Pines_.
+* Changed mod and load order for some mods.
 
 ### Miscellaneous
 
