@@ -62,6 +62,7 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * Apothecary - Bruma Patch
 * Forceful Tongue - Wyrmstooth Patch
 * Apothecary - Wyrmstooth Patch
+* Undeath - Classical Lichdom
 * JK's The Winking Skeever
 * Strange Runes
 * Vanargand Animations - One Handed Mid Stance
