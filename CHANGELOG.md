@@ -21,6 +21,10 @@
 
 * Changed installation instructions for _Strange Runes_.
 
+### Skeleton & Animations
+
+* Added _Vanargand Animations - One Handed Normal Attacks_.
+
 ### NPC Overhauls
 
 * Changed installation and added FOMOD instructions for _The Ordinary Women_.
