@@ -87,7 +87,7 @@ but not too ordinary. The mod even changes fonts for notes and journals, which I
 
 **Main files** - SmoothCam
 
-**FOMOD** - if you have a modern CPU, choose `SmoothCam AVX`, `SmoothCam SSE` otherwise, then `ESL`.
+**FOMOD** - `SmoothCam SSE, ESL`.
 
 **Instructions** - rename the mod’s plugin to *SmoothCam.esp*.
 
