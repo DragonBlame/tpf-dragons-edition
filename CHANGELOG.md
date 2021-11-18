@@ -29,6 +29,10 @@ _The Great Village of Kynesgrove Patch Collection_.
 > _The newest version of Lanterns of Skyrim don't mess up with lanterns separately, so the newest patches for these mods can be safely used._
 * Changed mod and load order for some mods.
 
+### Interiors
+
+* Changed FOMOD instructions for _JK's Interiors Patch Collection_.
+
 ### Miscellaneous
 
 * Changed installation instructions for _Simply Knock SKSE64 DLL_.
@@ -84,6 +88,7 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * The Great Village of Mixwater Mill Patch Collection
 * The Great Village of Kynesgrove Patch Collection
 * JK's The Winking Skeever
+* JK's Interiors Patch Collection
 * Strange Runes
 * Vanargand Animations - One Handed Mid Stance
 * The Ordinary Women
