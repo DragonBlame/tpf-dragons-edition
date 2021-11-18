@@ -968,6 +968,8 @@ separator in the same order.
 
 **Main files** - Happy Little Trees
 
+**FOMOD** - `All Trees`.
+
 _These ones make me happy too._
 
 ### [Happy Little Trees Add-On - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
