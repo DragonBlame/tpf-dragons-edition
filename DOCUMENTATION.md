@@ -964,6 +964,16 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
+
+**Main files** - Happy Little Trees
+
+_These ones make me happy too._
+
+### [Happy Little Trees Add-On - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
+
+**Main files** - Happy Little Trees 3D LOD - Quality
+
 ### [Lanterns of Skyrim II - Insects Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50670)
 
 **Main files** - Lanterns of Skyrim II Insects Patch (v1.1 esm)
