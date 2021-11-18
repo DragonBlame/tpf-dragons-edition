@@ -21,6 +21,7 @@
 
 ### Miscellaneous
 
+* Changed installation instructions for _Simply Knock SKSE64 DLL_.
 * Changed installation instructions for _Strange Runes_.
 
 ### Skeleton & Animations
