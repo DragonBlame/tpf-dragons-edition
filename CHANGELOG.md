@@ -11,6 +11,10 @@
 * Removed _Pastel SkyUI Markers_.
 > Unfortunately together with TPF's _CoMAP_, they don't make the greatest combo without a patch to make CoMAP markers use pastel colours too. I let people decide, what they would want to see, and the decision was made.
 
+### Exteriors
+
+* Added _Bent Pines_.
+
 ### Miscellaneous
 
 * Changed installation instructions for _Strange Runes_.
