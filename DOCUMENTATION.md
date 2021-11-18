@@ -1528,11 +1528,17 @@ Fix, Symmetrical Eyes (Female)`.
 *With this your dreams of making an even more perfect face for your
 character shouldn't wait for long anymore.*
 
-### [KS Hairdos Lite](https://www.nexusmods.com/skyrimspecialedition/mods/1932)
+### [KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817)
 
-**Optional files** - KS Hairdos Lite SE NoNPCs
+**Main files** - KS Hairdos
 
-*Little fancy hair mod for us.*
+*Fancy hair mod for us.*
+
+### [Immersive KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/12004)
+
+**Main files** - Immersive KS Hairdos
+
+*A plugin replacer to remove too anime etc. hairstyles from Racemenu and to even sort the mod's hair by their size.*
 
 ### [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
 
