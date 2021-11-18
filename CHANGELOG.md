@@ -17,6 +17,7 @@
 
 * Removed _Bruma Ugly Love Script Fix_.
 > Not needed anymore with the latest updates of _Beyond Skyrim - Bruma_.
+* Changed installation instructions for _Gladys the Corgi - A Custom Dog Follower Mod_.
 
 ### Exteriors
 
@@ -69,6 +70,7 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * Forceful Tongue - Wyrmstooth Patch
 * Apothecary - Wyrmstooth Patch
 * Lucien - Immersive Fully Voiced Male Follower
+* Gladys the Corgi - A Custom Dog Follower Mod
 * Undeath - Classical Lichdom
 * JK's The Winking Skeever
 * Strange Runes
