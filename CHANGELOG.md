@@ -62,4 +62,5 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * Apothecary - Wyrmstooth Patch
 * JK's The Winking Skeever
 * Strange Runes
+* Vanargand Animations - One Handed Mid Stance
 * The Ordinary Women
