@@ -1807,7 +1807,7 @@ This mod allows us to do that.*
 
 ### [Simply Knock SKSE64 DLL](https://www.nexusmods.com/skyrimspecialedition/mods/24297)
 
-**Main files** - SimplyKnockSE SKSE64 2.0.19 DLL
+**Old files** - SimplyKnockSE SKSE64 2.0.19 DLL
 
 *An updated .dll file for the mod to work.*
 
