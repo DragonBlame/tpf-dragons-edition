@@ -191,6 +191,12 @@ Probably it is a mod, which you love or hate, and considering the fact that it t
 *Informs us about how much time you have left before you need to find another body to feed and 
 not to think about it every single time you transform into werewolf.*
 
+### [Oxygen Meter](https://www.nexusmods.com/skyrimspecialedition/mods/57452)
+
+**Main files** - Oxygen Meter - SSE
+
+*Finally I can stop being scared of drowning, while just wanting to loot that chest underwater.*
+
 ---
 
 ## New Content
