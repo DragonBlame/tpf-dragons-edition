@@ -45,6 +45,7 @@ there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even
 
 ### Miscellaneous
 
+* Added _Storm Lightning - Settings Loader_.
 * Changed installation instructions for _Simply Knock SKSE64 DLL_.
 * Changed installation instructions for _Strange Runes_.
 
