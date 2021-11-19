@@ -1706,6 +1706,12 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [Storm Lightning - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57477)
+
+**Main files** - Copy and Paste in Console v1.0.1 for Skyrim SE
+
+*A great tool for making you spend less time in the TPF mod's MCM the second time you decide to play.*
+
 ### [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 
 **Main files** - Papyrus Extender SSE - 4.5.2
