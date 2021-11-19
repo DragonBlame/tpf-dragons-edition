@@ -2829,7 +2829,7 @@ And now we are ready to jump into the game, but don’t do it right away.
 
 At the beginning, don’t be scared when you see that your character’s
 hair and/or beard isn't right. Do you remember us installing High Poly
-Head and its hair (and beard) variations, right? Well, Wabbajack users won't, but that isn't the point. Now we need to
+Head and its hair (and beard) variations, right? Now we need to
 actually activate our high poly head in Racemenu and then our hair will
 look fine. Also choose a beard from High Poly Head and it will look good
 if that is needed. If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
