@@ -24,6 +24,8 @@ For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gal
 
 ## Configurations
 
+### Preparations
+
 By default your game is capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that either.
 
 I have chosen _Silent Horizons ENB_ as the main ENB for the add-on. You will be able to learn why a little bit later if you want. If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
@@ -38,6 +40,29 @@ Some mods of TPF are disabled in both of my add-on's profiles. Those are:
   - _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ in TPF's _Appearance_ section, because they both conflict with a mod in our _Appearance_ section called _Equipable Beast Tails - HDT SMP (Physics)_.
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
 
-Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_. Now you should continue with the [_Configurations_](DOCUMENTATION.md#configurations) section of the documentation.
+Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
-I hope everything was easy to understand at this point! :)
+### In-Game Adjustments
+
+At the beginning, don’t be scared when you see that your character’s hair and/or beard isn't right. we need to actually activate our high poly head in Racemenu and then our hair will look fine. Also choose a beard from High Poly Head and it will look good if that is needed.
+
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331927-051552a4-64d6-420b-8fa4-e18fd232ee4e.png" /> 
+</p>
+
+Then find the *Weapons* category and change settings to the same ones
+you see below.
+
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331938-43bb6a6b-dee2-439c-8fae-f3780a734c8a.png" /> 
+</p>
+
+After that customize your character to your heart's content. If you want to use hair with physics for men, you will find instructions on how to obtain them [here]().
+
+When Ralof or Hadvar frees you, don’t go anywhere right away.
+Wait a bit for everything to load (wait after all messages on the top
+left side of the screen disappear).
+
+Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue configurations below.
+
+
