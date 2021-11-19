@@ -32,6 +32,7 @@ _The Great Village of Kynesgrove Patch Collection_.
 
 ### Interiors
 
+* Added _JK's Temple of Talos._
 * Changed FOMOD instructions for _JK's Interiors Patch Collection_.
 
 ### Appearance
