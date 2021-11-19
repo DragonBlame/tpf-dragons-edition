@@ -1159,6 +1159,8 @@ Lanterns of Skyrim II`.
 
 **Merge** - merge both files.
 
+*Even though all this mod does is just adding some trees, you won't just go away from them without looking closer and maybe taking some screenshots on the way.*
+
 ### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718)
 
 **Main files** - Rorikstead Basalt Cliffs
