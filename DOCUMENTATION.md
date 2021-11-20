@@ -2911,7 +2911,7 @@ After running the game at least once I recommend you to do this:
 And just wanted to add some info about two important things. Helgen Reborn book in your inventory can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through _Hide Your Quests_ before doing it if you have decided to hide it before.
 There will be a note in Dragonseach about neutrality in war. Pick it up only if you want to be neutral during the war. Like before, more information about that can be found [here](#gameplay-guide).
 
-At last, I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any important updates.
+At last, I recommend you to go through [here](CHANGELOG.md) to see if you didn’t miss any important updates.
 
 ---
 
@@ -3064,7 +3064,7 @@ how to start some newly added quests.
 
 This section is mainly used to inform people about what they can expect from the add-on overall. Of course, some of you just went through the good, old manual way through all the documentation, but maybe you have forgotten about something, or some of you set up the add-on by using Wabbajack and now have no idea what possibilities await you. I consider this section as **one big spoiler** for some of the content added and so you have been warned.
 
-At first, some juicy tips for peeps, who have gone right here after mingling with the add-on:
+At first, some juicy tips for peeps, who went right here after mingling with the add-on:
 
 * Be sure to do at least half of the main quest series as some added quests are tied to it (more information later).
 * Secondly, look inside Helgen’s Keep’s entries thoroughly as there will be one little reward for attentive ones.
@@ -3074,12 +3074,13 @@ there will be a neat spell book waiting for you somewhere around Riverwood.
 
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
-* **Inigo's Whistle Key** - You can issue commands to Inigo by
-whistling to him. This ability is introduced during his quests and will
-be explained in-game. You will need to press , button to use the
-whistle in the game.
-**Dragonborn's Powers** - 
-* **Skyrim's Paraglider** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
+* **Praying** - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
+you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099).
+* **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
+* You will need to press `,` button to use the whistle in the game.
+**Dragonborn's Powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
+You will be able to upgrade this power by shouting and killing dragons.
+* **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
 
 About just some of interesting mods I have added:
 
@@ -3092,7 +3093,6 @@ offer inside their plugins. I have added it for people to know that there is an 
 * **About reading** - Now you will get experience boost to your leveling speed in a skill, which you have read about. 
 * **About different coins** - Now there are much more different coins around Skyrim, which will then be converted to their value in septims, when you pick them up.
 * **About bribing** - Now it depends on our speech skill too.
-* **About praying** - Now praying and religion as a whole makes much more sense. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099).
 * **About Dragonborn's unique powers** - After finishing _The Way of the Voice_, you will unlock an interesting power. You will be able to upgrade this power by shouting and killing dragons.
 * **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
 * **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
