@@ -11,7 +11,5 @@
   <a href="WABBAJACK.md">Wabbajack</a>
 </p>
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL)
-
 
 
