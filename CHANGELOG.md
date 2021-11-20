@@ -107,3 +107,5 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * Strange Runes
 * Vanargand Animations - One Handed Mid Stance
 * The Ordinary Women
+
+_Previous changelogs can be found in the releases._
