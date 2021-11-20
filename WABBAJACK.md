@@ -123,7 +123,7 @@ Now we need to activate some of the mods to actually make them work. Close the M
 
 ---
 
-If you don't care about points above, feel free to skip. I **definitely recommend** you to check the one about Helgen Reborn book and being neutral during the war. 
+If you don't care about points below, feel free to skip. I **definitely recommend** you to check the one about Helgen Reborn book and being neutral during the war. 
 So about these things for you to know about:
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
