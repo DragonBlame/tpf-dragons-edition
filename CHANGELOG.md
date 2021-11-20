@@ -101,6 +101,7 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * The Great Village of Kynesgrove Patch Collection
 * JK's The Winking Skeever
 * JK's Interiors Patch Collection
+* Masculine Khajiit Textures
 * Strange Runes
 * Vanargand Animations - One Handed Mid Stance
 * The Ordinary Women
