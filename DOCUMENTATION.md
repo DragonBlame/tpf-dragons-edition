@@ -2904,87 +2904,38 @@ Now we need to activate some of the mods to actually make them work. Close the M
 * **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
 
-The next ones you will use later in the game:
-
-* **Inigo Whistle Key** - You can issue commands to Inigo by
-whistling to him. This ability is introduced during his quests and will
-be explained in-game. You will need to press , button to use the
-whistle in the game.
-* **Skyrim's Paraglider** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
-
-Reminders about things for users, who were following all the documentation to manually setup the add-on:
+After running the game at least once I recommend you to do this:
 
 * **Simple Activate (if you are using the mod from the *Interface* section)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
 
-For Wabbajack users:
+And just wanted to add some info about two important things. Helgen Reborn book in your inventory can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through _Hide Your Quests_ before doing it if you have decided to hide it before.
+There will be a note in Dragonseach about neutrality in war. Pick it up only if you want to be neutral during the war. Like before, more information about that can be found [here](#gameplay-guide).
 
-* **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
-
-For all people:
-
-* **About Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through Hide Your Quests MCM, when you decide to do it.
-* **About AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
-offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
-* **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
-* **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
-* **About lockpicking** - Now you don't need to do the annoying lockpicking game anymore. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful too. Locks will break according to your skill too.
-* **About reading** - Now you will get experience boost to your leveling speed in a skill, which you have read about. 
-* **About different coins** - Now there are much more different coins around Skyrim, which will then be converted to their value in septims, when you pick them up.
-* **About bribing** - Now it depends on our speech skill too.
-* **About praying** - Now praying and religion as a whole makes much more sense. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099).
-* **About Dragonborn's unique powers** - After finishing _The Way of the Voice_, you will unlock an interesting power. You will be able to upgrade this power by shouting and killing dragons.
-* **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
-* **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
-* **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
-* **About College of Winterhold** - Now you will actually need magic to beat College of Winterhold. You have been warned.
-* **About stealing** - Now you need to be crouched to steal items, which aren't the ones in containers.
-* **About knocking** - Now you can knock on locked doors by activating them.
-* **About Clairvoyance** - Now it is much more useful. Try it out.
-* **About being neutral during the Civil War** - Now you can become Thane of Eastmarch without licking Ulfric's boots (that means getting Hjerim, Calder the Housecarl, unblocking Korvanjund and much more). If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/21176).
-* **About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
-* **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
-* **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.
-* **About getting armored pants** - You will be able to get these in exchange for their counterparts (heavy armors) in Skyrim. Just use any forge for that.
-* **About cleaning up your mess** - Now if you have accidentally Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
-* **About Lydia** - If Lydia is too noisy, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
-* **About Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
-
-
-Now for the manual guide users I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any 
-important updates. Then continue going through.
-
-Some hints (and possibly **spoilers**) before the end.
-
-* At first, be sure to do at least half of the main quest series as some
-added quests are tied to it (more information in _Gameplay Guide_).
-* Secondly, look inside Helgen’s Keep’s entries thoroughly as there will
-be one little reward for attentive ones.
-* Thirdly, for people, who would want to adopt children and live with them (and/or with your spouse)
-not in vanilla homes, there will be a neat spell book waiting for you
-somewhere around Riverwood.
-* And another one - be sure to travel around Falkreath. Something interesting might happen.
+At last, I recommend you to go to [here](CHANGELOG.md) to see if you didn’t miss any important updates.
 
 ---
 
 ## Thank You
 
-That’s all, folks! You are set to traverse into another modded world of
-Skyrim.
+That’s all, folks! You are set to traverse into another modded world of Skyrim.
 
-If you are happy with my work, I won't mind if you endorse the add-on’s
-page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too).
+If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
+feel free to report in TPF Discord server's [#tpf-addons-support](https://discord.gg/tpf) channel.
 
-If you want to help even more, you can donate to me (via PayPal) by
-pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
+If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in [Discord](https://discord.gg/tpf) too). 
+If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
 If you are interested in changing TPF’s default ENB to what I use
-personally or just to learn about my preference in ENBs, continue with the *ENB* section.
+personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
 
-If you want to learn a little bit more about the content we have added,
-read the [*Gameplay Guide*](#gameplay-guide) section of the add-on.
+If you want to learn more about what the add-on offers, check [Gameplay Guide](#gameplay-guide). 
 
-If you have experienced a bug during your walkthrough, jump to the [*Bugs*](#bugs) section.
+If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
+please use Posts feature on Nexus or use [#tpf-addons-feedback](https://discord.gg/tpf). Suggestions on how to improve the documentation are also welcome on GitHub. 
+
+I will post about updates for the add-on in [#the-addons-updates](https://discord.gg/tpf) channel.
+
+If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
 ---
 
@@ -3111,7 +3062,59 @@ how to start some newly added quests.
 
 ## Gameplay Guide
 
-Just a little heads up and how and when and how you should start newly
+This section is mainly used to inform people about what they can expect from the add-on overall. Of course, some of you just went through the good, old manual way through all the documentation, but maybe you have forgotten about something, or some of you set up the add-on by using Wabbajack and now have no idea what possibilities await you. I consider this section as **one big spoiler** for some of the content added and so you have been warned.
+
+At first, some juicy tips for peeps, who have gone right here after mingling with the add-on:
+
+* Be sure to do at least half of the main quest series as some added quests are tied to it (more information later).
+* Secondly, look inside Helgen’s Keep’s entries thoroughly as there will be one little reward for attentive ones.
+* Thirdly, for people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
+there will be a neat spell book waiting for you somewhere around Riverwood.
+* And another one - be sure to travel around Falkreath. Something interesting might happen.
+
+Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
+
+* **Inigo's Whistle Key** - You can issue commands to Inigo by
+whistling to him. This ability is introduced during his quests and will
+be explained in-game. You will need to press , button to use the
+whistle in the game.
+**Dragonborn's Powers** - 
+* **Skyrim's Paraglider** - Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
+
+About just some of interesting mods I have added:
+
+* **About AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
+offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
+* **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
+* **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **About lockpicking** - Now you don't need to do the annoying lockpicking game anymore. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful too. Locks will break according to your skill too.
+* **About reading** - Now you will get experience boost to your leveling speed in a skill, which you have read about. 
+* **About different coins** - Now there are much more different coins around Skyrim, which will then be converted to their value in septims, when you pick them up.
+* **About bribing** - Now it depends on our speech skill too.
+* **About praying** - Now praying and religion as a whole makes much more sense. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099).
+* **About Dragonborn's unique powers** - After finishing _The Way of the Voice_, you will unlock an interesting power. You will be able to upgrade this power by shouting and killing dragons.
+* **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
+* **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
+* **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
+* **About College of Winterhold** - Now you will actually need magic to beat College of Winterhold. You have been warned.
+* **About stealing** - Now you need to be crouched to steal items, which aren't the ones in containers.
+* **About knocking** - Now you can knock on locked doors by activating them.
+* **About Clairvoyance** - Now it is much more useful. Try it out.
+* **About being neutral during the Civil War** - Now you can become Thane of Eastmarch without licking Ulfric's boots (that means getting Hjerim, Calder the Housecarl, unblocking Korvanjund and much more). If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/21176).
+* **About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
+* **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
+* **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.
+* **About getting armored pants** - You will be able to get these in exchange for their counterparts (heavy armors) in Skyrim. Just use any forge for that.
+* **About cleaning up your mess** - Now if you have accidentally Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
+* **About Lydia** - If Lydia is too noisy, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
+* **About Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+
+
+
+
+
+And now just a little heads up and how and when and how you should start newly
 added quests.
 
 The quests, which are added to the add-on, can be split between early
