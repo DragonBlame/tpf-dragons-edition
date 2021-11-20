@@ -1093,7 +1093,7 @@ Lanterns of Skyrim II`.
 
 **New files** - Cities of the North - Falkreath Patch Collection
 
-**FOMOD** - `The Great Cities - Minor Cities and Towns, TGC - Helgen Reborn, TGC - Clockwork, Lanterns of Skyrim II, TGC - LAWF, 3DNPC, AI Overhaul, Bring Meeko to Lod, Immersive Patrols II, Skyrim 3D Signs, Janquel's Addons`, **untick** `Landscape and Grass Fixes`.
+**FOMOD** - `The Great Cities - Minor Cities and Towns, TGC - Helgen Reborn, TGC - Clockwork, Lanterns of Skyrim II, TGC - LAWF, 3DNPC, AI Overhaul, Bring Meeko to Lod, Immersive Patrols II, Skyrim 3D Signs`, **untick** `Janquel's Addons, Landscape and Grass Fixes`.
 
 ### [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032)
 
