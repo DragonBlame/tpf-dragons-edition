@@ -76,6 +76,8 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 
 ### Wabbajack
 
+* Overhauled _Wabbajack_ page.
+> From now on Wabbajack users will usually need just Wabbajack page to finish setting up the add-on. 
 * Removed the performance grass mods. Made changes in the Wabbajack's document related to the removal of the performance options.
 > As those were used in the performance profile only.
 
