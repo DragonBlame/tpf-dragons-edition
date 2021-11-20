@@ -63,9 +63,13 @@ you see below.
 
 After that customize your character to your heart's content. If you want to use hair with physics for men, you will find instructions on how to obtain them a bit later.
 
+---
+
 When Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
+
+---
 
 Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue with MCM configurations below. 
 They are **optional, but higly recommended** (especially the one for potions and for ending the world). Blame yourself (not dragon) if you didn't and
@@ -110,10 +114,14 @@ transformation, after transforming at least once, save your game. When
 you transform again, it will be at the top of the screen near your
 compass.
 
+---
+
 Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
 
 * **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
+
+---
 
 If you don't care about points above, feel free to skip. I **definitely recommend** you to check the one about Helgen Reborn book. 
 So about these things for you to know about:
@@ -123,6 +131,8 @@ So about these things for you to know about:
 * **About Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide). Also remember to unhide the quest through _Hide Your Quests_ MCM if you have decided to hide it.
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
+
+---
 
 And that's it! You are ready for the action.
 
