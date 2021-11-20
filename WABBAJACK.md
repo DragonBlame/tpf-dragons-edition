@@ -67,6 +67,62 @@ When Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue configurations below.
+Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue with MCM configurations below. 
+They are **optional, but higly recommended** (especially the one for potions and for ending the world). Blame yourself (not dragons) if you didn't and
+don't like something later. :P 
 
+* **Cond. Expressions** - Disable out of stamina, in pain,
+headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
+* **Diziet’s Auto Outfits** - In configuration settings, check the option
+to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
+* **End Times** - This mod makes us not decline the main quest of Skyrim for all time. Especially considering the fact that is it tied to some of the added quest mods and 
+that is not immersive to catch butterflies instead of saving the world, I think it is a very good addition. 
+Lock the slider to not be tempted to change the final date all time. 
+One in-game year (approximately **18 real life days**) is good enough (and even feels right somehow) as a default setting to 
+do many other things in between saving the world for the first time. And don't worry - **the game won't end if you kill Alduin**. Also disable the spell and 
+countdown as those are pretty annoying. You can always enter into MCM again to see how much time you have left. 
+**Be warned that this is active even if you don't change things anyhow.**
+* **Hide Your Quests** - I recommend to hide right away all quests you get
+right at the beginning except the main one (Unbound), because you mustn't
+start Helgen Reborn quest right at the beginning (read Gameplay Guide
+for more information) and because The Sinister Seven quest isn’t the one
+where you go to objective, just hide it, quest givers will look for you
+when a time comes and then you can unhide it. Tried to understand how to make the quest with
+Thalmor involved appear after you finish Diplomatic Immunity quest for
+immersiveness, but couldn't, will look at that later, so let it be this
+way - you heard about what is happening from elves when you were trying
+to cross Skyrim’s border. You can do it as fast as you want, but enemies
+won’t be the easiest ones to beat. I would recommend getting at least
+level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
+* **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
+option to drop this mod’s potions to 0%. Change the chance of NPCs
+having potions to 20% (we don’t want everyone to have those, right?) and
+the number of potions to 3.
+* **SmoothCam (if you are using the mod from the *Interface* section)** - Activate the preset in *Presets* by pressing on *Slot 1:
+DocOct* in *Load Preset*. If you want, you can also enable
+shoulder swapping in *Following* by choosing your shoulder swap key. I
+recommend one of your mouse’s buttons if you have many buttons on it.
+Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set minimum and
+maximum crosshair size to 40, then set stealth meter's Y offset to 200.
+* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
+text colour to white. The timer won’t work during your first
+transformation, after transforming at least once, save your game. When
+you transform again, it will be at the top of the screen near your
+compass.
+
+Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
+
+* **Animated Shouts** - Press your right *Alt* key.
+* **Look What You See** - Press your *V* key.
+
+If you don't care about some of these points, feel free to skip. So about some things for you to know about related to some of the things:
+
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator. Also a reminder
+* **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
+* * **About Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide). Also remember to unhide the quest through Hide Your Quests MCM, when you decide to do it.
+* **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
+* **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
+
+And that's it! You are ready for the action. If you want to learn more about what the add-on offers, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
+If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#ENB). If you want to help
 
