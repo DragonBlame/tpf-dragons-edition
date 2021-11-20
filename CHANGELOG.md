@@ -83,6 +83,7 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 
 * SmoothCam
 * No Lockpick Activate
+* House of Horrors - Quest Expansion
 * Beyond Skyrim - Bruma
 * Apothecary - Bruma Patch
 * Forceful Tongue - Wyrmstooth Patch
