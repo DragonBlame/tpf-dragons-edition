@@ -120,7 +120,7 @@ So about these things for you to know about:
 
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](DOCUMENTATION.md#tk-dodge-re).
-* * **About Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide). Also remember to unhide the quest through _Hide Your Quests_ MCM if you have decided to hide it.
+* **About Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide). Also remember to unhide the quest through _Hide Your Quests_ MCM if you have decided to hide it.
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 
