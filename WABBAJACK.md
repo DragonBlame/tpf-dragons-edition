@@ -61,14 +61,14 @@ you see below.
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331938-43bb6a6b-dee2-439c-8fae-f3780a734c8a.png" /> 
 </p>
 
-After that customize your character to your heart's content. If you want to use hair with physics for men, you will find instructions on how to obtain them [here]().
+After that customize your character to your heart's content. If you want to use hair with physics for men, you will find instructions on how to obtain them a bit later.
 
 When Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
 Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue with MCM configurations below. 
-They are **optional, but higly recommended** (especially the one for potions and for ending the world). Blame yourself (not dragons) if you didn't and
+They are **optional, but higly recommended** (especially the one for potions and for ending the world). Blame yourself (not dragon) if you didn't and
 don't like something later. :P 
 
 * **Cond. Expressions** - Disable out of stamina, in pain,
@@ -115,14 +115,22 @@ Now we need to activate some of the mods to actually make them work. Close the M
 * **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
 
-If you don't care about some of these points, feel free to skip. So about some things for you to know about related to some of the things:
+If you don't care about points above, feel free to skip. I **definitely recommend** you to check the one about Helgen Reborn book. 
+So about these things for you to know about:
 
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator. Also a reminder
-* **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
-* * **About Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide). Also remember to unhide the quest through Hide Your Quests MCM, when you decide to do it.
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](DOCUMENTATION.md#tk-dodge-re).
+* * **About Helgen Reborn book in your inventory** - Can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide). Also remember to unhide the quest through _Hide Your Quests_ MCM if you have decided to hide it.
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 
-And that's it! You are ready for the action. If you want to learn more about what the add-on offers, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
-If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#ENB). If you want to help
+And that's it! You are ready for the action.
 
+If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in 
+TPF Discord server's [#tpf-addons-support](https://discord.gg/jE5UrSDz) channel. If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, please use Posts feature on Nexus or use [#tpf-addons-feedback](https://discord.gg/g9NB7Eqv). Suggestions on how to improve the documentation are also welcome on GitHub. I will post about updates for the add-on in [#the-addons-updates](https://discord.gg/tpf) channel.
+If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
+
+If you want to learn more about what the add-on offers, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
+If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#enb).
+If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in [Discord](https://discord.gg/tpf) too). 
+If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
