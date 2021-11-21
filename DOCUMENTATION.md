@@ -2044,19 +2044,6 @@ Gildergreen growing from the sapling. Let’s change that.*
 
 **Main files** - More Growable Plants_3D Mountain Flowers patch
 
-### [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362)
-
-**Main files** - ENB Lights For Effect Shaders
-
-*Where is a petition that everything needs to be patched for ENB to look
-magnificent? I would have signed it.*
-
-### [Player Spell and Weapon Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/56830)
-
-**Main files** - Player Spell Lighting
-
-**Optional files** - Player Spell Lighting - Mysticism Patch
-
 ### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
 
 **Main files** - ENB Lava Particle Light Patch
