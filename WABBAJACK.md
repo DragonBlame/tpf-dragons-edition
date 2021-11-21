@@ -51,7 +51,7 @@ Finally we are ready to open and finish configuring the game. Above the load ord
 At the beginning, don’t be scared when you see that your character’s hair and/or beard isn't right. we need to actually activate our high poly head in Racemenu and then our hair will look fine. Also choose a beard from High Poly Head and it will look good if that is needed.
 
 <p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331927-051552a4-64d6-420b-8fa4-e18fd232ee4e.png" /> 
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
 </p>
 
 Then find the *Weapons* category and change settings to the same ones
