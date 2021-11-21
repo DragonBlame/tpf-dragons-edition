@@ -46,6 +46,8 @@ there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even
 
 ### Miscellaneous
 
+* Removed _ENB Lights For Effect Shaders_ and _Player Spell and Weapon Lighting_.
+> As those were added to TPF.
 * Added _Storm Lightning - Settings Loader_.
 * Changed installation instructions for _Simply Knock SKSE64 DLL_.
 * Changed installation instructions for _Strange Runes_.
