@@ -2861,8 +2861,8 @@ headache/diseased expressions. It will look odd if our character is constantly s
 * **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
 * **End Times** - Lock the slider to not be tempted to change the final
-date all time. I think one in-game year (approximately 18 real life
-days) is good enough (and even feels right somehow) to stop Alduin and to do many other things in between saving the world for the first time. And don't worry - the game won't end if you kill Alduin. Also disable the spell
+date all time. One in-game year (approximately **18 real life days**) is good enough (and even feels right somehow) as a default setting to 
+do many other things in between saving the world for the first time. And don't worry - **the game won't end if you kill Alduin**. Also disable the spell
 and countdown as those are pretty annoying. You can always enter into MCM again to see how much time
 you have left.
 * **Hide Your Quests** - I recommend to hide right away all quests you get
@@ -2903,7 +2903,7 @@ If you don't care about points below, feel free to skip. So about these things f
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding + spells + another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
 After running the game at least once I recommend you to do this:
 
