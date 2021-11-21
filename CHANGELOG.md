@@ -65,6 +65,11 @@ there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even
 * Removed _Literally Unplayable - Ordinary Women Patch_.
 > As the latest _The Ordinary Women_ update resolved the head parts issue.
 
+### Preparations
+
+* Added instructions to get back _Relightning Skyrim_.
+> I want to stay with it for a while.
+
 ### Configurations
 
 * Overhauled.
