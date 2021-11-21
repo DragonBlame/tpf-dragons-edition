@@ -98,6 +98,7 @@ there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even
 overall I have spent too much of time and resources on that (outputs). I have never thought of my add-on as the performance friendly one, 
 so there isn't even a point in maintaining the performance changes for me, especially considering the fact that many people, who struggle with performance already, use just TPF or something even lighter. And especially considering the exterior changes my add-on makes, which maybe or maybe not will become even bigger in the future. Of course, 
 you can make the changes to performance and DynDOLOD by yourself if you want and know how to, but don't ask for advice on these ones in channels related to add-ons.
+* Many other tweaks here and there.
 
 ### Wabbajack
 
