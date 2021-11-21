@@ -58,7 +58,7 @@ Then find the *Weapons* category and change settings to the same ones
 you see below.
 
 <p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765664-a797f071-bcc2-4daf-afd8-e7adff8556a0.png" /> 
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765697-cf283484-96bd-4c45-81b7-ccb88554f523.png" /> 
 </p>
 
 After that customize your character to your heart's content. If you want to use hair with physics for men, you will find instructions on how to obtain them a bit later.
