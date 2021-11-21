@@ -2850,15 +2850,6 @@ you see below.
 
 After that customize your character to your heart's content.
 
-Later into the game, if you are planning to use shields and if you find
-one, I recommend you to go into the console with ~ key, type
-`showracemenu`, press *Enter* and make corrections to your shield’s
-position using settings you can again see below. Don’t
-overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name mid-game - that won't make the game happy. After setting up the settings,
-press *R* and *Enter* and you are done.
-
-![image](https://user-images.githubusercontent.com/37147270/133582938-c749b927-c34d-4bf5-b4c9-cfc29219126b.png)
-
 At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
@@ -3081,6 +3072,16 @@ At first, some juicy tips for peeps, who went right here after mingling with the
 * Thirdly, for people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
 there will be a neat spell book waiting for you somewhere around Riverwood.
 * And another one - be sure to travel around Falkreath. Something interesting might happen.
+
+At second, later into the game, if you are planning to use shields and if you find
+one, I recommend you to go into the console with ~ key, type
+`showracemenu`, press *Enter* and make corrections to your shield’s
+position using settings you can again see below. Don’t
+overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name mid-game - that won't make the game happy. 
+After setting up the settings,
+press *R* and *Enter* and you are done.
+
+![image](https://user-images.githubusercontent.com/37147270/133582938-c749b927-c34d-4bf5-b4c9-cfc29219126b.png)
 
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
