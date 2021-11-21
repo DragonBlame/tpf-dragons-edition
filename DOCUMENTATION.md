@@ -3073,13 +3073,10 @@ At first, some juicy tips for peeps, who went right here after mingling with the
 there will be a neat spell book waiting for you somewhere around Riverwood.
 * And another one - be sure to travel around Falkreath. Something interesting might happen.
 
-At second, later into the game, if you are planning to use shields and if you find
-one, I recommend you to go into the console with ~ key, type
-`showracemenu`, press *Enter* and make corrections to your shield’s
-position using settings you can again see below. Don’t
-overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name mid-game - that won't make the game happy. 
-After setting up the settings,
-press *R* and *Enter* and you are done.
+At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to go into the console with ~ key, 
+type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
+Don’t overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name mid-game - that won't make the game happy. 
+After setting up the settings, press *R* and *Enter* and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/133582938-c749b927-c34d-4bf5-b4c9-cfc29219126b.png)
 
