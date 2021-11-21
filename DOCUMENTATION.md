@@ -2908,8 +2908,9 @@ If you don't care about points below, feel free to skip. So about these things f
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding + spells + another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+
 
 After running the game at least once I recommend you to do this:
 
@@ -3082,7 +3083,7 @@ there will be a neat spell book waiting for you somewhere around Riverwood.
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
 * **Praying** - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
-you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099).
+you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099). 
 * **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
 * You will need to press `,` button to use the whistle in the game.
 **Dragonborn's Powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
@@ -3093,38 +3094,28 @@ About just some of interesting mods I have added:
 
 * **About AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
-* **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". Use AddItemMenu's functionality to at first find another tail by typing `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
-* **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled. Feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+**About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
+* **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
+* **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.
 * **About lockpicking** - Now you don't need to do the annoying lockpicking game anymore. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful too. Locks will break according to your skill too.
 * **About reading** - Now you will get experience boost to your leveling speed in a skill, which you have read about. 
 * **About different coins** - Now there are much more different coins around Skyrim, which will then be converted to their value in septims, when you pick them up.
-* **About bribing** - Now it depends on our speech skill too.
-* **About Dragonborn's unique powers** - After finishing _The Way of the Voice_, you will unlock an interesting power. You will be able to upgrade this power by shouting and killing dragons.
-* **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
-* **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
-* **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
-* **About College of Winterhold** - Now you will actually need magic to beat College of Winterhold. You have been warned.
-* **About stealing** - Now you need to be crouched to steal items, which aren't the ones in containers.
-* **About knocking** - Now you can knock on locked doors by activating them.
-* **About Clairvoyance** - Now it is much more useful. Try it out.
+* **About bribing** - Now it depends on our speech skill too. Be prepared to actually pay if you aren't talkative enough. 
+* **About stealing** - Now you need to be crouched to steal items, which aren't the ones in containers. Finally I won't steal something by accident.
+* **About knocking** - Now you can knock on locked doors by activating them. Good for roleplaying and also useful.
+* **About Clairvoyance** - Now it is much more useful overall. Just try it out (be sure that you have an active quest in your journal).
 * **About being neutral during the Civil War** - Now you can become Thane of Eastmarch without licking Ulfric's boots (that means getting Hjerim, Calder the Housecarl, unblocking Korvanjund and much more). If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/21176).
-* **About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
-* **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
-* **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.
+* **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
+* **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
+* **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
+* **About College of Winterhold** - Now you will actually need magic to beat College of Winterhold. You have been warned. Conjured minions, enhanced weapons, illusion, of course, destruction magic, shouts. Good, old steel isn't as reliable now.
 * **About getting armored pants** - You will be able to get these in exchange for their counterparts (heavy armors) in Skyrim. Just use any forge for that.
 * **About cleaning up your mess** - Now if you have accidentally Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
-* **About Lydia** - If Lydia is too noisy, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
+* **About Lydia** - If Lydia is too noisy for you, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
 * **About Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 
-
-
-
-
 And now just a little heads up and how and when and how you should start newly
-added quests.
-
-The quests, which are added to the add-on, can be split between early
+added quests. They can be split between early
 and mid game and late game ones, because their difficulty slightly
 differs.
 
@@ -3139,8 +3130,6 @@ follower.
 marked as two rocks together) southeast of Helgen.
 * **Moonpath to Elsweyr** - Can be started any time in Bruma’s *Greenwood*,
 the southernmost point of County Bruma.
-* **Identity Crisis** - Can be started any time in *Abandoned Stables*
-southeast of Yngol Barrow. Without a follower.
 * **Moon and Star** - Automatically after finishing the main quest *The* *Way
 of the Voice.*
 * **Carved Bink** - After reaching level 10 in *Abandoned Grotto* west of Lost
