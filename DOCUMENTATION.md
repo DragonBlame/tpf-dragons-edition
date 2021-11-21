@@ -2911,7 +2911,6 @@ If you don't care about points below, feel free to skip. So about these things f
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding + spells + another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-
 After running the game at least once I recommend you to do this:
 
 * **Simple Activate (if you are using the mod from the *Interface* section)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
@@ -3104,6 +3103,7 @@ offer inside their plugins. I have added it for people to know that there is an 
 * **About stealing** - Now you need to be crouched to steal items, which aren't the ones in containers. Finally I won't steal something by accident.
 * **About knocking** - Now you can knock on locked doors by activating them. Good for roleplaying and also useful.
 * **About Clairvoyance** - Now it is much more useful overall. Just try it out (be sure that you have an active quest in your journal).
+* **About being underwater** - Now you cee your oxygen meter while underwater, so you will know how much time you have before comitting to drowning.
 * **About being neutral during the Civil War** - Now you can become Thane of Eastmarch without licking Ulfric's boots (that means getting Hjerim, Calder the Housecarl, unblocking Korvanjund and much more). If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/21176).
 * **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
 * **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
@@ -3189,7 +3189,7 @@ combat oriented character required, very hard mod. After reaching level
 I have tried to write as little information as I could so as not to
 spoil the content. Won’t tell you any details about your potential new
 followers and other surprises as they should be discovered pretty easily
-while exploring.
+while exploring. I hope if you were surprised something (in a good way), this section helped to learn about that a bit more.
 
 ---
 
