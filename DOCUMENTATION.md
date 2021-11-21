@@ -2838,14 +2838,14 @@ look fine. Also choose a beard from High Poly Head and it will look good
 if that is needed. If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
 
 <p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331927-051552a4-64d6-420b-8fa4-e18fd232ee4e.png" /> 
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
 </p>
 
 Then find the *Weapons* category and change settings to the same ones
 you see below.
 
 <p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/130331938-43bb6a6b-dee2-439c-8fae-f3780a734c8a.png" /> 
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765697-cf283484-96bd-4c45-81b7-ccb88554f523.png" /> 
 </p>
 
 After that customize your character to your heart's content.
