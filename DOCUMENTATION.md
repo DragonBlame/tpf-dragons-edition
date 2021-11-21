@@ -2783,7 +2783,7 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
     Elementalist* are chosen. Then disable the original Misc. College
     of Winterhold Tweaks.
 
-Then you will need to redownload one mod.
+Then you will need to redownload one mod and to add another two.
 
 ### [Simple Player Homes Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/37236)
 
@@ -2794,6 +2794,22 @@ Then you will need to redownload one mod.
 Rename it to `Simple Player Homes Improvements - TPF Dragon’s Edition`
 right when you are installing the mod. Put it after Simple Player Homes
 Improvements in the _MISCELLANEOUS_ section.
+
+### [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586)
+
+**Miscellaneous files** - Relighting Skyrim SSE with Window Shadows v2.0.0WS
+
+*Because I prefer the older TPF's lightning mod at the moment.*
+
+Put it after _Interior Fog Remover_ in the _LIGHTNING_ section.
+
+### [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586)
+
+**Miscellaneous files** - Relighting Skyrim SSE with Window Shadows v2.0.0WS
+
+*Because I prefer the older TPF's lightning mod at the moment.*
+
+Put it after _Interior Fog Remover_ in the _LIGHTNING_ section. Then disable _Window Shadows RT_ mod in the same section.
 
 After that is done, click anywhere in the load order panel and select
 *Enable all*. Then...
