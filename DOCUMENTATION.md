@@ -170,7 +170,7 @@ I recommend lore friendly markers with an additions of new markers for mines.
 
 ### [Disable Fast Travel SKSE - No Janky Map UI](https://www.nexusmods.com/skyrimspecialedition/mods/54217)
 
-**Main files** - Disable Fast Travel
+**Old files (v. 1.0.)** - Disable Fast Travel
 
 **Instructions** - go to _powerofthree's Tweaks_'s INI (TPF's mod in the _Fixes_ section), in line 7, change _Map Marker Placement Fix_ to `false`.
 
