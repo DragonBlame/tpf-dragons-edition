@@ -14,6 +14,7 @@
 * Added _Oxygen Meter_.
 * Changed FOMOD instructions for _SmoothCam_.
 * Changed installation instructions for _No Lockpick Activate_.
+* Changed installation instructions for _Disable Fast Travel SKSE - No Janky Map UI_.
 
 ### New Content
 
