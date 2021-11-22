@@ -71,12 +71,8 @@ left side of the screen disappear).
 
 ---
 
-Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue with MCM configurations below. 
-They are **optional, but higly recommended** (especially the one for potions and for ending the world). Blame yourself (not dragon) if you didn't and
-don't like something later. :P 
+Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue with MCM configurations below.
 
-* **Cond. Expressions** - Disable out of stamina, in pain,
-headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
 * **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
 * **End Times** - This mod makes us not decline the main quest of Skyrim for all time. Especially considering the fact that is it tied to some of the added quest mods and 
@@ -102,12 +98,6 @@ level 15. Don't forget to unhide the quests, when you actually would want and wo
 option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
 the number of potions to 3.
-* **SmoothCam (if you are using the mod from the *Interface* section)** - Activate the preset in *Presets* by pressing on *Slot 1:
-DocOct* in *Load Preset*. If you want, you can also enable
-shoulder swapping in *Following* by choosing your shoulder swap key. I
-recommend one of your mouse’s buttons if you have many buttons on it.
-Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set minimum and
-maximum crosshair size to 40, then set stealth meter's Y offset to 200.
 * **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
