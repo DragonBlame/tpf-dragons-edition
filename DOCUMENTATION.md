@@ -2838,8 +2838,6 @@ left side of the screen disappear).
 
 At second, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
 
-* **Cond. Expressions** - Disable out of stamina, in pain,
-headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
 * **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
 * **End Times** - Lock the slider to not be tempted to change the final
@@ -2847,33 +2845,17 @@ date all time. One in-game year (approximately **18 real life days**) is good en
 do many other things in between saving the world for the first time. And don't worry - **the game won't end if you kill Alduin**. Also disable the spell
 and countdown as those are pretty annoying. You can always enter into MCM again to see how much time
 you have left.
-* **Hide Your Quests** - I recommend to hide right away all quests you get
-right at the beginning except the main one (Unbound), because you mustn't
-start Helgen Reborn quest right at the beginning (read Gameplay Guide
-for more information) and because The Sinister Seven quest isn’t the one
-where you go to objective, just hide it, quest givers will look for you
-when a time comes and then you can unhide it. Tried to understand how to make the quest with
-Thalmor involved appear after you finish Diplomatic Immunity quest for
-immersiveness, but couldn't, will look at that later, so let it be this
-way - you heard about what is happening from elves when you were trying
-to cross Skyrim’s border. You can do it as fast as you want, but enemies
-won’t be the easiest ones to beat. I would recommend getting at least
-level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
 * **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
 the number of potions to 3.
-* **SmoothCam (if you are using the mod from the *Interface* section)** - Activate the preset in *Presets* by pressing on *Slot 1:
-DocOct* in *Load Preset*. If you want, you can also enable
-shoulder swapping in *Following* by choosing your shoulder swap key. I
-recommend one of your mouse’s buttons if you have many buttons on it.
-Then in *Crosshair*, enable *3D Magic Crosshair,* enable size manipulation, set minimum and
-maximum crosshair size to 40, then set stealth meter's Y offset to 200.
+* **Storm Lightning** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
 * **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
 you transform again, it will be at the top of the screen near your
 compass.
+* **Wyrmstooth** - Change starting requirements to be the quest starting after _A Blade in the Dark_ quest is done (otherwise it feels too soon for an organization to give this quest out).
 
 Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
 
@@ -2887,7 +2869,7 @@ If you don't care about points below, feel free to skip. So about these things f
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-After running the game at least once I recommend you to do this:
+After running the game at least once I recommend you to do this to know which difficulty lock you are going to pick:
 
 * **Simple Activate (if you are using the mod from the *Interface* section)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
 
@@ -2911,7 +2893,7 @@ If you want to help even more, you can donate to me (via PayPal) by pressing [he
 If you are interested in changing TPF’s default ENB to what I use
 personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
 
-If you want to learn more about what the add-on offers, check [Gameplay Guide](#gameplay-guide). 
+If you want to learn more about what the add-on offers and just some additional information, check [Gameplay Guide](#gameplay-guide). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
 please use Posts feature on Nexus or use [#tpf-addons-feedback](https://discord.gg/tpf). Suggestions on how to improve the documentation are also welcome on GitHub. 
@@ -3061,6 +3043,22 @@ Don’t overdo these or animations will look funky. And for all our sakes - don'
 After setting up the settings, press *R* and *Enter* and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
+
+At third, look at some of these additional MCM configurations if you wish:
+
+* **Cond. Expressions** - Disable out of stamina, in pain,
+headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
+* **Hide Your Quests** - I recommend to hide right away all quests you get
+right at the beginning except the main one (Unbound), because you mustn't
+start Helgen Reborn quest right at the beginning (read further to learn why) and because The Sinister Seven quest isn’t the one
+where you go to objective, just hide it, quest givers will look for you
+when a time comes and then you can unhide it. Tried to understand how to make the quest with
+Thalmor involved appear after you finish Diplomatic Immunity quest for
+immersiveness, but couldn't, will look at that later, so let it be this
+way - you heard about what is happening from elves when you were trying
+to cross Skyrim’s border. You can do it as fast as you want, but enemies
+won’t be the easiest ones to beat. I would recommend getting at least
+level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
 
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
