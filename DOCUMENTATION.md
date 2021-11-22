@@ -159,12 +159,6 @@ active effects by their expiration time and by making equipped items grouped rig
 *It makes you aware of known weapon and armor enchantments, 
 books you have read and it tells you about which kind of skill you can level by reading book.*
 
-### [Pastel SkyUI Markers](https://www.nexusmods.com/skyrimspecialedition/mods/13604)
-
-**Main files** - Pastel SkyUI SkyHUD
-
-*Makes markers on the map and the compass more distinguishable, while making them also better to look at.*
-
 ### [Detailed Mine Markers](https://www.nexusmods.com/skyrimspecialedition/mods/3172)
 
 **Main files** - Detailed Mine Markers v1.4
@@ -477,10 +471,6 @@ younger.*
 ### [Imperial City LOD for Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/11010?tab=files)
 
 **Main files** - Whitegoldtowerfix
-
-### [Bruma Ugly Love Script Fix](https://www.nexusmods.com/skyrimspecialedition/mods/52506?tab=files)
-
-**Main files** - BS-Bruma Ugly Love Script Fix
 
 ### [Beyond Skyrim - Bruma Location Styled Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/23089?tab=files)
 
@@ -1091,7 +1081,7 @@ Lanterns of Skyrim II`.
 
 ### [Cities of the North - Falkreath Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/56734)
 
-**New files** - Cities of the North - Falkreath Patch Collection
+**Main files** - Cities of the North - Falkreath Patch Collection
 
 **FOMOD** - `The Great Cities - Minor Cities and Towns, TGC - Helgen Reborn, TGC - Clockwork, Lanterns of Skyrim II, TGC - LAWF, 3DNPC, AI Overhaul, Bring Meeko to Lod, Immersive Patrols II, Skyrim 3D Signs`, **untick** `Janquel's Addons, Landscape and Grass Fixes`.
 
@@ -1111,7 +1101,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Village of Old Hroldan Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/37650)
 
-**Main files* - The Great Village of Old Hroldan Patch Collection
+**Main files** - The Great Village of Old Hroldan Patch Collection
 
 **FOMOD** - `3DNPC, AI Overhaul, Landscape and Water Fixes, Lanterns of Skyrim II, USSEP`.
 
@@ -1121,7 +1111,7 @@ Lanterns of Skyrim II`.
 
 ### [The Great Town of Ivarstead Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/36380)
 
-**Old files (v. 2.3.)** - Great Town of Ivastead Patch Collection
+**Main files** - Great Town of Ivastead Patch Collection
 
 **FOMOD** - `3DNPC, AI Overhaul, Embers HD, Landscape and Water Fixes, Landscape Grass Fix, Realistic Water Two, USSEP, Lanterns of Skyrim II`, Kaidan 2 - `Non-JK`.
 
