@@ -1,6 +1,6 @@
 ![image](images/Banner.png)
-# <p align="center">Version 1.10.</p>
-### <p align="center">For 4.9.1.1. v. of TPF</p>
+# <p align="center">Version 1.11.</p>
+### <p align="center">For 4.9.5. v. of TPF</p>
 
 ---
 
@@ -10,3 +10,6 @@
   <a href="CHANGELOG.md">Changelog</a> ·
   <a href="WABBAJACK.md">Wabbajack</a>
 </p>
+
+
+

@@ -2,150 +2,147 @@
 
 # Changelog
 
-## Version 1.10.
+## Version 1.11.
 
-> Updated final patches and all outputs.
+> Updated final patches, all outputs.
+> Previous changelogs can be found in the releases.
 
 ### Interface
 
-* Removed _Alternate Conversation Camera Plus_.
-> As it was added to TPF. We are also using TPF's default settings for the mod, because many people have actually said that they don't like mine.
-* Removed _SmoothCam - Octavian's Preset_. Added _SmoothCam - DocOct Preset_.
-> Upgraded version of the preset we have used before.
+* Removed _Pastel SkyUI Markers_.
+> Unfortunately together with TPF's _CoMAP_, they don't make the greatest combo without a patch to make CoMAP markers use pastel colours too. I let people decide, what they would want to see, and the decision was made.
+* Added _Oxygen Meter_.
+* Changed FOMOD instructions for _SmoothCam_.
+* Changed installation instructions for _No Lockpick Activate_.
+* Changed installation instructions for _Disable Fast Travel SKSE - No Janky Map UI_.
 
 ### New Content
 
-* Added _Nilheim - Misc Quest Expansion_, _House of Horrors - Quest Expansion_ and _The Only Cure - Quest Expansion_.
-* Added _Interesting Follower Requirements for Interesting NPCs_.
-* Added _Darkend - Enemy Rebalance_.
-* Removed _Identity Crisis_.
-> Unfortunately the mod not only makes a bunch of navmesh conflicts and deleted navmeshes, but also is the culprit of making Volkihar Castle not reachable by any means, 
-so for now we will say goodbye.
-* Changed FOMOD instructions for _Opulent Thieves Guild Patch Collection_.
-* Moved _JK's The Ragged Flagon_ to the _Interiors_ section.
-* Changed FOMOD instructions for _Additional Clockwork_.
-* Changed installation instructions for _Additional Clockwork_.
-* Changed _The Wheels of Lull_ order.
-* Changed installation and FOMOD instructions for _The Wheels of Lull_.
+* Removed _Bruma Ugly Love Script Fix_.
+> Not needed anymore with the latest updates of _Beyond Skyrim - Bruma_.
+* Added _Wyrmstooth - Settings Loader_.
+* Changed installation instructions for _Gladys the Corgi - A Custom Dog Follower Mod_.
 
 ### Exteriors
 
-
-* Changed FOMOD instructions for _Cities of the North - Dawnstar Patch Collection_.
-* Changed installation and FOMOD instructions for _Cities of the North - Winterhold Patch Collection_.
-* Changed installation instructions for _The Great Town of Karthwasten Patch Collection_.
-* Changed installation instructions for _The Great Village of Old Hroldan Patch Collection_.
-* Changed installation instructions for _The Great Town of Ivarstead Patch Collection_.
-* Changed installation instructions for _The Great Town of Shor's Stone Patch Collection_.
-* Changed installation instructions for _The Great Village of Mixwater Mill Patch Collection_.
-* Changed installation instructions for _The Great Village of Kynesgrove Patch Collection_.
+* Added _Happy Little Trees_.
+* Added _Cities of the North - Falkreath_ and _Cities of the North - Falkreath Patch Collection_.
+* Added _Bent Pines_.
+* Changed installation instructions for _Cities of the North - Winterhold Patch Collection_, _The Great Town of Karthwasten Patch Collection_, _The Great Town of Ivarstead Patch Collection_, _The Great Village of Old Hroldan Patch Collection_, _The Great Town of Shor's Stone Patch Collection_, _The Great Village of Mixwater Mill Patch Collection_ and _The Great Village of Kynesgrove Patch Collection_.
+> _The newest version of Lanterns of Skyrim II doesn't mess up with patches not be used with earlier version of the mod, so the newest patches for these mods can be safely used._
+* Changed mod and load order for some mods.
 
 ### Interiors
 
-* Removed _Hearthfire - Unique Display Rooms_.
-> Taking into consideration that it just adds cellars to our build by ourselves houses without actually doing anything in the places we would have loved to be overhauled and 
-that it has deleted navmeshes.
-* Added _JK's Temple of Kynareth_ and _JK's Temple of the Divines_.
-* Moved _JK's The Ragged Flagon_ here from the _New Content_ section.
-* Changed installation instructions for _JK's Elgrims Elixirs_.
-* Changed installation and FOMOD instructions for _JK's Interiors Patch Collection_.
+* Added _JK's Temple of Talos._
+* Changed FOMOD instructions for _JK's Interiors Patch Collection_.
 
 ### Appearance
 
-* Changed installation and FOMOD instructions for _Masculine Argonian Textures_.
+* Removed _KS Hairdos Lite_.
+* Added _KS Hairdos_ and _Immersive KS Hairdos_.
+> I felt that _KS Hairdos Lite_ gave us a little bit too less choice on which hairstyle to pick. _KS Hairdos_ is too massive for us, so
+there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even sorting the mod's hair by their size.
 
 ### Gameplay Overhauls
 
-* Changed FOMOD instructions for _Pilgrim - A Religion Overhaul_.
+* Changed installation instructions for _Reading Is Good_.
 
 ### Miscellaneous
 
-* Removed _Simple Load Screens_. Added _Starlit Lakes Loading Screens_ and _Interesting Loading Screens_.
-* Changed installation instructions for _powerofthree's Papyrus Extender_.
-* Changed the name for _Player Spell and Weapon Lighting_.
+* Removed _ENB Lights For Effect Shaders_ and _Player Spell and Weapon Lighting_.
+> As those were added to TPF.
+* Added _Storm Lightning - Settings Loader_.
+* Changed installation instructions for _Simply Knock SKSE64 DLL_.
+* Changed installation instructions for _Forget Spell_.
 * Changed installation instructions for _Strange Runes_.
-* Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ here from the the _Music & Sound FX_ section.
-
-### Music & Sound FX
-
-* Removed _Nordic Shouts - Enigma Series_, _Better Sounding Female Dragon Shouts_, _TPF Dragon's Edition - Music Patch_ and all music mods.
-* Moved _Talkative Dragons_, _Talkative Dragons - Audio Replacer_ and _BA Bard Songs_ to the _Miscellaneous_ section.
-* Removed the section completely.
-> And as the music was added back again to TPF, I don't need to worry about that anymore. 
-Conflicts with the quest mods were resolved in my conflict resolution patches. Considering a fact that not all people liked the overhauled shouting voices, the vanilla ones aren't exactly bad and me not wanting to keep this section for just those two mods, I have decided to remove them.
 
 ### Skeleton & Animations
 
-* Removed _First Person Combat Animations Overhaul_.
-> After playing with it for a while I understood that it is a little bit too much. And then everything else followed.
-* Removed _Tiny Improvement for 1st Person Crossbow Animations_.
-> With the mod each crossbow was constantly jiggling while being in idle position.
-* Removed _Blocking Animation Pack_.
-> It just doesn't offer much and much of it conflicts with a new addition.
-* Added _Ice Skating Fixed_.
-* Added many of Vanargrand and Leviathan animation packs.
-* Added _Crosshair-aligned Crossbow_.
-* Added 60 mana cost to Tarhiel's Gale. It can be reduced by investing into alteration.
-* Changed installation instructions for _TK Dodge RE_.
+* Changed configuration instructions for _Simple Dual Sheath_.
+* Added _Vanargand Animations - One Handed Normal Attacks_.
 
-### ENB
+### NPC Overhauls
 
-* Added _Viven Rain for ENB_.
-* Changed configurations for interiors' brightness.
-* Added additional instructions for users, which have installed TPF's modpack and now want to follow my add-on manually.
+* Changed installation and added FOMOD instructions for _The Ordinary Women_.
+
+### Literally Unplayable
+
+* Removed _Literally Unplayable - Ordinary Women Patch_.
+> As the latest _The Ordinary Women_ update resolved the head parts issue.
+
+### Preparations
+
+* Added instructions to get back _Relightning Skyrim_.
+> I want to stay with it for a while.
+
+### Configurations
+
+* Overhauled.
+* Removed some of MCMs to change.
+> Because all removed ones are automated, no need to worry about them anymore.
+* Moved much of the information to _Gameplay Guide_.
+* Removed information for Wabbajack users.
+> As their _Wabbajack_ page also got overhauled.
 
 ### Gameplay Guide
 
-* Changed information about _Darkend_.
+* Overhauled.
+* Added information here from _Configurations_.
+
+### Thank You
+
+* Overhauled.
+* Added links to TPF's Discord server and information about my Paypal.
 
 ---
 
 ### Other Changes
 
-* Fixed the problem of not being able to get to Volkihar Castle.
-* Fixed Laelette's and other vampires black face issues.
-* Changed mod order for the _Interface_, _Interiors_, _Apparel & Weapons_, _Gameplay Overhauls_, _Miscellaneous_ and _Skeleton & Animations_ section.
-> Just to make more sense. Will do that _New Content_ and _Exteriors_ too, but later.
-* Overhauled _Configurations_ section.
-* Added _Requirements_ section on the main page of the add-on.
-> Mainly because of Microsoft .NET 5.0.
-* Removed MCM instructions for _Strange Runes_.
-> One of the latest updates finally addressed issues with the mod and NPCs, so we don't need to deactivate runes for NPCs anymore.
-* Changed MCM instructions for _Look What You See_ and _SmoothCam_.
+* Removed the performance profile and the performance output of DynDOLOD.
+> This change probably won't be the most appealing one for everyone. I have tried to maintain the performance part as much as I can, but 
+overall I have spent too much of time and resources on that (outputs). I have never thought of my add-on as the most performance friendly one 
+(even though without its performance profile it is still easier on performance than Elysium and similar lists, so it is still an option for not as top-tier PCs), 
+so I was a bit annoyed by keeping it up for every single time, especially considering the fact that many people, who struggle with performance already on TPF, use just TPF's performance profile or something even lighter. And especially considering the exterior changes my add-on makes, which maybe or maybe not will become even bigger in the future. Of course, 
+you can make the changes to performance and DynDOLOD by yourself if you want and know how to, but don't ask for advice on these ones in channels related to add-ons.
+* Changed some pictures in the documentation to be up to date with the add-on.
+* Many other tweaks here and there.
 
 ### Wabbajack
 
-* Changed the instructions for Wabbajack users, which were related to the optional mods.
-> As the _Music & Sound FX_ section was removed, there is only the _Interface_ section left.
-* Removed unpacked scripts.
-* Changed brightness in interiors.
-> Those are just a little bit more brighter now, which is still darker than default values.
-* Added outputs, which are being generated, after the game runs for the first time.
+* Changed the add-on's files to be compatible with Anniversary Edition (without CC content).
+> At least for now. The only mod I maybe care about is Saints & Seducers (as it is a quest mod), I will look at it and if its compatible with the content we already have. You don't need to delete anything CC related.
+* Overhauled _Wabbajack_ page.
+> From now on Wabbajack users will usually need just Wabbajack page to finish setting up the add-on.
+* Added mods' outputs to final patches, so manual guide users can also benefit from them.
+* Removed the performance grass mods. Made changes in the Wabbajack's document related to the removal of the performance options.
+> As those were used in the performance profile only.
+* Moved walls and landscape around Morskom. 
+> Thanks again to Sovn for the patch. There will be a little defect seen near the palace on the ground, but that should be the only one.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* Serana Dialogue Add-On
-* Additional Clockwork
-* The Tools of Kagrenac
-* The Wheels of Lull
-* Wyrmstooth
-* Dragon War - Wyrmstooth Patch
+* SmoothCam
+* No Lockpick Activate
+* House of Horrors - Quest Expansion
+* Beyond Skyrim - Bruma
+* Apothecary - Bruma Patch
+* Forceful Tongue - Wyrmstooth Patch
+* Apothecary - Wyrmstooth Patch
+* Lucien - Immersive Fully Voiced Male Follower
+* Gladys the Corgi - A Custom Dog Follower Mod
 * Merlin the Corgi - A Magical Dog Follower Mod
-> There was actually a fast travel CTD issue related to this mod, which is fixed in this update.
 * Undeath - Classical Lichdom
 * Cities of the North - Winterhold Patch Collection
-* Cities of the North - Dawnstar Patch Collection
-* Cities of the North - Morthal Patch Collection
+* The Great Town of Karthwasten Patch Collection
+* The Great Village of Old Hroldan Patch Collection
+* The Great Town of Ivarstead Patch Collection
+* The Great Town of Shor's Stone Patch Collection
+* The Great Village of Mixwater Mill Patch Collection
 * The Great Village of Kynesgrove Patch Collection
-* JK's The Bannered Mare
-* JK's Sadris Used Wares
+* JK's The Winking Skeever
 * JK's Interiors Patch Collection
-* Masculine Argonian Textures
-* Pilgrim - A Religion Overhaul
-* C.O.I.N. - Coins of Interesting Natures
-* powerofthree's Papyrus Extender
-* Navigator - Navmesh Fixes
-* Player Spell and Weapon Lighting
+* Masculine Khajiit Textures
 * Strange Runes
-* TK Dodge RE
-* DynDOLOD's resources
+* Vanargand Animations - One Handed Mid Stance
+* The Ordinary Women
