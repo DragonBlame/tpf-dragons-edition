@@ -102,6 +102,7 @@ overall I have spent too much of time and resources on that (outputs). I have ne
 (even though without its performance profile it is still easier on performance than Elysium and similar lists, so it is still an option for not as top-tier PCs), 
 so I was a bit annoyed by keeping it up for every single time, especially considering the fact that many people, who struggle with performance already on TPF, use just TPF's performance profile or something even lighter. And especially considering the exterior changes my add-on makes, which maybe or maybe not will become even bigger in the future. Of course, 
 you can make the changes to performance and DynDOLOD by yourself if you want and know how to, but don't ask for advice on these ones in channels related to add-ons.
+* Changed some pictures in the documentation to be up to date with the add-on.
 * Many other tweaks here and there.
 
 ### Wabbajack
