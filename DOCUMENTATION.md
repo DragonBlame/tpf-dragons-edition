@@ -1873,7 +1873,7 @@ MCM.*
 
 ### [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
 
-**Main files** - Forget Spell
+**Old files (v. 1.2.2.)** - Forget Spell
 
 **FOMOD** - `Skyrim Special Edition, SkyUI`.
 
