@@ -43,6 +43,10 @@
 > I felt that _KS Hairdos Lite_ gave us a little bit too less choice on which hairstyle to pick. _KS Hairdos_ is too massive for us, so
 there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even sorting the mod's hair by their size.
 
+### Gameplay Overhauls
+
+* Changed installation instructions for _Reading Is Good_.
+
 ### Miscellaneous
 
 * Removed _ENB Lights For Effect Shaders_ and _Player Spell and Weapon Lighting_.
@@ -95,8 +99,8 @@ there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even
 * Removed the performance profile and the performance output of DynDOLOD.
 > This change probably won't be the most appealing one for everyone. I have tried to maintain the performance part as much as I can, but 
 overall I have spent too much of time and resources on that (outputs). I have never thought of my add-on as the most performance friendly one 
-(even without its performance profile it is still easier on performance than Elysium and similar lists, so there is still some option for not as good PCs), 
-so there isn't even a point in maintaining the performance changes for me, especially considering the fact that many people, who struggle with performance already on TPF, use just TPF or something even lighter. And especially considering the exterior changes my add-on makes, which maybe or maybe not will become even bigger in the future. Of course, 
+(even though without its performance profile it is still easier on performance than Elysium and similar lists, so it is still an option for not as top-tier PCs), 
+so I was a bit annoyed by keeping it up for every single time, especially considering the fact that many people, who struggle with performance already on TPF, use just TPF's performance profile or something even lighter. And especially considering the exterior changes my add-on makes, which maybe or maybe not will become even bigger in the future. Of course, 
 you can make the changes to performance and DynDOLOD by yourself if you want and know how to, but don't ask for advice on these ones in channels related to add-ons.
 * Many other tweaks here and there.
 
