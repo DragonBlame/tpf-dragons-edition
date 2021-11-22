@@ -6,7 +6,7 @@
 
 Wabbajack allows you to install my modpack to your PC by duplicating my setup directly to your PC, including each mod, setting, output etc. If you want to learn more about Wabbajack in general, refer to Phoenix's article, [_About Wabbajack_](https://thephoenixflavour.com/wj/about-wabbajack/).
 
-If you would like to learn more about the add-on, be sure to visit its home page [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973).
+If you would like to learn more general information about the add-on, be sure to visit its home page again [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973).
 
 ---
 
