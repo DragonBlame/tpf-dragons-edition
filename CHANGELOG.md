@@ -109,7 +109,8 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * Changed the add-on's files to be compatible with Anniversary Edition (without CC content).
 > At least for now. The only mod I maybe care about is Saints & Seducers (as it is a quest mod), I will look at it and if its compatible with the content we already have. You don't need to delete anything CC related.
 * Overhauled _Wabbajack_ page.
-> From now on Wabbajack users will usually need just Wabbajack page to finish setting up the add-on. 
+> From now on Wabbajack users will usually need just Wabbajack page to finish setting up the add-on.
+* Added mods' outputs to final patches, so manual guide users can also benefit from them.
 * Removed the performance grass mods. Made changes in the Wabbajack's document related to the removal of the performance options.
 > As those were used in the performance profile only.
 * Moved walls and landscape around Morskom. 
