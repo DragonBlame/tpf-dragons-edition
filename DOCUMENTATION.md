@@ -2871,10 +2871,6 @@ So about these things for you to know about:
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 * **About being neutral during the war** - There will be a note in Dragonseach about neutrality in war. Pick it up only if you want to be neutral during the war. Like before, more information about that can be found [here](#gameplay-guide).
 
-After running the game at least once I recommend you to do this to know which difficulty lock you are going to pick:
-
-* **Simple Activate (if you are using the mod from the *Interface* section)** - After running the game at least once, there will be _po3_SimpleActivateSKSE.ini_ file inside your overwrite folder under some other folders. Open it, **ONLY** in line 50, delete everything after _Custom Locked Tag =_. Don't forget to save.
-
 And just wanted to add some info about two important things. Helgen Reborn book in your inventory can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through _Hide Your Quests_ before doing it if you have decided to hide it before.
 There will be a note in Dragonseach about neutrality in war. Pick it up only if you want to be neutral during the war. Like before, more information about that can be found [here](#gameplay-guide).
 
