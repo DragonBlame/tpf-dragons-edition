@@ -2836,7 +2836,7 @@ At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-At second, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then continue with configurations below.
+At second, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section if that wasn't done before. Then continue with configurations below.
 
 * **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
