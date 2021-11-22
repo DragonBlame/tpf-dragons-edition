@@ -27,8 +27,7 @@
 * Added _Happy Little Trees_.
 * Added _Cities of the North - Falkreath_ and _Cities of the North - Falkreath Patch Collection_.
 * Added _Bent Pines_.
-* Changed installation instructions for _Cities of the North - Winterhold Patch Collection_, _The Great Town of Karthwasten Patch Collection_, _The Great Village of Old Hroldan Patch Collection_, _The Great Town of Shor's Stone Patch Collection_, _The Great Village of Mixwater Mill Patch Collection_ and 
-_The Great Village of Kynesgrove Patch Collection_.
+* Changed installation instructions for _Cities of the North - Winterhold Patch Collection_, _The Great Town of Karthwasten Patch Collection_, _The Great Town of Ivarstead Patch Collection_, _The Great Village of Old Hroldan Patch Collection_, _The Great Town of Shor's Stone Patch Collection_, _The Great Village of Mixwater Mill Patch Collection_ and _The Great Village of Kynesgrove Patch Collection_.
 > _The newest version of Lanterns of Skyrim don't mess up with lanterns separately, so the newest patches for these mods can be safely used._
 * Changed mod and load order for some mods.
 
