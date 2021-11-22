@@ -1581,7 +1581,7 @@ Your lockpicks' breaking rate is also being affected by your skills.*
 
 ### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
 
-**Main files** - Reading Is Good SE
+**Old files (v. 1.1.0.)** - Reading Is Good SE
 
 *Makes us smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.*
 
