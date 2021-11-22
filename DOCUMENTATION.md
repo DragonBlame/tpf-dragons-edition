@@ -2060,7 +2060,7 @@ as the obligatory part, the mods we are going to add will make us use
 dual sheath animations.
 
 **INI in Simple Dual Sheath** - In line 23, change *Flags* to
-`Player|FirstPerson`, then in line 38, change *DisableHideOnSit* to
+`Player`, then in line 38, change *DisableHideOnSit* to
 `Player|MountOnly`.
 
 Create a separator and name it `SKELETON & ANIMATIONS EXTENDED` and place it
