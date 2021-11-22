@@ -2932,9 +2932,6 @@ change ENB files and add a good addition for it.
 
 ![image](https://user-images.githubusercontent.com/37147270/142897329-c4888549-e5ee-49d8-a909-306e3e83a03a.png)
 
-![image](https://user-images.githubusercontent.com/37147270/142897982-7884c7a7-4c85-40cf-8fd9-fa76cabcde1d.png)
-*(ft. Little Touches - A Tree Placement for Whiterun City)*
-
 ![image](https://user-images.githubusercontent.com/37147270/142898398-4b2151b2-205a-4c16-a9a3-403839df8a68.png)
 
 ![image](https://user-images.githubusercontent.com/37147270/142898656-c631922a-ebca-4c40-becc-3d8c4451e3af.png)
