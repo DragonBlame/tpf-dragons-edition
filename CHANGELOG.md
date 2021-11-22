@@ -57,6 +57,7 @@ there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even
 
 ### Skeleton & Animations
 
+* Changed configuration instructions for _Simple Dual Sheath_.
 * Added _Vanargand Animations - One Handed Normal Attacks_.
 
 ### NPC Overhauls
