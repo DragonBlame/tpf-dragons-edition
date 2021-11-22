@@ -94,15 +94,16 @@ there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even
 
 * Removed the performance profile and the performance output of DynDOLOD.
 > This change probably won't be the most appealing one for everyone. I have tried to maintain the performance part as much as I can, but 
-overall I have spent too much of time and resources on that (outputs). I have never thought of my add-on as the performance friendly one, 
-so there isn't even a point in maintaining the performance changes for me, especially considering the fact that many people, who struggle with performance already, use just TPF or something even lighter. And especially considering the exterior changes my add-on makes, which maybe or maybe not will become even bigger in the future. Of course, 
+overall I have spent too much of time and resources on that (outputs). I have never thought of my add-on as the most performance friendly one 
+(even without its performance profile it is still easier on performance than Elysium and similar lists, so there is still some option for not as good PCs), 
+so there isn't even a point in maintaining the performance changes for me, especially considering the fact that many people, who struggle with performance already on TPF, use just TPF or something even lighter. And especially considering the exterior changes my add-on makes, which maybe or maybe not will become even bigger in the future. Of course, 
 you can make the changes to performance and DynDOLOD by yourself if you want and know how to, but don't ask for advice on these ones in channels related to add-ons.
 * Many other tweaks here and there.
 
 ### Wabbajack
 
 * Changed the add-on's files to be compatible with Anniversary Edition (without CC content).
-> At least for now. The only mod I maybe care about is Saints & Seducers, maybe I will look at that. You don't need to delete anything CC related.
+> At least for now. The only mod I maybe care about is Saints & Seducers (as it is a quest mod), I will look at it and if its compatible with the content we already have. You don't need to delete anything CC related.
 * Overhauled _Wabbajack_ page.
 > From now on Wabbajack users will usually need just Wabbajack page to finish setting up the add-on. 
 * Removed the performance grass mods. Made changes in the Wabbajack's document related to the removal of the performance options.
