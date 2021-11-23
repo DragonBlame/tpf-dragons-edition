@@ -146,3 +146,8 @@ you can make the changes to performance and DynDOLOD by yourself if you want and
 * Strange Runes
 * Vanargand Animations - One Handed Mid Stance
 * The Ordinary Women
+* AI Overhaul - High Poly Expressive NPCs Patch
+* USSEP - Northbourne NPCs of the Rift - AI Overhaul Patch
+* USSEP - The Ordinary Women - AI Overhaul Patch
+* USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul Patch
+* Updated AI Overhaul - Kalilies NPCs Patch
