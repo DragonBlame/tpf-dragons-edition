@@ -13,7 +13,6 @@
 > Unfortunately together with TPF's _CoMAP_, they don't make the greatest combo without a patch to make CoMAP markers use pastel colours too. I let people decide, what they would want to see, and the decision was made.
 * Added _Oxygen Meter_.
 * Changed FOMOD instructions for _SmoothCam_.
-* Changed installation instructions for _No Lockpick Activate_.
 * Changed installation instructions for _Disable Fast Travel SKSE - No Janky Map UI_.
 
 ### New Content
