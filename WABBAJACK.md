@@ -83,18 +83,6 @@ One in-game year (approximately **18 real life days**) is good enough (and even 
 do many other things in between saving the world for the first time. And don't worry - **the game won't end if you kill Alduin**. Also disable the spell and 
 countdown as those are pretty annoying. You can always enter into MCM again to see how much time you have left. 
 **Be warned that this is active even if you don't change things anyhow.**
-* **Hide Your Quests** - I recommend to hide right away all quests you get
-right at the beginning except the main one (Unbound), because you mustn't
-start Helgen Reborn quest right at the beginning (read Gameplay Guide
-for more information) and because The Sinister Seven quest isn’t the one
-where you go to objective, just hide it, quest givers will look for you
-when a time comes and then you can unhide it. Tried to understand how to make the quest with
-Thalmor involved appear after you finish Diplomatic Immunity quest for
-immersiveness, but couldn't, will look at that later, so let it be this
-way - you heard about what is happening from elves when you were trying
-to cross Skyrim’s border. You can do it as fast as you want, but enemies
-won’t be the easiest ones to beat. I would recommend getting at least
-level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
 * **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
