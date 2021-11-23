@@ -126,11 +126,13 @@ If you don't care about points below, feel free to skip. I **definitely recommen
 
 And that's it! You are ready for the action.
 
-If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in 
-TPF Discord server's [#tpf-addons-support](https://discord.gg/jE5UrSDz) channel. If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, please use Posts feature on Nexus or use [#tpf-addons-feedback](https://discord.gg/g9NB7Eqv). Suggestions on how to improve the documentation are also welcome on GitHub. I will post about updates for the add-on in [#the-addons-updates](https://discord.gg/tpf) channel.
-If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
+If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first. If you have any questions following the add-on's instructions or 
+if you find a typo or any other mistake in the documentation, feel free to report in TPF Discord server's [#tpf-addons-support](https://discord.gg/jE5UrSDz) channel.  
+
+If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, please use Posts feature on Nexus or use [#tpf-addons-feedback](https://discord.gg/g9NB7Eqv). Suggestions on how to improve the documentation are also welcome on GitHub. I will post about updates for the add-on in [#the-addons-updates](https://discord.gg/tpf) channel.
 
 If you want to learn more about what the add-on offers, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
+
 If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#enb).
-If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in [Discord](https://discord.gg/tpf) too). 
-If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
+
+If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in [Discord](https://discord.gg/tpf) too). If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
