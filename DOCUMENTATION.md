@@ -3050,6 +3050,7 @@ After setting up the settings, press *R* and *Enter* and you are done.
 
 At third, look at some of these additional MCM configurations if you wish:
 
+* **Cathedral Weather** - Feel free to enable _Seasonal Perpective_ option. It makes summers appear more warm, while making winters look more cold.
 * **Cond. Expressions** - Disable out of stamina, in pain,
 headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
 * **Hide Your Quests** - I recommend to hide right away all quests you get
