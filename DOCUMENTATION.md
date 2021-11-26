@@ -154,7 +154,7 @@ active effects by their expiration time and by making equipped items grouped rig
 
 ### [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
 
-**Main files** - moreHUD Inventory Edition Loose Version
+**Old files** - moreHUD Inventory Edition Loose Version - Pre AE
 
 *It makes you aware of known weapon and armor enchantments, 
 books you have read and it tells you about which kind of skill you can level by reading book.*
