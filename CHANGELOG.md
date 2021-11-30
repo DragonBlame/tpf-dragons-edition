@@ -22,6 +22,7 @@
 
 * Enabled one of the patches for NPC overhauls back again.
 > Which I have accidentally disabled somehow. Black face issues around Winterhold should be resolved.
+* Added information about add-on's size.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
