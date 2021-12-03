@@ -20,6 +20,10 @@
 * Removed _powerofthree's Papyrus Extender_.
 > Because it was added to TPF.
 
+### Configurations
+
+* Added information about _Frozen Electrocuted Combustion_'s inclusion to the add-on.
+
 ---
 
 ### Other Changes
@@ -35,6 +39,7 @@
 
 * Enabled one of the patches for NPC overhauls back again.
 > Which I have accidentally disabled somehow. Black face issues around Winterhold should be resolved.
+* Added information about _Frozen Electrocuted Combustion_'s inclusion to the add-on.
 * Added information about add-on's size.
 
 ### Updated Add-on's Mods for Wabbajack Users
