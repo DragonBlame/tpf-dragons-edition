@@ -19,6 +19,7 @@
 
 * Removed _powerofthree's Papyrus Extender_.
 > Because it was added to TPF.
+* Added _Face Discoloration Fix_.
 
 ### Preparations
 
