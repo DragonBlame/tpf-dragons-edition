@@ -42,8 +42,9 @@ While following the main documentation, users have a choice to use or not to use
 
 ---
 
-Some mods of TPF are disabled in my add-on. Those are:
+Some mods of TPF are disabled or not even downloaded in my add-on. Those are:
   - _Window Shadows RT_ in TPF's _Lightning_ section, because I prefer _Relighting Skyrim with Window Shadows_ we have used in TPF before.
+  - _Frozen Electrocuted Combustion_ in TPF's _Visual FX_ section, because I don't like the idea overall. It would fit Fallout franchise, but definitely not Elder Scrolls.
   - _Adamant - Shrines and Amulets_ in TPF's _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_ in the TPF's _Miscellaneous_ section, because they both conflict with a mod in our _Gameplay Overhauls_ section called _Pilgrim - A Religion Overhaul_. Don't worry about the last disabled mod, shrines still don't cure diseases with Pilgrim.
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - _Argonian Weight Slider Affected Tails_ and _FVAR - Weight Slider Affected Tails Patch_ in TPF's _Appearance_ section, because they both conflict with a mod in our _Appearance_ section called _Equipable Beast Tails - HDT SMP (Physics)_.
