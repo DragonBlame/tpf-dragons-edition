@@ -2752,6 +2752,11 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
     - **Disable** - disable _Enhanced Blood Textures_ mod in the _VISUAL FX_ separator of TPF.
     - *New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
 
+-   _Frozen Electrocuted Combustion_ in _VISUAL FX_ separator;
+
+    > This time you will need just to disable the mod and its settings loader. I don't like the idea of the mod overall. 
+    It would fit Fallout franchise, but definitely not Elder Scrolls. Also I 
+
 -   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
     `Default undead eyes, weaker lightning for ghosts, a patch for
     Cannibal Draugr, blue skulls, Solstheim version of the patch`;
@@ -2883,10 +2888,12 @@ At last, I recommend you to go through [here](CHANGELOG.md) to see if you didn�
 That’s all, folks! You are set to traverse into another modded world of Skyrim.
 
 If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
-feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-addons-support_ channel.
+feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-addons-support_ channel. If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
+
+I will post about updates for the add-on in _#the-addons-updates_ channel.
 
 If you are interested in changing TPF’s default ENB to what I use
 personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
@@ -2895,10 +2902,6 @@ If you want to learn more about what the add-on offers and just some additional 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
 please use Posts feature on Nexus or use _#tpf-addons-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
-
-I will post about updates for the add-on in _#the-addons-updates_ channel.
-
-If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
 ---
 
