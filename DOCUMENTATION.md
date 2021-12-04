@@ -2883,9 +2883,9 @@ At last, I recommend you to go through [here](CHANGELOG.md) to see if you didn�
 That’s all, folks! You are set to traverse into another modded world of Skyrim.
 
 If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
-feel free to report in TPF Discord server's [#tpf-addons-support](https://discord.gg/tpf) channel.
+feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-addons-support_ channel.
 
-If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in [Discord](https://discord.gg/tpf) too). 
+If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
 If you are interested in changing TPF’s default ENB to what I use
@@ -2894,9 +2894,9 @@ personally or just to learn about my preference in ENBs, continue with the [ENB]
 If you want to learn more about what the add-on offers and just some additional information, check [Gameplay Guide](#gameplay-guide). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
-please use Posts feature on Nexus or use [#tpf-addons-feedback](https://discord.gg/tpf). Suggestions on how to improve the documentation are also welcome on GitHub. 
+please use Posts feature on Nexus or use _#tpf-addons-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
 
-I will post about updates for the add-on in [#the-addons-updates](https://discord.gg/tpf) channel.
+I will post about updates for the add-on in _#the-addons-updates_ channel.
 
 If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
