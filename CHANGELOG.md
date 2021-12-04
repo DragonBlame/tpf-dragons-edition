@@ -40,11 +40,12 @@
 
 ### Wabbajack
 
-* Enabled one of the patches for NPC overhauls back again.
-> Which I have accidentally disabled somehow. Black face issues around Winterhold should be resolved.
+* Added one of the patches for NPC overhauls back again.
+> Which I have accidentally overwritten with another one somehow. Black face issues around Winterhold should be resolved.
 * Made the game borderless again.
 > Forgot to change those back after _SSE Display Tweaks_ update.
-* Added information about _Frozen Electrocuted Combustion_'s inclusion to TPF and its' removal from the add-on.
+* Removed some of the mods, which were just disabled all the time.
+> This change also made the Wabbajack document smaller.
 * Added information about add-on's size.
 
 ### Updated Add-on's Mods for Wabbajack Users
