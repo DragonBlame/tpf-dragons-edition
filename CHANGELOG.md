@@ -35,11 +35,15 @@
 > Thanks again for Guitarninja for giving me an information about this and the other two issues.
 * Changed the books related to _EasierRider's Dungeon Pack_ to be readable.
 * Removed the wall of darkness in the Castle Dour's region, which is involving _Undeath_ mod.
+* Got rid of my plans for the add-on inside the main page.
+> Overall it just felt not needed.
 
 ### Wabbajack
 
 * Enabled one of the patches for NPC overhauls back again.
 > Which I have accidentally disabled somehow. Black face issues around Winterhold should be resolved.
+* Made the game borderless again.
+> Forgot to change those back after _SSE Display Tweaks_ update.
 * Added information about _Frozen Electrocuted Combustion_'s inclusion to TPF and its' removal from the add-on.
 * Added information about add-on's size.
 
