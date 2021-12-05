@@ -122,7 +122,7 @@ while we are trying to shoot, roast, electrocute, freeze etc. things.*
 
 ### [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
 
-**Main files** - QuickLootRE
+**Old files (v. 2.8.6.)** - QuickLootRE
 
 *One of the best additions to Fallout 4 (FO4) was the looting menu,
 which appears right when you move your cursor over lootable item without need to open game's full menu. This mod allows us to use this addition,
