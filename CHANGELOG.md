@@ -72,13 +72,14 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* Enhanced Blood Textures;
-* SmoothCam;
-* Simple Activate;
-* The Gray Cowl of Nocturnal - Add-Ons and Patches;
-* The Tools of Kagrenac;
-* The Grand Paladin - 2021;
-* Undeath - Classical Lichdom;
-* JK's Temple of Talos;
-* Navigator - Navmesh Fixes;
-* Animation Motion Revolution;
+* Enhanced Blood Textures
+* SmoothCam
+* Simple Activate
+* The Gray Cowl of Nocturnal - Add-Ons and Patches
+* The Tools of Kagrenac
+* The Grand Paladin - 2021
+* Undeath - Classical Lichdom
+* JK's Temple of the Divines
+* JK's Temple of Talos
+* Navigator - Navmesh Fixes
+* Animation Motion Revolution
