@@ -69,6 +69,7 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+* SmoothCam;
 * Simple Activate;
 * The Gray Cowl of Nocturnal - Add-Ons and Patches;
 * Navigator - Navmesh Fixes;
