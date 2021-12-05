@@ -11,6 +11,10 @@
 
 * Added additional instructions and changed installation instructions for _Simple Activate_.
 
+### New Content
+
+* Changed installation instructions for _The Gray Cowl of Nocturnal - Add-Ons and Patches_.
+
 ### Appearance
 
 * Removed _Immersive KS Hairdos_.
@@ -66,5 +70,6 @@
 ### Updated Add-on's Mods for Wabbajack Users
 
 * Simple Activate;
+* The Gray Cowl of Nocturnal - Add-Ons and Patches;
 * Navigator - Navmesh Fixes;
 * Animation Motion Revolution;
