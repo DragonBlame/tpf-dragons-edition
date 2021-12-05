@@ -116,7 +116,7 @@ while we are trying to shoot, roast, electrocute, freeze etc. things.*
 
 **Main files** - Simple Activate SKSE - SE
 
-**INI** - 
+**INI** - **Only** in line 86, remove everything after _Custom Locked Tag =_, so you can see levels of locks on things.
 
 *Buttons' image, which we use to interact with objects in Skyrim, is disabled in TPF, so let's do that with the text of these buttons too.*
 
