@@ -1850,6 +1850,12 @@ This mod allows us to do that.*
 *Finally makes Clairvoyance spell useful by making it summon a wisp that
 leads you to your quest objective.*
 
+### [Use Telekinesis on Traps](https://www.nexusmods.com/skyrimspecialedition/mods/59350)
+
+**Old files** - Use Telekinesis on Traps - po3's Papyrus Extender Version
+
+_Sometimes I just can't believe that some of mods like this one appered only recently._
+
 ### [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
 
 **Main files** - CWN - Civil War Neutrality SSE
