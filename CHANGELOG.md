@@ -66,4 +66,5 @@
 ### Updated Add-on's Mods for Wabbajack Users
 
 * Simple Activate;
+* Navigator - Navmesh Fixes;
 * Animation Motion Revolution;
