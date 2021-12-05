@@ -31,6 +31,8 @@
 * Removed _Immersive KS Hairdos_.
 * Added _Vanilla Hair Replacer_.
 * Added _Another KS Hairdos Replacer_.
+* Added _Kyoe's Bang'n Brows_ and _Kyoe's Bang'n Brows for KouLeifoh's High Poly Head_.
+> For people, who would like to have a little bit brighter brows.
 * Changed installation instructions for _KS Hairdos_.
 > And now this section can be considered as perfect. Before I didn't like the fact that there were still so many hairstyles and that many of them were clipping for too much or just didn't belong to Skyrim at all. That is changed as I have made my own replacers for KS Hairdos and KS Hairdos HDT SMP plugins. We use _KS Hairdos_ only for women now as I wasn't exactly a fan of male haircuts from there. That is where _Vanilla Hair Replacer_ comes to our help, while adding some extra options for females.
 
