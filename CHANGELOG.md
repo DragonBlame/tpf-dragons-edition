@@ -14,6 +14,7 @@
 
 ### New Content
 
+* Added _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
 * Added _Janquel's Arguably Needed Quixotically Unifying ESP Library_.
 * Changed installation instructions for _The Gray Cowl of Nocturnal - Add-Ons and Patches_.
 * Changed installation instructions for _The Tools of Kagrenac_.
