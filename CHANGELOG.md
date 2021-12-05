@@ -43,6 +43,7 @@
 * Removed _Quicker Bed Exit_ and added _Sleeping Expanded_.
 * Added _Face Discoloration Fix_.
 > Helps us to easily use _Vanilla Hair Replacer_.
+* Added _Use Telekinesis on Traps_.
 
 ### Skeleton & Animations
 
