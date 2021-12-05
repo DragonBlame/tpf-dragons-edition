@@ -1704,14 +1704,6 @@ separator in the same order.
 
 *A great tool for making you spend less time in the TPF mod's MCM the second time you decide to play.*
 
-### [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
-
-**Main files** - Papyrus Extender SSE - 4.5.2
-
-*Plugin that extends Skyrim's script language (Papyrus) functionality.
-It will be needed for Strange Runes to use another version of runes for
-dual-casted spells and for Sweeping Organizes Stuff - Use Broom to Clean Mess' functionality.*  
-
 ### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
 **Main files** - UIExtensions v1-2-0
