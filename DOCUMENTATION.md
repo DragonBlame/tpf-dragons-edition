@@ -1857,11 +1857,11 @@ leads you to your quest objective.*
 *Let Stormcloaks and the Empire play their own games, while being
 neutral, but getting your deserved rewards.*
 
-### [Quicker Bed Exit](https://www.nexusmods.com/skyrimspecialedition/mods/47554)
+### [Sleeping Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/59250)
 
-**Main files** - Quicker Bed Exit
+**Main files** - Sleeping Expanded
 
-*I understand that sometimes it is very hard to get out of bed, but come on, NPCs, you are getting attacked. I will even help you with this.*
+*I understand that sometimes it is very hard to get out of bed, but come on, NPCs, you are getting attacked. I will even help you with this. Also adds breathing for NPCs, while they are sleeping and makes NPCs angry if you wake them up at 3 AM. Very immersive.*
 
 ### [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184)
 
