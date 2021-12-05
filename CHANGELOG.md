@@ -72,5 +72,6 @@
 * SmoothCam;
 * Simple Activate;
 * The Gray Cowl of Nocturnal - Add-Ons and Patches;
+* The Grand Paladin - 2021;
 * Navigator - Navmesh Fixes;
 * Animation Motion Revolution;
