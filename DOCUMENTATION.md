@@ -2150,6 +2150,14 @@ Sprint, Origin Dw Sprint_Type A`.
 
 **Main files** - Vanargand Animations - One handed Mid Stance
 
+### [Vanargand Animations - One Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58326)
+
+**Main files** - Vanargand Animations - One handed Normal Attacks
+
+### [Vanargand Animations - One Handed Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58997)
+
+**Main files** - Vanargand Animations - One Handed Power Attacks
+
 ### [Vanargand Animations - Sneak Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/54351)
 
 **Main files** - Vanargand Animations - Sneak Idle Walk and Run
