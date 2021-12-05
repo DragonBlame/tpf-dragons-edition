@@ -17,7 +17,7 @@
 * Added _Janquel's Arguably Needed Quixotically Unifying ESP Library_.
 * Changed installation instructions for _The Gray Cowl of Nocturnal - Add-Ons and Patches_.
 * Changed installation instructions for _The Tools of Kagrenac_.
-* Changed installation instructions for _Hammet's Dungeon Packs_.
+* Changed installation instructions for _Hammet's Dungeon Packs_ and _Hammet's Dungeons - Misc Patches_.
 
 ### Exteriors
 
