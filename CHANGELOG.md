@@ -79,6 +79,7 @@
 * The Tools of Kagrenac
 * The Grand Paladin - 2021
 * Undeath - Classical Lichdom
+* JK's The Winking Skeever
 * JK's Palace of the Kings
 * JK's Temple of the Divines
 * JK's Temple of Talos
