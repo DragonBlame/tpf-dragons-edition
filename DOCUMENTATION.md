@@ -1540,17 +1540,19 @@ character shouldn't wait for long anymore.*
 
 *Fancy hair mod for us.*
 
-### [Immersive KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/12004)
-
-**Main files** - Immersive KS Hairdos
-
-*A plugin replacer to remove too anime etc. hairstyles from Racemenu and to even sort the mod's hair by their size.*
-
 ### [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
 
 **Main files** - KS Hairdos SMP
 
 *New level of fanciness. People love hair with physics, so let them be.*
+
+### [Another KS Hairdos Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/59427)
+
+**Main files** - Another KS Hairdos Replacer
+
+**Main files** KS Hairdos HDT SMP Replacer
+
+*Plugin replacers to remove too anime, clipping etc. KS Hairdos hairstyles from Racemenu.*
 
 ### [KS Hairdos with Physics for Men](https://www.nexusmods.com/skyrimspecialedition/mods/55986)
 
