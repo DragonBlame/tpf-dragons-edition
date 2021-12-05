@@ -26,6 +26,10 @@
 * Added _Face Discoloration Fix_.
 > Helps us to easily use _Vanilla Hair Replacer_.
 
+### Skeleton & Animations
+
+* Changed installation instructions for Animation Motion Revolution.
+
 ### Preparations
 
 * Added information about _Frozen Electrocuted Combustion_'s inclusion to TPF and its' removal from the add-on.
@@ -62,3 +66,4 @@
 ### Updated Add-on's Mods for Wabbajack Users
 
 * Simple Activate;
+* Animation Motion Revolution;
