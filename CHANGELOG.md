@@ -45,6 +45,7 @@
 
 ### Skeleton & Animations
 
+* Added _Vanargand Animations - One Handed Power Attacks_.
 * Changed installation instructions for Animation Motion Revolution.
 
 ### Preparations
