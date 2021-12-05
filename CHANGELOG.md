@@ -86,6 +86,7 @@
 * Undeath - Classical Lichdom
 * Cities of the North - Falkreath Patch Collection
 * JK's The Winking Skeever
+* JK's New Gnisis Cornerclub
 * JK's Palace of the Kings
 * JK's Temple of the Divines
 * JK's Temple of Talos
