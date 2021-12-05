@@ -114,7 +114,9 @@ while we are trying to shoot, roast, electrocute, freeze etc. things.*
 
 ### [Simple Activate](https://www.nexusmods.com/skyrimspecialedition/mods/56767)
 
-**Main files** - Simple Activate SKSE
+**Main files** - Simple Activate SKSE - SE
+
+**INI** - 
 
 *Buttons' image, which we use to interact with objects in Skyrim, is disabled in TPF, so let's do that with the text of these buttons too.*
 
