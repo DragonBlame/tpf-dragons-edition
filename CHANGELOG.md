@@ -15,6 +15,7 @@
 ### New Content
 
 * Changed installation instructions for _The Gray Cowl of Nocturnal - Add-Ons and Patches_.
+* Changed installation instructions for _The Tools of Kagrenac_.
 
 ### Appearance
 
@@ -75,6 +76,7 @@
 * SmoothCam;
 * Simple Activate;
 * The Gray Cowl of Nocturnal - Add-Ons and Patches;
+* The Tools of Kagrenac;
 * The Grand Paladin - 2021;
 * Undeath - Classical Lichdom;
 * Navigator - Navmesh Fixes;
