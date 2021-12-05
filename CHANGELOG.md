@@ -73,5 +73,6 @@
 * Simple Activate;
 * The Gray Cowl of Nocturnal - Add-Ons and Patches;
 * The Grand Paladin - 2021;
+* Undeath - Classical Lichdom;
 * Navigator - Navmesh Fixes;
 * Animation Motion Revolution;
