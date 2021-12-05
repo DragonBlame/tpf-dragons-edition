@@ -952,6 +952,10 @@ changes are saved.
 
 **Main files** - EasierRider's Dunegon Pack SSE v1.5
 
+### [Janquel's Arguably Needed Quixotically Unifying ESP Library](https://www.nexusmods.com/skyrimspecialedition/mods/57365/?tab=files)
+
+**Main files** - Janquel's Arguably Needed Quixotically Unifying ESP Library
+
 ---
 
 ## Exteriors
