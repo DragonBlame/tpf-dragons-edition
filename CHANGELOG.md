@@ -38,6 +38,7 @@
 ### Preparations
 
 * Added information about _Frozen Electrocuted Combustion_'s inclusion to TPF and its' removal from the add-on.
+* Changed installation and FOMOD instructions for _Enhanced Blood Textures_.
 
 ### Configurations
 
@@ -70,6 +71,7 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+* Enhanced Blood Textures;
 * SmoothCam;
 * Simple Activate;
 * The Gray Cowl of Nocturnal - Add-Ons and Patches;
