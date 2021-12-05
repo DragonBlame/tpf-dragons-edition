@@ -22,6 +22,10 @@
 * Changed installation instructions for _Cities of the North - Falkreath Patch Collection_.
 * Changed installation instructions for _The Great Town of Ivarstead Patch Collection_.
 
+### Interiors
+
+* Changed FOMOD instructions for _JK's Interiors Patch Collection_.
+
 ### Appearance
 
 * Removed _Immersive KS Hairdos_.
