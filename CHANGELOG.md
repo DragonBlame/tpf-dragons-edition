@@ -10,6 +10,7 @@
 ### Interface
 
 * Added additional instructions and changed installation instructions for _Simple Activate_.
+* Changed installation instructions for _Quick Loot RE_.
 
 ### New Content
 
