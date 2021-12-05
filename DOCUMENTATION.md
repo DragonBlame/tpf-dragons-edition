@@ -174,7 +174,7 @@ I recommend lore friendly markers with an additions of new markers for mines.
 
 **Old files (v. 1.0.)** - Disable Fast Travel
 
-**Instructions** - go to _powerofthree's Tweaks_'s INI (TPF's mod in the _Fixes_ section), in line 7, change _Map Marker Placement Fix_ to `false`.
+**Instructions** - go to _powerofthree's Tweaks_'s INI (TPF's mod in the _Fixes_ section), in line 7, change _Map Marker Placement Fix_ to `false`, so your game won't CTD if you want just to place a marker on one of the locations marked on your map.
 
 *There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, 
 so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. 
@@ -1936,7 +1936,7 @@ fun, when Skyrim was a new game for me.*
 **Instructions** - rename the mod’s plugin to `TissHeadTrack.esp`.
 
 **Alternate Conversation Camera Plus tweaks** - go to _Alternate
-Conversation Camera Plus_ INI (you can find the mod under TPF's _INTERFACE_ separator) , in line 47, change _bConversationHT_ to `0`.
+Conversation Camera Plus_ INI (you can find the mod under TPF's _CONTROLS & CAMERA_ separator) , in line 47, change _bConversationHT_ to `0` (for compatibility between those two mods).
 
 *Head tracking mod, which makes our player character (PC) observe
 things, which we move our cursor on.*
