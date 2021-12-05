@@ -7,6 +7,10 @@
 > Updated final patches, no outputs were changed.
 > Previous changelogs can be found in the releases.
 
+### Interface
+
+* Added additional instructions and changed installation instructions for _Simple Activate_.
+
 ### Appearance
 
 * Removed _Immersive KS Hairdos_.
@@ -56,4 +60,4 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* xxx
+* Simple Activate;
