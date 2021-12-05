@@ -956,8 +956,7 @@ changes are saved.
 
 **Main files** - Janquel's Arguably Needed Quixotically Unifying ESP Library
 
-**FOMOD** - `3DNPC - Moon and Star, Kaidan 2 Wedding, Hammet's - 3DNPC, Hammet's - Lucien, Hammet's - Tools of Kagrenac, Obscure's College - 3DNPC, Project AHO - 3DNPC, 
-Project AHO - EasierRider's`.
+**FOMOD** - `3DNPC - Moon and Star, Kaidan 2 Wedding, Hammet's - 3DNPC, Hammet's - Lucien, Obscure's College - 3DNPC, Project AHO - 3DNPC, Project AHO - EasierRider's`.
 
 ---
 
