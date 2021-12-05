@@ -1562,6 +1562,16 @@ character shouldn't wait for long anymore.*
 
 _You will be able to get hair with physics for men by using AddItemMenu mod, which will be covered later._
 
+### [Kyoe's Bang'n Brows](https://www.nexusmods.com/skyrimspecialedition/mods/13630)
+
+**Main files** - Kyoe's Bang'n Brows - Standalone - Vanillamatch
+
+_For people, who would like to use a bit brighter brows than the vanilla ones._
+
+### [Kyoe's Bang'n Brows for KouLeifoh's High Poly Head](https://www.nexusmods.com/skyrimspecialedition/mods/50424)
+
+**Optional files** - 'Kyoe's Bang'n Brows - Standalone - Vanillamatch' for High Poly Head
+
 ---
 
 ## Gameplay Overhauls
