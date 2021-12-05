@@ -940,13 +940,13 @@ changes are saved.
 
 ### [Hammet's Dungeon Packs](https://www.nexusmods.com/skyrimspecialedition/mods/12186?tab=files)
 
-**Optional Files** - Hammet Dungeon Packs - ESP version
+**Main Files** - Hammet Dungeon Packs - ESM version
 
 ### [Hammet's Dungeons - Misc Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54453/?tab=files)
 
-**Main files** - Vuldur - Skybox Patch
+**Main files** - Vuldur ESM - Skybox Patch
 
-**Main files** - Vuldur - ToK Patch
+**Main files** - Vuldur ESM - ToK Patch
 
 ### [EasierRider's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/2218?tab=files)
 
