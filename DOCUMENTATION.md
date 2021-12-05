@@ -2080,7 +2080,7 @@ _Fixes the vanilla issue, where attacking, while moving slowly, will make you sl
 
 ### [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)
 
-**Main files** - Animation Motion Revolution
+**Main files** - Animation Motion Revolution 1.4
 
 _A SKSE plugin, which removes the mismatch between displacement and supported animations. It basically fixes ice-skating for new animation mods._
 
