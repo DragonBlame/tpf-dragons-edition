@@ -2754,8 +2754,9 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 
 -   _Frozen Electrocuted Combustion_ in _VISUAL FX_ separator;
 
-    > This time you will need just to disable the mod and its settings loader. I don't like the idea of the mod overall. 
-    It would fit Fallout franchise, but definitely not Elder Scrolls. Also I 
+    - This time you will need just to disable the mod and its settings loader. I don't like the idea of more gore in Skyrim overall. 
+    It would fit Fallout franchise, but definitely not Elder Scrolls. In my opinion, Skyrim is more of a fairy tale. If you leave this mod enabled, that is **on you** to check
+    for any conflicts and errors associated with it.
 
 -   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
     `Default undead eyes, weaker lightning for ghosts, a patch for
