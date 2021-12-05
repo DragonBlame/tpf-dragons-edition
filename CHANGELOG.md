@@ -17,6 +17,10 @@
 * Changed installation instructions for _The Gray Cowl of Nocturnal - Add-Ons and Patches_.
 * Changed installation instructions for _The Tools of Kagrenac_.
 
+### Exteriors
+
+* Changed installation instructions for _Cities of the North - Falkreath Patch Collection_.
+
 ### Appearance
 
 * Removed _Immersive KS Hairdos_.
@@ -79,6 +83,7 @@
 * The Tools of Kagrenac
 * The Grand Paladin - 2021
 * Undeath - Classical Lichdom
+* Cities of the North - Falkreath Patch Collection
 * JK's The Winking Skeever
 * JK's Palace of the Kings
 * JK's Temple of the Divines
