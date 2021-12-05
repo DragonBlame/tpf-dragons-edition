@@ -40,6 +40,7 @@
 
 * Removed _powerofthree's Papyrus Extender_.
 > Because it was added to TPF.
+* Removed _Quicker Bed Exit_ and added _Sleeping Expanded_.
 * Added _Face Discoloration Fix_.
 > Helps us to easily use _Vanilla Hair Replacer_.
 
