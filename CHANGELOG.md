@@ -94,5 +94,6 @@
 * JK's Palace of the Kings
 * JK's Temple of the Divines
 * JK's Temple of Talos
+* JK's Interiors Patch Collection
 * Navigator - Navmesh Fixes
 * Animation Motion Revolution
