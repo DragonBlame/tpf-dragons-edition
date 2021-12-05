@@ -619,7 +619,7 @@ file with the main one.
 
 ### [The Gray Cowl of Nocturnal - Add-Ons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files)
 
-**Main files** - The Gray Cowl of Nocturnal SE - Addons and Patches 1.2
+**Main files** - The Gray Cowl of Nocturnal SE - Addons and Patches 1.3
 
 **FOMOD** - `Unofficial Skyrim Special Edition Patch, Delayed Start
 Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
