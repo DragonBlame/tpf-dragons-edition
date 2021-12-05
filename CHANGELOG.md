@@ -79,5 +79,6 @@
 * The Tools of Kagrenac;
 * The Grand Paladin - 2021;
 * Undeath - Classical Lichdom;
+* JK's Temple of Talos;
 * Navigator - Navmesh Fixes;
 * Animation Motion Revolution;
