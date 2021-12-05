@@ -20,6 +20,7 @@
 * Removed _powerofthree's Papyrus Extender_.
 > Because it was added to TPF.
 * Added _Face Discoloration Fix_.
+> Helps us to easily use _Vanilla Hair Replacer_.
 
 ### Preparations
 
