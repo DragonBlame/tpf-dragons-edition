@@ -20,6 +20,7 @@
 ### Exteriors
 
 * Changed installation instructions for _Cities of the North - Falkreath Patch Collection_.
+* Changed installation instructions for _The Great Town of Ivarstead Patch Collection_.
 
 ### Appearance
 
