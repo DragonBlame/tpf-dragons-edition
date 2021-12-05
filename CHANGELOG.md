@@ -25,6 +25,11 @@
 
 * Added information about _Frozen Electrocuted Combustion_'s inclusion to TPF and its' removal from the add-on.
 
+### Configurations
+
+* Removed MCM instructions for _Storm Lightning_.
+> Now are automated.
+
 ---
 
 ### Other Changes
