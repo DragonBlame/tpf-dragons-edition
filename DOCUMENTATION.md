@@ -831,10 +831,6 @@ course, you can also use all those outfits etc. to make your character
 just prettier. There are things for everyone to play with, even
 warriors.*
 
-### [THE TINIEST SHACK](https://www.nexusmods.com/skyrimspecialedition/mods/46874?tab=files)
-
-**Main files** - THE TINIEST OF SHACKES fix'd
-
 ### [Rayek's End](https://www.nexusmods.com/skyrimspecialedition/mods/8285?tab=files)
 
 **Main files** - Rayek's End - SSE Expanded Edition 1.7 - Original (Dark)
@@ -881,6 +877,10 @@ gems)
 ### [Frostwood Cabin](https://www.nexusmods.com/skyrimspecialedition/mods/52183?tab=files)
 
 **Optional files** - Frostwood Cabin ESL version
+
+### [Viking's Longhouse](https://www.nexusmods.com/skyrimspecialedition/mods/10860?tab=files)
+
+**Main files** - Viking's Longhouse SSE
 
 ### [Interesting NPCs (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files)
 
