@@ -14,6 +14,7 @@
 
 ### New Content
 
+* Removed _The Tiniest Shack_ and added _Viking's Longhouse_.
 * Added _Immersive Fort Dawnguard_.
 > If Castle Volkihar is changed, Fort Dawnguard needs to get some attention too.
 * Added _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
