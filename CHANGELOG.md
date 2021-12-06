@@ -14,6 +14,8 @@
 
 ### New Content
 
+* Added _Immersive Fort Dawnguard_.
+> If Castle Volkihar is changed, Fort Dawnguard needs to get some attention too.
 * Added _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
 * Added _Janquel's Arguably Needed Quixotically Unifying ESP Library_.
 * Changed installation instructions for _The Gray Cowl of Nocturnal - Add-Ons and Patches_.
