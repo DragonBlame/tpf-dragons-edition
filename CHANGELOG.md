@@ -50,6 +50,7 @@
 * Added _Face Discoloration Fix_.
 > Helps us to easily use _Vanilla Hair Replacer_.
 * Added _Use Telekinesis on Traps_.
+* Added _Character Light_.
 
 ### Skeleton & Animations
 
