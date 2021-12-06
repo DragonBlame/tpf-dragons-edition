@@ -105,5 +105,6 @@
 * JK's Temple of the Divines
 * JK's Temple of Talos
 * JK's Interiors Patch Collection
+* Pilgrim - A Religion Overhaul
 * Navigator - Navmesh Fixes
 * Animation Motion Revolution
