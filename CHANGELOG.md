@@ -69,6 +69,10 @@
 * Removed MCM instructions for _Storm Lightning_.
 > Now are automated.
 
+### Gameplay Guide
+
+* Added information about _Character Light_.
+
 ---
 
 ### Other Changes
