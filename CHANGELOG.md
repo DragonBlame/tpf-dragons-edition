@@ -105,6 +105,7 @@
 * Enhanced Blood Textures
 * SmoothCam
 * Simple Activate
+* Additional Clockwork
 * The Gray Cowl of Nocturnal - Add-Ons and Patches
 * The Tools of Kagrenac
 * The Grand Paladin - 2021
