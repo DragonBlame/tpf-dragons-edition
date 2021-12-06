@@ -998,6 +998,10 @@ _These ones make me happy too._
 
 **Main files** - Happy Little Trees 3D LOD - Quality
 
+### [Happy Little Trees - Better Dynamic Ash Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58700)
+
+**Main files** - Happy Little Trees - Better Dynamic Ash Patch
+
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
 **Optional files** - Unique Flowers and Plants for Skyrim SE DLC
