@@ -4,7 +4,7 @@
 
 ## Version 1.12.
 
-> Updated final patches, updated DynDOLOD and occlusion outputs.
+> Updated final patches, updated Texgen, DynDOLOD and occlusion outputs.
 > Previous changelogs can be found in the releases.
 
 ### Interface
