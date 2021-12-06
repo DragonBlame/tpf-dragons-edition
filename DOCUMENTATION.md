@@ -333,6 +333,10 @@ considering the previous mod we have added.*
 
 **Main files** - SSE - Castle Volkihar Rebuilt
 
+### [Immersive Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/40436?tab=files)
+
+**Main files** - Immersive Fort Dawnguard
+
 ### [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=files)
 
 **Main files** - SeranaDialogEdit v 102
