@@ -2065,7 +2065,7 @@ Gildergreen growing from the sapling. Let’s change that.*
 **Main files** - Chracter Light SE AE v1
 
 *Purely cosmetic mod, which allows you to take better screenshots with your character by adjusting character's brightness. Can be use in an ordinary walkthrough too as 
-it doesn't use scripts.*
+it doesn't use scripts. Obtainable by using AddItemMenu.*
 
 ### [RaceMenu Undress](https://www.nexusmods.com/skyrimspecialedition/mods/56437)
 
