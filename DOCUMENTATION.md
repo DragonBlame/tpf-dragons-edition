@@ -2060,6 +2060,13 @@ Gildergreen growing from the sapling. Let’s change that.*
 
 *Just look at that monstrous vanilla forge water and you won't have any questions.*
 
+### [Character Light](https://www.nexusmods.com/skyrimspecialedition/mods/58955)
+
+**Main files** - Chracter Light SE AE v1
+
+*Purely cosmetic mod, which allows you to take better screenshots with your character by adjusting character's brightness. Can be use in an ordinary walkthrough too as 
+it doesn't use scripts.*
+
 ### [RaceMenu Undress](https://www.nexusmods.com/skyrimspecialedition/mods/56437)
 
 **Main files** - RaceMenu Undress
