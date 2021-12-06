@@ -77,6 +77,7 @@
 > Thanks again for Guitarninja for giving me an information about this and the other two issues.
 * Changed the books related to _EasierRider's Dungeon Pack_ to be readable.
 * Removed the wall of darkness in the Castle Dour's region, which is involving _Undeath_ mod.
+* Changed the final mask of Sinister Seven to not be disenchantable.
 * Got rid of my plans for the add-on inside the main page.
 > Overall it just felt not needed. I usually tell people about my plans.
 * Adjusted some information.
