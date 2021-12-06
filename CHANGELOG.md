@@ -2,9 +2,9 @@
 
 # Changelog
 
-## Version 1.11.1.
+## Version 1.12.
 
-> Updated final patches, no outputs were changed.
+> Updated final patches, updated DynDOLOD and occlusion outputs.
 > Previous changelogs can be found in the releases.
 
 ### Interface
