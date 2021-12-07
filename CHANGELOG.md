@@ -59,7 +59,7 @@
 
 * Added _Vanargand Animations - One Handed Power Attacks_.
 * Added _Vanargand Animations - One Handed Normal Attacks_ to the documentation.
-> There were there for Wabbajack users, my bad.
+> Those were there for Wabbajack users, my bad.
 * Changed installation instructions for Animation Motion Revolution.
 
 ### Preparations
