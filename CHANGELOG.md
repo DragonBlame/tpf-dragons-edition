@@ -62,6 +62,10 @@
 > Those were there for Wabbajack users, my bad.
 * Changed installation instructions for Animation Motion Revolution.
 
+### NPC Overhauls
+
+* Added additional instructions for _The Ordinary Women_.
+
 ### Preparations
 
 * Added information about _Frozen Electrocuted Combustion_'s inclusion to TPF and its' removal from the add-on.
