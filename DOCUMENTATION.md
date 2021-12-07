@@ -2506,6 +2506,8 @@ because it has high poly faces and almost each of those looks diverse.*
 
 **FOMOD** - `USSEP`.
 
+**Hide facegen files** - Hide `00014121` files.
+
 *Definitely the most immersive looks for women of Skyrim in all Nexus,
 which slightly outshine blocky vanilla faces.*
 
