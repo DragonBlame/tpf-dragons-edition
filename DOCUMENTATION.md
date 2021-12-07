@@ -482,9 +482,9 @@ younger.*
 
 **Main files** - Beyond Skyrim Bruma Craft Restrictions
 
-### [Majestic Bruma Mountains - MM 3.x Beyond Skyrim Bruma Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53152?tab=files)
+### [Majestic Mountains - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59265?tab=files)
 
-**Main files** - Majestic Mountains - Bruma Patch
+**Main files** - Bruma - MM Patch
 
 ### [Realistic Water Two - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744?tab=files)
 
