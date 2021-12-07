@@ -14,6 +14,7 @@
 
 ### New Content
 
+* Removed _Majestic Bruma Mountains - MM 3.x Beyond Skyrim Bruma Compatibility Patch_ and added _Majestic Mountains - Bruma Patch_.
 * Removed _The Tiniest Shack_ and added _Viking's Longhouse_.
 > Overall even if the shack is pretty cozy, noone will use it for too long, so I have decided to add something more interesting in another place, considering we have Rayek's End.
 * Added _Immersive Fort Dawnguard_.
