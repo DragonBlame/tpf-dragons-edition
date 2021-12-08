@@ -114,13 +114,15 @@ while we are trying to shoot, roast, electrocute, freeze etc. things.*
 
 ### [Simple Activate](https://www.nexusmods.com/skyrimspecialedition/mods/56767)
 
-**Main files** - Simple Activate SKSE
+**Main files** - Simple Activate SKSE - SE
+
+**INI** - **Only** in line 86, remove everything after _Custom Locked Tag =_, so you can see levels of locks on things.
 
 *Buttons' image, which we use to interact with objects in Skyrim, is disabled in TPF, so let's do that with the text of these buttons too.*
 
 ### [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
 
-**Main files** - QuickLootRE
+**Old files (v. 2.8.6.)** - QuickLootRE
 
 *One of the best additions to Fallout 4 (FO4) was the looting menu,
 which appears right when you move your cursor over lootable item without need to open game's full menu. This mod allows us to use this addition,
@@ -172,7 +174,7 @@ I recommend lore friendly markers with an additions of new markers for mines.
 
 **Old files (v. 1.0.)** - Disable Fast Travel
 
-**Instructions** - go to _powerofthree's Tweaks_'s INI (TPF's mod in the _Fixes_ section), in line 7, change _Map Marker Placement Fix_ to `false`.
+**Instructions** - go to _powerofthree's Tweaks_'s INI (TPF's mod in the _Fixes_ section), in line 7, change _Map Marker Placement Fix_ to `false`, so your game won't CTD if you want just to place a marker on one of the locations marked on your map.
 
 *There are many ways of how can we travel around Skyirim even without considering the additions from the add-on, 
 so let us immersively travel around Skyrim without the temptation of fast tavelling with a chance to discover even more secrets lying around. 
@@ -331,6 +333,10 @@ considering the previous mod we have added.*
 
 **Main files** - SSE - Castle Volkihar Rebuilt
 
+### [Immersive Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/40436?tab=files)
+
+**Main files** - Immersive Fort Dawnguard
+
 ### [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=files)
 
 **Main files** - SeranaDialogEdit v 102
@@ -476,9 +482,9 @@ younger.*
 
 **Main files** - Beyond Skyrim Bruma Craft Restrictions
 
-### [Majestic Bruma Mountains - MM 3.x Beyond Skyrim Bruma Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53152?tab=files)
+### [Majestic Mountains - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59265?tab=files)
 
-**Main files** - Majestic Mountains - Bruma Patch
+**Main files** - Bruma - MM Patch
 
 ### [Realistic Water Two - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744?tab=files)
 
@@ -617,7 +623,7 @@ file with the main one.
 
 ### [The Gray Cowl of Nocturnal - Add-Ons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19724?tab=files)
 
-**Main files** - The Gray Cowl of Nocturnal SE - Addons and Patches 1.2
+**Main files** - The Gray Cowl of Nocturnal SE - Addons and Patches 1.3
 
 **FOMOD** - `Unofficial Skyrim Special Edition Patch, Delayed Start
 Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
@@ -628,7 +634,7 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 ### [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168?tab=files)
 
-**Main files** - The Tools of Kagrenac V1.58b SSE
+**Main files** - The Tools of Kagrenac V1.58c SSE
 
 ### [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351?tab=files)
 
@@ -765,6 +771,10 @@ directory*, click *OK*.
 
 **Main files** - Kaidan 2.1.1
 
+### [Kaidan 2 Follower Voice Fixes and Additional Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/59349?tab=files)
+
+**Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 1.2
+
 ### [Pandorable's Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/23738?tab=files)
 
 **Main files** - Pandorable's Kaidan SE
@@ -821,10 +831,6 @@ course, you can also use all those outfits etc. to make your character
 just prettier. There are things for everyone to play with, even
 warriors.*
 
-### [THE TINIEST SHACK](https://www.nexusmods.com/skyrimspecialedition/mods/46874?tab=files)
-
-**Main files** - THE TINIEST OF SHACKES fix'd
-
 ### [Rayek's End](https://www.nexusmods.com/skyrimspecialedition/mods/8285?tab=files)
 
 **Main files** - Rayek's End - SSE Expanded Edition 1.7 - Original (Dark)
@@ -871,6 +877,10 @@ gems)
 ### [Frostwood Cabin](https://www.nexusmods.com/skyrimspecialedition/mods/52183?tab=files)
 
 **Optional files** - Frostwood Cabin ESL version
+
+### [Viking's Longhouse](https://www.nexusmods.com/skyrimspecialedition/mods/10860?tab=files)
+
+**Main files** - Viking's Longhouse SSE
 
 ### [Interesting NPCs (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194?tab=files)
 
@@ -938,17 +948,23 @@ changes are saved.
 
 ### [Hammet's Dungeon Packs](https://www.nexusmods.com/skyrimspecialedition/mods/12186?tab=files)
 
-**Optional Files** - Hammet Dungeon Packs - ESP version
+**Main Files** - Hammet Dungeon Packs - ESM version
 
 ### [Hammet's Dungeons - Misc Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54453/?tab=files)
 
-**Main files** - Vuldur - Skybox Patch
+**Main files** - Vuldur ESM - Skybox Patch
 
-**Main files** - Vuldur - ToK Patch
+**Main files** - Vuldur ESM - ToK Patch
 
 ### [EasierRider's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/2218?tab=files)
 
 **Main files** - EasierRider's Dunegon Pack SSE v1.5
+
+### [Janquel's Arguably Needed Quixotically Unifying ESP Library](https://www.nexusmods.com/skyrimspecialedition/mods/57365/?tab=files)
+
+**Main files** - Janquel's Arguably Needed Quixotically Unifying ESP Library
+
+**FOMOD** - `3DNPC - Moon and Star, Kaidan 2 Wedding, Hammet's - 3DNPC, Hammet's - Lucien, Obscure's College - 3DNPC, Project AHO - 3DNPC, Project AHO - EasierRider's`.
 
 ---
 
@@ -981,6 +997,10 @@ _These ones make me happy too._
 ### [Happy Little Trees Add-On - DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
 
 **Main files** - Happy Little Trees 3D LOD - Quality
+
+### [Happy Little Trees - Better Dynamic Ash Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58700)
+
+**Main files** - Happy Little Trees - Better Dynamic Ash Patch
 
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
@@ -1083,7 +1103,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - Cities of the North - Falkreath Patch Collection
 
-**FOMOD** - `The Great Cities - Minor Cities and Towns, TGC - Helgen Reborn, TGC - Clockwork, Lanterns of Skyrim II, TGC - LAWF, 3DNPC, AI Overhaul, Bring Meeko to Lod, Immersive Patrols II, Skyrim 3D Signs`, **untick** `Janquel's Addons, Landscape and Grass Fixes`.
+**FOMOD** - `The Great Cities - Minor Cities and Towns, TGC - Helgen Reborn, TGC - Clockwork, Lanterns of Skyrim II, TGC - LAWF, 3DNPC, AI Overhaul, Bring Meeko to Lod, Immersive Patrols II, Lucien, Skyrim 3D Signs`, **untick** `Janquel's Addons, Landscape and Grass Fixes`.
 
 ### [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032)
 
@@ -1302,7 +1322,7 @@ separator in the same order.
 
 **Old files (v. 3.24.1.)** - JKs Interiors Patch Collection
 
-**FOMOD** - In 1st page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, in JK's Arcadia's Cauldron's page - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul, Lanterns of Skyrim II, USSEP`, **untick** only `Royal Armory` patch, `3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Mistveil Keep's **miscellaneous patches** - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, `None` for armor replacer for guards, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP`, JK's Sadri's Used Wares - `3DNPC, ACE`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Sleeping Giant Inn - `AI Overhaul, 3DNPC`, JK's Temple of Dibella - 'ACE, Relightning Skyrim, AI Overhaul', JK's Temple of the Divines - `3DNPC, USSEP`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Temple of Kynareth - `3DNPC, Easierrider's Dungeon Pack`, JK's Temple of Talos - `3DNPC, ACE, AI Ovehraul, USSEP`, JK's Understone Keep - `3DNPC, AI Overhaul, USSEP`, JK's Winking Skeever - `AI Overhaul, The Brotherhood of Old, USSEP, 3DNPC, Undeath`.
+**FOMOD** - In 1st page - `I'VE READ AND UNDERSTAND`, in the 2nd page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, in JK's Arcadia's Cauldron's page - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul, Lanterns of Skyrim II, USSEP`, **untick** only `Royal Armory` patch, `USSEP, 3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Mistveil Keep - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, `None` for armor replacer for guards, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP`, JK's Sadri's Used Wares - `3DNPC, ACE`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Sleeping Giant Inn - `3DNPC, AI Overhaul`, JK's Temple of Dibella - `ACE, Relightning Skyrim, AI Overhaul`, JK's Temple of the Divines - `3DNPC, USSEP`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Temple of Kynareth - `3DNPC, Easierrider's Dungeon Pack`, JK's Temple of Talos - `3DNPC, AI Ovehraul, ACE, USSEP`, JK's Understone Keep - `3DNPC, AI Overhaul, USSEP`, JK's Winking Skeever - `AI Overhaul, The Brotherhood of Old, USSEP, 3DNPC, Undeath`.
 
 ---
 
@@ -1540,23 +1560,35 @@ character shouldn't wait for long anymore.*
 
 *Fancy hair mod for us.*
 
-### [Immersive KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/12004)
-
-**Main files** - Immersive KS Hairdos
-
-*A plugin replacer to remove too anime etc. hairstyles from Racemenu and to even sort the mod's hair by their size.*
-
 ### [KS Hairdos - HDT SMP](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
 
 **Main files** - KS Hairdos SMP
 
 *New level of fanciness. People love hair with physics, so let them be.*
 
+### [Another KS Hairdos Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/59427)
+
+**Main files** - Another KS Hairdos Replacer
+
+**Main files** KS Hairdos HDT SMP Replacer
+
+*Plugin replacers to remove too anime, clipping etc. KS Hairdos hairstyles from Racemenu.*
+
 ### [KS Hairdos with Physics for Men](https://www.nexusmods.com/skyrimspecialedition/mods/55986)
 
 **Main files** - KS Hairdos SMP for Men
 
 _You will be able to get hair with physics for men by using AddItemMenu mod, which will be covered later._
+
+### [Kyoe's Bang'n Brows](https://www.nexusmods.com/skyrimspecialedition/mods/13630)
+
+**Main files** - Kyoe's Bang'n Brows - Standalone - Vanillamatch
+
+_For people, who would like to use a bit brighter brows than the vanilla ones._
+
+### [Kyoe's Bang'n Brows for KouLeifoh's High Poly Head](https://www.nexusmods.com/skyrimspecialedition/mods/50424)
+
+**Optional files** - 'Kyoe's Bang'n Brows - Standalone - Vanillamatch' for High Poly Head
 
 ---
 
@@ -1702,14 +1734,6 @@ separator in the same order.
 
 *A great tool for making you spend less time in the TPF mod's MCM the second time you decide to play.*
 
-### [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
-
-**Main files** - Papyrus Extender SSE - 4.5.2
-
-*Plugin that extends Skyrim's script language (Papyrus) functionality.
-It will be needed for Strange Runes to use another version of runes for
-dual-casted spells and for Sweeping Organizes Stuff - Use Broom to Clean Mess' functionality.*  
-
 ### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
 **Main files** - UIExtensions v1-2-0
@@ -1724,6 +1748,12 @@ will need it for AddItemMenu mod.*
 *.NET Script Framework’s plugin for making custom skill trees for our
 character, will be used for Dragonborn - Shouts Perk Tree, which will greatly enhance gameplay
 with shouts together with Forceful Tongue - Shouts Overhaul.*
+
+### [Face Discoloration Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42441)
+
+**Main files (v. 1.0.1.)** - Face Discoloration Fix
+
+*Helps us to avoid relegenerating facegen for NPCs affected by Vanilla Head Replacer mod, because apparently Bethesda is unhappy even if you just change hair of NPCs without any issues.*
 
 ### [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
 
@@ -1838,6 +1868,12 @@ This mod allows us to do that.*
 *Finally makes Clairvoyance spell useful by making it summon a wisp that
 leads you to your quest objective.*
 
+### [Use Telekinesis on Traps](https://www.nexusmods.com/skyrimspecialedition/mods/59350)
+
+**Main files** - Use Telekinesis on Traps - po3's Papyrus Extender Version
+
+_Sometimes I just can't believe that some of mods like this one appered only recently._
+
 ### [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
 
 **Main files** - CWN - Civil War Neutrality SSE
@@ -1845,11 +1881,11 @@ leads you to your quest objective.*
 *Let Stormcloaks and the Empire play their own games, while being
 neutral, but getting your deserved rewards.*
 
-### [Quicker Bed Exit](https://www.nexusmods.com/skyrimspecialedition/mods/47554)
+### [Sleeping Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/59250)
 
-**Main files** - Quicker Bed Exit
+**Main files** - Sleeping Expanded
 
-*I understand that sometimes it is very hard to get out of bed, but come on, NPCs, you are getting attacked. I will even help you with this.*
+*I understand that sometimes it is very hard to get out of bed, but come on, NPCs, you are getting attacked. I will even help you with this. Also adds breathing for NPCs, while they are sleeping and makes NPCs angry if you wake them up at 3 AM. Very immersive.*
 
 ### [Serio's Cycle Hotkeys](https://www.nexusmods.com/skyrimspecialedition/mods/27184)
 
@@ -1934,7 +1970,7 @@ fun, when Skyrim was a new game for me.*
 **Instructions** - rename the mod’s plugin to `TissHeadTrack.esp`.
 
 **Alternate Conversation Camera Plus tweaks** - go to _Alternate
-Conversation Camera Plus_ INI (you can find the mod under TPF's _INTERFACE_ separator) , in line 47, change _bConversationHT_ to `0`.
+Conversation Camera Plus_ INI (you can find the mod under TPF's _CONTROLS & CAMERA_ separator) , in line 47, change _bConversationHT_ to `0` (for compatibility between those two mods).
 
 *Head tracking mod, which makes our player character (PC) observe
 things, which we move our cursor on.*
@@ -2024,6 +2060,13 @@ Gildergreen growing from the sapling. Let’s change that.*
 
 *Just look at that monstrous vanilla forge water and you won't have any questions.*
 
+### [Character Light](https://www.nexusmods.com/skyrimspecialedition/mods/58955)
+
+**Main files** - Chracter Light SE AE v1
+
+*Purely cosmetic mod, which allows you to take better screenshots with your character by adjusting character's brightness. Can be use in an ordinary walkthrough too as 
+it doesn't use scripts. Obtainable by using AddItemMenu.*
+
 ### [RaceMenu Undress](https://www.nexusmods.com/skyrimspecialedition/mods/56437)
 
 **Main files** - RaceMenu Undress
@@ -2078,7 +2121,7 @@ _Fixes the vanilla issue, where attacking, while moving slowly, will make you sl
 
 ### [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)
 
-**Main files** - Animation Motion Revolution
+**Main files** - Animation Motion Revolution 1.4
 
 _A SKSE plugin, which removes the mismatch between displacement and supported animations. It basically fixes ice-skating for new animation mods._
 
@@ -2137,6 +2180,14 @@ Sprint, Origin Dw Sprint_Type A`.
 ### [Vanargand Animations - One Handed Mid Stance](https://www.nexusmods.com/skyrimspecialedition/mods/57544)
 
 **Main files** - Vanargand Animations - One handed Mid Stance
+
+### [Vanargand Animations - One Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58326)
+
+**Main files** - Vanargand Animations - One handed Normal Attacks
+
+### [Vanargand Animations - One Handed Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58997)
+
+**Main files** - Vanargand Animations - One Handed Power Attacks
 
 ### [Vanargand Animations - Sneak Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/54351)
 
@@ -2455,6 +2506,8 @@ because it has high poly faces and almost each of those looks diverse.*
 
 **FOMOD** - `USSEP`.
 
+**Hide facegen files** - Hide `00014121` files.
+
 *Definitely the most immersive looks for women of Skyrim in all Nexus,
 which slightly outshine blocky vanilla faces.*
 
@@ -2746,11 +2799,17 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 -   [*Enhanced Blood Textures*](https://www.nexusmods.com/skyrimspecialedition/mods/2357) in *VISUAL FX* separator;
 
     > This time you will need to download completely different version of the mod, but after installing it put it also after the mod from TPF.
-    - **Miscellaneous files** - 4.0 beta 2
+    - **Miscellaneous files** - 4.0 BETA 4
     - **Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
-    - **FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size (Optional), High Res / Default Color` two times.
+    - **FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size, Reduced Res / Default Color` two times.
     - **Disable** - disable _Enhanced Blood Textures_ mod in the _VISUAL FX_ separator of TPF.
     - *New beta version of the mod is going to help us resolve weird blood sqare effect, which sometimes appear, when blood is on a surface.*
+
+-   _Frozen Electrocuted Combustion_ in _VISUAL FX_ separator;
+
+    - This time you will need just to disable the mod and its settings loader. I don't like the idea of more gore in Skyrim overall. 
+    It would fit Fallout franchise, but definitely not Elder Scrolls. In my opinion, Skyrim is more of a fairy tale. If you leave this mod enabled, that is **on you** to check
+    for any conflicts and errors associated with it.
 
 -   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
     `Default undead eyes, weaker lightning for ghosts, a patch for
@@ -2849,7 +2908,6 @@ you have left.
 option to drop this mod’s potions to 0%. Change the chance of NPCs
 having potions to 20% (we don’t want everyone to have those, right?) and
 the number of potions to 3.
-* **Storm Lightning** - The default preset of the mod is not realistic at all (it feels like lightning from the skies is literally hunting for me), so choose realistic preset to avoid that.
 * **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
 text colour to white. The timer won’t work during your first
 transformation, after transforming at least once, save your game. When
@@ -2883,10 +2941,12 @@ At last, I recommend you to go through [here](CHANGELOG.md) to see if you didn�
 That’s all, folks! You are set to traverse into another modded world of Skyrim.
 
 If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
-feel free to report in TPF Discord server's [#tpf-addons-support](https://discord.gg/tpf) channel.
+feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-addons-support_ channel. If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
-If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in [Discord](https://discord.gg/tpf) too). 
+If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
+
+I will post about updates for the add-on in _#the-addons-updates_ channel.
 
 If you are interested in changing TPF’s default ENB to what I use
 personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
@@ -2894,11 +2954,7 @@ personally or just to learn about my preference in ENBs, continue with the [ENB]
 If you want to learn more about what the add-on offers and just some additional information, check [Gameplay Guide](#gameplay-guide). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
-please use Posts feature on Nexus or use [#tpf-addons-feedback](https://discord.gg/tpf). Suggestions on how to improve the documentation are also welcome on GitHub. 
-
-I will post about updates for the add-on in [#the-addons-updates](https://discord.gg/tpf) channel.
-
-If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
+please use Posts feature on Nexus or use _#tpf-addons-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
 
 ---
 
@@ -3102,6 +3158,7 @@ offer inside their plugins. I have added it for people to know that there is an 
 * **About cleaning up your mess** - Now if you have accidentally Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
 * **About Lydia** - If Lydia is too noisy for you, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
 * **About Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+* **About your character's light adjustments** - You will need to use _AddItemMenu_ again, but this time type the word `light`. _Character Light_ allows use to make better screenshots if we want lightning of our character to be a bit different and can also be used in an ordinary gameplay if you wish as the mod doesn't use scripts. It works even on followers, but then you should give them the corresponding NPC lightning item.
 
 And now just a little heads up and how and when and how you should start newly
 added quests. They can be split between early

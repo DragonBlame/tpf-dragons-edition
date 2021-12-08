@@ -2,151 +2,130 @@
 
 # Changelog
 
-## Version 1.11.
+## Version 1.12.
 
-> Updated final patches, all outputs.
+> Updated final patches, updated Nemesis, Texgen, DynDOLOD and occlusion outputs.
 > Previous changelogs can be found in the releases.
 
 ### Interface
 
-* Removed _Pastel SkyUI Markers_.
-> Unfortunately together with TPF's _CoMAP_, they don't make the greatest combo without a patch to make CoMAP markers use pastel colours too. I let people decide, what they would want to see, and the decision was made.
-* Added _Oxygen Meter_.
-* Changed FOMOD instructions for _SmoothCam_.
-* Changed installation instructions for _Disable Fast Travel SKSE - No Janky Map UI_.
+* Added additional instructions and changed installation instructions for _Simple Activate_.
+* Changed installation instructions for _Quick Loot RE_.
 
 ### New Content
 
-* Removed _Bruma Ugly Love Script Fix_.
-> Not needed anymore with the latest updates of _Beyond Skyrim - Bruma_.
-* Added _Wyrmstooth - Settings Loader_.
-* Changed installation instructions for _Gladys the Corgi - A Custom Dog Follower Mod_.
+* Removed _Majestic Bruma Mountains - MM 3.x Beyond Skyrim Bruma Compatibility Patch_ and added _Majestic Mountains - Bruma Patch_.
+* Removed _The Tiniest Shack_ and added _Viking's Longhouse_.
+> Overall even if the shack is pretty cozy, noone will use it for too long, so I have decided to add something more interesting in another place, considering we have Rayek's End.
+* Added _Immersive Fort Dawnguard_.
+> If Castle Volkihar is changed, Fort Dawnguard needs to get some attention too.
+* Added _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
+* Added _Janquel's Arguably Needed Quixotically Unifying ESP Library_.
+* Changed installation instructions for _The Gray Cowl of Nocturnal - Add-Ons and Patches_.
+* Changed installation instructions for _The Tools of Kagrenac_.
+* Changed installation instructions for _Hammet's Dungeon Packs_ and _Hammet's Dungeons - Misc Patches_.
 
 ### Exteriors
 
-* Added _Happy Little Trees_.
-* Added _Cities of the North - Falkreath_ and _Cities of the North - Falkreath Patch Collection_.
-* Added _Bent Pines_.
-* Changed installation instructions for _Cities of the North - Winterhold Patch Collection_, _The Great Town of Karthwasten Patch Collection_, _The Great Town of Ivarstead Patch Collection_, _The Great Village of Old Hroldan Patch Collection_, _The Great Town of Shor's Stone Patch Collection_, _The Great Village of Mixwater Mill Patch Collection_ and _The Great Village of Kynesgrove Patch Collection_.
-> _The newest version of Lanterns of Skyrim II doesn't mess up with patches not be used with earlier version of the mod, so the newest patches for these mods can be safely used._
-* Changed mod and load order for some mods.
+* Added _Happy Little Trees - Better Dynamic Ash Patch_.
+* Changed installation instructions for _Cities of the North - Falkreath Patch Collection_.
+* Changed installation instructions for _The Great Town of Ivarstead Patch Collection_.
 
 ### Interiors
 
-* Added _JK's Temple of Talos._
 * Changed FOMOD instructions for _JK's Interiors Patch Collection_.
 
 ### Appearance
 
-* Removed _KS Hairdos Lite_.
-* Added _KS Hairdos_ and _Immersive KS Hairdos_.
-> I felt that _KS Hairdos Lite_ gave us a little bit too less choice on which hairstyle to pick. _KS Hairdos_ is too massive for us, so
-there comes _Immersive KS Hairdos_ deleting all the anime etc. haircuts and even sorting the mod's hair by their size.
-
-### Gameplay Overhauls
-
-* Changed installation instructions for _Reading Is Good_.
+* Removed _Immersive KS Hairdos_.
+* Added _Vanilla Hair Replacer_.
+* Added _Another KS Hairdos Replacer_.
+* Added _Kyoe's Bang'n Brows_ and _Kyoe's Bang'n Brows for KouLeifoh's High Poly Head_.
+> For people, who would like to have a little bit brighter brows.
+* Changed installation instructions for _KS Hairdos_.
+> And now this section can be considered as perfect. Before I didn't like the fact that there were still so many hairstyles and that many of them were clipping for too much or just didn't belong to Skyrim at all. That is changed as I have made my own replacers for KS Hairdos and KS Hairdos HDT SMP plugins. We use _KS Hairdos_ only for women now as I wasn't exactly a fan of male haircuts from there. That is where _Vanilla Hair Replacer_ comes to our help, while adding some extra options for females.
 
 ### Miscellaneous
 
-* Removed _ENB Lights For Effect Shaders_ and _Player Spell and Weapon Lighting_.
-> As those were added to TPF.
-* Added _Storm Lightning - Settings Loader_.
-* Changed installation instructions for _Simply Knock SKSE64 DLL_.
-* Changed installation instructions for _Forget Spell_.
-* Changed installation instructions for _Strange Runes_.
+* Removed _powerofthree's Papyrus Extender_.
+> Because it was added to TPF.
+* Removed _Quicker Bed Exit_ and added _Sleeping Expanded_.
+* Added _Face Discoloration Fix_.
+> Helps us to easily use _Vanilla Hair Replacer_.
+* Added _Use Telekinesis on Traps_.
+* Added _Character Light_.
 
 ### Skeleton & Animations
 
-* Changed configuration instructions for _Simple Dual Sheath_.
-* Added _Vanargand Animations - One Handed Normal Attacks_.
+* Added _Vanargand Animations - One Handed Power Attacks_.
+* Added _Vanargand Animations - One Handed Normal Attacks_ to the documentation.
+> Those were there for Wabbajack users, my bad.
+* Changed installation instructions for Animation Motion Revolution.
 
 ### NPC Overhauls
 
-* Changed installation and added FOMOD instructions for _The Ordinary Women_.
-
-### Literally Unplayable
-
-* Removed _Literally Unplayable - Ordinary Women Patch_.
-> As the latest _The Ordinary Women_ update resolved the head parts issue.
+* Added additional instructions for _The Ordinary Women_.
 
 ### Preparations
 
-* Added instructions to get back _Relightning Skyrim_.
-> I want to stay with it for a while.
+* Added information about _Frozen Electrocuted Combustion_'s inclusion to TPF and its' removal from the add-on.
+* Changed installation and FOMOD instructions for _Enhanced Blood Textures_.
 
 ### Configurations
 
-* Overhauled.
-* Removed some of MCMs to change.
-> Because all removed ones are automated, no need to worry about them anymore.
-* Moved much of the information to _Gameplay Guide_.
-* Removed information for Wabbajack users.
-> As their _Wabbajack_ page also got overhauled.
+* Removed MCM instructions for _Storm Lightning_.
+> Now are automated.
 
 ### Gameplay Guide
 
-* Overhauled.
-* Added information here from _Configurations_.
-
-### Thank You
-
-* Overhauled.
-* Added links to TPF's Discord server and information about my Paypal.
+* Added information about _Character Light_.
 
 ---
 
 ### Other Changes
 
-* Removed the performance profile and the performance output of DynDOLOD.
-> This change probably won't be the most appealing one for everyone. I have tried to maintain the performance part as much as I can, but 
-overall I have spent too much of time and resources on that (outputs). I have never thought of my add-on as the most performance friendly one 
-(even though without its performance profile it is still easier on performance than Elysium and similar lists, so it is still an option for not as top-tier PCs), 
-so I was a bit annoyed by keeping it up for every single time, especially considering the fact that many people, who struggle with performance already on TPF, use just TPF's performance profile or something even lighter. And especially considering the exterior changes my add-on makes, which maybe or maybe not will become even bigger in the future. Of course, 
-you can make the changes to performance and DynDOLOD by yourself if you want and know how to, but don't ask for advice on these ones in channels related to add-ons.
-* Changed some pictures in the documentation to be up to date with the add-on.
-* Many other tweaks here and there.
+* Made lockpicking much more harder for early game.
+> For example, if you are a novice at lockpicking and you try to pick a novice lock, you will have only 40% chance to break a lockpick. That's the easiest lock you can pick, so that is pretty fair for both balance and roleplay. But if you as total rookie will try to pick a master lock, be prepared to lose 15 lockpicks. Sounds reasonable for me, maybe you should lose even more. Feedback is appreciated as always. And that also works in other way - if you are a master thief (your lockpicking skill is big enough), you will get only 40% chance to break a lockpick on almost any chest.
+* Removed a lock out in the main quest of the Thieves Guild, which can happen if you choose specific reply to Brynjolf connected to _Thieves Guild for Good Guys_.
+> Thanks again for Guitarninja for giving me an information about this and the other two issues.
+* Changed the books related to _EasierRider's Dungeon Pack_ to be readable.
+* Removed the wall of darkness in the Castle Dour's region, which is involving _Undeath_ mod.
+* Changed the final mask of Sinister Seven to not be disenchantable.
+* Run through all Realistic Water Two changes to water once again.
+* Changed Tahriel's Gale cost to 70.
+* Got rid of my plans for the add-on inside the main page.
+> Overall it just felt not needed. I usually tell people about my plans.
+* Occlusion is included inside DynDOLOD's folder now.
+* Adjusted some information.
 
 ### Wabbajack
 
-* Changed the add-on's files to be compatible with Anniversary Edition (without CC content).
-> At least for now. The only mod I maybe care about is Saints & Seducers (as it is a quest mod), I will look at it and if its compatible with the content we already have. You don't need to delete anything CC related.
-* Overhauled _Wabbajack_ page.
-> From now on Wabbajack users will usually need just Wabbajack page to finish setting up the add-on.
-* Added mods' outputs to final patches, so manual guide users can also benefit from them.
-* Removed the performance grass mods. Made changes in the Wabbajack's document related to the removal of the performance options.
-> As those were used in the performance profile only.
-* Moved walls and landscape around Morskom. 
-> Thanks again to Sovn for the patch. There will be a little defect seen near the palace on the ground, but that should be the only one.
+* Added one of the patches for NPC overhauls back again.
+> Which I have accidentally overwritten with another one somehow. Black face issues around Winterhold should be resolved.
+* Made the game borderless again.
+> Forgot to change those back after _SSE Display Tweaks_ update.
+* Removed some of the mods, which were just disabled all the time.
+> This change also made the Wabbajack document smaller.
+* Added information about add-on's size.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+* Enhanced Blood Textures
 * SmoothCam
-* No Lockpick Activate
-* House of Horrors - Quest Expansion
-* Beyond Skyrim - Bruma
-* Apothecary - Bruma Patch
-* Forceful Tongue - Wyrmstooth Patch
-* Apothecary - Wyrmstooth Patch
-* Lucien - Immersive Fully Voiced Male Follower
-* Gladys the Corgi - A Custom Dog Follower Mod
-* Merlin the Corgi - A Magical Dog Follower Mod
+* Simple Activate
+* Additional Clockwork
+* The Gray Cowl of Nocturnal - Add-Ons and Patches
+* The Tools of Kagrenac
+* The Grand Paladin - 2021
 * Undeath - Classical Lichdom
-* Cities of the North - Winterhold Patch Collection
-* The Great Town of Karthwasten Patch Collection
-* The Great Village of Old Hroldan Patch Collection
-* The Great Town of Ivarstead Patch Collection
-* The Great Town of Shor's Stone Patch Collection
-* The Great Village of Mixwater Mill Patch Collection
-* The Great Village of Kynesgrove Patch Collection
+* Cities of the North - Falkreath Patch Collection
 * JK's The Winking Skeever
+* JK's New Gnisis Cornerclub
+* JK's Palace of the Kings
+* JK's Temple of the Divines
+* JK's Temple of Talos
 * JK's Interiors Patch Collection
-* Masculine Khajiit Textures
-* Strange Runes
-* Vanargand Animations - One Handed Mid Stance
-* The Ordinary Women
-* AI Overhaul - High Poly Expressive NPCs Patch
-* USSEP - Northbourne NPCs of the Rift - AI Overhaul Patch
-* USSEP - The Ordinary Women - AI Overhaul Patch
-* USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul Patch
-* Updated AI Overhaul - Kalilies NPCs Patch
+* Pilgrim - A Religion Overhaul
+* Navigator - Navmesh Fixes
+* Animation Motion Revolution
+* TK Dodge RE
