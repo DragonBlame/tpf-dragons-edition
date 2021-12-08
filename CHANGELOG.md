@@ -91,8 +91,10 @@
 * Changed the books related to _EasierRider's Dungeon Pack_ to be readable.
 * Removed the wall of darkness in the Castle Dour's region, which is involving _Undeath_ mod.
 * Changed the final mask of Sinister Seven to not be disenchantable.
+* Run through all Realistic Water Two changes to water once again.
 * Got rid of my plans for the add-on inside the main page.
 > Overall it just felt not needed. I usually tell people about my plans.
+* Occlusion is included inside DynDOLOD's folder now.
 * Adjusted some information.
 
 ### Wabbajack
