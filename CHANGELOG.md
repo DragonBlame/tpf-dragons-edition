@@ -2,6 +2,33 @@
 
 # Changelog
 
+## Version 1.12.1.
+
+> Just a maintenance update. Updated only Nemesis output.
+> Previous changelogs can be found in the releases.
+
+### New Content
+
+* Added _Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map_.
+* Changed installation instructions for _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
+
+---
+
+### Other Changes
+
+* Fixed _TK Dodge_ and magic related T pose issue.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+* The Tools of Kagrenac
+* Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* Merlin the Corgi - A Magical Dog Follower Mod
+* Pilgrim - A Religion Overhaul
+* Sleeping Expanded
+
+---
+---
+
 ## Version 1.12.
 
 > Updated final patches, updated Nemesis, Texgen, DynDOLOD and occlusion outputs.

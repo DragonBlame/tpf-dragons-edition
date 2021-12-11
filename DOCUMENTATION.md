@@ -482,6 +482,10 @@ younger.*
 
 **Main files** - Beyond Skyrim Bruma Craft Restrictions
 
+### [Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/57176?tab=files)
+
+**Main files** - Bruma LOD
+
 ### [Majestic Mountains - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59265?tab=files)
 
 **Main files** - Bruma - MM Patch
@@ -773,7 +777,7 @@ directory*, click *OK*.
 
 ### [Kaidan 2 Follower Voice Fixes and Additional Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/59349?tab=files)
 
-**Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 1.2
+**Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 1.3
 
 ### [Pandorable's Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/23738?tab=files)
 
