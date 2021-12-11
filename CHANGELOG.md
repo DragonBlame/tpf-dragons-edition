@@ -15,7 +15,7 @@
 
 ### Other Changes
 
-* Fixed TK Dodge and magic related T pose issue.
+* Fixed _TK Dodge_ and magic related T pose issue.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
