@@ -9,7 +9,7 @@
 
 ### New Content
 
-* Changes installation instructions for _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
+* Changed installation instructions for _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
 
 ---
 
@@ -19,7 +19,11 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+* The Tools of Kagrenac
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* Merlin the Corgi - A Magical Dog Follower Mod
+* Pilgrim - A Religion Overhaul
+* Sleeping Expanded
 
 ---
 ---
