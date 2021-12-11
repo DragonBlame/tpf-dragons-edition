@@ -2,6 +2,28 @@
 
 # Changelog
 
+## Version 1.12.1.
+
+> Just a maintenance update. Updated only Nemesis output.
+> Previous changelogs can be found in the releases.
+
+### New Content
+
+* Changes installation instructions for _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
+
+---
+
+### Other Changes
+
+* Fixed TK Dodge and magic related T pose issue.
+
+### Updated Add-on's Mods for Wabbajack Users
+
+* Kaidan 2 Follower Voice Fixes and Additional Dialogue
+
+---
+---
+
 ## Version 1.12.
 
 > Updated final patches, updated Nemesis, Texgen, DynDOLOD and occlusion outputs.
