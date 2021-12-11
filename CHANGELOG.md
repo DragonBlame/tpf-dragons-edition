@@ -9,6 +9,7 @@
 
 ### New Content
 
+* Added _Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map_.
 * Changed installation instructions for _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
 
 ---
