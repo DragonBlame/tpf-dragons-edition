@@ -482,6 +482,10 @@ younger.*
 
 **Main files** - Beyond Skyrim Bruma Craft Restrictions
 
+### [Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/57176?tab=files)
+
+**Main files** - Bruma LOD
+
 ### [Majestic Mountains - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59265?tab=files)
 
 **Main files** - Bruma - MM Patch
