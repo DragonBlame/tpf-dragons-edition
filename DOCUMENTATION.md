@@ -3098,8 +3098,7 @@ This section is mainly used to inform people about what they can expect from the
 At first, some juicy tips for peeps, who went right here after mingling with the add-on:
 
 * Be sure to do at least half of the main quest series as some added quests are tied to it (more information later).
-* Secondly, look inside Helgen’s Keep’s entries thoroughly as there will be one little reward for attentive ones.
-* Thirdly, for people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
+* For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
 there will be a neat spell book waiting for you somewhere around Riverwood.
 * And another one - be sure to travel around Falkreath. Something interesting might happen.
 
@@ -3136,7 +3135,7 @@ you were praying to, but a more unique one than those you get in vanilla. You ca
 You will need to press `,` button to use the whistle in the game.
 **Dragonborn's Powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
 You will be able to upgrade this power by shouting and killing dragons.
-* **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher.
+* **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
 
 About just some of interesting mods I have added:
 
