@@ -2783,7 +2783,7 @@ right after the mod from TPF and activate it.
 
 The same process must be done with:
 
--   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPFs
+-   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPF's
     patches [(look
     here)](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2)
     and `More Growable Plants, flora for Beyond Skyrim - Bruma, Unique Flowers and
@@ -2798,9 +2798,11 @@ the files on the *Winning file conflicts* section, where overwritten mod
 includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 *Hide*. Do the same for More Growable Plants from the add-on's _Miscellaneous_ section.
 
--   *Lanterns of Skyrim II* in *LIGHTNING* separator - `SMIM and Bruma`;
+-   *Common Marker Add-On Project (CoMAP)* under _INTERFACE_ separator - `CoMAP 1.5.97 (Pre-AE), CoMAP Config Pack, Obscured Undiscovered HUD Markers - Hollow Diamond, Hidden Until Discovered, Jorrvaskr Map Marker, Wyrmstooth Travel Marker Tweaks`;
 
--   [*Enhanced Blood Textures*](https://www.nexusmods.com/skyrimspecialedition/mods/2357) in *VISUAL FX* separator;
+-   *Lanterns of Skyrim II* under *LIGHTNING* separator - `SMIM and Bruma`;
+
+-   [*Enhanced Blood Textures*](https://www.nexusmods.com/skyrimspecialedition/mods/2357) under *VISUAL FX* separator;
 
     > This time you will need to download completely different version of the mod, but after installing it put it also after the mod from TPF.
     - **Miscellaneous files** - 4.0 BETA 4
@@ -2815,18 +2817,18 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
     It would fit Fallout franchise, but definitely not Elder Scrolls. In my opinion, Skyrim is more of a fairy tale. If you leave this mod enabled, that is **on you** to check
     for any conflicts and errors associated with it.
 
--   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
+-   *Particle Lights For ENB - Undead Creatures* under *CREATURES* -
     `Default undead eyes, weaker lightning for ghosts, a patch for
     Cannibal Draugr, blue skulls, Solstheim version of the patch`;
     
--   *Skeleton Replacer HD - Patches* in *CREATURES* -
+-   *Skeleton Replacer HD - Patches* under *CREATURES* -
     `MajesticMountains, NordicRuinsCandlesEnbLight, UniqueSkullsPotema, ToolsOfKagrenac`;
 
--   *Simple Children - Patches* in *APPEARANCE* - `Bruma, Helgen Reborn,
+-   *Simple Children - Patches* under *APPEARANCE* - `Bruma, Helgen Reborn,
     Interesting NPCs, Moon and Star, The Forgotten City, Wyrmstooth,
     Adopt Aventus Aretino + USSEP`;
 
--   *Misc. College of Winterhold Tweaks* in *IMPROVED VANILLA QUESTS* -
+-   *Misc. College of Winterhold Tweaks* under *IMPROVED VANILLA QUESTS* -
     TPFs patches [(look
     here)](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/#fomod-instructions-4)
     except `Scheduled Savos, A Wizard’s Walk, Erratum Etc.`, which
