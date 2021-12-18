@@ -1377,16 +1377,6 @@ always.
 
 **FOMOD** - `Obscure’s College of Winterhold - Cell Setting Patch`.
 
-### [KD Circlets Redone by zzjay](https://www.nexusmods.com/skyrimspecialedition/mods/10320)
-
-**Main files** - KD Cirlets by zzjay main file
-
-*At first, I wasn’t a fan, because if we compare this mod to JS Circlet
-Replacer, the replacer is definitely the winner, but after looking more
-at some of these minimalistic and sweet circlets, I have decided that a
-bunch of people will use them. They can be obtained only by crafting at
-forge.*
-
 ### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
 
 **Main files** - Elemental Staffs SE
