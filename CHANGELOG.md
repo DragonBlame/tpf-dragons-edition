@@ -6,6 +6,11 @@
 
 > xxx
 
+### Apparel & Weapons
+
+* Removed _KD Circlets Redone_.
+> The mod was deleted from SE Nexus. It still is on LE Nexus, but I have decided not to readd it.
+
 ### Literally Unplayable
 
 * Removed instructions for using _Literally Unplayable - Miraak Husbando Patch_.
