@@ -2686,8 +2686,6 @@ its colour, so that it won't be the same as TPF's ones.
 
 ### [Literally Unplayable - Remove Not Needed Head Parts from Character Creation](https://www.nexusmods.com/skyrimspecialedition/mods/54135)
 
-**Main files** - Literally Unplayable - Miraak Husbando Patch
-
 **Main files** - Literally Unplayable - Bruma Patch
 
 **Main files** - Literally Unplayable - The Forgotten City Patch
@@ -2783,6 +2781,12 @@ right after the mod from TPF and activate it.
 
 The same process must be done with:
 
+-   *Common Marker Add-On Project (CoMAP)* under _INTERFACE_ separator - `CoMAP 1.5.97 (Pre-AE), CoMAP Config Pack, Obscured Undiscovered HUD Markers - Hollow Diamond, Hidden Until Discovered, Jorrvaskr Map Marker, Wyrmstooth Travel Marker Tweaks` - then change the mod's INI to TPF's default ones;
+
+    - bObscuredUndiscovered=1
+    - fMarkerScale=0.75
+    - bObscuredUndiscovered=1
+
 -   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPF's
     patches [(look
     here)](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2)
@@ -2797,8 +2801,6 @@ right-clicking the mod, then choosing the *Conflicts* tab, selecting all
 the files on the *Winning file conflicts* section, where overwritten mod
 includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 *Hide*. Do the same for More Growable Plants from the add-on's _Miscellaneous_ section.
-
--   *Common Marker Add-On Project (CoMAP)* under _INTERFACE_ separator - `CoMAP 1.5.97 (Pre-AE), CoMAP Config Pack, Obscured Undiscovered HUD Markers - Hollow Diamond, Hidden Until Discovered, Jorrvaskr Map Marker, Wyrmstooth Travel Marker Tweaks`;
 
 -   *Lanterns of Skyrim II* under *LIGHTNING* separator - `SMIM and Bruma`;
 
