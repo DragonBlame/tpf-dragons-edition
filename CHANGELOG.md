@@ -42,5 +42,6 @@
 * The Tools of Kagrenac
 * JK's Blue Palace
 * Pilgrim - A Religion Overhaul
+* Animated Forge Water
 * Pandorable's NPCs - Males
 * Pandorable's NPCs - Males 2
