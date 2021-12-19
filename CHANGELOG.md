@@ -21,6 +21,11 @@
 * Removed _KD Circlets Redone_.
 > The mod was deleted from SE Nexus. It still is on LE Nexus, but I have decided not to readd it.
 
+### Skeleton & Animations
+
+* Removed _Vanargand Animations - Sneak Idle Walk and Run_.
+> After tinkering with them for a while, I understood that I actually don't like them too.
+
 ### NPC Overhauls
 
 * Removed _Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium_.
