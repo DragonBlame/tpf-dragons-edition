@@ -1863,6 +1863,14 @@ This mod allows us to do that.*
 
 *An updated .dll file for the mod to work.*
 
+### [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668)
+
+**Main files** - VioLens - A Killmove Mod SE 2.22a
+
+**FOMOD** - don't change anything.
+
+*Allows us to customize the game's behaviour related to kill moves.*
+
 ### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
 
 **Main files** - Guiding Wisp
