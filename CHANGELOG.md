@@ -52,6 +52,7 @@
 * Enhanced Blood Textures
 * Beyond Skyrim - Bruma
 * The Tools of Kagrenac
+* Cities of the North - Dawnstar Patch Collection
 * JK's Blue Palace
 * JK's Interiors Patch Collection
 * Pilgrim - A Religion Overhaul
