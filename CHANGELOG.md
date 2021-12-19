@@ -41,9 +41,11 @@
 
 ---
 
-### xxx
+### Wabbajack
 
-* xxx
+* Removed not needed copies of some mods.
+* Changed colours for some of TPF's separators.
+> Was done mainly to make my work a little bit easier - it indicates, where are the mods, which are from TPF, but were reinstalled with different settings for the add-on's purposes.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
