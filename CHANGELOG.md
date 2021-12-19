@@ -10,6 +10,11 @@
 
 * Changed installation instructions for _Tools of Kagrenac_.
 
+### Interiors
+
+* Added _JK's Haelga's Bunkhouse_.
+* Changed FOMOD instructions for _JK's Interiors Patch Collection_.
+
 ### Apparel & Weapons
 
 * Removed _KD Circlets Redone_.
@@ -43,6 +48,7 @@
 * Enhanced Blood Textures
 * The Tools of Kagrenac
 * JK's Blue Palace
+* JK's Interiors Patch Collection
 * Pilgrim - A Religion Overhaul
 * Animated Forge Water
 * Pandorable's NPCs - Males
