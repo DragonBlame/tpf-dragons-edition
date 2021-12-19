@@ -8,6 +8,7 @@
 
 ### New Content
 
+* Changed installation instructions for _Beyond Skyrim - Bruma_.
 * Changed installation instructions for _Tools of Kagrenac_.
 
 ### Interiors
@@ -36,6 +37,7 @@
 * Added instructions on reinstalling _CoMAP_.
 > For a patch for Wyrmstooth.
 * Changed installation instructions for _Enhanced Blood Textures_.
+* Changed installation instructions for _Simple Children - Patches_.
 
 ---
 
@@ -46,6 +48,7 @@
 ### Updated Add-on's Mods for Wabbajack Users
 
 * Enhanced Blood Textures
+* Beyond Skyrim - Bruma
 * The Tools of Kagrenac
 * JK's Blue Palace
 * JK's Interiors Patch Collection
