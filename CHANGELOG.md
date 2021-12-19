@@ -34,4 +34,5 @@
 ### Updated Add-on's Mods for Wabbajack Users
 
 * The Tools of Kagrenac
+* JK's Blue Palace
 * Pilgrim - A Religion Overhaul
