@@ -448,6 +448,8 @@ younger.*
 
 **Main files** - Beyond Skyrim DLC Integration Patch
 
+**Update files** - Beyond Skyrim - Bruma Hotfix 1.5.3
+
 ### [Beyond Skyrim - Bruma Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/34413?tab=files)
 
 **Main files** - BSBUT_Armor_4x
@@ -2826,7 +2828,7 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 -   *Skeleton Replacer HD - Patches* under *CREATURES* -
     `MajesticMountains, NordicRuinsCandlesEnbLight, UniqueSkullsPotema, ToolsOfKagrenac`;
 
--   *Simple Children - Patches* under *APPEARANCE* - `Bruma, Helgen Reborn,
+-   *Simple Children - Patches* under *APPEARANCE* - `Helgen Reborn,
     Interesting NPCs, Moon and Star, The Forgotten City, Wyrmstooth,
     Adopt Aventus Aretino + USSEP`;
 
