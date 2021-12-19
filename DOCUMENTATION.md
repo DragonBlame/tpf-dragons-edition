@@ -1181,7 +1181,11 @@ Lanterns of Skyrim II`.
 
 **Merge** - merge both files.
 
-*Even though all this mod does is just adding some trees, you won't just go away from them without looking closer and maybe taking some screenshots on the way.*
+*Even though all the next two mods do is just adding some trees, you won't just go away from them without looking closer and maybe taking some screenshots on the way.*
+
+### [Ancient Trees Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/49198)
+
+**Main files** - Ancient Trees of Skyrim 5.1.1 SE
 
 ### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718)
 
