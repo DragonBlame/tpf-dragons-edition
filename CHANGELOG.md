@@ -19,6 +19,7 @@
 
 * Removed _Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium_.
 * Changed installation instructions for _Pandorable's NPCs - Dawnguard_, _Pandorable's NPCs - Males_ and _Pandorable's NPCs - Males 2_.
+* Changed picture of NPC overhauls to display the latest changes.
 
 ### Literally Unplayable
 
