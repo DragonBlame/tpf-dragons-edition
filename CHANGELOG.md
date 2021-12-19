@@ -34,8 +34,7 @@
 
 ### Literally Unplayable
 
-* Removed instructions for using _Literally Unplayable - Miraak Husbando Patch_.
-> It was removed in the Wabbajack version some time ago, but I have forgotten to remove the patch from the documentation.
+* Changed installation instructions.
 
 ### Preparations
 
