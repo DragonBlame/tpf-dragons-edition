@@ -2460,18 +2460,22 @@ Veleth, Wulf Wild-Blood, USSEP`.
 
 ### [Pandorable's NPCs - Males](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
 
-**Main files** - Pandorable's NPCs - Males SE
+**Main files** - PAN_NPCs - Males SE
 
 **FOMOD** - `Alternative for Savos, Cicero, Larak, Madanach, USSEP`.
 
+**Optional files** - PAN_NPCs Males - AI Overhaul patch
+
 ### [Pandorable's NPCs - Males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
 
-**Main files** - PAN_NPCs - Males 2
+**Main files** - PAN_NPCs - Males 2 SE
 
 **FOMOD** - `Alternative for Borkul the Beast, alternative 2 for Chief
 Burguk, alternative for Chief Mauhulakh, alternative 1 for Athis and Skjor, alternative 2 for
 Vilkas and Farkas, alternative for Falion, Erik The Slayer, Unmid
 Snow-Shod, USSEP`.
+
+**Optional files** - PAN_NPCs Males 2 - AI Overhaul patch
 
 ### [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349)
 
