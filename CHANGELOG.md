@@ -15,6 +15,11 @@
 * Removed _KD Circlets Redone_.
 > The mod was deleted from SE Nexus. It still is on LE Nexus, but I have decided not to readd it.
 
+### NPC Overhauls
+
+* Removed _Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium_.
+* Changed installation instructions for _Pandorable's NPCs - Males_ and _Pandorable's NPCs - Males 2_.
+
 ### Literally Unplayable
 
 * Removed instructions for using _Literally Unplayable - Miraak Husbando Patch_.
