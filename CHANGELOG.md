@@ -6,6 +6,10 @@
 
 > xxx
 
+### New Content
+
+* Changed installation instructions for _Tools of Kagrenac_.
+
 ### Apparel & Weapons
 
 * Removed _KD Circlets Redone_.
@@ -29,4 +33,5 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* xxx
+* The Tools of Kagrenac
+* Pilgrim - A Religion Overhaul
