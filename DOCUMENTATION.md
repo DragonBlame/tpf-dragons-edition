@@ -2189,10 +2189,6 @@ Sprint, Origin Dw Sprint_Type A`.
 
 **Main files** - Vanargand Animations - One Handed Power Attacks
 
-### [Vanargand Animations - Sneak Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/54351)
-
-**Main files** - Vanargand Animations - Sneak Idle Walk and Run
-
 ### [Vanargand Animations - Sneak Thrust Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/55031)
 
 **Main files** - Vanargand Animations - Sneak Thrust Attacks
