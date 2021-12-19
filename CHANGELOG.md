@@ -30,6 +30,7 @@
 
 * Added instructions on reinstalling _CoMAP_.
 > For a patch for Wyrmstooth.
+* Changed installation instructions for _Enhanced Blood Textures_.
 
 ---
 
@@ -39,6 +40,7 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+* Enhanced Blood Textures
 * The Tools of Kagrenac
 * JK's Blue Palace
 * Pilgrim - A Religion Overhaul
