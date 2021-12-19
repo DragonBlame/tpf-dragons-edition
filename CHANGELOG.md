@@ -11,6 +11,10 @@
 * Changed installation instructions for _Beyond Skyrim - Bruma_.
 * Changed installation instructions for _Tools of Kagrenac_.
 
+### Exteriors
+
+* Added _Ancient Trees Of Skyrim_.
+
 ### Interiors
 
 * Added _JK's Haelga's Bunkhouse_.
