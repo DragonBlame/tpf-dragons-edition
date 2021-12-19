@@ -1322,6 +1322,10 @@ separator in the same order.
 
 **Main files** - JK's Temple of Talos
 
+### [JK's Haelga's Bunkhouse](https://www.nexusmods.com/skyrimspecialedition/mods/60085)
+
+**Main files** - JK's Haelga's Bunkhouse
+
 ### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 
 **Old files (v. 3.24.1.)** - JKs Interiors Patch Collection
