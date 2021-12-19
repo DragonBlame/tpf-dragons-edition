@@ -2449,6 +2449,8 @@ bit of charisma.*
 
 **Main files** - Pandorable's NPCs - Dawnguard SE - USSEP
 
+**Optional files** - PAN_NPCs_DG - AI Overhaul patch
+
 ### [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
 
 **Main files** - Pandorable's NPCs - Dragonborn SE
