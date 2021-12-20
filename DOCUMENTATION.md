@@ -1871,6 +1871,10 @@ This mod allows us to do that.*
 
 *Allows us to customize the game's behaviour related to kill moves.*
 
+### [VioLens - A Killmove Mod - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56674)
+
+**Main files** - VioLens - A Killmove Mod SE - Settings Loader
+
 ### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
 
 **Main files** - Guiding Wisp
