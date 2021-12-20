@@ -4,7 +4,7 @@
 
 ## Version 1.13.
 
-> xxx
+> Updated final patches. Updated DynDOLOD and Occlusion outputs.
 
 ### New Content
 
@@ -29,7 +29,7 @@
 
 ### Miscellaneous
 
-* Added _VioLens - A Killmove Mod_ and _VioLens - A Killmove Mod SE - Settings Loader_.
+* Added _VioLens - A Killmove Mod_ and _VioLens - A Killmove Mod - Settings Loader_.
 
 ### Skeleton & Animations
 
