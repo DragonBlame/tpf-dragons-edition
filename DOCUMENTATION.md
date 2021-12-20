@@ -3175,7 +3175,7 @@ offer inside their plugins. I have added it for people to know that there is an 
 * **About knocking** - Now you can knock on locked doors by activating them. Good for roleplaying and also useful.
 * **About Clairvoyance** - Now it is much more useful overall. Just try it out (be sure that you have an active quest in your journal).
 * **About being underwater** - Now you cee your oxygen meter while underwater, so you will know how much time you have before comitting to drowning.
-* **About being neutral during the Civil War** - Now you can become Thane of Eastmarch without licking Ulfric's boots (that means getting Hjerim, Calder the Housecarl, unblocking Korvanjund and much more). If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/21176).
+* **About buying Hjerim without joining the war** - Now it is enough to just take the care of the psychopath.
 * **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
 * **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
 * **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
