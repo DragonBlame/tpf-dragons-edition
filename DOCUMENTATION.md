@@ -1898,12 +1898,11 @@ leads you to your quest objective.*
 
 _Sometimes I just can't believe that some of mods like this one appered only recently._
 
-### [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
+### [Neutral Hjerim](https://www.nexusmods.com/skyrimspecialedition/mods/29508)
 
-**Main files** - CWN - Civil War Neutrality SSE
+**Optional files** - No Thane - ESLified ESP
 
-*Let Stormcloaks and the Empire play their own games, while being
-neutral, but getting your deserved rewards.*
+*Play your war games without me, I have saved you from a damn psychopath, I deserve the home for that.*
 
 ### [Sleeping Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/59250)
 
