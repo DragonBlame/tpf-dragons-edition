@@ -29,6 +29,8 @@
 
 ### Miscellaneous
 
+* Removed _Civil War Neutrality_.
+> It was such a good mod, but unfortunately it needs update to function properly.
 * Added _VioLens - A Killmove Mod_ and _VioLens - A Killmove Mod - Settings Loader_.
 
 ### Skeleton & Animations
