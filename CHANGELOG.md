@@ -30,7 +30,8 @@
 ### Miscellaneous
 
 * Removed _Civil War Neutrality_.
-> It was such a good mod, but unfortunately it needs update to function properly.
+* Added _Neutral Hjerim_.
+> _Civil War Neutrality_ was a good mod, but unfortunately it needs update to function properly. With the mod installed, people actually coudn't join the factions even if they wanted to join. At least we will be able to get Hjerim without the need to join the war (getting rid of the psycopath actually is somehow rewarded from the side of the city in this way).
 * Added _VioLens - A Killmove Mod_ and _VioLens - A Killmove Mod - Settings Loader_.
 
 ### Skeleton & Animations
