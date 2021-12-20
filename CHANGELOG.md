@@ -8,6 +8,7 @@
 
 ### New Content
 
+* Added _Helgen Reborn Immersive Start_.
 * Changed installation instructions for _Beyond Skyrim - Bruma_.
 * Changed installation instructions for _Tools of Kagrenac_.
 
