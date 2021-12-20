@@ -57,6 +57,11 @@
 
 ---
 
+### Other Changes
+
+* Removed sets of instructions for _Civil War Neutrality_.
+* Changed sets of instructions for _Helgen Reborn_.
+
 ### Wabbajack
 
 * Removed not needed copies of some mods.
