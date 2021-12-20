@@ -9,6 +9,7 @@
 ### New Content
 
 * Added _Helgen Reborn Immersive Start_.
+* Added _Kaidan 2 - HD Armor Retexture_.
 * Changed installation instructions for _Beyond Skyrim - Bruma_.
 * Changed installation instructions for _Tools of Kagrenac_.
 
