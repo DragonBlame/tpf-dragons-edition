@@ -404,6 +404,10 @@ younger.*
 
 **Main files** - Helgen Reborn SSE Version 106 With bsa file
 
+### [Helgen Reborn Immersive Start](https://www.nexusmods.com/skyrimspecialedition/mods/60259?tab=files)
+
+**Main files** - Helgen Reborn Immersive Start
+
 ### [Landscape Fixes For Grass Mods - Helgen Reborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
 
 **Optional files** - Patch for Helgen Reborn
