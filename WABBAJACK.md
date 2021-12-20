@@ -110,7 +110,7 @@ If you don't care about points below, feel free to skip. I **definitely recommen
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](DOCUMENTATION.md#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest Unbound. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide).
+And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide).
 
 ---
 
