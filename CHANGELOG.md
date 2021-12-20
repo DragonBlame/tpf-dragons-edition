@@ -23,7 +23,7 @@
 ### Apparel & Weapons
 
 * Removed _KD Circlets Redone_.
-> The mod was deleted from SE Nexus. It still is on LE Nexus, but I have decided not to readd it.
+> The mod was deleted from SE Nexus. It is still on LE Nexus, but I have decided not to readd it.
 
 ### Miscellaneous
 
@@ -47,7 +47,6 @@
 ### Preparations
 
 * Added instructions on reinstalling _CoMAP_.
-> For a patch for Wyrmstooth.
 * Changed installation instructions for _Enhanced Blood Textures_.
 * Changed installation instructions for _Simple Children - Patches_.
 
