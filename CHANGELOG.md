@@ -55,6 +55,10 @@
 * Changed installation instructions for _Enhanced Blood Textures_.
 * Changed installation instructions for _Simple Children - Patches_.
 
+### Gameplay Guide
+
+* Added information about buying Hjerim without the need to join the war.
+
 ---
 
 ### Other Changes
