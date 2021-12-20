@@ -65,6 +65,7 @@
 
 ### Other Changes
 
+* Moved Falkreath's carriage driver's knapsacks and the lantern not to fly around. 
 * Removed one sign from the Dawnstar's inn.
 > Well, because two signs on the same spot doesn't look good. :D
 * Removed sets of instructions for _Civil War Neutrality_.
