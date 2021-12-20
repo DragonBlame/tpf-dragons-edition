@@ -27,7 +27,7 @@
 
 ### Miscellaneous
 
-* Added _VioLens - A Killmove Mod_.
+* Added _VioLens - A Killmove Mod_ and _VioLens - A Killmove Mod SE - Settings Loader_.
 
 ### Skeleton & Animations
 
