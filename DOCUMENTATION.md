@@ -781,6 +781,10 @@ directory*, click *OK*.
 
 **Main files** - Kaidan 2.1.1
 
+### [Kaidan 2 - HD Armor Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59736?tab=files)
+
+**Main files** - Kaidan 2 - HD Armor Retexture
+
 ### [Kaidan 2 Follower Voice Fixes and Additional Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/59349?tab=files)
 
 **Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 1.3
