@@ -57,12 +57,16 @@
 
 ### Gameplay Guide
 
+* Removed information about the little shack home we used before (undocumented 1.12.1. addition).
+* Added information about paraglider's functioning correctly only in the third person (undocumented 1.12.1. addition).
 * Added information about buying Hjerim without the need to join the war.
 
 ---
 
 ### Other Changes
 
+* Removed one sign from the Dawnstar's inn.
+> Well, because two signs on the same spot doesn't look good. :D
 * Removed sets of instructions for _Civil War Neutrality_.
 * Changed sets of instructions for _Helgen Reborn_.
 
