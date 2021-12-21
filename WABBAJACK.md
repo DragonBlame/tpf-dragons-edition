@@ -14,6 +14,14 @@ If you would like to learn more general information about the add-on, be sure to
 
 ---
 
+### Requirements
+  
+  - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022);
+  - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime);
+  - The latest version of Skyrim Anniversary Edition (free or full version).
+
+---
+
 ## Game Setup
 
 Phoenix also wrote a very detailed instructions on [how to set up your Skyrim Special Edition correctly for any Wabbajack list](https://thephoenixflavour.com/wj/wj-sse/game-setup/) and also for [installing those lists through Wabbajack](https://thephoenixflavour.com/wj/wj-sse/list-installation/). Follow those instructions carefully until you reach the _Choosing a list_ section of the list installation instructions. Then follow the instructions written below.
