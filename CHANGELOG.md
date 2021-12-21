@@ -82,6 +82,7 @@
 * Enhanced Blood Textures
 * Beyond Skyrim - Bruma
 * The Tools of Kagrenac
+* Kaidan 2 Follower Voice Fixes and Additional Dialogue
 * Cities of the North - Dawnstar Patch Collection
 * JK's Blue Palace
 * JK's Riverwood Trader
