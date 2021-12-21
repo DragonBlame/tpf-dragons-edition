@@ -87,6 +87,7 @@
 * JK's Riverwood Trader
 * JK's Interiors Patch Collection
 * Pilgrim - A Religion Overhaul
+* Sleeping Expanded
 * Animated Forge Water
 * Pandorable's NPCs - Males
 * Pandorable's NPCs - Males 2
