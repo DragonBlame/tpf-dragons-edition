@@ -84,6 +84,7 @@
 * The Tools of Kagrenac
 * Cities of the North - Dawnstar Patch Collection
 * JK's Blue Palace
+* JK's Riverwood Trader
 * JK's Interiors Patch Collection
 * Pilgrim - A Religion Overhaul
 * Animated Forge Water
