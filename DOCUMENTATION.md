@@ -404,6 +404,10 @@ younger.*
 
 **Main files** - Helgen Reborn SSE Version 106 With bsa file
 
+### [Helgen Reborn Immersive Start](https://www.nexusmods.com/skyrimspecialedition/mods/60259?tab=files)
+
+**Main files** - Helgen Reborn Immersive Start
+
 ### [Landscape Fixes For Grass Mods - Helgen Reborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9005?tab=files)
 
 **Optional files** - Patch for Helgen Reborn
@@ -447,6 +451,8 @@ younger.*
 **Main files** - Beyond Skyrim - Bruma
 
 **Main files** - Beyond Skyrim DLC Integration Patch
+
+**Update files** - Beyond Skyrim - Bruma Hotfix 1.5.3
 
 ### [Beyond Skyrim - Bruma Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/34413?tab=files)
 
@@ -638,7 +644,7 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 ### [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168?tab=files)
 
-**Main files** - The Tools of Kagrenac V1.58c SSE
+**Main files** - The Tools of Kagrenac V1.59 SSE
 
 ### [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351?tab=files)
 
@@ -774,6 +780,10 @@ directory*, click *OK*.
 ### [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075?tab=files)
 
 **Main files** - Kaidan 2.1.1
+
+### [Kaidan 2 - HD Armor Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59736?tab=files)
+
+**Main files** - Kaidan 2 - HD Armor Retexture
 
 ### [Kaidan 2 Follower Voice Fixes and Additional Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/59349?tab=files)
 
@@ -1179,7 +1189,11 @@ Lanterns of Skyrim II`.
 
 **Merge** - merge both files.
 
-*Even though all this mod does is just adding some trees, you won't just go away from them without looking closer and maybe taking some screenshots on the way.*
+*Even though all the next two mods do is just adding some trees, you won't just go away from them without looking closer and maybe taking some screenshots on the way.*
+
+### [Ancient Trees Of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/49198)
+
+**Main files** - Ancient Trees of Skyrim 5.1.1 SE
 
 ### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718)
 
@@ -1322,11 +1336,15 @@ separator in the same order.
 
 **Main files** - JK's Temple of Talos
 
+### [JK's Haelga's Bunkhouse](https://www.nexusmods.com/skyrimspecialedition/mods/60085)
+
+**Main files** - JK's Haelga's Bunkhouse
+
 ### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 
 **Old files (v. 3.24.1.)** - JKs Interiors Patch Collection
 
-**FOMOD** - In 1st page - `I'VE READ AND UNDERSTAND`, in the 2nd page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, in JK's Arcadia's Cauldron's page - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul, Lanterns of Skyrim II, USSEP`, **untick** only `Royal Armory` patch, `USSEP, 3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Mistveil Keep - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, `None` for armor replacer for guards, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP`, JK's Sadri's Used Wares - `3DNPC, ACE`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Sleeping Giant Inn - `3DNPC, AI Overhaul`, JK's Temple of Dibella - `ACE, Relightning Skyrim, AI Overhaul`, JK's Temple of the Divines - `3DNPC, USSEP`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Temple of Kynareth - `3DNPC, Easierrider's Dungeon Pack`, JK's Temple of Talos - `3DNPC, AI Ovehraul, ACE, USSEP`, JK's Understone Keep - `3DNPC, AI Overhaul, USSEP`, JK's Winking Skeever - `AI Overhaul, The Brotherhood of Old, USSEP, 3DNPC, Undeath`.
+**FOMOD** - In 1st page - `I'VE READ AND UNDERSTAND`, in the 2nd page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, in JK's Arcadia's Cauldron's page - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul, Lanterns of Skyrim II`, **untick** only `Royal Armory` patch, `USSEP, 3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Haelga's Bunkhouse - `AI Overhal, 3DNPC, Serana Dialogue Addon`, JK's Mistveil Keep - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP` **untick** only `Realistic Water Two 5.0+` patch, JK's Sadri's Used Wares - `3DNPC, ACE`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Sleeping Giant Inn - `3DNPC, AI Overhaul`, JK's Temple of Dibella - `ACE, Relightning Skyrim, AI Overhaul`, JK's Temple of the Divines - `3DNPC, USSEP`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Temple of Kynareth - `3DNPC, Easierrider's Dungeon Pack`, JK's Temple of Talos - `3DNPC, AI Ovehraul, ACE, USSEP`, JK's Understone Keep - `3DNPC, AI Overhaul, USSEP`, JK's Winking Skeever - `AI Overhaul, The Brotherhood of Old, USSEP, 3DNPC, Undeath`.
 
 ---
 
@@ -1376,16 +1394,6 @@ always.
 **Main files** - Royal Armory - Replacer
 
 **FOMOD** - `Obscure’s College of Winterhold - Cell Setting Patch`.
-
-### [KD Circlets Redone by zzjay](https://www.nexusmods.com/skyrimspecialedition/mods/10320)
-
-**Main files** - KD Cirlets by zzjay main file
-
-*At first, I wasn’t a fan, because if we compare this mod to JS Circlet
-Replacer, the replacer is definitely the winner, but after looking more
-at some of these minimalistic and sweet circlets, I have decided that a
-bunch of people will use them. They can be obtained only by crafting at
-forge.*
 
 ### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319)
 
@@ -1863,6 +1871,18 @@ This mod allows us to do that.*
 
 *An updated .dll file for the mod to work.*
 
+### [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668)
+
+**Main files** - VioLens - A Killmove Mod SE 2.22a
+
+**FOMOD** - don't change anything.
+
+*Allows us to customize the game's behaviour related to kill moves.*
+
+### [VioLens - A Killmove Mod - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56674)
+
+**Main files** - VioLens - A Killmove Mod SE - Settings Loader
+
 ### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
 
 **Main files** - Guiding Wisp
@@ -1878,12 +1898,11 @@ leads you to your quest objective.*
 
 _Sometimes I just can't believe that some of mods like this one appered only recently._
 
-### [Civil War Neutrality](https://www.nexusmods.com/skyrimspecialedition/mods/21176)
+### [Neutral Hjerim](https://www.nexusmods.com/skyrimspecialedition/mods/29508)
 
-**Main files** - CWN - Civil War Neutrality SSE
+**Optional files** - No Thane - ESLified ESP
 
-*Let Stormcloaks and the Empire play their own games, while being
-neutral, but getting your deserved rewards.*
+*Play your war games without me, I have saved you from a damn psychopath, I deserve the home for that.*
 
 ### [Sleeping Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/59250)
 
@@ -2193,10 +2212,6 @@ Sprint, Origin Dw Sprint_Type A`.
 
 **Main files** - Vanargand Animations - One Handed Power Attacks
 
-### [Vanargand Animations - Sneak Idle Walk and Run](https://www.nexusmods.com/skyrimspecialedition/mods/54351)
-
-**Main files** - Vanargand Animations - Sneak Idle Walk and Run
-
 ### [Vanargand Animations - Sneak Thrust Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/55031)
 
 **Main files** - Vanargand Animations - Sneak Thrust Attacks
@@ -2459,6 +2474,8 @@ bit of charisma.*
 
 **Main files** - Pandorable's NPCs - Dawnguard SE - USSEP
 
+**Optional files** - PAN_NPCs_DG - AI Overhaul patch
+
 ### [Pandorable's NPCs - Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
 
 **Main files** - Pandorable's NPCs - Dragonborn SE
@@ -2470,18 +2487,22 @@ Veleth, Wulf Wild-Blood, USSEP`.
 
 ### [Pandorable's NPCs - Males](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
 
-**Main files** - Pandorable's NPCs - Males SE
+**Main files** - PAN_NPCs - Males SE
 
 **FOMOD** - `Alternative for Savos, Cicero, Larak, Madanach, USSEP`.
 
+**Optional files** - PAN_NPCs Males - AI Overhaul patch
+
 ### [Pandorable's NPCs - Males 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
 
-**Main files** - PAN_NPCs - Males 2
+**Main files** - PAN_NPCs - Males 2 SE
 
 **FOMOD** - `Alternative for Borkul the Beast, alternative 2 for Chief
 Burguk, alternative for Chief Mauhulakh, alternative 1 for Athis and Skjor, alternative 2 for
 Vilkas and Farkas, alternative for Falion, Erik The Slayer, Unmid
 Snow-Shod, USSEP`.
+
+**Optional files** - PAN_NPCs Males 2 - AI Overhaul patch
 
 ### [Northbourne NPCs of the Rift](https://www.nexusmods.com/skyrimspecialedition/mods/42349)
 
@@ -2625,7 +2646,7 @@ but it is just common practice to keep everything sorted and organized like it s
 Use the picture below if you have troubles figuring order on your own.
 
 <p align="center">
-    <img width="35%" src="https://user-images.githubusercontent.com/37147270/138613674-78c993d7-3f9a-40b3-8331-66797ce65fdc.png" /> 
+    <img width="35%" src="https://user-images.githubusercontent.com/37147270/146669887-557fd855-42ad-4c24-b608-d470e7c0a23b.png" /> 
 </p>
 
 ---
@@ -2685,8 +2706,6 @@ it directly below the *SALT & WIND HAIR RETEXTURES* separator (and its mods). Ch
 its colour, so that it won't be the same as TPF's ones.
 
 ### [Literally Unplayable - Remove Not Needed Head Parts from Character Creation](https://www.nexusmods.com/skyrimspecialedition/mods/54135)
-
-**Main files** - Literally Unplayable - Miraak Husbando Patch
 
 **Main files** - Literally Unplayable - Bruma Patch
 
@@ -2783,7 +2802,13 @@ right after the mod from TPF and activate it.
 
 The same process must be done with:
 
--   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPFs
+-   *Common Marker Add-On Project (CoMAP)* under _INTERFACE_ separator - `CoMAP 1.5.97 (Pre-AE), CoMAP Config Pack, Obscured Undiscovered HUD Markers - Hollow Diamond, Hidden Until Discovered, Jorrvaskr Map Marker, Wyrmstooth Travel Marker Tweaks` - then change the mod's INI to TPF's default ones;
+
+    - bObscuredUndiscovered=1
+    - fMarkerScale=0.75
+    - bObscuredUndiscovered=1
+
+-   *Fixed Mesh Lightning* in *GRAPHICS BASELINE* separator - TPF's
     patches [(look
     here)](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/#fomod-instructions-2)
     and `More Growable Plants, flora for Beyond Skyrim - Bruma, Unique Flowers and
@@ -2798,12 +2823,12 @@ the files on the *Winning file conflicts* section, where overwritten mod
 includes *Fixed Mesh Lightning*, right-clicking on them and choosing
 *Hide*. Do the same for More Growable Plants from the add-on's _Miscellaneous_ section.
 
--   *Lanterns of Skyrim II* in *LIGHTNING* separator - `SMIM and Bruma`;
+-   *Lanterns of Skyrim II* under *LIGHTNING* separator - `SMIM and Bruma`;
 
--   [*Enhanced Blood Textures*](https://www.nexusmods.com/skyrimspecialedition/mods/2357) in *VISUAL FX* separator;
+-   [*Enhanced Blood Textures*](https://www.nexusmods.com/skyrimspecialedition/mods/2357) under *VISUAL FX* separator;
 
     > This time you will need to download completely different version of the mod, but after installing it put it also after the mod from TPF.
-    - **Miscellaneous files** - 4.0 BETA 4
+    - **Main files** - Enhanced Blood Textures
     - **Rename** - Rename it to `Enhanced Blood Textures - TPF Dragon’s Edition` to install it as a separate mod.
     - **FOMOD** – `SPID Compatible, Reduced Splatter Size, Reduced Wound Size, Reduced Res / Default Color` two times.
     - **Disable** - disable _Enhanced Blood Textures_ mod in the _VISUAL FX_ separator of TPF.
@@ -2815,18 +2840,18 @@ includes *Fixed Mesh Lightning*, right-clicking on them and choosing
     It would fit Fallout franchise, but definitely not Elder Scrolls. In my opinion, Skyrim is more of a fairy tale. If you leave this mod enabled, that is **on you** to check
     for any conflicts and errors associated with it.
 
--   *Particle Lights For ENB - Undead Creatures* in *CREATURES* -
+-   *Particle Lights For ENB - Undead Creatures* under *CREATURES* -
     `Default undead eyes, weaker lightning for ghosts, a patch for
     Cannibal Draugr, blue skulls, Solstheim version of the patch`;
     
--   *Skeleton Replacer HD - Patches* in *CREATURES* -
+-   *Skeleton Replacer HD - Patches* under *CREATURES* -
     `MajesticMountains, NordicRuinsCandlesEnbLight, UniqueSkullsPotema, ToolsOfKagrenac`;
 
--   *Simple Children - Patches* in *APPEARANCE* - `Bruma, Helgen Reborn,
+-   *Simple Children - Patches* under *APPEARANCE* - `Helgen Reborn,
     Interesting NPCs, Moon and Star, The Forgotten City, Wyrmstooth,
     Adopt Aventus Aretino + USSEP`;
 
--   *Misc. College of Winterhold Tweaks* in *IMPROVED VANILLA QUESTS* -
+-   *Misc. College of Winterhold Tweaks* under *IMPROVED VANILLA QUESTS* -
     TPFs patches [(look
     here)](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/#fomod-instructions-4)
     except `Scheduled Savos, A Wizard’s Walk, Erratum Etc.`, which
@@ -2924,17 +2949,15 @@ Now we need to activate some of the mods to actually make them work. Close the M
 * **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
 
-If you don't care about points below, feel free to skip. I **definitely recommend** you to check the one about Helgen Reborn book and being neutral during the war. Maybe about fast travelling too, so you won't ask me about that in the support channels. 
+If you don't care about points below, feel free to skip. I **definitely recommend** you to check at least the one about fast travelling, so you won't ask me about that in the support channels. 
 So about these things for you to know about:
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
-* **About being neutral during the war** - There will be a note in Dragonseach about neutrality in war. Pick it up only if you want to be neutral during the war. Like before, more information about that can be found [here](#gameplay-guide).
 
-And just wanted to add some info about two important things. Helgen Reborn book in your inventory can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide). Also remember to unhide the quest through _Hide Your Quests_ before doing it if you have decided to hide it before.
-There will be a note in Dragonseach about neutrality in war. Pick it up only if you want to be neutral during the war. Like before, more information about that can be found [here](#gameplay-guide).
+And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide).
 
 At last, I recommend you to go through [here](CHANGELOG.md) to see if you didn’t miss any important updates.
 
@@ -3152,7 +3175,7 @@ offer inside their plugins. I have added it for people to know that there is an 
 * **About knocking** - Now you can knock on locked doors by activating them. Good for roleplaying and also useful.
 * **About Clairvoyance** - Now it is much more useful overall. Just try it out (be sure that you have an active quest in your journal).
 * **About being underwater** - Now you cee your oxygen meter while underwater, so you will know how much time you have before comitting to drowning.
-* **About being neutral during the Civil War** - Now you can become Thane of Eastmarch without licking Ulfric's boots (that means getting Hjerim, Calder the Housecarl, unblocking Korvanjund and much more). If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/21176).
+* **About buying Hjerim without joining the war** - Now it is enough to just take the care of the psychopath.
 * **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
 * **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
 * **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
