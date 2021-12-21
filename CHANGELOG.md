@@ -86,6 +86,7 @@
 * JK's Blue Palace
 * JK's Riverwood Trader
 * JK's Interiors Patch Collection
+* Feminine Khajiit Textures
 * Pilgrim - A Religion Overhaul
 * Sleeping Expanded
 * Animated Forge Water
