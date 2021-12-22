@@ -3120,7 +3120,7 @@ This section is mainly used to inform people about what they can expect from the
 
 At first, some juicy tips for peeps, who went right here after mingling with the add-on:
 
-* Be sure to do at least half of the main quest series as some added quests are tied to it (more information later).
+* Be sure to do the main quest series as some added quests are tied to it (more information later).
 * For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
 there will be a neat spell book waiting for you somewhere around Riverwood.
 * And another one - be sure to travel around Falkreath. Something interesting might happen.
