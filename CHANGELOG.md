@@ -6,10 +6,16 @@
 
 > Updated final patches. Updated DynDOLOD and Occlusion outputs.
 
+### Improved Vanilla Content
+
+* Moved many mods here from _New Content_.
+> The new section was made to make everything more structured and less cluttered in _New Content_.
+
 ### New Content
 
 * Changed mod and load order.
-> Overall just a cosmetic change to make my work easier and for it all to make more sense. 
+> Overall just a cosmetic change to make my work easier and for it all to make more sense.
+* Moved many mods to _Improved Vanilla Content_.
 
 ### Exteriors
 
