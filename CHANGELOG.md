@@ -19,7 +19,8 @@
 ### Miscellaneous
 
 * Removed _Less Boring Loading Screen_.
-> They were definitely less boring than the vanilla ones, but at the same time some of loading screens were very low quality.
+> The mod's loading screens were definitely less boring than the vanilla ones, but at the same time some of them were very low quality too. 
+I will use just _Starlit Lakes Loading Screens_ for consistency and because they are the closest to what I would like to see (they are lit).
 
 ---
 
