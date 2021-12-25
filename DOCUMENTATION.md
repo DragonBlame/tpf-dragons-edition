@@ -498,7 +498,7 @@ younger.*
 
 ### [Realistic Water Two - Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744?tab=files)
 
-**Miscellaneous files** - Beyond Skyrim Bruma Patch v1.0
+**Old files** - Beyond Skyrim Bruma Patch v1.0
 
 ### [Bruma Signs - SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/10924?tab=files)
 
@@ -689,7 +689,7 @@ directory*, click *OK*.
 
 ### [Realistic Water Two - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/35744)
 
-**Miscellaneous files** - Wyrmstooth Patch v1.0
+**Old files** - Wyrmstooth Patch v1.0
 
 ### [Forceful Tongue - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
 
