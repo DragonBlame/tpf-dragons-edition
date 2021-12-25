@@ -15,7 +15,7 @@
 
 * Removed _Beyond Skyrim - Bruma Tree LOD billboards_, _Imperial City LOD for Beyond Skyrim - Bruma_ and _Gray Cowl of Nocturnal - Alikr Flora Overhaul Tree Billboards_.
 > I have actually completely forgotten that billboards are now generated automatically by DynDOLOD.
-* Removed _Interesting NPCs - AI Overhaul Patch_.
+* Changed installation instructions for _Interesting NPCs (3DNPC)_.
 * Changed mod and load order.
 > Overall just a cosmetic change to make my work easier and for it all to make more sense.
 * Moved many mods to _Improved Vanilla Content_.
