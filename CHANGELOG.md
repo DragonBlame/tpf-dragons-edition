@@ -6,6 +6,11 @@
 
 > Updated final patches. Updated DynDOLOD and Occlusion outputs.
 
+### New Content
+
+* Changed mod and load order.
+> Overall just a cosmetic change to make my work easier and for it all to make more sense. 
+
 ### Exteriors
 
 * Removed _The Great Cities - Minor Cities and Towns_ and each patch related to it.
@@ -15,7 +20,7 @@
 
 ### Other Changes
 
-* Solved ownership issues in Winterhold's Keep.
+* xxx
 
 ### Updated Add-on's Mods for Wabbajack Users
 
