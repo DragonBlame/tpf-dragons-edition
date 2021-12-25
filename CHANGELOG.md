@@ -16,6 +16,11 @@
 * Removed _The Great Cities - Minor Cities and Towns_ and each patch related to it.
 > I should have done long time ago. Even thou the mod makes non-existant vanilla versions of towns look like actual towns befitting their story, it felt like a compatibility nightmare, which was following me all this time I have decided to add it. _Cities of the North_ series already do great job on helping these towns become unique and we still have _The Great Cities_ series for even smaller places unlike Falkreath and other capitals of the holds. Now I am finally in peace with this section of the add-on.
 
+### Miscellaneous
+
+* Removed _Less Boring Loading Screen_.
+> They were definitely less boring than the vanilla ones, but at the same time some of loading screens were very low quality.
+
 ---
 
 ### Other Changes
