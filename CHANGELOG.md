@@ -13,9 +13,9 @@
 
 ---
 
-### xxx
+### Other Changes
 
-* xxx
+* Solved ownership issues in Winterhold's Keep.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
