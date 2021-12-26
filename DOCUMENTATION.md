@@ -2773,11 +2773,7 @@ After enabling these outputs, disable TPF’s outputs.
 
 **Main files** - TPF Dragon’s Edition - Texgen Output
 
-**Main files** - TPF Dragon’s Edition - DynDOLOD Output
-
-(don’t forget to put Solstheim Ice Piles Fix after my DynDOLOD’s output in both mod (just for clarity) and load order)
-
-**Main files** - TPF Dragon’s Edition - Occlusion
+**Main files** - TPF Dragon’s Edition - DynDOLOD Output and Occlusion
 
 ---
 
