@@ -35,7 +35,8 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 
 ### Other Changes
 
-* xxx
+* Now the game gives you 3 perk points at level 2.
+> Compensation for not being able to utilize _Locksmith_ perk.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
