@@ -4,7 +4,7 @@
 
 ## Version 1.14.
 
-> Updated final patches. Updated DynDOLOD and Occlusion outputs.
+> Updated final patches. Updated Texgen, DynDOLOD and Occlusion outputs.
 
 ### Improved Vanilla Content
 
