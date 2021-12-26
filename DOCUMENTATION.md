@@ -1342,7 +1342,7 @@ separator in the same order.
 
 ### [JK's Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 
-**Old files (v. 3.24.1.)** - JKs Interiors Patch Collection
+**New files** - JKs Interiors Patch Collection
 
 **FOMOD** - In 1st page - `I'VE READ AND UNDERSTAND`, in the 2nd page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, in JK's Arcadia's Cauldron's page - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul, Lanterns of Skyrim II`, **untick** only `Royal Armory` patch, `USSEP, 3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Haelga's Bunkhouse - `AI Overhal, 3DNPC, Serana Dialogue Addon`, JK's Mistveil Keep - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP` **untick** only `Realistic Water Two 5.0+` patch, JK's Sadri's Used Wares - `3DNPC, ACE`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Sleeping Giant Inn - `3DNPC, AI Overhaul`, JK's Temple of Dibella - `ACE, Relightning Skyrim, AI Overhaul`, JK's Temple of the Divines - `3DNPC, USSEP`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Temple of Kynareth - `3DNPC, Easierrider's Dungeon Pack`, JK's Temple of Talos - `3DNPC, AI Ovehraul, ACE, USSEP`, JK's Understone Keep - `3DNPC, AI Overhaul, USSEP`, JK's Winking Skeever - `AI Overhaul, The Brotherhood of Old, USSEP, 3DNPC, Undeath`.
 
@@ -1742,7 +1742,7 @@ separator in the same order.
 
 ### [Storm Lightning - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57477)
 
-**Main files** - Copy and Paste in Console v1.0.1 for Skyrim SE
+**Main files** - Storm Lightning for SSE and VR (Minty Lightning 2019) - Settings Loader
 
 *A great tool for making you spend less time in the TPF mod's MCM the second time you decide to play.*
 
@@ -2023,10 +2023,6 @@ etc.*
 *Replaces stale, not eye-catching loading screens with new ones with
 lore-friendly artwork of Skyrim and what it has to offer. At least
 people, who have to wait longer on them, will be pleased and maybe will actually learn something new from these.*
-
-### [Less Boring Loading Screen](https://www.nexusmods.com/skyrimspecialedition/mods/55062)
-
-**Main files** - Less boring loading screen main
 
 ### [Interesting Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/26282)
 
