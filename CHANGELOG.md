@@ -15,6 +15,7 @@
 
 * Removed _Beyond Skyrim - Bruma Tree LOD billboards_, _Imperial City LOD for Beyond Skyrim - Bruma_ and _Gray Cowl of Nocturnal - Alikr Flora Overhaul Tree Billboards_.
 > I have actually completely forgotten that billboards are now generated automatically by DynDOLOD.
+> Added additional instructions for _FaceGen Output for Random Mods_.
 * Changed installation instructions for _Interesting NPCs (3DNPC)_.
 * Changed mod and load order.
 > Overall just a cosmetic change to make my work easier and for it all to make more sense.
@@ -23,7 +24,7 @@
 ### Exteriors
 
 * Removed _The Great Cities - Minor Cities and Towns_ and each patch related to it.
-> I should have done long time ago. Even thou the mod makes non-existant vanilla versions of towns look like actual towns befitting their story, it felt like a compatibility nightmare, which was following me all this time I have decided to add it. _Cities of the North_ series already do great job on helping these towns become unique and we still have _The Great Cities_ series for even smaller places unlike Falkreath and other capitals of the holds. Now I am finally in peace with this section of the add-on.
+> I should have done that long time ago. Even thou the mod makes non-existant vanilla versions of towns look like actual towns befitting their story and defences, it felt like a compatibility nightmare, which was following me all this time I have decided to add it. _Cities of the North_ series already do great job on helping these towns become unique and we still have _The Great Cities_ series for even smaller places unlike Falkreath and other capitals of the holds. Now I am finally in peace with this section of the add-on.
 
 ### Miscellaneous
 
@@ -35,6 +36,7 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 
 ### Other Changes
 
+* 
 * Now the game gives you 3 perk points at level 2.
 > Compensation for not being able to utilize _Locksmith_ perk.
 
