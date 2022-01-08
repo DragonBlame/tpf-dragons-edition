@@ -755,7 +755,7 @@ changes are saved.
 
 **Optional files** - FaceGen Output for Random Mods
 
-**Remove** - delete `WheelsOfLull.esp` from _Meshes\Actors\Character\FaceGenData\FaceGeom_ and from _Textures\Actors\Character\FaceGenData\FaceTint_.
+**Delete** - remove `WheelsOfLull.esp` folder from _Meshes\Actors\Character\FaceGenData\FaceGeom_ and from _Textures\Actors\Character\FaceGenData\FaceTint_.
 
 ### [Hammet's Dungeon Packs](https://www.nexusmods.com/skyrimspecialedition/mods/12186?tab=files)
 
