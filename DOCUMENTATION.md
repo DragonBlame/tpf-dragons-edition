@@ -196,7 +196,7 @@ not to think about it every single time you transform into werewolf.*
 
 ---
 
-### Improved Vanilla Content
+## Improved Vanilla Content
 
 The first head of a two-headed dragon of this add-on comes too early (well, for me it came as the prelast one, but you got the idea). 
 If we are completely honest, many of Skyrim's vanilla content has pretty much room for improvement or overhaul and that is why we are now here. 
