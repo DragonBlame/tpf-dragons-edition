@@ -41,7 +41,7 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 
 ### Skeleteon & Animations
 
-* Changed FOMOD instructions for _Finally First Person Magic Animation_.
+* Changed installation instructions for _Finally First Person Magic Animation_.
 
 ---
 
