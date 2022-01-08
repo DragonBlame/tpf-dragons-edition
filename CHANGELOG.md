@@ -10,6 +10,7 @@
 
 * Moved many mods here from _New Content_.
 > The new section was made to make everything more structured and less cluttered in _New Content_.
+* Changed FOMOD instructions for _Obscure's College of Winterhold_.
 
 ### New Content
 
@@ -42,6 +43,8 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 > Was related to _Beyond Skyrim - Bruma Hotfix_, which was removed for now.
 * Now the game gives you 3 perk points at level 2.
 > Compensation for not being able to utilize _Locksmith_ perk.
+* Lightning in some places (Castle Volkihar, Thieves Guild) should now be more in place with the changed looks of the places.
+* And many other good things I won't be able to write down here (for real).
 
 ### Updated Add-on's Mods for Wabbajack Users
 
