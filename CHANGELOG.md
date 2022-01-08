@@ -13,6 +13,8 @@
 
 ### New Content
 
+* Removed _Beyond Skyrim - Bruma Hotfix_.
+> In short, it hotfixed Skyrim not giving you CTDs in Falkreath. Bruma's team still has a lot of work to do.
 * Removed _Beyond Skyrim - Bruma Tree LOD billboards_, _Imperial City LOD for Beyond Skyrim - Bruma_ and _Gray Cowl of Nocturnal - Alikr Flora Overhaul Tree Billboards_.
 > I have actually completely forgotten that billboards are now generated automatically by DynDOLOD.
 > Added additional instructions for _FaceGen Output for Random Mods_.
@@ -36,7 +38,8 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 
 ### Other Changes
 
-* 
+* Fixed CTDs at Falkreath.
+> Was related to _Beyond Skyrim - Bruma Hotfix_, which was removed for now.
 * Now the game gives you 3 perk points at level 2.
 > Compensation for not being able to utilize _Locksmith_ perk.
 
