@@ -39,6 +39,10 @@
 > The mod's loading screens were definitely less boring than the vanilla ones, but at the same time some of them were very low quality too. 
 I will use just _Starlit Lakes Loading Screens_ for consistency and because they are the closest to what I would like to see (and they are (star)lit).
 
+### Skeleteon & Animations
+
+* Changed FOMOD instructions for _Finally First Person Magic Animation_.
+
 ---
 
 ### Other Changes
@@ -52,4 +56,5 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* xxx
+* Navigator - Navmesh Fixes
+* Finally First Person Magic Animation
