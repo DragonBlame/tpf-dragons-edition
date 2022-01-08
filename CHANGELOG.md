@@ -10,6 +10,7 @@
 
 * Moved many mods here from _New Content_.
 > The new section was made to make everything more structured and less cluttered in _New Content_.
+* Removed _Opulent Thieves Guild Patch Collection_.
 * Changed FOMOD instructions for _Obscure's College of Winterhold_.
 
 ### New Content
