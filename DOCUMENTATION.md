@@ -442,10 +442,6 @@ separator in the same order.
 
 **Miscellaneous files** - FaceGen - Beyond Skyrim Bruma
 
-### [Imperial City LOD for Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/11010?tab=files)
-
-**Main files** - Whitegoldtowerfix
-
 ### [Beyond Skyrim - Bruma Location Styled Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/23089?tab=files)
 
 **Main files** - Beyond Skyrim Bruma Craft Restrictions
