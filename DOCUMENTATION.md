@@ -1032,35 +1032,6 @@ Mountain Flowers
 
 **Main files** - Butterflies Unchained (ESL Version)
 
-### [The Great Cities - Minor Cities and Towns](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
-
-**Main files** - The Great Cities - Resources
-
-**Main files** - The Great Cities 2.01
-
-**Old files** - The Great Cities - CFTO Patch
-
-_I have always felt that all minor cities and towns look pretty much the same. Considering all these places have their own stories and tales to tell, that isn't right at all, so we just have to change that._
-
-### [Landscape Fixes For Grass Mods - The Great Cities - Minor Cities and Towns Patch](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
-
-**Optional files** - Patches for The Great Cities and Towns
-
-**FOMOD** - `The Great Cities All In One`.
-
-### [Cities of the North - Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168)
-
-**Main files** - Cities of the North - Morthal
-
-**Optional files** - Skyrim 3D Signs Patch
-
-### [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34228)
-
-**Main files** - COTN Morthal Patch Collection
-
-**FOMOD** - `The Great Cities, Finding Helgi and Laelette, Interesting NPCs, AI Overhaul, Book Covers Skyrim, Clockwork, Immersive Patrols II, Kaidan 2, Landscape and Water Fixes,
-Lanterns of Skyrim II`.
-
 ### [Cities of the North - Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952)
 
 **Main files** - Cities of the North - Dawnstar
@@ -1073,7 +1044,20 @@ Lanterns of Skyrim II`.
 
 **Main files** - COTN Dawnstar Patch Collection
 
-**FOMOD** - `The Great Cities - Minor Cities and Towns, AI Overhaul, Cathedral 3D Flowers, Clockwork, Helgen Reborn, Interesting NPCs, Morskom Estate, Lanterns of Skyrim II`.
+**FOMOD** - `AI Overhaul, Cathedral 3D Flowers, Clockwork, Helgen Reborn, Interesting NPCs, Morskom Estate, Lanterns of Skyrim II`.
+
+### [Cities of the North - Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168)
+
+**Main files** - Cities of the North - Morthal
+
+**Optional files** - Skyrim 3D Signs Patch
+
+### [Cities of the North - Morthal Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/34228)
+
+**Main files** - COTN Morthal Patch Collection
+
+**FOMOD** - `Finding Helgi and Laelette, Interesting NPCs, AI Overhaul, Book Covers Skyrim, Clockwork, Immersive Patrols II, Kaidan 2, Landscape and Water Fixes,
+Lanterns of Skyrim II`.
 
 ### [Cities of the North - Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/40088)
 
@@ -1085,7 +1069,7 @@ Lanterns of Skyrim II`.
 
 **Main files** - COTN Winterhold Patch Collection
 
-**FOMOD** - `3DNPC - Interesting NPCs, AI Overhaul, Cathedral 3D Flowers, Embers HD, The Great Cities - Minor Cities and Towns`, for Landscape and Water Fixes and Lanterns of Skyrim II - `Non-JK`.
+**FOMOD** - `3DNPC - Interesting NPCs, AI Overhaul, Cathedral 3D Flowers, Embers HD`, for Landscape and Water Fixes and Lanterns of Skyrim II - `Non-JK`.
 
 ### [Winterhold Keep Tweaks for COTN](https://www.nexusmods.com/skyrimspecialedition/mods/52371)
 
@@ -1099,7 +1083,11 @@ Lanterns of Skyrim II`.
 
 **Main files** - Cities of the North - Falkreath Patch Collection
 
-**FOMOD** - `The Great Cities - Minor Cities and Towns, TGC - Helgen Reborn, TGC - Clockwork, Lanterns of Skyrim II, TGC - LAWF, 3DNPC, AI Overhaul, Bring Meeko to Lod, Immersive Patrols II, Lucien, Skyrim 3D Signs`, **untick** `Janquel's Addons, Landscape and Grass Fixes`.
+**FOMOD** - `Helgen Reborn, Clockwork, Lanterns of Skyrim II, Landscape and Water Fixes, 3DNPC, AI Overhaul, Bring Meeko to Lod, Immersive Patrols II, Lucien, Skyrim 3D Signs`, **untick** `Janquel's Addons, Landscape and Grass Fixes`.
+
+### [The Great Cities - Resources](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
+
+**Main files** - The Great Cities - Resources V1.0
 
 ### [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032)
 
