@@ -689,6 +689,10 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 **Main files** - Moonpath Music - Sky and Light fix - Merged 1.3
 
+### [Moonpath of Elsweyr - Apothecary Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58523?tab=files)
+
+**Main files** - Apothecary - Moonpath Patch
+
 ### [Beyond Skyrim - Bruma - Moonpath to Elsweyr Synergy Patch](https://www.nexusmods.com/skyrimspecialedition/mods/11069?tab=files)
 
 **Main files** - Beyond Skyrim - Bruma Moonpath to Elsweyr Synergy Patch v2.4.0
