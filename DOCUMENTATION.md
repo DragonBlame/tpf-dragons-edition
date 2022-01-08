@@ -7,7 +7,7 @@
 [Getting Started](#getting-started)
 
 [Interface (optional)](#interface-optional)  
-[Improved Vanilla Content](#improved-vanilla-content)
+[Improved Vanilla Content](#improved-vanilla-content)  
 [New Content](#new-content)  
 [Exteriors](#exteriors)  
 [Interiors](#interiors)  
