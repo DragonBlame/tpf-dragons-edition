@@ -818,9 +818,13 @@ gems)
 
 **Main files** - Hermit Mountain Cottage SE V6.0a
 
-### [Frostwood Cabin](https://www.nexusmods.com/skyrimspecialedition/mods/52183?tab=files)
+### [Frostwood Cabin Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/61076?tab=files)
 
-**Optional files** - Frostwood Cabin ESL version
+**Main files** - Frostwood Cabin Reborn ESL
+
+**Update files** - Frostwood Cabin Reborn - Facegen
+
+**Merge** - merge both files.
 
 ### [Red Rose Mill](https://www.nexusmods.com/skyrimspecialedition/mods/47117?tab=files)
 
