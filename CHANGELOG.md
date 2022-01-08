@@ -12,6 +12,7 @@
 > The new section was made to make everything more structured and less cluttered in _New Content_.
 * Removed _Opulent Thieves Guild Patch Collection_.
 * Changed FOMOD instructions for _Obscure's College of Winterhold_.
+* Changed installation instructions for _Briraka's Draugr Overhaul - Cannibal Draugr Patch_.
 
 ### New Content
 
