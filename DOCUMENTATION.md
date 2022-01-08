@@ -2249,7 +2249,7 @@ people, who like to swim with heavy armour equipped.*
 
 ### [First Person Magic Animation](https://www.nexusmods.com/skyrimspecialedition/mods/20375)
 
-**Main files** - First Person Magic Animation for SSE
+**Main files** - First Person Magic Animation v8.0
 
 **FOMOD** - `01 Variant 1 FPMA 7.0`.
 
