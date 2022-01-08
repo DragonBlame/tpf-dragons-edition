@@ -21,6 +21,7 @@
 > In short, it hotfixed Skyrim not giving you CTDs in Falkreath. Bruma's team still has a lot of work to do.
 * Removed _Beyond Skyrim - Bruma Tree LOD billboards_, _Imperial City LOD for Beyond Skyrim - Bruma_ and _Gray Cowl of Nocturnal - Alikr Flora Overhaul Tree Billboards_.
 > I have actually completely forgotten that billboards are now generated automatically by DynDOLOD.
+* Removed _Frostwood Cabin_. Added _Frostwood Cabin Reborn_.
 * Added _Moonpath of Elsweyr - Apothecary Patch_.
 > Added additional instructions for _FaceGen Output for Random Mods_.
 * Changed installation instructions for _Interesting NPCs (3DNPC)_.
