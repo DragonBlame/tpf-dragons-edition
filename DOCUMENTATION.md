@@ -3163,7 +3163,7 @@ About just some of interesting mods I have added:
 
 * **About AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
-**About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
+* **About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
 * **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
 * **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.
 * **About lockpicking** - Now you don't need to do the annoying lockpicking game anymore. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful too. Locks will break according to your skill too. For example, if you are a novice at lockpicking and you try to pick a novice lock, 
@@ -3176,16 +3176,16 @@ you will get only 40% chance to break a lockpick on almost any chest.
 * **About bribing** - Now it depends on our speech skill too. Be prepared to actually pay if you aren't talkative enough. 
 * **About stealing** - Now you need to be crouched to steal items, which aren't the ones in containers. Finally I won't steal something by accident.
 * **About knocking** - Now you can knock on locked doors by activating them. Good for roleplaying and also useful.
-* **About Clairvoyance** - Now it is much more useful overall. Just try it out (be sure that you have an active quest in your journal).
+* **About Clairvoyance (_Guiding Wisp_ now)** - Now it is much more useful overall. Just try it out (be sure that you have an active quest in your journal).
 * **About being underwater** - Now you cee your oxygen meter while underwater, so you will know how much time you have before comitting to drowning.
-* **About buying Hjerim without joining the war** - Now it is enough to just take the care of the psychopath.
+* **About buying Hjerim without joining the war** - Now it is enough to just take the care of the Butcher.
 * **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
 * **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
 * **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
 * **About College of Winterhold** - Now you will actually need magic to beat College of Winterhold. You have been warned. Conjured minions, enhanced weapons, illusion, of course, destruction magic, shouts. Good, old steel isn't as reliable now.
 * **About getting armored pants** - You will be able to get these in exchange for their counterparts (heavy armors) in Skyrim. Just use any forge for that.
 * **About cleaning up your mess** - Now if you have accidentally Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
-* **About Lydia** - If Lydia is too noisy for you, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
+* **About Lydia** - If the new Lydia is too noisy for you, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
 * **About Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 * **About your character's light adjustments** - You will need to use _AddItemMenu_ again, but this time type the word `light`. _Character Light_ allows use to make better screenshots if we want lightning of our character to be a bit different and can also be used in an ordinary gameplay if you wish as the mod doesn't use scripts. It works even on followers, but then you should give them the corresponding NPC lightning item.
 
@@ -3213,9 +3213,8 @@ Knife Hideout.
 Kynesgrove) and talk to the innkeeper. Without a follower.
 * **The Wheels of Lull** - Automatically after reaching level 20, can be
 finished after reaching level 35.
-* **Helgen Reborn** - **Must** be started after 5 days after you have finished the
-main quest *Unbound*. Recommended to be started at level 20. Read the
-book *Helgen Reborn Guide* in your inventory to start the quest.
+* **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound*. 
+Recommended to be started at level 20. Read a note called *Helgen Reborn* in The Bannered Mare to start the quest.
 * **The Tools of Kagrenac** - Join College of Winterhold and finish the
 side questline *Arniel’s Endeavor*. You’ll also need to have finished
 *The Way of the Voice*. A couple of days after you completed *Arniel’s
@@ -3264,7 +3263,7 @@ combat oriented character required, very hard mod. After reaching level
 I have tried to write as little information as I could so as not to
 spoil the content. Won’t tell you any details about your potential new
 followers and other surprises as they should be discovered pretty easily
-while exploring. I hope if you were surprised something (in a good way), this section helped to learn about that a bit more.
+while exploring. I hope if you were surprised (in a good way) about something, this section helped to learn about that a bit more.
 
 ---
 
