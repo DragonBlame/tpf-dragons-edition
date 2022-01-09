@@ -17,7 +17,7 @@
 
 ### New Content
 
-* Removed _Forceful Tongue - Wyrmstooth Patch_.
+* Removed _Dragon War - Wyrmstooth Patch_.
 * Removed _Beyond Skyrim - Bruma Hotfix_.
 > In short, it hotfixed Skyrim not giving you CTDs in Falkreath. Bruma's team still has a lot of work to do.
 * Removed _Beyond Skyrim - Bruma Tree LOD billboards_, _Imperial City LOD for Beyond Skyrim - Bruma_ and _Gray Cowl of Nocturnal - Alikr Flora Overhaul Tree Billboards_.
