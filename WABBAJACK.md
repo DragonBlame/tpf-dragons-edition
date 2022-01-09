@@ -40,8 +40,6 @@ For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gal
 
 By default your game is capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that either.
 
-I have chosen _Silent Horizons ENB_ as the main ENB for the add-on. You will be able to learn why a little bit later if you want. If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
-
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. The new [Game Stock folder system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) allows us to leave our Skyrim's root folder completely clean and this way more compatible with other modpacks. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
 
 ---
@@ -53,12 +51,13 @@ While following the main documentation, users have a choice to use or not to use
 Some of the mods inside Mod Organizer are disabled by default in the add-on. Those are:
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
+  - All the mods under _WIDESCREEN SUPPORT_ separator, because obviosuly only some people have those huge monitors. If you are actually one of them, enable all the mods under this section.
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
 ### In-Game Adjustments
 
-At the beginning, don’t be scared when you see that your character’s hair and/or beard isn't right. we need to actually activate our high poly head in Racemenu and then our hair will look fine. Also choose a beard from High Poly Head and it will look good if that is needed.
+At the beginning, don’t be scared when you see that your character’s hair and/or beard isn't right. we need to actually need to choose different head inside our character creation menu, which is much more better than the vanilla one you see at the moment, and then our hair will look fine. Also choose a beard from a mod called High Poly Head and it will look good if that is needed.
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
@@ -81,16 +80,18 @@ left side of the screen disappear).
 
 ---
 
-Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue with MCM configurations below.
+Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue with MCM 
+(Mod Configuration Menus) below.
 
 * **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
-* **End Times** - This mod makes us not decline the main quest of Skyrim for all time. Especially considering the fact that is it tied to some of the added quest mods and 
+* **End Times** - This mod makes us not decline the main quest of Skyrim for all time by making the game end if 
+we don't beat the main boss of the main quest of the game on time. Especially considering the fact that some added quest mods are tied to the main quest and 
 that is not immersive to catch butterflies instead of saving the world, I think it is a very good addition. 
 Lock the slider to not be tempted to change the final date all time. 
 One in-game year (approximately **18 real life days**) is good enough (and even feels right somehow) as a default setting to 
 do many other things in between saving the world for the first time. And don't worry - **the game won't end if you kill Alduin**. Also disable the spell and 
-countdown as those are pretty annoying. You can always enter into MCM again to see how much time you have left. 
+countdown as those are pretty annoying (and waste resources). You can always enter into MCM again to see how much time you have left. 
 **Be warned that this is active even if you don't change things anyhow.**
 * **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
 option to drop this mod’s potions to 0%. Change the chance of NPCs
@@ -134,7 +135,9 @@ I will post about updates for the add-on in _#the-addons-updates_ channel.
 
 If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#enb).
 
-If you want to learn more about what the add-on offers, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
+> If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
+
+If you want to learn more about what the add-on offers and what actually many of the mods do, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
 please use Posts feature on Nexus or use _#tpf-addons-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
