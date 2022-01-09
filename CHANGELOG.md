@@ -35,6 +35,10 @@
 * Removed _The Great Cities - Minor Cities and Towns_ and each patch related to it.
 > I should have done that long time ago. Even thou the mod makes non-existant vanilla versions of towns look like actual towns befitting their story and defences, it felt like a compatibility nightmare, which was following me all this time I have decided to add it. _Cities of the North_ series already do great job on helping these towns become unique and we still have _The Great Cities_ series for even smaller places unlike Falkreath and other capitals of the holds. Now I am finally in peace with this section of the add-on.
 
+### Interiors
+
+* Added _JK's Jorrvaskr_ and _JKs Guild HQ Interiors Patch Collection_.
+
 ### Miscellaneous
 
 * Removed _Less Boring Loading Screen_.
