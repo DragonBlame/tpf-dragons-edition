@@ -357,10 +357,6 @@ kill our improved vanilla or new followers. Win-win situation for me.*
 
 **Optional files** - Patch for Helgen Reborn
 
-### [The Brotherhood of Old](https://www.nexusmods.com/skyrimspecialedition/mods/15322?tab=files)
-
-**Main files** - The Brotherhood of Old - Version 1.1.1
-
 ### [Miraak - Dragonborn Follower](https://www.nexusmods.com/skyrimspecialedition/mods/19829?tab=files)
 
 **Main files** - Miraak - Dragonborn Follower SE
@@ -634,6 +630,10 @@ directory*, click *OK*.
 **Main files** - The Wheels of Lull SE
 
 **FOMOD** - `High Poly NPCs`.
+
+### [The Brotherhood of Old](https://www.nexusmods.com/skyrimspecialedition/mods/15322?tab=files)
+
+**Main files** - The Brotherhood of Old - Version 1.1.1
 
 ### [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509?tab=files)
 
