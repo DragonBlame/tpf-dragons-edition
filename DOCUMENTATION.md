@@ -167,6 +167,12 @@ books you have read and it tells you about which kind of skill you can level by 
 
 *Enhances view of all maps by overhauling weather and lightning inside those.*
 
+### [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919)
+
+**Main files** - Unique Map Weather Framework
+
+*Enables unique weather to be added to world maps, so we won't see the same Skyrim map's weather inside Soul Cairn's map.*
+
 ### [Detailed Mine Markers](https://www.nexusmods.com/skyrimspecialedition/mods/3172)
 
 **Main files** - Detailed Mine Markers v1.4
