@@ -45,6 +45,10 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 
 * Changed installation instructions for _Finally First Person Magic Animation_.
 
+### Preparation
+
+* Added instructions to install _Ultra Widescreen Patch for Forget Spell_ for widescreen users.
+
 ---
 
 ### Other Changes
