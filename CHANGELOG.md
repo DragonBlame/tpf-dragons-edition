@@ -4,7 +4,7 @@
 
 ## Version 1.14.
 
-> Updated final patches. Updated Texgen, DynDOLOD and Occlusion outputs.
+> Updated final patches. Updated Nemesis, Texgen, DynDOLOD and Occlusion outputs.
 
 ### Interface
 
@@ -73,6 +73,10 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 > Compensation for not being able to utilize _Locksmith_ perk.
 * Lightning in some places (Castle Volkihar, Thieves Guild) should now be more in place with the changed looks of the places.
 * And many other good things I won't be able to write down here (for real).
+
+### Wabbajack
+
+* Added version of Skyrim's update the add-on is using at the moment.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
