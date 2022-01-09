@@ -3166,7 +3166,11 @@ offer inside their plugins. I have added it for people to know that there is an 
 **About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
 * **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
 * **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.
-* **About lockpicking** - Now you don't need to do the annoying lockpicking game anymore. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful too. Locks will break according to your skill too.
+* **About lockpicking** - Now you don't need to do the annoying lockpicking game anymore. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful too. Locks will break according to your skill too. For example, if you are a novice at lockpicking and you try to pick a novice lock, 
+you will have only 40% chance to break a lockpick. That's the easiest lock you can pick, so that is pretty fair for both balance and roleplay. 
+But if you as total rookie will try to pick a master lock, be prepared to lose 15 lockpicks. Sounds reasonable for me, maybe you should lose even more.
+And that also works in other way - if you are a master thief (your lockpicking skill is big enough), 
+you will get only 40% chance to break a lockpick on almost any chest.
 * **About reading** - Now you will get experience boost to your leveling speed in a skill, which you have read about. 
 * **About different coins** - Now there are much more different coins around Skyrim, which will then be converted to their value in septims, when you pick them up.
 * **About bribing** - Now it depends on our speech skill too. Be prepared to actually pay if you aren't talkative enough. 
