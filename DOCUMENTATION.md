@@ -1762,9 +1762,11 @@ with shouts together with Forceful Tongue - Shouts Overhaul.*
 
 *Helps us to avoid relegenerating facegen for NPCs affected by Vanilla Head Replacer mod, because apparently Bethesda is unhappy even if you just change hair of NPCs without any issues.*
 
-### [HDT-SMP (Skinned Mesh Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
+### [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
 
-**Main files** - HDT-SMP for SSE 1.5.97 v2.11
+**Main files** - Faster HDT-SMP
+
+**FOMOD** - `SSE, NOT CUDA (recommended), No Avx - Day (recommended)`.
 
 *SKSE plugin, which will allow us to use physics for our PC, like in our
 scenario, with moving hair. Bonk people, who thought about something
