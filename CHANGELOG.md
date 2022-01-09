@@ -73,6 +73,8 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 > Compensation for not being able to utilize _Locksmith_ perk.
 * Lightning in some places (Castle Volkihar, Thieves Guild) should now be more in place with the changed looks of the places.
 * And many other good things I won't be able to write down here (for real).
+* From now on I will post change-log's content inside release text.
+> Should have done that in the first place. Sorry, I am new at this.
 
 ### Wabbajack
 
