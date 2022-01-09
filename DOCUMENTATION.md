@@ -1325,6 +1325,16 @@ separator in the same order.
 
 **FOMOD** - In 1st page - `I'VE READ AND UNDERSTAND`, in the 2nd page check everything except _JK's Angeline's Aromatics, JK's The Drunken Huntsman, JK's The Hag's Cure, JK's Warmaiden's_, in JK's Arcadia's Cauldron's page - `AI Overhaul, EasierRider's Dungeon Pack, USSEP`, JK's Arnleif and Sons Trading Company - `AI Overhaul`, JK's Bee and Barb - `3DNPC, AI Overhaul, Helgen Reborn, Elgrim's Elixirs - The Brotherhood of Old`, JK's Belethor's General Goods - `AI Overhaul`, JK's Bits and Pieces - `AI Overhaul, USSEP`, JK's Blue Palace - `AI Overhaul, Lanterns of Skyrim II`, **untick** only `Royal Armory` patch, `USSEP, 3DNPC`, JK's Candlehearth Hall - `AI Overhaul, Helgen Reborn, 3DNPC`, JK's Dragonsreach - `AI Overhaul`, JK's Elgrims Elixirs - `Bee and Barb - Brotherhood of Old`, JK's Haelga's Bunkhouse - `AI Overhal, 3DNPC, Serana Dialogue Addon`, JK's Mistveil Keep - `3DNPC, AI Overhaul`, JK's New Gnisis Cornerclub - `3DNPC`, JK's Palace of the Kings - `EasierRider's Dungeon Packs, USSEP`, JK's Radiant Raiment - `3DNPC, USSEP`, JK's Ragged Flagon - `AI Overhaul, Opulent Thieves Guild, USSEP` **untick** only `Realistic Water Two 5.0+` patch, JK's Sadri's Used Wares - `3DNPC, ACE`, JK's Silver-Blood Inn - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Sleeping Giant Inn - `3DNPC, AI Overhaul`, JK's Temple of Dibella - `ACE, Relightning Skyrim, AI Overhaul`, JK's Temple of the Divines - `3DNPC, USSEP`, JK's Temple of Mara - `3DNPC, AI Overhaul, The Brotherhood of Old`, JK's Temple of Kynareth - `3DNPC, Easierrider's Dungeon Pack`, JK's Temple of Talos - `3DNPC, AI Ovehraul, ACE, USSEP`, JK's Understone Keep - `3DNPC, AI Overhaul, USSEP`, JK's Winking Skeever - `AI Overhaul, The Brotherhood of Old, USSEP, 3DNPC, Undeath`.
 
+### [JK's Jorrvaskr](https://www.nexusmods.com/skyrimspecialedition/mods/60738)
+
+**Main files** - JK's Jorrvaskr
+
+### [JKs Guild HQ Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/61416)
+
+**Main files** - JKs Guild HQ Interiors Patch Collection
+
+**FOMOD** - `JK's Jorrvaskr, AI Overhaul, EasierRider's Dungeon Pack, WACCF`.
+
 ---
 
 ## Apparel & Weapons
