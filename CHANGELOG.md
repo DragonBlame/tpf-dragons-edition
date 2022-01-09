@@ -6,6 +6,10 @@
 
 > Updated final patches. Updated Texgen, DynDOLOD and Occlusion outputs.
 
+### Interface
+
+* Added _Weather of World_ and _Unique Map Weather Framework_.
+
 ### Improved Vanilla Content
 
 * Moved many mods here from _New Content_.
