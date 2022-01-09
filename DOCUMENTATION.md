@@ -621,10 +621,6 @@ directory*, click *OK*.
 
 **Old files** - Wyrmstooth Patch v1.0
 
-### [Forceful Tongue - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
-
-**Miscellaneous files** - Forceful Tongue - Wyrmstooth Patch
-
 ### [Apothecary - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 
 **Miscellaneous files** - Apothecary - Wyrmstooth Patch
