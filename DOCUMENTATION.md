@@ -3202,7 +3202,7 @@ point you to the location with a ship marker. Should be done without a
 follower.
 * **Clockwork** - Automatically after reaching level 5. Without a follower.
 * **Beyond Skyrim - Bruma** - Can be started any time in *Pale Pass* (will be
-marked as two rocks together) southeast of Helgen.
+marked as two rocks together) southeast of Helgen. Personally recomment to start it at level 10.
 * **Moonpath to Elsweyr** - Can be started any time in Bruma’s *Greenwood*,
 the southernmost point of County Bruma.
 * **Moon and Star** - Automatically after finishing the main quest *The* *Way
