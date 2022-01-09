@@ -3263,7 +3263,7 @@ combat oriented character required, very hard mod. After reaching level
 I have tried to write as little information as I could so as not to
 spoil the content. Won’t tell you any details about your potential new
 followers and other surprises as they should be discovered pretty easily
-while exploring. I hope if you were surprised (in a good way) about something, this section helped to learn about that a bit more.
+while exploring. I hope if you were surprised (in a good way) about something and this section helped to learn about that a bit more.
 
 ---
 
