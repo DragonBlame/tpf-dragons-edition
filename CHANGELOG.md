@@ -40,6 +40,7 @@
 * Removed _Less Boring Loading Screen_.
 > The mod's loading screens were definitely less boring than the vanilla ones, but at the same time some of them were very low quality too. 
 I will use just _Starlit Lakes Loading Screens_ for consistency and because they are the closest to what I would like to see (and they are (star)lit).
+* Changed installation instructions for _Character Light_.
 
 ### Skeleteon & Animations
 
@@ -63,4 +64,5 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 ### Updated Add-on's Mods for Wabbajack Users
 
 * Navigator - Navmesh Fixes
+* Character Light
 * Finally First Person Magic Animation
