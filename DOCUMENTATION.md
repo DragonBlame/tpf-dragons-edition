@@ -2865,6 +2865,12 @@ Flavour - Dragon’s Edition_.
 
 If you are using Blade and Bunt - Vanilla Difficulty Modifiers, manually move its plugin on the right side of MO2 right after Blade and Blunt - A Combat Overhaul's plugin _BladeAndBlunt.esp_.
 
+If you are widesreen user, download the next mod and put it right after the last mod (_Remove QuickSave Button from SkyUI System Menu - Widescreen_) in your mod order.
+
+### [Ultra Widescreen Patch for Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/54854)
+
+**Main files** - Ultrawide Forget Spell Patch
+
 ---
 
 ## Configurations
