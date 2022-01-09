@@ -449,6 +449,10 @@ separator in the same order.
 
 **Miscellaneous files** - FaceGen - Beyond Skyrim Bruma
 
+### [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/60848?tab=files)
+
+**Main files** - Legion - A Bruma Encounter Zone Overhaul (Mid-Game)
+
 ### [Beyond Skyrim - Bruma Location Styled Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/23089?tab=files)
 
 **Main files** - Beyond Skyrim Bruma Craft Restrictions
