@@ -2,94 +2,93 @@
 
 # Changelog
 
-## Version 1.13.
+## Version 1.14.
 
-> Updated final patches. Updated DynDOLOD and Occlusion outputs.
+> Updated final patches. Updated Nemesis, Texgen, DynDOLOD and Occlusion outputs.
+
+### Interface
+
+* Added _Weather of World_ and _Unique Map Weather Framework_.
+
+### Improved Vanilla Content
+
+* Moved many mods here from _New Content_.
+> The new section was made to make everything more structured and less cluttered in _New Content_.
+* Removed _Opulent Thieves Guild Patch Collection_.
+* Changed FOMOD instructions for _Obscure's College of Winterhold_.
+* Changed installation instructions for _Briraka's Draugr Overhaul - Cannibal Draugr Patch_.
 
 ### New Content
 
-* Added _Helgen Reborn Immersive Start_.
-* Added _Kaidan 2 - HD Armor Retexture_.
-* Changed installation instructions for _Beyond Skyrim - Bruma_.
-* Changed installation instructions for _Tools of Kagrenac_.
+* Removed _Beyond Skyrim - Bruma Hotfix_.
+> In short, it hotfixed Skyrim not giving you CTDs in Falkreath. Bruma's team still has a lot of work to do.
+* Removed _Beyond Skyrim - Bruma Tree LOD billboards_, _Imperial City LOD for Beyond Skyrim - Bruma_ and _Gray Cowl of Nocturnal - Alikr Flora Overhaul Tree Billboards_.
+> I have actually completely forgotten that billboards are now generated automatically by DynDOLOD.
+* Added _Legion - A Bruma Encounter Zone Overhaul_.
+* Removed _Dragon War - Wyrmstooth Patch_.
+* Added _WoW Dragon Mounds CTD Fix - Wyrmstooth Patch_.
+* Added _Moonpath of Elsweyr - Apothecary Patch_.
+* Removed _Frostwood Cabin_. Added _Frostwood Cabin Reborn_.
+> Added additional instructions for _FaceGen Output for Random Mods_.
+* Changed installation instructions for _Interesting NPCs (3DNPC)_.
+* Moved many mods to _Improved Vanilla Content_.
+* Changed mod and load order.
+> To make my work easier and to make more sense.
 
 ### Exteriors
 
-* Added _Ancient Trees Of Skyrim_.
+* Removed _The Great Cities - Minor Cities and Towns_ and each patch related to it.
+> I should have done that long time ago. Even thou the mod makes non-existant vanilla versions of towns look like actual towns befitting their story and defences, it felt like a compatibility nightmare, which was following me all this time I have decided to add it. _Cities of the North_ series already do great job on helping these towns become unique and we still have _The Great Cities_ series for even smaller places unlike Falkreath and other capitals of the holds. Now I am finally in peace with this section of the add-on.
 
 ### Interiors
 
-* Added _JK's Haelga's Bunkhouse_.
-* Changed FOMOD instructions for _JK's Interiors Patch Collection_.
-
-### Apparel & Weapons
-
-* Removed _KD Circlets Redone_.
-> The mod was deleted from SE Nexus. It is still on LE Nexus, but I have decided not to readd it.
+* Added _JK's Jorrvaskr_ and _JKs Guild HQ Interiors Patch Collection_.
 
 ### Miscellaneous
 
-* Removed _Civil War Neutrality_.
-* Added _Neutral Hjerim_.
-> _Civil War Neutrality_ was a good mod, but unfortunately it needs an update to function properly. With the mod installed, people actually coudn't join the factions even if they wanted to join. At least we will be able to get Hjerim without the need to join the war (getting rid of the psycopath actually is somehow rewarded from the side of the city in this way).
-* Added _VioLens - A Killmove Mod_ and _VioLens - A Killmove Mod - Settings Loader_.
+* Removed _HDT-SMP (Skinned Mesh Physics)_. Added _Faster HDT-SMP_.
+* Removed _Less Boring Loading Screen_.
+> The mod's loading screens were definitely less boring than the vanilla ones, but at the same time some of them were very low quality too. 
+I will use just _Starlit Lakes Loading Screens_ for consistency and because they are the closest to what I would like to see (and they are (star)lit).
+* Changed installation instructions for _Character Light_.
 
-### Skeleton & Animations
+### Skeleteon & Animations
 
-* Removed _Vanargand Animations - Sneak Idle Walk and Run_.
-> After tinkering with them for a while, I understood that I actually don't like them too.
-
-### NPC Overhauls
-
-* Removed _Updated USSEP - Pandorable's NPC Overhauls - AI Overhaul Patches' Compendium_.
-* Changed installation instructions for _Pandorable's NPCs - Dawnguard_, _Pandorable's NPCs - Males_ and _Pandorable's NPCs - Males 2_.
-* Changed picture of NPC overhauls to display the latest changes.
+* Changed installation instructions for _Finally First Person Magic Animation_.
 
 ### Literally Unplayable
 
-* Changed installation instructions.
+* Added _Literally Unplayable - Nortbourne NPCs of the Rift Patch_ and _Literally Unplayable - Northbourne NPCs of Haafingar Patch_.
 
 ### Preparations
 
-* Added instructions on reinstalling _CoMAP_.
-* Changed installation instructions for _Enhanced Blood Textures_.
-* Changed installation instructions for _Simple Children - Patches_.
-
-### Gameplay Guide
-
-* Removed information about the little shack home we used before (undocumented 1.12.1. addition).
-* Added information about paraglider functioning correctly only in the third person (undocumented 1.12.1. addition).
-* Added information about buying Hjerim without the need to join the war.
+* Added additional instructions for widescreen users to install _Ultra Widescreen Patch for Forget Spell_.
 
 ---
 
 ### Other Changes
 
-* Moved Falkreath's carriage driver's knapsacks and the lantern not to fly around. 
-* Removed one sign from the Dawnstar's inn.
-> Well, because two signs on the same spot don't look good. :D
-* Removed sets of instructions for _Civil War Neutrality_.
-* Changed sets of instructions for _Helgen Reborn_.
+* Fixed CTDs at Falkreath.
+> Was related to _Beyond Skyrim - Bruma Hotfix_, which was removed for now.
+* Made the game give you 3 perk points at level 2 instead of 2 perk points.
+> Compensation for not being able to utilize _Locksmith_ perk.
+* Made lightning in some places (Castle Volkihar, Thieves Guild) more in place with the changed looks of the places.
+* And many other good things I won't be able to write down here (for real) related to both the add-on and its documentation.
+* From now on I will post change-log's content inside release text.
+> Should have done that in the first place. Sorry, I am new at this.
 
 ### Wabbajack
 
-* Removed not needed copies of some mods.
-* Changed colours for my separators and for some of TPF's separators.
-> To bring those to the right colour, which is used everywhere else in the add-on. For TPF's separators it was done mainly to make my work a little bit easier - it indicates, where are the mods, which are from TPF, but were reinstalled with different settings for the add-on's purposes.
+* Added version of Skyrim's update the add-on is using at the moment.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* Enhanced Blood Textures
-* Beyond Skyrim - Bruma
-* The Tools of Kagrenac
-* Kaidan 2 Follower Voice Fixes and Additional Dialogue
-* Cities of the North - Dawnstar Patch Collection
-* JK's Blue Palace
-* JK's Riverwood Trader
-* JK's Interiors Patch Collection
-* Feminine Khajiit Textures
-* Pilgrim - A Religion Overhaul
-* Sleeping Expanded
-* Animated Forge Water
-* Pandorable's NPCs - Males
-* Pandorable's NPCs - Males 2
+* DynDOLOD Resources
+* Serana Dialogue Add-On
+* Darkend - Enemy Rebalance
+* Undeath - Classical Lichdom
+* COTN Dawnstar Patch Collection
+* Navigator - Navmesh Fixes
+* Character Light
+* Finally First Person Magic Animation
+* Dragon Priest Fix - Behaviour Overhaul
