@@ -10,7 +10,7 @@ If you would like to learn more general information about the add-on, be sure to
 
 **Add-on installation's size** - ~ 140 GB (your installation folder must be unique)
 
-**Add-on mod's size** - ~ 88 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
+**Add-on mod's size** - ~ 81 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
 
 ---
 
