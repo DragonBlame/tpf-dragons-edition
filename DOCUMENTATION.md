@@ -889,6 +889,11 @@ warriors.*
 
 **Main files** - Cuyima Interesting NPCs SE - Custom Hair
 
+**Hide facegen files** - Double click on the mod in your mod order,
+switch to *Conflicts* tab, at the right side of *Winning file conflicts*
+there will be a filter, copy `020FE3` into it, hide two appeared
+files.
+
 ### [Interesting NPCs Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40046?tab=files)
 
 **Main files** - Interesting NPCs Visual Overhaul
