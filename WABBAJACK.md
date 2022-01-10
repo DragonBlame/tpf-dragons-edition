@@ -119,19 +119,19 @@ If you don't care about points below, feel free to skip. I **definitely recommen
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](DOCUMENTATION.md#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_. If you want to learn more, go [here](DOCUMENTATION.md#gameplay-guide).
+And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
 ---
 
 And that's it! You are ready for the action.
 
 If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
-feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-addons-support_ channel. If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
+feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel. If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
-I will post about updates for the add-on in _#the-addons-updates_ channel.
+I will post about updates for the add-on in _#updates_ channel.
 
 If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#enb).
 
@@ -140,4 +140,4 @@ If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.
 If you want to learn more about what the add-on offers and what actually many of the mods do, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
-please use Posts feature on Nexus or use _#tpf-addons-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
+please use Posts feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
