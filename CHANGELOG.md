@@ -73,7 +73,7 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 * Made the game give you 3 perk points at level 2 instead of 2 perk points.
 > Compensation for not being able to utilize _Locksmith_ perk.
 * Made lightning in some places (Castle Volkihar, Thieves Guild) more in place with the changed looks of the places.
-* And many other good things I won't be able to write down here (for real).
+* And many other good things I won't be able to write down here (for real) related to both the add-on and its documentation.
 * From now on I will post change-log's content inside release text.
 > Should have done that in the first place. Sorry, I am new at this.
 
