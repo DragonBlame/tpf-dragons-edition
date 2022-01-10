@@ -48,16 +48,16 @@ While following the main documentation, users have a choice to use or not to use
 
 ---
 
-Some of the mods inside Mod Organizer are disabled by default in the add-on. Those are:
+Some of the mods inside Mod Organizer are disabled by default in the add-on. Some of these are:
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
-  - All the mods under _WIDESCREEN SUPPORT_ separator, because obviosuly only some people have those huge monitors. If you are actually one of them, enable all the mods under this section.
+  - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section.
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
 ### In-Game Adjustments
 
-At the beginning, don’t be scared when you see that your character’s hair and/or beard isn't right. we need to actually need to choose different head inside our character creation menu, which is much more better than the vanilla one you see at the moment, and then our hair will look fine. Also choose a beard from a mod called High Poly Head and it will look good if that is needed.
+At the beginning, don’t be scared when you see that your character’s hair and/or beard isn't right. We need to choose different head inside our character creation menu, which is much more detailed than the vanilla one you see at the moment, and then our hair will look fine. Also choose a beard from a mod called High Poly Head and it will look good too.
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
@@ -117,9 +117,9 @@ If you don't care about points below, feel free to skip. I **definitely recommen
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](DOCUMENTATION.md#tk-dodge-re).
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells, another mean, which is tied to a quest (don't want to spoil that) etc. If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_.
+And just wanted to add some **important** info before the end. _Helgen Reborn_ note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
 ---
 
