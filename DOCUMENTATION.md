@@ -2313,7 +2313,8 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 **Merge** - merge both files.
 
-**INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes).  I recommend one of your mouse’s buttons if you have many buttons on it.
+**INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). I recommend one of your mouse’s buttons if you have many of them. 
+> Because of some kind of Skyrim's oddities, each button here is actually one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
 
 *An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
 
@@ -2963,12 +2964,12 @@ So about these things for you to know about:
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
-* **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
+* **TK Dodge RE** - _Mouse 3_ (in other games _Mouse 4_ button - Skyrim's oddities) button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
 And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide).
 
-At last, I recommend you to go through [here](CHANGELOG.md) to see if you didn’t miss any important updates.
+At last, I recommend you to go through [here](https://github.com/DragonBlame/tpf-dragons-edition/releases) to see if you didn’t miss any important updates.
 
 ---
 
@@ -2977,12 +2978,13 @@ At last, I recommend you to go through [here](CHANGELOG.md) to see if you didn�
 That’s all, folks! You are set to traverse into another modded world of Skyrim.
 
 If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
-feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-addons-support_ channel. If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
+feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-manual-support_ channel. If you have experienced an in-game bug during your walkthrough, 
+jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
-I will post about updates for the add-on in _#the-addons-updates_ channel.
+I will post about updates for the add-on in _#updates_ channel.
 
 If you are interested in changing TPF’s default ENB to what I use
 personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
@@ -2990,7 +2992,7 @@ personally or just to learn about my preference in ENBs, continue with the [ENB]
 If you want to learn more about what the add-on offers and just some additional information, check [Gameplay Guide](#gameplay-guide). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
-please use Posts feature on Nexus or use _#tpf-addons-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
+please use Posts feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
 
 ---
 
@@ -3158,6 +3160,7 @@ to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
 * **MoreHUD** - No idea why, but Phoenix has disabled the appearance of information about potions, spell books etc. in her MoreHUD preset, when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options.
+> This option should be already chosen for Wabbajack users.
 
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
