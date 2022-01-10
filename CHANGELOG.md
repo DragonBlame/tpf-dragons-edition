@@ -29,8 +29,9 @@
 * Added _WoW Dragon Mounds CTD Fix - Wyrmstooth Patch_.
 * Added _Moonpath of Elsweyr - Apothecary Patch_.
 * Removed _Frostwood Cabin_. Added _Frostwood Cabin Reborn_.
-> Added additional instructions for _FaceGen Output for Random Mods_.
+* Added additional instructions for _FaceGen Output for Random Mods_.
 * Changed installation instructions for _Interesting NPCs (3DNPC)_.
+* Added additional instructions for _Cuyima Interesting NPCs_.
 * Moved many mods to _Improved Vanilla Content_.
 * Changed mod and load order.
 > To make my work easier and to make more sense.
