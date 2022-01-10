@@ -87,6 +87,7 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 * Serana Dialogue Add-On
 * Darkend - Enemy Rebalance
 * Undeath - Classical Lichdom
+* COTN Dawnstar Patch Collection
 * Navigator - Navmesh Fixes
 * Character Light
 * Finally First Person Magic Animation
