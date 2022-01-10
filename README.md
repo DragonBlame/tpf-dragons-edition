@@ -1,6 +1,6 @@
 ![image](images/Banner.png)
 # <p align="center">Version 1.14.</p>
-### <p align="center">For 4.11.0. v. of TPF</p>
+### <p align="center">For 4.11. v. of TPF</p>
 
 ---
 
