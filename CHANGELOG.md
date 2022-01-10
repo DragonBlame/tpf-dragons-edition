@@ -28,6 +28,7 @@
 > I have actually completely forgotten that billboards are now generated automatically by DynDOLOD.
 * Removed _Frostwood Cabin_. Added _Frostwood Cabin Reborn_.
 * Added _Legion - A Bruma Encounter Zone Overhaul_.
+* Added _WoW Dragon Mounds CTD Fix - Wyrmstooth Patch_.
 * Added _Moonpath of Elsweyr - Apothecary Patch_.
 > Added additional instructions for _FaceGen Output for Random Mods_.
 * Changed installation instructions for _Interesting NPCs (3DNPC)_.
