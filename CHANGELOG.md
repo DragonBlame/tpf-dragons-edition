@@ -71,10 +71,11 @@ I will use just _Starlit Lakes Loading Screens_ for consistency and because they
 
 * Fixed CTDs at Falkreath.
 > Was related to _Beyond Skyrim - Bruma Hotfix_, which was removed for now.
+* Fixed Larkspur's face.
 * Made the game give you 3 perk points at level 2 instead of 2 perk points.
 > Compensation for not being able to utilize _Locksmith_ perk.
 * Made lightning in some places (Castle Volkihar, Thieves Guild) more in place with the changed looks of the places.
-* And many other good things I won't be able to write down here (for real) related to both the add-on and its documentation.
+* And many other good things I won't be able to write down here (for real) related to both the add-on and its documentation (you have already seen some of them :D ).
 * From now on I will post change-log's content inside release text.
 > Should have done that in the first place. Sorry, I am new at this.
 
