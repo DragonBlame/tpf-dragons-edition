@@ -30,7 +30,7 @@ Phoenix also wrote a very detailed instructions on [how to set up your Skyrim Sp
 
 ## Installation
 
-For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gallery and needs to be installed manually. Download `The Phoenix Flavour - Dragon's Edition.wabbajack` file from [Google Drive](https://drive.google.com/drive/folders/1cfY3C4EzMxlPaIDT3-hPlRZY4ni6lOcG?usp=sharing) and then continue following the list installation instructions, but instead of choosing _Browse Modlists_, click _Install from Disk_ and select The Phoenix Flavour - Dragon's Edition.wabbajack from a place, where you have saved it. Then continue following the Phoenix's instructions until finishing going through _Troubleshooting_ section.
+For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gallery and needs to be installed manually. Download `The Phoenix Flavour - Dragon's Edition.wabbajack` file from [Google Drive](https://drive.google.com/drive/folders/1cfY3C4EzMxlPaIDT3-hPlRZY4ni6lOcG?usp=sharing) and then continue following the list installation instructions, but instead of choosing _Browse Modlists_, click _Install from Disk_ and select _The Phoenix Flavour - Dragon's Edition.wabbajack_ from a place, where you have saved it. Then continue following the Phoenix's instructions until finishing going through _Troubleshooting_ section.
 
 ---
 
