@@ -615,6 +615,12 @@ Crafting Patch
 
 **Main files** - Wyrmstooth - Settings Loader
 
+### [WoW Dragon Mounds CTD Fix - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43188?tab=files)
+
+**Optional files** - WoW Dragon Mounds CTD Fix - Wyrmstooth Patch
+
+**FOMOD** - `ESL flagged`.
+
 ### [Lanterns Of Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/47782?tab=files)
 
 **Main files** - Lanterns Of Wyrmstooth
