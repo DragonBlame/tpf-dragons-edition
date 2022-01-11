@@ -938,9 +938,9 @@ files.
 
 **Optional files** - Lucien - Moonpath to Elsweyr Patch
 
-### [Lucien Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38116?tab=files)
+### [Lucien Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/61263?tab=files)
 
-**Main files** - ---Lucien Replacer SE Younger Face version
+**Main files** - --Lucien Replacer 2 Younger face version
 
 ### [Song of the Green](https://www.nexusmods.com/skyrimspecialedition/mods/11278?tab=files)
 
