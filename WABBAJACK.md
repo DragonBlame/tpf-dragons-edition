@@ -80,8 +80,7 @@ left side of the screen disappear).
 
 ---
 
-Then remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section. Then you can continue with MCM 
-(Mod Configuration Menus) below.
+Then you can continue with MCM (Mod Configuration Menus) below.
 
 * **Diziet’s Auto Outfits** - In configuration settings, check the option
 to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
