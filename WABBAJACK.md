@@ -51,7 +51,7 @@ While following the main documentation, users have a choice to use or not to use
 Some of the mods inside Mod Organizer are disabled by default in the add-on. Some of these are:
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
-  - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section.
+  - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
@@ -80,34 +80,13 @@ left side of the screen disappear).
 
 ---
 
-Then you can continue with MCM (Mod Configuration Menus) below.
-
-* **Diziet’s Auto Outfits** - In configuration settings, check the option
-to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
-* **End Times** - This mod makes us not decline the main quest of Skyrim for all time by making the game end if 
-we don't beat the main boss of the main quest of the game on time. Especially considering the fact that some added quest mods are tied to the main quest and 
-that is not immersive to catch butterflies instead of saving the world, I think it is a very good addition. 
-Lock the slider to not be tempted to change the final date all time. 
-One in-game year (approximately **18 real life days**) is good enough (and even feels right somehow) as a default setting to 
-do many other things in between saving the world for the first time. And don't worry - **the game won't end if you kill Alduin**. Also disable the spell and 
-countdown as those are pretty annoying (and waste resources). You can always enter into MCM again to see how much time you have left. 
-**Be warned that this is active even if you don't change things anyhow.**
-* **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
-option to drop this mod’s potions to 0%. Change the chance of NPCs
-having potions to 20% (we don’t want everyone to have those, right?) and
-the number of potions to 3.
-* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
-text colour to white. The timer won’t work during your first
-transformation, after transforming at least once, save your game. When
-you transform again, it will be at the top of the screen near your
-compass.
-
----
-
-Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
+Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
+If you aren't a fan, just press the same button once again. 
 
 * **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
+
+Also we have toggable HUD, so feel free to press *X* key to turn it on and off when you need that.
 
 ---
 
