@@ -53,6 +53,8 @@ Some of the mods inside Mod Organizer are disabled by default in the add-on. Som
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
   - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 
+> Do not touch any other disabled mods!
+
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
 ### In-Game Adjustments
