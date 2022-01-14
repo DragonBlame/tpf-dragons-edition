@@ -81,7 +81,7 @@ left side of the screen disappear).
 ---
 
 Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
-If you aren't a fan, just press the same button once again. 
+If you aren't a fan, just press the same button once again to turn them off. 
 
 * **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
