@@ -2937,27 +2937,9 @@ At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-At second, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section if that wasn't done before. Then continue with configurations below.
+At second, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section if that wasn't done before.
 
-* **Diziet’s Auto Outfits** - In configuration settings, check the option
-to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
-* **End Times** - Lock the slider to not be tempted to change the final
-date all time. One in-game year (approximately **18 real life days**) is good enough (and even feels right somehow) as a default setting to 
-do many other things in between saving the world for the first time. And don't worry - **the game won't end if you kill Alduin**. Also disable the spell
-and countdown as those are pretty annoying. You can always enter into MCM again to see how much time
-you have left.
-* **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
-option to drop this mod’s potions to 0%. Change the chance of NPCs
-having potions to 20% (we don’t want everyone to have those, right?) and
-the number of potions to 3.
-* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
-text colour to white. The timer won’t work during your first
-transformation, after transforming at least once, save your game. When
-you transform again, it will be at the top of the screen near your
-compass.
-* **Wyrmstooth** - Change starting requirements to be the quest starting after _A Blade in the Dark_ quest is done (otherwise it feels too soon for an organization to give this quest out).
-
-Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
+Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. If you aren't a fan, just press the same button once again to turn them off.
 
 * **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
