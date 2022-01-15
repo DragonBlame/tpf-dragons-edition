@@ -3127,7 +3127,7 @@ At second, I recommend you to to go into the console with _~_ key,
 type `showracemenu`, press *Enter* and then find the *Weapons* category to change settings to the same ones you see below.
 
 <p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765697-cf283484-96bd-4c45-81b7-ccb88554f523.png" /> 
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/149631104-159a8a1d-a78c-4720-a240-6748ec9babf2.png" /> 
 </p>
 
 That is a matter of preference, but I feel that this position is actually more correct for archery as a whole and looks much more better, 
