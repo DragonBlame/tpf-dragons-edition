@@ -92,7 +92,7 @@ Some quick tips before the end:
 
 ---
 
-**And some important info.** _Helgen Reborn_ note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_. Be sure to remember.
+**And some important info.** _Helgen Reborn_ note in The Bannered Mare can be taken and read **only** after 5 in-game days after you have finished the main quest _Unbound_. Be sure to remember.
 
 ---
 
