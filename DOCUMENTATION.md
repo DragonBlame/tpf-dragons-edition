@@ -3123,9 +3123,19 @@ At first, some juicy tips for peeps, who went right here after mingling with the
 there will be a neat spell book waiting for you somewhere around Riverwood.
 * And another one - be sure to travel around Falkreath. Something interesting might happen.
 
-At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to go into the console with ~ key, 
-type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
-Don’t overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name mid-game - that won't make the game happy. 
+At second, I recommend you to to go into the console with _~_ key, 
+type `showracemenu`, press *Enter* and then find the *Weapons* category to change settings to the same ones you see below.
+
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765697-cf283484-96bd-4c45-81b7-ccb88554f523.png" /> 
+</p>
+
+That is a matter of preference, but I feel that this position is actually more correct for archery as a whole and looks much more better, 
+when we can look at bow and quiver not being as close to each other. After setting up the settings, press *R* and *Enter* and you are done.
+
+At third, later into the game, if you are planning to use shields or two-handed weapons, I again recommend you to go into the character creation menu and 
+make corrections to your gear's position using settings you can again see below. **Don't** change any other settings.  
+Also don’t overdo these or animations will look funky. And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. 
 After setting up the settings, press *R* and *Enter* and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
