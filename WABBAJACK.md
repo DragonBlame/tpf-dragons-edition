@@ -99,13 +99,14 @@ Some quick tips before the end:
 And that's it! You are ready for the action.
 
 If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the add-on) or if you find a typo or any other mistake in the documentation, 
-feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel. If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
+feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel. 
+If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
 If you want to learn more about what the add-on offers and what actually many of the mods do, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
 please use _Posts_ feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub.
-Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on the Nexus.
+Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on Nexus.
 
 If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#enb).
 
