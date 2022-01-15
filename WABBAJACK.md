@@ -53,7 +53,7 @@ Some of the mods inside Mod Organizer are disabled by default in the add-on. Som
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
   - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 
-> Do not touch any other disabled mods!
+> Do not touch any other disabled mods.
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
@@ -75,7 +75,7 @@ If you aren't a fan, just press the same button once again to turn them off.
 
 * **Look What You See** - Press your *V* key.
 * **Animated Shouts** - Press your right *Alt* key.
-> You will be able to see this one in action only after getting your first shout, so be sure to remember about this one. Have left a tip on this one in my gameplay guide too.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide too.
 
 Also we have toggable HUD, so feel free to press *X* key to turn it on and off when you need that.
 
@@ -90,7 +90,7 @@ Some quick tips before the end:
 
 ---
 
-And just wanted to add some **important** info before the end. _Helgen Reborn_ note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_.
+**And some important info.** _Helgen Reborn_ note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_. Be sure to remember.
 
 ---
 
