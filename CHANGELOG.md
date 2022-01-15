@@ -13,6 +13,7 @@
 ### Appearance
 
 * Removed _Vanilla Hair Replacer_.
+* Changed installation instructions for _High Poly Head_.
 
 ### Miscellaneous
 
