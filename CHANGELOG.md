@@ -4,7 +4,7 @@
 
 ## Version 1.15.
 
-> Updated final patches. Updated DynDOLOD and Occlusion output.
+> Updated final patches. Updated Nemesis and DynDOLOD and Occlusion outputs.
 
 ### Exteriors
 
@@ -24,6 +24,10 @@ where our character's face becomes whitened for a while. So we are just going to
 * Added _Base Object Swapper_.
 * Changed installation instructions for _VioLens - A Killmove Mod_ (undocumented 1.14. addition).
 
+### Skeleton & Animations
+
+* Updated installation instructions for _TK Dodge RE_.
+
 ---
 
 ### Other Changes
@@ -40,4 +44,5 @@ where our character's face becomes whitened for a while. So we are just going to
 * JK's Blue Palace
 * BeastHHBB
 * Faster HDT-SMP
+* TK Dodge RE
 * Literally Unplayable - The Forgotten City Patch
