@@ -4,7 +4,7 @@
 
 ## Version 1.15.
 
-> Updated final patches. Updated DynDOLOD and Occlusion outputs.
+> Updated final patches. Updated DynDOLOD and Occlusion output.
 
 ### Exteriors
 
@@ -28,8 +28,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Other Changes
 
-* Fixed Realistic Water Two records.
-> Now water should be fine again.
+* Fixed Realistic Water Two records again.
 * Removed all MCM and high poly head instructions.
 > Everything was automated.
 * Moved position change instructions for quivers and bolts inside Gameplay Guide.
