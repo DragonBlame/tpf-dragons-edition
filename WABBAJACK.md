@@ -96,25 +96,26 @@ Some quick tips before the end:
 
 ---
 
-## 
+## Farewells
 
 And that's it! You are ready for the action.
 
-If you have any questions following these instructions or if you find a typo or any other mistake in the documentation, 
+If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the add-on) or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel. If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
-If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
-If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
+If you want to learn more about what the add-on offers and what actually many of the mods do, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
 
-I will post about updates for the add-on in _#updates_ channel.
+If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
+please use _Posts_ feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub.
+Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on the Nexus.
 
 If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#enb).
 
 > If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2).  
 
-If you want to learn more about what the add-on offers and what actually many of the mods do, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
+If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
+If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
-If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
-please use Posts feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub.
+I will post about updates for the add-on in _#updates_ channel.
 
 If you just want to chat, share your beautiful screenshots, builds or performance parameters, I am still happy to see you both on Nexus and in Discord. :)
