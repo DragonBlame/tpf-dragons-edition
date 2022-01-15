@@ -2911,48 +2911,30 @@ If you are widesreen user, download the next mod and put it right after the last
 
 ## Configurations
 
-And now we are ready to jump into the game, but don’t do it right away.
+And now we are ready to jump into the game. At first, customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to obtain them a bit later.
 
-At the beginning, don’t be scared when you see that your character’s
-hair and/or beard isn't right. Do you remember us installing High Poly
-Head and its hair (and beard) variations, right? Now we need to
-actually activate our high poly head in Racemenu and then our hair will
-look fine. Also choose a beard from High Poly Head and it will look good
-if that is needed. If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
-
-<p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
-</p>
-
-Then find the *Weapons* category and change settings to the same ones
-you see below.
-
-<p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765697-cf283484-96bd-4c45-81b7-ccb88554f523.png" /> 
-</p>
-
-After that customize your character to your heart's content.
-
-At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
+At second, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-At second, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section if that wasn't done before.
+At third, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section if that wasn't done before.
 
 Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. If you aren't a fan, just press the same button once again to turn them off.
 
-* **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
+* **Animated Shouts** - Press your right *Alt* key.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide too.
 
-If you don't care about points below, feel free to skip. I **definitely recommend** you to check at least the one about fast travelling, so you won't ask me about that in the support channels. 
-So about these things for you to know about:
+Also we have toggable HUD, so feel free to press X key to turn it on and off when you need that.
+
+Some quick tips before the end:
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **TK Dodge RE** - _Mouse 3_ (in other games _Mouse 4_ button - Skyrim's oddities) button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide).
+And some important info. Helgen Reborn note in The Bannered Mare can be taken and read only after 5 in-game days after you have finished the main quest Unbound. Be sure to remember.
 
 At last, I recommend you to go through [here](https://github.com/DragonBlame/tpf-dragons-edition/releases) to see if you didn’t miss any important updates.
 
@@ -2962,22 +2944,22 @@ At last, I recommend you to go through [here](https://github.com/DragonBlame/tpf
 
 That’s all, folks! You are set to traverse into another modded world of Skyrim.
 
-If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
+If you have any questions following the add-on's instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the add-on) or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-manual-support_ channel. If you have experienced an in-game bug during your walkthrough, 
 jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
+
+If you want to learn more about what the add-on offers and just some additional information, check [Gameplay Guide](#gameplay-guide). 
+
+If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
+please use Posts feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
+Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on Nexus.
+
+If you are interested in changing TPF’s default ENB to what I use personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
 I will post about updates for the add-on in _#updates_ channel.
-
-If you are interested in changing TPF’s default ENB to what I use
-personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
-
-If you want to learn more about what the add-on offers and just some additional information, check [Gameplay Guide](#gameplay-guide). 
-
-If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
-please use Posts feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub.
 
 If you just want to chat, share your beautiful screenshots, builds or performance parameters, I am still happy to see you both on Nexus and in Discord. :)
 
@@ -3160,12 +3142,14 @@ level 15. Don't forget to unhide the quests, when you actually would want and wo
 
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
+* **Headtracking** - Press your _V_ key to disable or enable headtracking at any time.
 * **Praying** - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
 you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099). 
+* **Dragonborn's powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
+You will be able to upgrade this power by shouting and killing dragons.
+* **Animated shouts** - Press your right _Alt_ key to disable or enable animated shouts at any time.
 * **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
 You will need to press _,_ button to use the whistle in the game.
-* **Dragonborn's Powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
-You will be able to upgrade this power by shouting and killing dragons.
 * **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
 
 About just some of interesting mods I have added:
