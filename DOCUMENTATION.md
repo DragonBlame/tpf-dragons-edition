@@ -634,9 +634,9 @@ directory*, click *OK*.
 
 **Miscellaneous files** - Apothecary - Wyrmstooth Patch
 
-### [Dragon War - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
+### [Forceful Tongue - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
 
-**Miscellaneous files** - Dragon War - Wyrmstooth Patch
+**Miscellaneous files** - Forceful Tongue - Wyrmstooth Patch
 
 ### [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748?tab=files)
 
