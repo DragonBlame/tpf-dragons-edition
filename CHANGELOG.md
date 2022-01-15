@@ -28,10 +28,11 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Other Changes
 
-* Removed all MCM ang choosing high poly head instructions.
-> Everything was automated.
 * Fixed Realistic Water Two records.
 > Now water should be fine again.
+* Removed all MCM and high poly head instructions.
+> Everything was automated.
+* Moved position change instructions for quivers and bolts inside Gameplay Guide.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
