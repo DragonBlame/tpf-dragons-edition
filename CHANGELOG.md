@@ -14,7 +14,7 @@
 
 * Removed _Vanilla Hair Replacer_.
 > I just didn't like the fact that many of hair for males felt out of place with our high poly head and also that sometimes a weird issue happened, 
-where our character's face becomes whitened for a while. So we are just going to use TPF's hair textures together with _High Poly Head_ meshes.
+where our character's face becomes whitened for a while. So we are just going to use TPF's hair textures together with _High Poly Head_'s hair meshes.
 * Changed installation instructions for _High Poly Head_.
 
 ### Miscellaneous
