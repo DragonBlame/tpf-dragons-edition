@@ -57,8 +57,6 @@ Some of the mods inside Mod Organizer are disabled by default in the add-on. Som
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
----
-
 ### In-Game Adjustments
 
 Customize your character to your heart's content (while being reasonable). 
