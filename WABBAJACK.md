@@ -57,6 +57,8 @@ Some of the mods inside Mod Organizer are disabled by default in the add-on. Som
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
+---
+
 ### In-Game Adjustments
 
 Customize your character to your heart's content (while being reasonable). 
@@ -94,9 +96,11 @@ Some quick tips before the end:
 
 ---
 
+## 
+
 And that's it! You are ready for the action.
 
-If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
+If you have any questions following these instructions or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel. If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
