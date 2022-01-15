@@ -2309,13 +2309,15 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
 
-**Main files** - TK Dodge RE-v0.46
+**Main files** - TK Dodge RE-v0.48a
+
+**FOMOD** - `Enable Sheathed Dodge, Remove Blocking Cancel Attack`.
 
 **Optional files** - Weapon Sheathed Firstperson Dodge Animations
 
 **Merge** - merge both files.
 
-**INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). I recommend one of your mouse’s buttons if you have many of them. 
+**INI** - In line 12, change _StepDodge_ to `true` and, in line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). I recommend one of your mouse’s buttons if you have many of them. 
 > Because of some kind of Skyrim's oddities, each button here is actually one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
 
 *An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
