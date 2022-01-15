@@ -39,3 +39,4 @@ where our character's face becomes whitened for a while. So we are just going to
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 * JK's Blue Palace
 * Faster HDT-SMP
+* Literally Unplayable - The Forgotten City Patch
