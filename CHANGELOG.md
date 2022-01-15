@@ -26,7 +26,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Skeleton & Animations
 
-* Added FOMOD instructions, updated installation and INI instructions for _TK Dodge RE_.
+* Added FOMOD instructions, updated installation instructions for _TK Dodge RE_.
 
 ---
 
