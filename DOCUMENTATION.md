@@ -1768,11 +1768,11 @@ will need it for AddItemMenu mod.*
 character, will be used for Dragonborn - Shouts Perk Tree, which will greatly enhance gameplay
 with shouts together with Forceful Tongue - Shouts Overhaul.*
 
-### [Face Discoloration Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42441)
+### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
 
-**Main files (v. 1.0.1.)** - Face Discoloration Fix
+**Main files** - Base Object Swapper SE
 
-*Helps us to avoid relegenerating facegen for NPCs affected by Vanilla Head Replacer mod, because apparently Bethesda is unhappy even if you just change hair of NPCs without any issues.*
+*Another plugin for easily replacing models of needed objects without making any changes to records inside plugins.*
 
 ### [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
 
@@ -1882,7 +1882,7 @@ This mod allows us to do that.*
 
 ### [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668)
 
-**Main files** - VioLens - A Killmove Mod SE 2.22a
+**Old files** - VioLens - A Killmove Mod SE 2.22a
 
 **FOMOD** - don't change anything.
 
