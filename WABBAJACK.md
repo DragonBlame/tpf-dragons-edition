@@ -94,7 +94,7 @@ Some quick tips before the end:
 
 ---
 
-## Farewells
+## Thank You
 
 And that's it! You are ready for the action.
 
