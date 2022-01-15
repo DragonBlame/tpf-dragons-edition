@@ -59,14 +59,7 @@ Finally we are ready to open and finish configuring the game. Above the load ord
 
 ### In-Game Adjustments
 
-At the beginning, don’t be scared when you see that your character’s hair and/or beard isn't right. We need to choose different head inside our character creation menu, which is much more detailed than the vanilla one you see at the moment, and then our hair will look fine. Also choose a beard from a mod called High Poly Head and it will look good too.
-
-<p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
-</p>
-
-Then find the *Weapons* category and change settings to the same ones
-you see below.
+At the beginning, find the *Weapons* category inside our character creation menu and change settings to the same ones you see below.
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765697-cf283484-96bd-4c45-81b7-ccb88554f523.png" /> 
