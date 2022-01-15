@@ -59,13 +59,8 @@ Finally we are ready to open and finish configuring the game. Above the load ord
 
 ### In-Game Adjustments
 
-At the beginning, find the *Weapons* category inside our character creation menu and change settings to the same ones you see below.
-
-<p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765697-cf283484-96bd-4c45-81b7-ccb88554f523.png" /> 
-</p>
-
-After that customize your character to your heart's content. If you want to use hair with physics for men, you will find instructions on how to obtain them a bit later.
+Customize your character to your heart's content (while being reasonable). 
+If you want to use hair with physics for men, you will find instructions on how to obtain them a bit later.
 
 ---
 
@@ -78,19 +73,22 @@ left side of the screen disappear).
 Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
-* **Animated Shouts** - Press your right *Alt* key.
 * **Look What You See** - Press your *V* key.
+* **Animated Shouts** - Press your right *Alt* key.
+> You will be able to see this one in action only after getting your first shout, so be sure to remember about this one. Have left a tip on this one in my gameplay guide too.
 
 Also we have toggable HUD, so feel free to press *X* key to turn it on and off when you need that.
 
 ---
 
-If you don't care about points below, feel free to skip. I **definitely recommend** you to check at least the one about fast travelling, so you won't ask me about that in the support channels. So about these things for you to know about:
+Some quick tips before the end:
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **TK Dodge RE** - _Mouse 3_ button is chosen by default for dodging (in other games _Mouse 4_ button - Skyrim's oddities). Feel free to change that by using instructions [here](DOCUMENTATION.md#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells, another mean, which is tied to a quest (don't want to spoil that) etc. If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+
+---
 
 And just wanted to add some **important** info before the end. _Helgen Reborn_ note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
