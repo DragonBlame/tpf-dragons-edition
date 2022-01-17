@@ -38,6 +38,7 @@ where our character's face becomes whitened for a while. So we are just going to
 ### Other Changes
 
 * Fixed Realistic Water Two records again.
+* Made some other little fixes as usual.
 * Removed all MCM instructions.
 > Except the ones in the gameplay guide, of course. Everything else was automated.
 * Removed all scars, beards and brows related to vanilla head.
