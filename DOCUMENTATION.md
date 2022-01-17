@@ -1892,7 +1892,7 @@ This mod allows us to do that.*
 
 ### [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668)
 
-**Old files** - VioLens - A Killmove Mod SE 2.22a
+**Main files** - VioLens - A Killmove Mod SE 2.30
 
 **FOMOD** - don't change anything.
 
