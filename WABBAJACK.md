@@ -61,13 +61,13 @@ Finally we are ready to open and finish configuring the game. Above the load ord
 And now we are ready to jump into the game.
 
 At the beginning, we need to activate our character's high poly head (much more detailed head than the vanilla one, which you can also shape in much more ways) 
-in character creation menu and then our hair, brows (and/or scars, beard) will look excellent on us. 
+in character creation menu and then our hair, brows (and/or scars, beard) will look excellent on us. For beast races, high poly head will be the second one.
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
 </p>
 
-Then Customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
+Then customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
 
 ---
 
@@ -121,3 +121,5 @@ If you want to help even more, you can donate to me (via PayPal) by pressing [he
 I will post about updates for the add-on in _#updates_ channel.
 
 If you just want to chat, share your beautiful screenshots, builds or performance parameters, I am still happy to see you both on Nexus and in Discord. :)
+
+---
