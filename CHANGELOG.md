@@ -34,7 +34,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 * Fixed Realistic Water Two records again.
 * Removed all MCM instructions.
-> Everything was automated.
+> Except the ones in the gameplay guide, of course. Everything else was automated.
 * Removed all scars, beards and brows related to vanilla head.
 > To unclutter the character creation menu.
 * Moved position change instructions for quivers and bolts inside Gameplay Guide.
