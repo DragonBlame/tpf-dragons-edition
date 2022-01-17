@@ -33,8 +33,10 @@ where our character's face becomes whitened for a while. So we are just going to
 ### Other Changes
 
 * Fixed Realistic Water Two records again.
-* Removed all MCM and high poly head instructions.
+* Removed all MCM instructions.
 > Everything was automated.
+* Removed all scars, beards and brows related to vanilla head.
+> To unclutter the character creation menu.
 * Moved position change instructions for quivers and bolts inside Gameplay Guide.
 
 ### Updated Add-on's Mods for Wabbajack Users
