@@ -262,6 +262,10 @@ Ten Bloods, Interesting NPCs, Mysticism - A Magic Overhaul, The Tools of
 Kagrenac, Viewable Faction Ranks, WACCF - Armor and Clothing Extension,
 Weapons Armor Clothing and Clutter Fixes 2.0+`.
 
+### [Obscure's College of Winterhold NPC Stuck in Staircase Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53713?tab=files)
+
+**Main files** - Obscure's College of Winterhold NPC Stuck in Staircase Fix
+
 ### [Opulent Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/931?tab=files)
 
 **Main files** - Opulent Thieves Guild
@@ -1040,6 +1044,12 @@ worry about the mod overwriting anything we don't want to.*
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
+
+### [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756)
+
+**Main files** - Cathedral 3D Mountain Flowers - Base Object Swapper
+
+*A miracle. Automatically distributes the new model of mountain flowers to each and every place without even touching any worldspace records.*
 
 ### [A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/50265)
 
@@ -2024,6 +2034,12 @@ etc.*
 ### [Diverse Skyrim - Battle of Whiterun Fix](https://www.nexusmods.com/skyrimspecialedition/mods/47939)
 
 **Main files** - Diverse Skyrim Battle of Whiterun Fix
+
+### [Improved Loading Screen Colors](https://www.nexusmods.com/skyrimspecialedition/mods/61712)
+
+**Main files** - Improved Loading Screen Colors
+
+*Removes Skyrim's visual altering effects from loading screens, so that those appear in their original colors.*
 
 ### [Starlit Lakes Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/57579)
 
