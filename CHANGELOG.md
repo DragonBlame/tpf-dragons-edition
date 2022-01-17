@@ -6,6 +6,10 @@
 
 > Updated final patches. Updated Nemesis and DynDOLOD and Occlusion outputs.
 
+### Improved Vanilla Content
+
+* Added _Obscure's College of Winterhold NPC Stuck in Staircase Fix_.
+
 ### Exteriors
 
 * Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
@@ -22,6 +26,7 @@ where our character's face becomes whitened for a while. So we are just going to
 * Removed _Face Discoloration Fix_.
 > Not needed anymore without _Vanilla Hair Replacer_.
 * Added _Base Object Swapper_.
+* Added _Improved Loading Screen Colors_.
 * Changed installation instructions for _VioLens - A Killmove Mod_ (undocumented 1.14. addition).
 
 ### Skeleton & Animations
