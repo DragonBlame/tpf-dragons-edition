@@ -121,5 +121,3 @@ If you want to help even more, you can donate to me (via PayPal) by pressing [he
 I will post about updates for the add-on in _#updates_ channel.
 
 If you just want to chat, share your beautiful screenshots, builds or performance parameters, I am still happy to see you both on Nexus and in Discord. :)
-
----
