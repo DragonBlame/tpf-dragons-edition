@@ -27,7 +27,6 @@ where our character's face becomes whitened for a while. So we are just going to
 > Not needed anymore without _Vanilla Hair Replacer_.
 * Added _Base Object Swapper_.
 * Added _Improved Loading Screen Colors_.
-* Changed installation instructions for _VioLens - A Killmove Mod_ (undocumented 1.14. addition).
 
 ### Skeleton & Animations
 
@@ -52,5 +51,7 @@ where our character's face becomes whitened for a while. So we are just going to
 * JK's Blue Palace
 * BeastHHBB
 * Faster HDT-SMP
+* VioLens - A Killmove Mod
+* VioLens - A Killmove Mod - Settings Loader
 * TK Dodge RE
 * Literally Unplayable - The Forgotten City Patch
