@@ -52,15 +52,22 @@ Some of the mods inside Mod Organizer are disabled by default in the add-on. Som
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better (but if you somehow don't like it, feel free to enable the mod).
   - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
-
 > Do not touch any other disabled mods.
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
 ### In-Game Adjustments
 
-Customize your character to your heart's content (while being reasonable). 
-If you want to use hair with physics for men, you will find instructions on how to obtain them a bit later.
+And now we are ready to jump into the game.
+
+At the beginning, we need to activate our character's high poly head (much more detailed head than the vanilla one, which you can also shape in much more ways) 
+in character creation menu and then our hair, brows (and/or scars, beard) will look excellent on us. 
+
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
+</p>
+
+Then Customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
 
 ---
 
@@ -68,18 +75,14 @@ When Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
----
-
 Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
 * **Look What You See** - Press your *V* key.
 * **Animated Shouts** - Press your right *Alt* key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide too.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide too if you forget about it.
 
 Also we have toggable HUD, so feel free to press *X* key to turn it on and off when you need that.
-
----
 
 Some quick tips before the end:
 
