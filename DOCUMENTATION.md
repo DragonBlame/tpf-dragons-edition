@@ -2928,7 +2928,14 @@ If you are widesreen user, download the next mod and put it right after the last
 
 ## Configurations
 
-And now we are ready to jump into the game. At first, customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to obtain them a bit later.
+At the beginning, we need to activate our character's high poly head in character creation menu and then our hair, brows (and/or scars, beard) will look excellent on us. 
+For beast races, high poly head will be the second one.
+
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
+</p>
+
+Then customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
 
 At second, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
