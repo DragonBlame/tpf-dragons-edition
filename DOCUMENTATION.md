@@ -876,6 +876,8 @@ warriors.*
 
 **Update files** - Interesting NPCs SE - 4.3.6 to 4.4 Hotfix
 
+### [3DNPC BSA Replacer](https://drive.google.com/file/d/1hxuTbs-8sm1pnErsbDS_2c41Sy0S1iMC/)
+
 ### [3DNPC - Art and Sacrifice Aggression Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/45496?tab=files)
 
 **Main files** - 3DNPC Art and Sacrifice Script Fix
