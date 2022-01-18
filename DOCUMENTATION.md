@@ -1857,6 +1857,9 @@ install later, will greatly help us in using this mod’s capabilities.*
 
 **Main files** - End Times SE
 
+**Unpack BSA** - Find _Archives_ option at the top right side of your MO2, find _End Times_ mod inside, right click on it (on the name in white), 
+select _Extract..._, choose the mod's folder and press _Select Folder_. Refresh your MO2 by pressing _F5_.
+
 *Now try to do everything else, but not the main quest. I dare you. If
 you don’t listen then your game will be over. It was a joke by the way. More about this later.*
 
