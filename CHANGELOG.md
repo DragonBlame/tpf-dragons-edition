@@ -31,6 +31,7 @@ where our character's face becomes whitened for a while. So we are just going to
 > Not needed anymore without _Vanilla Hair Replacer_.
 * Added _Base Object Swapper_.
 * Added _Improved Loading Screen Colors_.
+* Added additional instructions for _End Times_.
 
 ### Skeleton & Animations
 
