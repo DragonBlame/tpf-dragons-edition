@@ -10,6 +10,10 @@
 
 * Added _Obscure's College of Winterhold NPC Stuck in Staircase Fix_.
 
+### New Content
+
+* Changed installation instructions to _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
+
 ### Exteriors
 
 * Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
