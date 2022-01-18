@@ -969,7 +969,7 @@ files.
 
 ### [Kaidan 2 Follower Voice Fixes and Additional Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/59349?tab=files)
 
-**Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 1.3
+**Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 2.2
 
 ### [Shirley - A Skyrim Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45956?tab=files)
 
