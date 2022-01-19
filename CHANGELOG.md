@@ -2,7 +2,7 @@
 
 # Changelog
 
-## Version 1.15.
+## Version 2.0.
 
 > Updated final patches. Updated Nemesis and DynDOLOD and Occlusion outputs.
 
@@ -49,6 +49,9 @@ where our character's face becomes whitened for a while. So we are just going to
 * Removed all scars, beards and brows related to vanilla head.
 > To unclutter the character creation menu.
 * Moved position change instructions for quivers and bolts inside Gameplay Guide.
+
+### Wabbajack
+* Obviously the documentation for Wabbajack users was updated for the latest changes.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
