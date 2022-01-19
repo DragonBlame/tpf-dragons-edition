@@ -75,7 +75,7 @@ If you aren't a fan, just press the same button once again to turn them off.
 
 * **Look What You See** - Press your *V* key.
 * **Animated Shouts** - Press your right *Alt* key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide too if you forget about it.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the add-on too if you forget about it.
 
 Also we have toggable HUD, so feel free to press *X* key to turn it on and off when you need that.
 
