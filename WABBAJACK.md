@@ -22,21 +22,12 @@ If you would like to learn more general information about the add-on, be sure to
 
 ---
 
-## Game Setup
-
-Phoenix also wrote a very detailed instructions on [how to set up your Skyrim Special Edition correctly for any Wabbajack list](https://thephoenixflavour.com/wj/wj-sse/game-setup/) and also for [installing those lists through Wabbajack](https://thephoenixflavour.com/wj/wj-sse/list-installation/). Follow those instructions carefully until you reach the _Choosing a list_ section of the list installation instructions. Then follow the instructions written below.
-
----
-
 ## Installation
 
-For now The Phoenix Flavour - Dragon's Edition isn't listed in the Wabbajack Gallery and needs to be installed manually. Download `The Phoenix Flavour - Dragon's Edition.wabbajack` file from [Google Drive](https://drive.google.com/drive/folders/1cfY3C4EzMxlPaIDT3-hPlRZY4ni6lOcG?usp=sharing) and then continue following the list installation instructions, but instead of choosing _Browse Modlists_, click _Install from Disk_ and select _The Phoenix Flavour - Dragon's Edition.wabbajack_ from a place, where you have saved it. Then continue following the Phoenix's instructions until finishing going through _Troubleshooting_ section.
-
----
+Phoenix also wrote a very detailed instructions on [how to set up your Skyrim Special Edition correctly for any Wabbajack list](https://thephoenixflavour.com/wj/wj-sse/game-setup/) and also for [installing those lists through Wabbajack](https://thephoenixflavour.com/wj/wj-sse/list-installation/). 
+Follow those instructions carefully (while obviously choosing _The Phoenix Flavour - Dragon's Edition_ as the list you want to install) until you reach the _Troubleshooting_ section of the list installation instructions.
 
 ## Configurations
-
-### Preparations
 
 By default your game is capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that either.
 
@@ -56,7 +47,7 @@ Some of the mods inside Mod Organizer are disabled by default in the add-on. Som
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
-### In-Game Adjustments
+## In-Game Adjustments
 
 And now we are ready to jump into the game.
 
