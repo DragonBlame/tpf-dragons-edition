@@ -107,8 +107,8 @@ please use _Posts_ feature on Nexus or use _#tpf-de-feedback_. Suggestions on ho
 Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on Nexus.
 
 If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#enb).
-> If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2). Then overwrite add-on's _enbseries_ folder, _enblocal.ini_ and _enbseries.ini_ files with the ones from your
-desired ENB. Also just want to warn you that your key bindings are going to be different that the ones, which were in the add-on at the beginning. Feel free to use the instructions to change them back. 
+> If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2). Then delete add-on's _enbseries_ folder, _enblocal.ini_ and _enbseries.ini_ files and 
+replace with the ones from your desired ENB. Also just want to warn you that your key bindings are going to be different that the ones, which were in the add-on at the beginning. Feel free to use the instructions mentioned before to change them back. 
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
