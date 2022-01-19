@@ -2952,14 +2952,14 @@ Now you can turn on the following mods to decide if you would want to use them. 
 
 * **Look What You See** - Press your *V* key.
 * **Animated Shouts** - Press your right *Alt* key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide too.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the add-on too.
 
 Some quick tips before the end:
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **TK Dodge RE** - _Mouse 3_ (in other games _Mouse 4_ button - Skyrim's oddities) button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
 **And some important info.** Helgen Reborn note in The Bannered Mare can be taken and read only after 5 in-game days after you have finished the main quest Unbound. 
 Be sure to remember.
@@ -3084,8 +3084,7 @@ Then open `enbseries.ini` file and change the following lines under [RAIN] separ
 
 Save changes to the file.
 
-Now open `enblocal.ini` file in the folder, change input commands to be as
-the some ones as in TPF:
+Now open `enblocal.ini` file in the folder, change input commands to be as the same ones as in TPF:
 
 -   KeyCombination=0
 -   KeyUseEffect=121
