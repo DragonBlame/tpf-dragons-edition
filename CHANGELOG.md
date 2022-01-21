@@ -57,7 +57,10 @@ where our character's face becomes whitened for a while. So we are just going to
 
 * DynDOLOD Resources
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* Wuth Rein
 * JK's Blue Palace
+* JK's Understone Keep
+* JK's Haelga's Bunkhouse
 * BeastHHBB
 * Faster HDT-SMP
 * VioLens - A Killmove Mod
