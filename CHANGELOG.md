@@ -6,6 +6,10 @@
 
 > Updated final patches. Updated Nemesis and DynDOLOD and Occlusion outputs.
 
+### Interface
+
+* Removed _Weather of World_.
+
 ### Improved Vanilla Content
 
 * Added _Obscure's College of Winterhold NPC Stuck in Staircase Fix_.
