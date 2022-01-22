@@ -158,12 +158,6 @@ active effects by their expiration time and by making equipped items grouped rig
 *It makes you aware of known weapon and armor enchantments, 
 books you have read and it tells you about which kind of skill you can level by reading book.*
 
-### [Weather of World](https://www.nexusmods.com/skyrimspecialedition/mods/58782)
-
-**Main files** - Weather of World
-
-*Enhances view of all maps by overhauling weather and lightning inside those.*
-
 ### [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919)
 
 **Main files** - Unique Map Weather Framework
