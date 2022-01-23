@@ -43,7 +43,7 @@ where our character's face becomes whitened for a while. So we are just going to
 * Removed _Leviathan Animations - Two-Handed Normal Attacks_ and _Vanargand Animations - One Handed Mid Stance_.
 > In my opinion, animations look much more better without these two.
 * Added FOMOD instructions, updated installation instructions for _TK Dodge RE_.
-* Added FOMOD instructions, updated installation instructions for _Pretty One-Handed Animations Overhaul_.
+* Updated FOMOD and installation instructions for _Pretty One-Handed Animations Overhaul_.
 
 ---
 
