@@ -3121,9 +3121,9 @@ That is a matter of preference, but I feel that this position is actually more c
 when we can look at bow and quiver not being as close to each other. After setting up the settings, press *R* and *Enter* and you are done.
 
 At third, later into the game, if you are planning to use shields or two-handed weapons, I again recommend you to go into the character creation menu and 
-make corrections to your gear's position using settings you can again see below. **Don't** change any other settings 
-(only the same settings, but for two-handed weapons can be changed like it was written before).  
-Also don’t overdo these or animations will look funky. And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. 
+make corrections to your gear's position using settings you can again see below. Feel free to configure any other gear while using **only** these settings.
+**Don't** change any other settings. Also don’t overdo these or animations will look funky. 
+And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. 
 After setting up the settings, press *R* and *Enter* and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
