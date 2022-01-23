@@ -41,9 +41,9 @@ where our character's face becomes whitened for a while. So we are just going to
 ### Skeleton & Animations
 
 * Removed _Leviathan Animations - Two-Handed Normal Attacks_, _Vanargand Animations - One Handed Mid Stance_ and _Vanargand Animations - One Handed Normal Attacks_.
-* Added FOMOD instructions, updated installation instructions for _TK Dodge RE_.
+* Updated installation instructions, added FOMOD instructions for _TK Dodge RE_.
 * Changed FOMOD instructions for _Pretty Combat Animations_.
-* Updated FOMOD and installation instructions for _Pretty One-Handed Animations Overhaul_.
+* Updated installation and FOMOD instructions for _Pretty One-Handed Animations Overhaul_.
 > After playing for some time, I have realized that normal attacks were looking like we are swinging not a weapon, but definitely something else. And with the new update of _Pretty One-Handed Animations Overhaul_ I don't feel we need different animations for being idle, running and walking when using one handed weapons.
 
 ---
