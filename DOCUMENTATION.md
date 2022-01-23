@@ -1854,7 +1854,7 @@ install later, will greatly help us in using this mod’s capabilities.*
 **Main files** - End Times SE
 
 **Unpack BSA** - Find _Archives_ option at the top right side of your MO2, find _End Times_ mod inside, right click on it (on the name in white), 
-select _Extract..._, choose the mod's folder and press _Select Folder_. Refresh your MO2 by pressing _F5_.
+select _Extract..._, choose the mod's folder and press _Select Folder_. Refresh your MO2 by pressing _F5_. Then delete .bsa file inside the mod.
 
 *Now try to do everything else, but not the main quest. I dare you. If
 you don’t listen then your game will be over. It was a joke by the way. More about this later.*
@@ -2203,10 +2203,9 @@ times, `2hm Block, 2hm Sprint`.
 
 ### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
-**Main files** - PCA-1hm Overhaul 1.13c SSE
+**Main files** - wpm style.renew(Default) 1.23 SSE
 
-**FOMOD** - `Guardian, choose _Skip_ option 4 times, 1hm Block, 1hm
-Sprint, Origin Dw Sprint_Type A`.
+**FOMOD** - `Shield Block Style 02, Back Shield`.
 
 ### [Leviathan Animations - Two-Handed High Stance](https://www.nexusmods.com/skyrimspecialedition/mods/47092)
 
