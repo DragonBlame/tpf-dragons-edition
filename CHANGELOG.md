@@ -4,7 +4,7 @@
 
 ## Version 2.0.
 
-> Updated final patches. Updated Nemesis and DynDOLOD and Occlusion outputs.
+> Updated final patches. Updated Nemesis, Texgen and DynDOLOD and Occlusion outputs.
 
 ### Interface
 
@@ -21,6 +21,8 @@
 
 ### Exteriors
 
+* Added _Treerific_.
+> Just wouch.
 * Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
 
 ### Appearance
