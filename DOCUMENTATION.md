@@ -2198,34 +2198,21 @@ a piece of living rock.*
 ### [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
 **Main files** - Pretty Combat Animations 1.38
 
-**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer` two
-times, `2hm Block, 2hm Sprint`.
+**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Vanilla` two times after skipping extra and sneak options for bows.
 
 ### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
 **Main files** - wpm style.renew(Default) 1.23 SSE
 
-**FOMOD** - `Shield Block Style 02, Back Shield`.
+**FOMOD** - `Shield Block Style 01, Back Shield`.
 
 ### [Leviathan Animations - Two-Handed High Stance](https://www.nexusmods.com/skyrimspecialedition/mods/47092)
 
 **Main files** - Leviathan Animations - Two-Handed High Stance SE
 
-### [Leviathan Animations - Two-Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/48550)
-
-**Main files** - Leviathan Animations - Two-Handed Normal Attacks For High Stance
-
 ### [Leviathan Animations - Two-Handed Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/50545)
 
 **Main files** - Leviathan Animations - Two-Handed Power Attacks For High Stance
-
-### [Vanargand Animations - One Handed Mid Stance](https://www.nexusmods.com/skyrimspecialedition/mods/57544)
-
-**Main files** - Vanargand Animations - One handed Mid Stance
-
-### [Vanargand Animations - One Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58326)
-
-**Main files** - Vanargand Animations - One handed Normal Attacks
 
 ### [Vanargand Animations - One Handed Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58997)
 
