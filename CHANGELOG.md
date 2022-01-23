@@ -40,9 +40,9 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Skeleton & Animations
 
-* Removed _Leviathan Animations - Two-Handed Normal Attacks_ and _Vanargand Animations - One Handed Mid Stance_.
-> In my opinion, animations look much more better without these two.
+* Removed _Leviathan Animations - Two-Handed Normal Attacks_, _Vanargand Animations - One Handed Mid Stance_ and _Vanargand Animations - One Handed Normal Attacks_.
 * Added FOMOD instructions, updated installation instructions for _TK Dodge RE_.
+* Changed FOMOD instructions for _Pretty Combat Animations_.
 * Updated FOMOD and installation instructions for _Pretty One-Handed Animations Overhaul_.
 
 ---
