@@ -21,9 +21,9 @@
 
 ### Exteriors
 
+* Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
 * Added _Treerific_.
 > Just wouch.
-* Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
 
 ### Appearance
 
@@ -42,11 +42,11 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Skeleton & Animations
 
-* Added _XP32 Maximum Skeleton Special Extended - Settings Loader_.
 * Removed _Leviathan Animations - Two-Handed Normal Attacks_, _Vanargand Animations - One Handed Mid Stance_ and _Vanargand Animations - One Handed Normal Attacks_.
-* Updated installation instructions, added FOMOD instructions for _TK Dodge RE_.
+* Added _XP32 Maximum Skeleton Special Extended - Settings Loader_.
 * Changed FOMOD instructions for _Pretty Combat Animations_.
 * Updated installation and FOMOD instructions for _Pretty One-Handed Animations Overhaul_.
+* Updated installation instructions, added FOMOD instructions for _TK Dodge RE_.
 > After playing for some time, I have realized that normal attacks were looking like we are swinging not a weapon, but definitely something else. And with the new update of _Pretty One-Handed Animations Overhaul_ I don't feel we need different animations for being idle, running and walking when using one handed weapons.
 
 ---
