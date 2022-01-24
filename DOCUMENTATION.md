@@ -3122,27 +3122,17 @@ At first, some juicy tips for peeps, who went right here after mingling with the
 there will be a neat spell book waiting for you somewhere around Riverwood.
 * And another one - be sure to travel around Falkreath. Something interesting might happen.
 
-At second, I recommend you to to go into the console with _~_ key, 
-type `showracemenu`, press *Enter* and then find the *Weapons* category to change settings to the same ones you see below.
-
-![image](https://user-images.githubusercontent.com/37147270/149631104-159a8a1d-a78c-4720-a240-6748ec9babf2.png)
-
-That is a matter of preference, but I feel that this position is actually more correct for archery as a whole and looks much more better, 
-when we can look at bow and quiver not being as close to each other. After setting up the settings, press *R* and *Enter* and you are done.
-
-At third, later into the game, if you are planning to use shields or two-handed weapons, I again recommend you to go into the character creation menu and 
-make corrections to your gear's position using settings you can again see below. Feel free to configure any other gear while using **only** these settings.
-**Don't** change any other settings. Also don’t overdo these or animations will look funky. 
-And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. 
-After setting up the settings, press *R* and *Enter* and you are done.
+At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with _~_ key, 
+type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
+Feel free to configure any other gear while using **only** these settings. **Don't** change any other settings. Also don’t overdo these or animations will look funky. 
+And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press *R* and *Enter* and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
 
 At third, look at some of these additional MCM configurations if you wish:
 
-* **Cathedral Weather** - Feel free to enable _Seasonal Perpective_ option. It makes summers appear more warm, while making winters look more cold.
 * **Cond. Expressions** - Disable out of stamina, in pain,
-headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
+headache/diseased expressions. It can look odd if our character is constantly sad and in pain.
 * **Hide Your Quests** - I recommend to hide right away all quests you get
 right at the beginning except the main one (Unbound), because you mustn't
 start Helgen Reborn quest right at the beginning (read further to learn why) and because The Sinister Seven quest isn’t the one
