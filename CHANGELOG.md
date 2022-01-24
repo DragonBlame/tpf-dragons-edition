@@ -53,6 +53,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Other Changes
 
+* Configured _Cathedral Weathers_ mod to make nights a bit brighter and to make winter appear more colder, while summer - warmer.
 * Fixed Realistic Water Two records again.
 * Made some other little fixes as usual.
 * Removed all MCM instructions.
