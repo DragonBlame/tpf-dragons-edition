@@ -59,7 +59,8 @@ where our character's face becomes whitened for a while. So we are just going to
 > Even some from the gameplay guide. Everything was automated.
 * Removed all scars, beards and brows related to vanilla head.
 > To unclutter the character creation menu.
-* Moved position change instructions for quivers and bolts inside Gameplay Guide.
+* Removed position change instructions for quivers and bolts.
+> Was automated for all NPCs and player character.
 
 ### Wabbajack
 
