@@ -2162,6 +2162,10 @@ Change its colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [XP32 Maximum Skeleton Special Extended - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56146)
+
+**Main files** - XP32 Maximum Skeleton Special Extended - Settings Loader
+
 ### [Ice Skating Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55417)
 
 **Main files** - EVE - Ice skating fixed for real - No more attack skating movement
