@@ -42,6 +42,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Skeleton & Animations
 
+* Added _XP32 Maximum Skeleton Special Extended - Settings Loader_.
 * Removed _Leviathan Animations - Two-Handed Normal Attacks_, _Vanargand Animations - One Handed Mid Stance_ and _Vanargand Animations - One Handed Normal Attacks_.
 * Updated installation instructions, added FOMOD instructions for _TK Dodge RE_.
 * Changed FOMOD instructions for _Pretty Combat Animations_.
@@ -67,6 +68,7 @@ where our character's face becomes whitened for a while. So we are just going to
 ### Updated Add-on's Mods for Wabbajack Users
 
 * DynDOLOD Resources
+* Serana Dialogue Add-On
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 * Wuth Rein
 * JK's Blue Palace
