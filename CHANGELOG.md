@@ -71,6 +71,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 * DynDOLOD Resources
 * Serana Dialogue Add-On
+* Undeath - Classical Lichdom
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 * Wuth Rein
 * JK's Blue Palace
