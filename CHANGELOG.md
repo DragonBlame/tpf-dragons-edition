@@ -39,6 +39,7 @@ where our character's face becomes whitened for a while. So we are just going to
 * Added _Base Object Swapper_.
 * Added _Improved Loading Screen Colors_.
 * Added additional instructions for _End Times_.
+* Updated FOMOD instructions for _Faster HDT-SMP_.
 
 ### Skeleton & Animations
 
