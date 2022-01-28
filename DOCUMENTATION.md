@@ -1203,6 +1203,10 @@ Lanterns of Skyrim II`.
 
 **Main files** - Ancient Trees of Skyrim 5.1.1 SE
 
+### [Fixed Mesh Lighting - Ancient Trees of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
+
+**Optional files** - Fixed Mesh Lighting - Ancient Trees of Skyrim
+
 ### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718)
 
 **Main files** - Rorikstead Basalt Cliffs
