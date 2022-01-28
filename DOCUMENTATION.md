@@ -1790,7 +1790,7 @@ with shouts together with Forceful Tongue - Shouts Overhaul.*
 
 **Main files** - Faster HDT-SMP
 
-**FOMOD** - `SSE, NOT CUDA (recommended), No Avx - Day (recommended)`.
+**FOMOD** - don't change anything.
 
 *SKSE plugin, which will allow us to use physics for our PC, like in our
 scenario, with moving hair. Bonk people, who thought about something
