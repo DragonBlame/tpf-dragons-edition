@@ -1788,6 +1788,16 @@ will need it for AddItemMenu mod.*
 character, will be used for Dragonborn - Shouts Perk Tree, which will greatly enhance gameplay
 with shouts together with Forceful Tongue - Shouts Overhaul.*
 
+### [Custom Skills Menu](https://www.nexusmods.com/skyrimspecialedition/mods/62423)
+
+**Main files** - Custom Skill Menu
+
+**Main files** - Custom Skill Menu Basic Icon Pack
+
+**Merge** - merge both files.
+
+*Frees us from need to bind more buttons to get to these mentioned before custom skill trees and makes them more accessible for controller players.*
+
 ### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
 
 **Main files** - Base Object Swapper SE
