@@ -202,7 +202,12 @@ not to think about it every single time you transform into werewolf.*
 
 The first head of a two-headed dragon of this add-on comes too early (well, for me it came as the prelast one, but you got the idea). 
 If we are completely honest, many of Skyrim's vanilla content has pretty much room for improvement or overhaul and that is why we are now here. 
-Some of the mods here have commentaries about why I have chosen to add them.
+
+Some of the mods in this section have commentaries about why I have chosen to add them, which can be counted as spoilers. You won't see descriptions of mods 
+(if you don’t count the gameplay guide at the end) in both this and the next section as I don’t want to spoil the fun 
+(and because I am too lazy at this point and just want to play a bit). And why should I?
+Some of these are the most popular and loved quest mods in Nexus Skyrim Special Edition’s page, so they talk for themselves.
+I hope you are hyped the same way as I was (and still am).
 
 Create a separator and name it `IMRPOVED VANILLA CONTENT` and place it directly below
 the *GRAPHICS BASELINE* separator (and its mods). Change its colour, so that it
@@ -402,10 +407,6 @@ younger.*
 ## New Content
 
 The second head of the two-headed dragon of the add-on. The point of this section is to add content to our beloved Skyrim to make the game even more interesting. 
-I won’t write any descriptions of mods (if you don’t count the gameplay guide at the end) as I don’t want to spoil the fun 
-(and because I am too lazy at this point and just want to play a bit). And why should I?
-Some of these are the most popular and loved quest mods in Nexus Skyrim Special Edition’s page, so they talk for themselves.
-I hope you are hyped the same way as I was (and still am).
 
 Create a separator and name it `NEW CONTENT` and place it directly below
 the *IMPROVED VANILLA CONTENT* separator (and its mods). Change its colour, so that it
@@ -421,6 +422,10 @@ separator in the same order.
 **Main files** - Beyond Skyrim - Bruma
 
 **Main files** - Beyond Skyrim DLC Integration Patch
+
+**Update files** - Beyond Skyrim - Bruma Hotfix 1.5.3
+
+**Delete** - remove _ayleidwelleffect.nif_ file inside hotfix's _\meshes\bscyrodiil\effects_ folder.  
 
 ### [Beyond Skyrim - Bruma Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/34413?tab=files)
 
