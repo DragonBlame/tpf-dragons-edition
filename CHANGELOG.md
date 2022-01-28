@@ -35,6 +35,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Miscellaneous
 
+* Added _Custom Skills Menu_.
 * Removed _Face Discoloration Fix_.
 > Not needed anymore without _Vanilla Hair Replacer_.
 * Added _Base Object Swapper_.
