@@ -1788,7 +1788,7 @@ with shouts together with Forceful Tongue - Shouts Overhaul.*
 
 ### [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
 
-**Main files** - Faster HDT-SMP
+**Main files (the latest v.)** - Faster HDT-SMP
 
 **FOMOD** - don't change anything.
 
