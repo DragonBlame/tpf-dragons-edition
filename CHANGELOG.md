@@ -17,7 +17,8 @@
 ### New Content
 
 * Added _3DNPC BSA Replacer_.
-* Readded _Beyond Skyrim Bruma - Hotfix_.
+* Readded _Beyond Skyrim Bruma - Hotfix_, added additional instructions for it.
+> It was stupid to remove it whole just because of one broken mesh. I guess I thought maybe something else is broken there too, which I hadn't known about yet.
 * Changed installation instructions to _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
 
 ### Exteriors
