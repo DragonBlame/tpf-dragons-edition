@@ -17,6 +17,7 @@
 ### New Content
 
 * Added _3DNPC BSA Replacer_.
+* Readded _Beyond Skyrim Bruma - Hotfix_.
 * Changed installation instructions to _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
 
 ### Exteriors
