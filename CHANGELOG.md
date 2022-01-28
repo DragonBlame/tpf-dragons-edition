@@ -22,8 +22,7 @@
 ### Exteriors
 
 * Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
-* Added _Treerific_.
-> Just wouch.
+* Added _Fixed Mesh Lighting - Ancient Trees of Skyrim Patch_.
 
 ### Appearance
 
