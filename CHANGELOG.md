@@ -35,6 +35,10 @@
 where our character's face becomes whitened for a while. So we are just going to use TPF's hair textures together with _High Poly Head_'s hair meshes.
 * Changed installation instructions for _High Poly Head_.
 
+### Gameplay Overhauls
+
+* Added _Honed Metal_, _Honed Metal Revoiced_ and _Honed Metal - Additional Materials_.
+
 ### Miscellaneous
 
 * Added _Custom Skills Menu_.
