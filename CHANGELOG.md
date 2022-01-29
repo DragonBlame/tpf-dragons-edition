@@ -54,6 +54,11 @@ where our character's face becomes whitened for a while. So we are just going to
 * Updated installation instructions, added FOMOD instructions for _TK Dodge RE_.
 > After playing for some time, I have realized that normal attacks were looking like we are swinging not a weapon, but definitely something else. And with the new update of _Pretty One-Handed Animations Overhaul_ I don't feel we need different animations for being idle, running and walking when using one handed weapons.
 
+### NPC Overhauls
+
+* Added _Northbourne NPCs of Hjaalmarch_.
+* Updated installation instructions for _USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium_.
+
 ---
 
 ### Other Changes
