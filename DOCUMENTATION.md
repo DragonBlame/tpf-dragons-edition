@@ -2598,6 +2598,10 @@ which slightly outshine blocky vanilla faces.*
 **Hide facegen files** - Hide `0001a694, 0001a692, 0001a6d7, 0001a6d5,
 000a2c8e, 00013478` files.  
 
+### [Northbourne NPCs of Hjaalmarch](https://www.nexusmods.com/skyrimspecialedition/mods/62213)
+
+**Main files** - Northbourne NPCs of Hjaalmarch
+
 ### [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
 
 **Main files** - Kalilies NPCs
@@ -2680,6 +2684,9 @@ Patch
 Overhaul Patch
 
 **Main files** - USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul
+Patch
+
+**Main files** - USSEP - Northbourne NPCs of Hjaalmarch - AI Overhaul
 Patch
 
 ### [USSEP - The Ordinary Women - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41371)
