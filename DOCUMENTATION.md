@@ -323,6 +323,10 @@ kill our improved vanilla or new followers. Win-win situation for me.*
 
 **Main files** - Immersive Fort Dawnguard
 
+### [Immersive Fort Dawnguard and Landscape Fixes for Grass Mods Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45526?tab=files)
+
+**Main files** - Immersive fort dawnguard landscape fixes for grass mods patch
+
 ### [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143?tab=files)
 
 **Main files** - Gravesingers
