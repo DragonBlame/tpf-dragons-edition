@@ -918,10 +918,6 @@ files.
 
 **Main files** - Interesting NPCs Visual Overhaul
 
-### [Interesting Follower Requirements for Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646?tab=files)
-
-**Optional files** - Interesting Follower Requirements for 3DNPC (Soft Requirements)
-
 ### [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858?tab=files)
 
 **Main files** - Interesting NPCs and WACCF Outfits Patch
