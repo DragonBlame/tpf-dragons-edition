@@ -1046,6 +1046,8 @@ _These ones make me happy too._
 
 **Main files** - Treerific
 
+**Delete** - remove _treepineforestdead02.nif_ file under _\meshes\landscape\trees_ folder. Unfortunately this mesh is quite broken at the moment and makes your game CTD.
+
 _Do I even have to write down here anything related to trees? I didn't have any words, when I looked at in the game for the first time._
 
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
