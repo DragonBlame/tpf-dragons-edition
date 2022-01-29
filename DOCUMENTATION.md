@@ -1050,7 +1050,9 @@ _These ones make me happy too._
 
 **Main files** - Treerific
 
-**Delete** - remove _treepineforestdead02.nif_ file under _\meshes\landscape\trees_ folder. Unfortunately this mesh is quite broken at the moment and makes your game CTD.
+**Delete** - remove _treepineforestdead02.nif, treepineforestsnowl01.nif, treepineforestsnowl02.nif, treepineforestsnowl03.nif, treepineforestsnowl04.nif, 
+treepineforestsnowl05.nif_ files under _\meshes\landscape\trees_ folder. Unfortunately the dead tree mesh is quite broken at the moment and makes your game CTD,
+while the other meshes give you white leaves on trees. While we are waiting for the author to fix that, let's enjoy other aspects of the mod.
 
 _Do I even have to write down here anything related to trees? I didn't have any words, when I looked at in the game for the first time._
 
