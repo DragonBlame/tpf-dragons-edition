@@ -429,7 +429,7 @@ separator in the same order.
 
 **Update files** - Beyond Skyrim - Bruma Hotfix 1.5.3
 
-**Delete** - remove _ayleidwelleffect.nif_ file inside hotfix's _\meshes\bscyrodiil\effects_ folder.  
+**Delete** - remove _ayleidwelleffect.nif_ file inside hotfix's _\meshes\bscyrodiil\effects_ folder. It is a broken mesh, which makes you CTD around many areas even in Skyrim, because some other mods uses Bruma's assets.
 
 ### [Beyond Skyrim - Bruma Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/34413?tab=files)
 
@@ -574,6 +574,8 @@ Crafting Patch
 **Main files** - Clockwork_SSE_v1-0
 
 **Delete** - remove `Clockwork - Textures.bsa`.
+
+**Quick Clean** - quick clean the mod's plugin.
 
 ### [Clockwork - Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/55677?tab=files)
 
@@ -721,6 +723,8 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 ### [Undeath Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/6180?tab=files)
 
 **Main files** - Skyrim - Undeath SSE 1.7
+
+**Quick Clean** - quick clean the mod's plugin.
 
 ### [Undeath - Classical Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802?tab=files)
 
