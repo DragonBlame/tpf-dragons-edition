@@ -38,7 +38,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Gameplay Overhauls
 
-* Added _Honed Metal - NPC Crafting and Enchanting Services_, _Honed Metal Revoiced_ and _Honed Metal - Additional Materials_.
+* Added _Honed Metal - NPC Crafting and Enchanting Services_, _Honed Metal - Settings Loader_, _Honed Metal Revoiced_ and _Honed Metal - Additional Materials_.
 
 ### Miscellaneous
 
