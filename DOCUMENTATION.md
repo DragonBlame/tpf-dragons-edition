@@ -1041,12 +1041,13 @@ _These ones make me happy too._
 ### [Happy Little Trees - Better Dynamic Ash Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58700)
 
 **Main files** - Happy Little Trees - Better Dynamic Ash Patch
-<!-- 
+
 ### [Treerific](https://www.nexusmods.com/skyrimspecialedition/mods/62267)
 
 **Main files** - Treerific
 
-_Do I even have to write down why?_ -->
+_Do I even have to write down here anything related to trees? I didn't have any words, when I looked at in the game for the first time._
+
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
 **Optional files** - Unique Flowers and Plants for Skyrim SE DLC
