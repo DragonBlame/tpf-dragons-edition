@@ -13,6 +13,7 @@
 ### Improved Vanilla Content
 
 * Added _Obscure's College of Winterhold NPC Stuck in Staircase Fix_.
+* Added _Immersive Fort Dawnguard and Landscape Fixes for Grass Mods Patch_.
 
 ### New Content
 
