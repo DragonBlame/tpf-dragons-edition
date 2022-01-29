@@ -29,6 +29,7 @@
 * Added _Treerific_.
 * Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
 * Added _Fixed Mesh Lighting - Ancient Trees of Skyrim Patch_.
+* Changed installation instructions for _Little Touches - A Tree Placement for Whiterun City_.
 
 ### Appearance
 
