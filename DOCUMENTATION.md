@@ -1701,6 +1701,23 @@ chance of them having a potion, is configurable by MCM.*
 
 *In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more important for our player character too.*
 
+### [Honed Metal - NPC Crafting and Enchanting Services](https://www.nexusmods.com/skyrimspecialedition/mods/61015)
+
+**Main files** - Honed Metal SSE
+
+*You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too. If you are not fine with that, 
+then this mod is for you.*
+
+### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393)
+
+**Main files** - Honed Metal Revoiced (for Honed Metal 1.22 AE_SE_VR)
+
+*And some quality of life changes for the previous mod.*
+
+### [Honed Metal - Additional Materials](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
+
+**Main files** - Honed Metal Additional Materials UPDATED
+
 ### [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
 
 **Main files** - Dragonborn - Shouts Perk Tree
