@@ -1239,7 +1239,7 @@ Lanterns of Skyrim II`.
 
 ### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
 
-**Optional files** - AIO-LT- A Tree Placement for Whiterun City
+**Optional files** - LT- A Tree Placement for Whiterun City-ESL_FOMOD
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
 
