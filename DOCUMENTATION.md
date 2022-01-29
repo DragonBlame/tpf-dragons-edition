@@ -257,7 +257,7 @@ considering the mod, which will be featured later.*
 **FOMOD** - `Immersive College NPCs Integration, Recommended Interiors,
 New Music Plus Vanilla Music, Relighting Skyrim, Book Covers Skyrim,
 Quests are in Skyrim, Audio Overhaul, Artifacts - The Tournament of the
-Ten Bloods, Interesting NPCs, Mysticism - A Magic Overhaul, The Tools of
+Ten Bloods`, **untick** `Interesting NPCs`, `Mysticism - A Magic Overhaul, The Tools of
 Kagrenac, Viewable Faction Ranks, WACCF - Armor and Clothing Extension,
 Weapons Armor Clothing and Clutter Fixes 2.0+`.
 
