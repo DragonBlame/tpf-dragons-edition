@@ -17,6 +17,8 @@
 
 ### New Content
 
+* Removed _Interesting Follower Requirements for Interesting NPCs_.
+> Even thou the idea by itself is great, it needs to be implemented better, otherwise people without knowldege of requiremenets for NPCs are just left confused.
 * Added _3DNPC BSA Replacer_.
 * Added _Ayleid Ruins ENB Light_.
 * Readded _Beyond Skyrim Bruma - Hotfix_, added additional instructions for it.
