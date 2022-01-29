@@ -817,9 +817,13 @@ gems)
 
 **Main files** - Ruska SE
 
+**Quick Clean** - quick clean the mod's plugin.
+
 ### [Knight's Rest](https://www.nexusmods.com/skyrimspecialedition/mods/19793?tab=files)
 
 **Main files** - Knight's Rest
+
+**Quick Clean** - quick clean the mod's plugin.
 
 ### [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408?tab=files)
 
