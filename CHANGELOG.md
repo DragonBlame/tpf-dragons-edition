@@ -20,6 +20,7 @@
 * Added _3DNPC BSA Replacer_.
 * Readded _Beyond Skyrim Bruma - Hotfix_, added additional instructions for it.
 > It was stupid to remove it whole just because of one broken mesh. I guess I was worried that maybe something else is broken there too, which I hadn't known about yet.
+* Added additional instructions for _Clockwork_ and _Undeath_.
 * Changed installation instructions to _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
 
 ### Exteriors
