@@ -684,6 +684,10 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 **Main files** - The Tools of Kagrenac V1.59 SSE
 
+### [Ayleid Ruins ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/62415?tab=files)
+
+**Main files** - Ayleid Ruins ENB Light
+
 ### [The Grand Paladin - 2021](https://www.nexusmods.com/skyrimspecialedition/mods/46867?tab=files)
 
 **Main files** - The Grand Paladin - 2021
