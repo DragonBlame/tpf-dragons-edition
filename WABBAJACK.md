@@ -62,12 +62,17 @@ in character creation menu and then our hair, brows (and/or scars, beard) will l
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
 </p>
 
-Then customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
+Then customize your character to your heart's content (while being reasonable). 
+Hair with physics for women are obtainable by choosing hair with _KSHairdosSMP.esp_ near their name.
+<p align="center">
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/151706283-14618ef3-603c-46c0-bf6b-a2d95ae0bc78.png" /> 
+</p>
+If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
 
 ---
 
-After finishing the customization, you will be greeted with a pop-up message, which will tell you that some things need time to load, press `OK` and 
-then wait for another pop-up to inform you about the setup being finished.
+After Ralof or Hadvar frees you, don’t go anywhere right away. Wait a bit for everything to load 
+(it will be awesome if you let all messages on the top left side of the screen disappear).
 
 Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
