@@ -2992,8 +2992,8 @@ At third, remember to turn the _Depth of Field_ slider all the way down in the i
 
 Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. If you aren't a fan, just press the same button once again to turn them off.
 
-* **Look What You See** - Press your *V* key.
-* **Animated Shouts** - Press your right *Alt* key.
+* **Look What You See** - Press your `V` key.
+* **Animated Shouts** - Press your right `Alt` key.
 > You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the add-on too.
 
 Some quick tips before the end:
