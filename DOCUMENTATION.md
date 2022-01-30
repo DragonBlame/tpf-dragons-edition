@@ -1712,15 +1712,11 @@ chance of them having a potion, is configurable by MCM.*
 *You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too. If you are not fine with that, 
 then this mod is for you.*
 
-### [Honed Metal - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57237)
-
-**Main files** - Honed Metal SSE Updated - Settings Loader
-
-*And some quality of life changes for the previous mod.*
-
 ### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393)
 
 **Main files** - Honed Metal Revoiced (for Honed Metal 1.22 AE_SE_VR)
+
+*And some quality of life changes for the previous mod.*
 
 ### [Honed Metal - Additional Materials](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
 
