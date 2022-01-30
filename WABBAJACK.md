@@ -62,10 +62,9 @@ in character creation menu and then our hair, brows (and/or scars, beard) will l
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
 </p>
 
-Then customize your character to your heart's content (while being reasonable). 
-Hair with physics for women are obtainable by choosing hair with _KSHairdosSMP.esp_ near their name.
+Then customize your character to your heart's content (while being reasonable). Hair with physics for women are obtainable by choosing hair with _KSHairdosSMP.esp_ near their name.
 <p align="center">
-    <img width="75%" src="https://user-images.githubusercontent.com/37147270/151706283-14618ef3-603c-46c0-bf6b-a2d95ae0bc78.png" /> 
+    <img width="75%" src="https://user-images.githubusercontent.com/37147270/151706652-f8f91309-203f-4b10-a975-8be565db54fd.png" /> 
 </p>
 If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
 
