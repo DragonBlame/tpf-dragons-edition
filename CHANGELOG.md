@@ -88,7 +88,6 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Wabbajack
 
-> Physics should be fine.
 * The documentation for Wabbajack users was updated for the latest changes.
 
 ### Updated Add-on's Mods for Wabbajack Users
