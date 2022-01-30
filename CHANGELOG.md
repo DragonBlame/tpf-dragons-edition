@@ -46,6 +46,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Miscellaneous
 
+* Added _MCM Recorder_.
 * Added _Custom Skills Menu_.
 * Removed _Face Discoloration Fix_.
 > Not needed anymore without _Vanilla Hair Replacer_.
@@ -72,7 +73,9 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Other Changes
 
-* Configured _Cathedral Weathers_ mod to make nights a bit brighter and to make winter appear more colder, while summer - warmer.
+* Removed all settings loaders.
+> Because we don't need them anymore with _MCM Recorder_.
+* Configured _Cathedral Weathers_ mod to make nights a bit brighter.
 * Fixed Realistic Water Two records again.
 * Made some other little fixes as usual.
 * Removed all MCM instructions.
