@@ -98,6 +98,7 @@ where our character's face becomes whitened for a while. So we are just going to
 * JK's Understone Keep
 * JK's Haelga's Bunkhouse
 * BeastHHBB
+* Base Obejct Swapper
 * Faster HDT-SMP
 * VioLens - A Killmove Mod
 * VioLens - A Killmove Mod - Settings Loader
