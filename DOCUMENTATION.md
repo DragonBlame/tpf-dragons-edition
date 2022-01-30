@@ -1808,6 +1808,12 @@ separator in the same order.
 *Resource for modders to use to make custom menus for their mods. We
 will need it for AddItemMenu mod.*
 
+### [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)
+
+**Main files** - MCM Recorder
+
+*Utility tool, which allows me to automate all mod configuration menus for you.*
+
 ### [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
 
 **Main files** - Custom Skills Framework v1
