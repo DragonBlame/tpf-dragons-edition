@@ -617,10 +617,6 @@ Crafting Patch
 
 **Optional files** - Only Wyrmstooth Map
 
-### [Wyrmstooth - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56504?tab=files)
-
-**Main files** - Wyrmstooth - Settings Loader
-
 ### [WoW Dragon Mounds CTD Fix - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43188?tab=files)
 
 **Optional files** - WoW Dragon Mounds CTD Fix - Wyrmstooth Patch
@@ -1805,12 +1801,6 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-### [Storm Lightning - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57477)
-
-**Main files** - Storm Lightning for SSE and VR (Minty Lightning 2019) - Settings Loader
-
-*A great tool for making you spend less time in the TPF mod's MCM the second time you decide to play.*
-
 ### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
 **Main files** - UIExtensions v1-2-0
@@ -1958,10 +1948,6 @@ This mod allows us to do that.*
 **FOMOD** - don't change anything.
 
 *Allows us to customize the game's behaviour related to kill moves.*
-
-### [VioLens - A Killmove Mod - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56674)
-
-**Main files** - VioLens - A Killmove Mod SE - Settings Loader
 
 ### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
 
@@ -2217,10 +2203,6 @@ Change its colour, so that it won't be the same as TPF's ones.
 
 All of the following mods in this category will be placed under this
 separator in the same order.
-
-### [XP32 Maximum Skeleton Special Extended - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56146)
-
-**Main files** - XP32 Maximum Skeleton Special Extended - Settings Loader
 
 ### [Ice Skating Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55417)
 
