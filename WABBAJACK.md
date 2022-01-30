@@ -31,7 +31,7 @@ Follow those instructions carefully (while obviously choosing _The Phoenix Flavo
 
 ## Configurations
 
-By default your game is capped at 75 FPS, as the bigger number can lead to different oddities in Skyrim's physics, and so I don't recommend to change that. Also it will be borderless, so you don't need to change that either.
+By default your game is capped at 144 FPS and is borderless.
 
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. The new [Game Stock folder system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) allows us to leave our Skyrim's root folder completely clean and this way more compatible with other modpacks. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
 
@@ -66,9 +66,8 @@ Then customize your character to your heart's content (while being reasonable). 
 
 ---
 
-When Ralof or Hadvar frees you, don’t go anywhere right away.
-Wait a bit for everything to load (wait after all messages on the top
-left side of the screen disappear).
+After finishing the customization, you will be greeted with a pop-up message, which will tell you that some things need time to load, press `OK` and 
+then wait for another pop-up to inform you about the setup being finished.
 
 Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
