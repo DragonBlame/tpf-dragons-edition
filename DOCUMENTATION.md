@@ -740,6 +740,10 @@ Script…* In category *Script* find *Hishy_UndeathCleaner* and choose it.
 Press *OK*. After xEdit finishes cleaning, don’t forget to make sure that
 changes are saved.
 
+### [Prelude to Purgatory - A Lich Custom Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/53143?tab=files)
+
+**Main files** - Prelude to Purgatory
+
 ### [Skeleton Replacer HD - Undeath Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52845?tab=files)
 
 **Miscellaneous files** - SkeletonReplacer - UndeathPatch
