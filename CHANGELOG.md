@@ -14,6 +14,7 @@
 
 * Added _Obscure's College of Winterhold NPC Stuck in Staircase Fix_.
 * Added _Immersive Fort Dawnguard and Landscape Fixes for Grass Mods Patch_.
+* Changed installation instructions to _Obscure's College of Winterhold_.
 
 ### New Content
 
