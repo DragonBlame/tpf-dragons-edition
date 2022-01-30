@@ -3200,6 +3200,7 @@ Soon enough (or maybe not) you will get some kind of special powers. Here is a r
 
 * **Camera's side** - Change camera's side by using your `Mouse 5` key (this time, for real, just `Mouse 5` key). If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
 * **Headtracking** - Press your _V_ key to disable or enable headtracking at any time.
+* **Crouch sliding** - While sprinting, you can press `Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy.
 * **Praying** - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
 you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099). 
 * **Animated shouts** - Press your right _Alt_ key to disable or enable animated shouts at any time.
