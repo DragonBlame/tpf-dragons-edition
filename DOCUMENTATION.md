@@ -3201,12 +3201,14 @@ Soon enough (or maybe not) you will get some kind of special powers. Here is a r
 * **Headtracking** - Press your _V_ key to disable or enable headtracking at any time.
 * **Praying** - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
 you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099). 
-* **Dragonborn's powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
-You will be able to upgrade this power by shouting and killing dragons.
 * **Animated shouts** - Press your right _Alt_ key to disable or enable animated shouts at any time.
+* **Dragonborn's powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
+You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` button. Console users can access it by using the tween menu.
+* **Powers of undead** - After finishing one very unique quest, you will unlock an interesting power, which gives you access to another one new perk tree. 
+You will be able to upgrade this power by feeding souls to your source of power. Accessible by pressing `.` button. Console users can access it by using the tween menu.
+* **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
 * **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
 You will need to press _,_ button to use the whistle in the game.
-* **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
 
 About just some of interesting mods I have added:
 
