@@ -100,7 +100,8 @@ Some quick tips before the end:
 And that's it! You are ready for the action.
 
 If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the add-on) or if you find a typo or any other mistake in the documentation, 
-feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel. 
+feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
+respective channels. 
 If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
 
 If you want to learn more about what the add-on offers and what actually many of the mods do, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
