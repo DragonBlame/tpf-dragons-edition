@@ -75,8 +75,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 * Removed all settings loaders (except the ones from TPF).
 > Because we don't need them anymore with _MCM Recorder_.
-* Capped the game at 144 FPS.
-> Physics should be fine actually.
+
 * Configured _Cathedral Weathers_ mod to make nights a bit brighter.
 * Fixed Realistic Water Two records again.
 * Made some other little fixes as usual.
@@ -89,6 +88,8 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Wabbajack
 
+* Capped the game at 144 FPS.
+> Physics should be fine.
 * The documentation for Wabbajack users was updated for the latest changes.
 
 ### Updated Add-on's Mods for Wabbajack Users
