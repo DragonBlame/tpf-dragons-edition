@@ -74,13 +74,11 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Other Changes
 
-* Removed all settings loaders (except the ones from TPF).
-> Because we don't need them anymore with _MCM Recorder_.
+* Removed all settings loaders (except the ones from TPF) and MCM instructions.
+> Because we don't need them anymore with _MCM Recorder_. Everything was automated (sad, because I have already learned how to compile and modify scripts to do that, but I guess that knowledge will come in handy in other places).
 * Configured _Cathedral Weathers_ mod to make nights a bit brighter.
 * Fixed Realistic Water Two records again.
-* Made some other little fixes and imrpovements in the documentation as usual.
-* Removed all MCM instructions.
-> Even some from the gameplay guide. Everything was automated.
+* Made some other little fixes and improvements to the documentation as usual.
 * Removed all scars, beards and brows related to vanilla head.
 > To unclutter the character creation menu.
 * Removed position change instructions for quivers and bolts.
