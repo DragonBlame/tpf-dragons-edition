@@ -2,95 +2,108 @@
 
 # Changelog
 
-## Version 1.14.
+## Version 2.0.
 
-> Updated final patches. Updated Nemesis, Texgen, DynDOLOD and Occlusion outputs.
+> Updated final patches. Updated Nemesis, Texgen and DynDOLOD and Occlusion outputs.
 
 ### Interface
 
-* Added _Weather of World_ and _Unique Map Weather Framework_.
+* Removed _Weather of World_.
 
 ### Improved Vanilla Content
 
-* Moved many mods here from _New Content_.
-> The new section was made to make everything more structured and less cluttered in _New Content_.
-* Removed _Opulent Thieves Guild Patch Collection_.
-* Changed FOMOD instructions for _Obscure's College of Winterhold_.
-* Changed installation instructions for _Briraka's Draugr Overhaul - Cannibal Draugr Patch_.
+* Added _Obscure's College of Winterhold NPC Stuck in Staircase Fix_.
+* Added _Immersive Fort Dawnguard and Landscape Fixes for Grass Mods Patch_.
+* Changed installation instructions to _Obscure's College of Winterhold_.
 
 ### New Content
 
-* Removed _Beyond Skyrim - Bruma Hotfix_.
-> In short, it hotfixed Skyrim not giving you CTDs in Falkreath. Bruma's team still has a lot of work to do.
-* Removed _Beyond Skyrim - Bruma Tree LOD billboards_, _Imperial City LOD for Beyond Skyrim - Bruma_ and _Gray Cowl of Nocturnal - Alikr Flora Overhaul Tree Billboards_.
-> I have actually completely forgotten that billboards are now generated automatically by DynDOLOD.
-* Added _Legion - A Bruma Encounter Zone Overhaul_.
-* Removed _Dragon War - Wyrmstooth Patch_.
-* Added _WoW Dragon Mounds CTD Fix - Wyrmstooth Patch_.
-* Added _Moonpath of Elsweyr - Apothecary Patch_.
-* Removed _Frostwood Cabin_. Added _Frostwood Cabin Reborn_.
-* Added additional instructions for _FaceGen Output for Random Mods_.
-* Changed installation instructions for _Interesting NPCs (3DNPC)_.
-* Added additional instructions for _Cuyima Interesting NPCs_.
-* Moved many mods to _Improved Vanilla Content_.
-* Changed mod and load order.
-> To make my work easier and to make more sense.
+* Removed _Interesting Follower Requirements for Interesting NPCs_.
+> Even thou the idea by itself is great, it needs to be implemented better, otherwise people without knowldege of requiremenets for NPCs are just left confused.
+* Added _3DNPC BSA Replacer_.
+* Added _Ayleid Ruins ENB Light_.
+* Added _Prelude to Purgatory - A Lich Custom Skill Tree_.
+* Readded _Beyond Skyrim Bruma - Hotfix_, added additional instructions for it.
+> It was stupid to remove it whole just because of one broken mesh. I guess I was worried that maybe something else is broken there too, which I hadn't known about yet.
+* Added additional instructions for _Clockwork_, _Undeath_, _Ruska - Riften Player Home_ and _Knight's Rest_.
+* Changed installation instructions to _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
 
 ### Exteriors
 
-* Removed _The Great Cities - Minor Cities and Towns_ and each patch related to it.
-> I should have done that long time ago. Even thou the mod makes non-existant vanilla versions of towns look like actual towns befitting their story and defences, it felt like a compatibility nightmare, which was following me all this time I have decided to add it. _Cities of the North_ series already do great job on helping these towns become unique and we still have _The Great Cities_ series for even smaller places unlike Falkreath and other capitals of the holds. Now I am finally in peace with this section of the add-on.
+* Added _Treerific_.
+* Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
+* Added _Fixed Mesh Lighting - Ancient Trees of Skyrim Patch_.
+* Changed installation instructions for _Little Touches - A Tree Placement for Whiterun City_.
 
-### Interiors
+### Appearance
 
-* Added _JK's Jorrvaskr_ and _JKs Guild HQ Interiors Patch Collection_.
+* Removed _Vanilla Hair Replacer_.
+> I just didn't like the fact that many of hair for males felt out of place with our high poly head and also that sometimes a weird issue happened, 
+where our character's face becomes whitened for a while. So we are just going to use TPF's hair textures together with _High Poly Head_'s hair meshes.
+* Changed installation instructions for _High Poly Head_.
+
+### Gameplay Overhauls
+
+* Added _Honed Metal - NPC Crafting and Enchanting Services_, _Honed Metal Revoiced_ and _Honed Metal - Additional Materials_.
 
 ### Miscellaneous
 
-* Removed _HDT-SMP (Skinned Mesh Physics)_. Added _Faster HDT-SMP_.
-* Removed _Less Boring Loading Screen_.
-> The mod's loading screens were definitely less boring than the vanilla ones, but at the same time some of them were very low quality too. 
-I will use just _Starlit Lakes Loading Screens_ for consistency and because they are the closest to what I would like to see (and they are (star)lit).
-* Changed installation instructions for _Character Light_.
+* Added _MCM Recorder_.
+* Added _Custom Skills Menu_.
+* Removed _Face Discoloration Fix_.
+> Not needed anymore without _Vanilla Hair Replacer_.
+* Added _Base Object Swapper_.
+* Added _Improved Loading Screen Colors_.
+* Added additional instructions for _End Times_.
+* Updated installation and FOMOD instructions for _Faster HDT-SMP_.
 
-### Skeleteon & Animations
+### Skeleton & Animations
 
-* Changed installation instructions for _Finally First Person Magic Animation_.
+* Removed _Leviathan Animations - Two-Handed Normal Attacks_, _Vanargand Animations - One Handed Mid Stance_ and _Vanargand Animations - One Handed Normal Attacks_.
+* Changed FOMOD instructions for _Pretty Combat Animations_.
+* Updated installation and FOMOD instructions for _Pretty One-Handed Animations Overhaul_.
+* Updated installation instructions, added FOMOD instructions for _TK Dodge RE_.
+> After playing for some time, I have realized that normal attacks were looking like we are swinging not a weapon, but definitely something else. And with the new update of _Pretty One-Handed Animations Overhaul_ I don't feel we need different animations for being idle, running and walking when using one handed weapons.
 
-### Literally Unplayable
+### NPC Overhauls
 
-* Added _Literally Unplayable - Nortbourne NPCs of the Rift Patch_ and _Literally Unplayable - Northbourne NPCs of Haafingar Patch_.
-
-### Preparations
-
-* Added additional instructions for widescreen users to install _Ultra Widescreen Patch for Forget Spell_.
+* Added _Northbourne NPCs of Hjaalmarch_.
+* Updated installation instructions for _USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium_.
 
 ---
 
 ### Other Changes
 
-* Fixed CTDs at Falkreath.
-> Was related to _Beyond Skyrim - Bruma Hotfix_, which was removed for now.
-* Fixed Larkspur's face.
-* Made the game give you 3 perk points at level 2 instead of 2 perk points.
-> Compensation for not being able to utilize _Locksmith_ perk.
-* Made lightning in some places (Castle Volkihar, Thieves Guild) more in place with the changed looks of the places.
-* And many other good things I won't be able to write down here (for real) related to both the add-on and its documentation (you have already seen some of them :D ).
-* From now on I will post change-log's content inside release text.
-> Should have done that in the first place. Sorry, I am new at this.
+* Removed all settings loaders (except the ones from TPF) and MCM instructions.
+> Because we don't need them anymore with _MCM Recorder_. Everything was automated (sad, because I have already learned how to compile and modify scripts to do that, but I guess that knowledge will come in handy in other places).
+* Configured _Cathedral Weathers_ mod to make nights a bit brighter.
+* Fixed Realistic Water Two records again.
+* Made some other little fixes and improvements to the documentation as usual.
+* Removed all scars, beards and brows related to vanilla head.
+> To unclutter the character creation menu.
+* Removed position change instructions for quivers and bolts.
+> Was automated for all NPCs and player character.
 
 ### Wabbajack
 
-* Added version of Skyrim's update the add-on is using at the moment.
+* The documentation for Wabbajack users was updated for the latest changes.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
 * DynDOLOD Resources
 * Serana Dialogue Add-On
-* Darkend - Enemy Rebalance
 * Undeath - Classical Lichdom
-* COTN Dawnstar Patch Collection
-* Navigator - Navmesh Fixes
-* Character Light
-* Finally First Person Magic Animation
-* Dragon Priest Fix - Behaviour Overhaul
+* FaceGen Output for Different Mods
+* Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* Wuth Rein
+* JK's Blue Palace
+* JK's Understone Keep
+* JK's Haelga's Bunkhouse
+* BeastHHBB
+* Base Obejct Swapper
+* Faster HDT-SMP
+* VioLens - A Killmove Mod
+* VioLens - A Killmove Mod - Settings Loader
+* Pretty One-Handed Animations Overhaul
+* TK Dodge RE
+* Literally Unplayable - The Forgotten City Patch

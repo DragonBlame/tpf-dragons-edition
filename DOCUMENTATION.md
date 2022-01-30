@@ -4,8 +4,7 @@
 
 ## Table of Contents
 
-[Getting Started](#getting-started)
-
+[Getting Started](#getting-started)  
 [Interface (optional)](#interface-optional)  
 [Improved Vanilla Content](#improved-vanilla-content)  
 [New Content](#new-content)  
@@ -159,12 +158,6 @@ active effects by their expiration time and by making equipped items grouped rig
 *It makes you aware of known weapon and armor enchantments, 
 books you have read and it tells you about which kind of skill you can level by reading book.*
 
-### [Weather of World](https://www.nexusmods.com/skyrimspecialedition/mods/58782)
-
-**Main files** - Weather of World
-
-*Enhances view of all maps by overhauling weather and lightning inside those.*
-
 ### [Unique Map Weather Framework](https://www.nexusmods.com/skyrimspecialedition/mods/59919)
 
 **Main files** - Unique Map Weather Framework
@@ -209,7 +202,12 @@ not to think about it every single time you transform into werewolf.*
 
 The first head of a two-headed dragon of this add-on comes too early (well, for me it came as the prelast one, but you got the idea). 
 If we are completely honest, many of Skyrim's vanilla content has pretty much room for improvement or overhaul and that is why we are now here. 
-Some of the mods here have commentaries about why I have chosen to add them.
+
+Some of the mods in this section have commentaries about why I have chosen to add them, which can be counted as spoilers. You won't see descriptions of mods 
+(if you don’t count the gameplay guide at the end) in both this and the next section as I don’t want to spoil the fun 
+(and because I am too lazy at this point and just want to play a bit). And why should I?
+Some of these are the most popular and loved quest mods in Nexus Skyrim Special Edition’s page, so they talk for themselves.
+I hope you are hyped the same way as I was (and still am).
 
 Create a separator and name it `IMRPOVED VANILLA CONTENT` and place it directly below
 the *GRAPHICS BASELINE* separator (and its mods). Change its colour, so that it
@@ -259,9 +257,13 @@ considering the mod, which will be featured later.*
 **FOMOD** - `Immersive College NPCs Integration, Recommended Interiors,
 New Music Plus Vanilla Music, Relighting Skyrim, Book Covers Skyrim,
 Quests are in Skyrim, Audio Overhaul, Artifacts - The Tournament of the
-Ten Bloods, Interesting NPCs, Mysticism - A Magic Overhaul, The Tools of
+Ten Bloods`, **untick** `Interesting NPCs`, `Mysticism - A Magic Overhaul, The Tools of
 Kagrenac, Viewable Faction Ranks, WACCF - Armor and Clothing Extension,
 Weapons Armor Clothing and Clutter Fixes 2.0+`.
+
+### [Obscure's College of Winterhold NPC Stuck in Staircase Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53713?tab=files)
+
+**Main files** - Obscure's College of Winterhold NPC Stuck in Staircase Fix
 
 ### [Opulent Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/931?tab=files)
 
@@ -320,6 +322,10 @@ kill our improved vanilla or new followers. Win-win situation for me.*
 ### [Immersive Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/40436?tab=files)
 
 **Main files** - Immersive Fort Dawnguard
+
+### [Immersive Fort Dawnguard and Landscape Fixes for Grass Mods Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45526?tab=files)
+
+**Main files** - Immersive fort dawnguard landscape fixes for grass mods patch
 
 ### [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143?tab=files)
 
@@ -405,10 +411,6 @@ younger.*
 ## New Content
 
 The second head of the two-headed dragon of the add-on. The point of this section is to add content to our beloved Skyrim to make the game even more interesting. 
-I won’t write any descriptions of mods (if you don’t count the gameplay guide at the end) as I don’t want to spoil the fun 
-(and because I am too lazy at this point and just want to play a bit). And why should I?
-Some of these are the most popular and loved quest mods in Nexus Skyrim Special Edition’s page, so they talk for themselves.
-I hope you are hyped the same way as I was (and still am).
 
 Create a separator and name it `NEW CONTENT` and place it directly below
 the *IMPROVED VANILLA CONTENT* separator (and its mods). Change its colour, so that it
@@ -417,6 +419,8 @@ won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+I would also like to mention that if something related to mods doesn't look the same way it looks here, chime in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-manual-support_ channel. In that scenario the mod has updated and we will see together if that will somehow trouble your setup.
+
 ### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917?tab=files)
 
 **Main files** - Beyond Skyrim - Assets
@@ -424,6 +428,10 @@ separator in the same order.
 **Main files** - Beyond Skyrim - Bruma
 
 **Main files** - Beyond Skyrim DLC Integration Patch
+
+**Update files** - Beyond Skyrim - Bruma Hotfix 1.5.3
+
+**Delete** - remove _ayleidwelleffect.nif_ file inside hotfix's _\meshes\bscyrodiil\effects_ folder. It is a broken mesh, which makes you CTD around many areas even in Skyrim, because some other mods uses Bruma's assets.
 
 ### [Beyond Skyrim - Bruma Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/34413?tab=files)
 
@@ -569,6 +577,8 @@ Crafting Patch
 
 **Delete** - remove `Clockwork - Textures.bsa`.
 
+**Quick Clean** - quick clean the mod's plugin.
+
 ### [Clockwork - Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/55677?tab=files)
 
 **Optional files** - Clockwork BSA
@@ -609,10 +619,6 @@ Crafting Patch
 
 **Optional files** - Only Wyrmstooth Map
 
-### [Wyrmstooth - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56504?tab=files)
-
-**Main files** - Wyrmstooth - Settings Loader
-
 ### [WoW Dragon Mounds CTD Fix - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/43188?tab=files)
 
 **Optional files** - WoW Dragon Mounds CTD Fix - Wyrmstooth Patch
@@ -635,9 +641,9 @@ directory*, click *OK*.
 
 **Miscellaneous files** - Apothecary - Wyrmstooth Patch
 
-### [Dragon War - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51310?tab=files)
+### [Forceful Tongue - Wyrmstooth Patch](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files)
 
-**Miscellaneous files** - Dragon War - Wyrmstooth Patch
+**Miscellaneous files** - Forceful Tongue - Wyrmstooth Patch
 
 ### [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748?tab=files)
 
@@ -675,6 +681,10 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 ### [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168?tab=files)
 
 **Main files** - The Tools of Kagrenac V1.59 SSE
+
+### [Ayleid Ruins ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/62415?tab=files)
+
+**Main files** - Ayleid Ruins ENB Light
 
 ### [The Grand Paladin - 2021](https://www.nexusmods.com/skyrimspecialedition/mods/46867?tab=files)
 
@@ -716,6 +726,8 @@ Patch, Weapons Armor Clothing and Clutter Fixes Patch`.
 
 **Main files** - Skyrim - Undeath SSE 1.7
 
+**Quick Clean** - quick clean the mod's plugin.
+
 ### [Undeath - Classical Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802?tab=files)
 
 **Main files** - Undeath Classical Lichdom
@@ -729,6 +741,10 @@ using MO2, find *Undeath.esp*, right click on it and choose *Apply
 Script…* In category *Script* find *Hishy_UndeathCleaner* and choose it.
 Press *OK*. After xEdit finishes cleaning, don’t forget to make sure that
 changes are saved.
+
+### [Prelude to Purgatory - A Lich Custom Skill Tree](https://www.nexusmods.com/skyrimspecialedition/mods/53143?tab=files)
+
+**Main files** - Prelude to Purgatory
 
 ### [Skeleton Replacer HD - Undeath Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52845?tab=files)
 
@@ -807,9 +823,13 @@ gems)
 
 **Main files** - Ruska SE
 
+**Quick Clean** - quick clean the mod's plugin.
+
 ### [Knight's Rest](https://www.nexusmods.com/skyrimspecialedition/mods/19793?tab=files)
 
 **Main files** - Knight's Rest
+
+**Quick Clean** - quick clean the mod's plugin.
 
 ### [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408?tab=files)
 
@@ -873,6 +893,8 @@ warriors.*
 
 **Update files** - Interesting NPCs SE - 4.3.6 to 4.4 Hotfix
 
+### [3DNPC BSA Replacer](https://drive.google.com/file/d/1hxuTbs-8sm1pnErsbDS_2c41Sy0S1iMC/)
+
 ### [3DNPC - Art and Sacrifice Aggression Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/45496?tab=files)
 
 **Main files** - 3DNPC Art and Sacrifice Script Fix
@@ -897,10 +919,6 @@ files.
 ### [Interesting NPCs Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40046?tab=files)
 
 **Main files** - Interesting NPCs Visual Overhaul
-
-### [Interesting Follower Requirements for Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/45646?tab=files)
-
-**Optional files** - Interesting Follower Requirements for 3DNPC (Soft Requirements)
 
 ### [Interesting NPCs and WACCF Outfits Patch](https://www.nexusmods.com/skyrimspecialedition/mods/31858?tab=files)
 
@@ -966,7 +984,7 @@ files.
 
 ### [Kaidan 2 Follower Voice Fixes and Additional Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/59349?tab=files)
 
-**Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 1.3
+**Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 2.2
 
 ### [Shirley - A Skyrim Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45956?tab=files)
 
@@ -1026,6 +1044,15 @@ _These ones make me happy too._
 
 **Main files** - Happy Little Trees - Better Dynamic Ash Patch
 
+### [Treerific](https://www.nexusmods.com/skyrimspecialedition/mods/62267)
+
+**Main files** - Treerific
+
+**Hide** - hide _treepineforestdead02.nif_ and all snow related files under _\meshes\landscape\trees_ folder. Unfortunately the dead tree mesh is quite broken at the moment and makes your game CTD,
+while snowy meshes give you white leaves on trees. While we are waiting for the author to fix that, let's enjoy happy snowy trees.
+
+_Do I even have to write down here anything related to trees? I didn't have any words, when I looked at in the game for the first time._
+
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
 **Optional files** - Unique Flowers and Plants for Skyrim SE DLC
@@ -1041,6 +1068,12 @@ worry about the mod overwriting anything we don't want to.*
 
 *Who would even like to look at vanilla mountain flowers, if we have
 these.*
+
+### [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756)
+
+**Main files** - Cathedral 3D Mountain Flowers - Base Object Swapper
+
+*A miracle. Automatically distributes the new model of mountain flowers to each and every place without even touching any worldspace records.*
 
 ### [A Patch for Skyrim Landscape and Water Fixes and Cathedral Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/50265)
 
@@ -1193,6 +1226,10 @@ Lanterns of Skyrim II`.
 
 **Main files** - Ancient Trees of Skyrim 5.1.1 SE
 
+### [Fixed Mesh Lighting - Ancient Trees of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
+
+**Optional files** - Fixed Mesh Lighting - Ancient Trees of Skyrim
+
 ### [Rorikstead Basalt Cliffs](https://www.nexusmods.com/skyrimspecialedition/mods/25718)
 
 **Main files** - Rorikstead Basalt Cliffs
@@ -1201,7 +1238,7 @@ Lanterns of Skyrim II`.
 
 ### [Little Touches - A tree Placement for Whiterun City](https://www.nexusmods.com/skyrimspecialedition/mods/54411)
 
-**Optional files** - AIO-LT- A Tree Placement for Whiterun City
+**Optional files** - LT- A Tree Placement for Whiterun City-ESL_FOMOD
 
 *Without Whiterun, Skyrim woudn't have been the same game, so let's give Whiterun some love it deserves.*
 
@@ -1604,7 +1641,7 @@ _You will be able to get hair with physics for men by using AddItemMenu mod, whi
 
 **Main files** - Kyoe's Bang'n Brows - Standalone - Vanillamatch
 
-_For people, who would like to use a bit brighter brows than the vanilla ones._
+_For people, who would like to use a bit differently coloured brows than the default ones._
 
 ### [Kyoe's Bang'n Brows for KouLeifoh's High Poly Head](https://www.nexusmods.com/skyrimspecialedition/mods/50424)
 
@@ -1669,6 +1706,23 @@ chance of them having a potion, is configurable by MCM.*
 **Disable** - Disable *Adamant - Shrines and Amulets* in the _Gameplay Overhauls_ section and _Miscellaneous Tweaks Collection - Shrines Don't Cure Diseases_.
 
 *In the Elder Scrolls universe everything is connected to different kinds of deities, so it isn't a surprise that Skyrim's people are ardent believers. Let's make religion more important for our player character too.*
+
+### [Honed Metal - NPC Crafting and Enchanting Services](https://www.nexusmods.com/skyrimspecialedition/mods/61015)
+
+**Main files** - Honed Metal SSE
+
+*You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too. If you are not fine with that, 
+then this mod is for you.*
+
+### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393)
+
+**Main files** - Honed Metal Revoiced (for Honed Metal 1.22 AE_SE_VR)
+
+*And some quality of life changes for the previous mod.*
+
+### [Honed Metal - Additional Materials](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
+
+**Main files** - Honed Metal Additional Materials UPDATED
 
 ### [Dragonborn - Shouts Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
 
@@ -1748,18 +1802,18 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-### [Storm Lightning - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/57477)
-
-**Main files** - Storm Lightning for SSE and VR (Minty Lightning 2019) - Settings Loader
-
-*A great tool for making you spend less time in the TPF mod's MCM the second time you decide to play.*
-
 ### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
 **Main files** - UIExtensions v1-2-0
 
 *Resource for modders to use to make custom menus for their mods. We
 will need it for AddItemMenu mod.*
+
+### [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)
+
+**Main files** - MCM Recorder
+
+*Utility tool, which allows me to automate all mod configuration menus for you.*
 
 ### [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
 
@@ -1769,17 +1823,27 @@ will need it for AddItemMenu mod.*
 character, will be used for Dragonborn - Shouts Perk Tree, which will greatly enhance gameplay
 with shouts together with Forceful Tongue - Shouts Overhaul.*
 
-### [Face Discoloration Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42441)
+### [Custom Skills Menu](https://www.nexusmods.com/skyrimspecialedition/mods/62423)
 
-**Main files (v. 1.0.1.)** - Face Discoloration Fix
+**Main files** - Custom Skill Menu
 
-*Helps us to avoid relegenerating facegen for NPCs affected by Vanilla Head Replacer mod, because apparently Bethesda is unhappy even if you just change hair of NPCs without any issues.*
+**Main files** - Custom Skill Menu Basic Icon Pack
+
+**Merge** - merge both files.
+
+*Frees us from need to bind more buttons to get to these mentioned before custom skill trees and makes them more accessible for controller players.*
+
+### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
+
+**Main files** - Base Object Swapper SE
+
+*Another plugin for easily replacing models of needed objects without making any changes to records inside plugins.*
 
 ### [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
 
-**Main files** - Faster HDT-SMP
+**Main files (the latest v.)** - Faster HDT-SMP
 
-**FOMOD** - `SSE, NOT CUDA (recommended), No Avx - Day (recommended)`.
+**FOMOD** - don't change anything.
 
 *SKSE plugin, which will allow us to use physics for our PC, like in our
 scenario, with moving hair. Bonk people, who thought about something
@@ -1793,8 +1857,8 @@ else.*
 standard _Ctrl+V_ command to paste something to your console.
 
 *A neat functionality in one mod (very weird that Bethesda haven't
-thought about adding it, well, like always), which you will probably use
-from time to time.*
+thought about adding it, well, like always), which som users will probably use
+from time to time. Can work a bit oddly, but it does the job.*
 
 ### [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
 
@@ -1848,6 +1912,9 @@ install later, will greatly help us in using this mod’s capabilities.*
 
 **Main files** - End Times SE
 
+**Unpack BSA** - Find _Archives_ option at the top right side of your MO2, find _End Times_ mod inside, right click on it (on the name in white), 
+select _Extract..._, choose the mod's folder and press _Select Folder_. Refresh your MO2 by pressing _F5_. Then delete .bsa file inside the mod.
+
 *Now try to do everything else, but not the main quest. I dare you. If
 you don’t listen then your game will be over. It was a joke by the way. More about this later.*
 
@@ -1883,15 +1950,11 @@ This mod allows us to do that.*
 
 ### [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668)
 
-**Old files** - VioLens - A Killmove Mod SE 2.22a
+**Main files** - VioLens - A Killmove Mod SE 2.30
 
 **FOMOD** - don't change anything.
 
 *Allows us to customize the game's behaviour related to kill moves.*
-
-### [VioLens - A Killmove Mod - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56674)
-
-**Main files** - VioLens - A Killmove Mod SE - Settings Loader
 
 ### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464)
 
@@ -2025,6 +2088,12 @@ etc.*
 ### [Diverse Skyrim - Battle of Whiterun Fix](https://www.nexusmods.com/skyrimspecialedition/mods/47939)
 
 **Main files** - Diverse Skyrim Battle of Whiterun Fix
+
+### [Improved Loading Screen Colors](https://www.nexusmods.com/skyrimspecialedition/mods/61712)
+
+**Main files** - Improved Loading Screen Colors
+
+*Removes Skyrim's visual altering effects from loading screens, so that those appear in their original colors.*
 
 ### [Starlit Lakes Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/57579)
 
@@ -2184,35 +2253,21 @@ a piece of living rock.*
 ### [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
 **Main files** - Pretty Combat Animations 1.38
 
-**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Slayer` two
-times, `2hm Block, 2hm Sprint`.
+**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Vanilla` two times after skipping extra and sneak options for bows.
 
 ### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
-**Main files** - PCA-1hm Overhaul 1.13c SSE
+**Main files** - wpm style.renew(Default) 1.23 SSE
 
-**FOMOD** - `Guardian, choose _Skip_ option 4 times, 1hm Block, 1hm
-Sprint, Origin Dw Sprint_Type A`.
+**FOMOD** - `Shield Block Style 01, Back Shield`.
 
 ### [Leviathan Animations - Two-Handed High Stance](https://www.nexusmods.com/skyrimspecialedition/mods/47092)
 
 **Main files** - Leviathan Animations - Two-Handed High Stance SE
 
-### [Leviathan Animations - Two-Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/48550)
-
-**Main files** - Leviathan Animations - Two-Handed Normal Attacks For High Stance
-
 ### [Leviathan Animations - Two-Handed Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/50545)
 
 **Main files** - Leviathan Animations - Two-Handed Power Attacks For High Stance
-
-### [Vanargand Animations - One Handed Mid Stance](https://www.nexusmods.com/skyrimspecialedition/mods/57544)
-
-**Main files** - Vanargand Animations - One handed Mid Stance
-
-### [Vanargand Animations - One Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58326)
-
-**Main files** - Vanargand Animations - One handed Normal Attacks
 
 ### [Vanargand Animations - One Handed Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58997)
 
@@ -2310,13 +2365,15 @@ around at all, even in this fantasy world, but sidestep is alright.*
 
 ### [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956)
 
-**Main files** - TK Dodge RE-v0.46
+**Main files** - TK Dodge RE-v0.48a
+
+**FOMOD** - `Enable Sheathed Dodge, Remove Blocking Cancel Attack`.
 
 **Optional files** - Weapon Sheathed Firstperson Dodge Animations
 
 **Merge** - merge both files.
 
-**INI** - In line 12, change _StepDodge_ to `true` and, ini line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). I recommend one of your mouse’s buttons if you have many of them. 
+**INI** - In line 12, change _StepDodge_ to `true` and, in line 5, change _DodgeHotkey_ to your prefered one by using instructions [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes). I recommend one of your mouse’s buttons if you have many of them. 
 > Because of some kind of Skyrim's oddities, each button here is actually one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
 
 *An update for TK Dodge to make it not use any scripts and to overall improve the mod.*
@@ -2556,6 +2613,10 @@ which slightly outshine blocky vanilla faces.*
 **Hide facegen files** - Hide `0001a694, 0001a692, 0001a6d7, 0001a6d5,
 000a2c8e, 00013478` files.  
 
+### [Northbourne NPCs of Hjaalmarch](https://www.nexusmods.com/skyrimspecialedition/mods/62213)
+
+**Main files** - Northbourne NPCs of Hjaalmarch
+
 ### [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247)
 
 **Main files** - Kalilies NPCs
@@ -2640,6 +2701,9 @@ Overhaul Patch
 **Main files** - USSEP - Northbourne NPCs of Whiterun Hold - AI Overhaul
 Patch
 
+**Main files** - USSEP - Northbourne NPCs of Hjaalmarch - AI Overhaul
+Patch
+
 ### [USSEP - The Ordinary Women - AI Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/41371)
 
 **Main files** - USSEP - The Ordinary Women - AI Overhaul Patch
@@ -2653,7 +2717,7 @@ but it is just common practice to keep everything sorted and organized like it s
 Use the picture below if you have troubles figuring order on your own.
 
 <p align="center">
-    <img width="35%" src="https://user-images.githubusercontent.com/37147270/146669887-557fd855-42ad-4c24-b608-d470e7c0a23b.png" /> 
+    <img width="35%" src="https://user-images.githubusercontent.com/37147270/151668655-ffe48bd2-b037-4b49-bbb2-08fdb3fa1852.png" /> 
 </p>
 
 ---
@@ -2911,66 +2975,37 @@ If you are widesreen user, download the next mod and put it right after the last
 
 ## Configurations
 
-And now we are ready to jump into the game, but don’t do it right away.
-
-At the beginning, don’t be scared when you see that your character’s
-hair and/or beard isn't right. Do you remember us installing High Poly
-Head and its hair (and beard) variations, right? Now we need to
-actually activate our high poly head in Racemenu and then our hair will
-look fine. Also choose a beard from High Poly Head and it will look good
-if that is needed. If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
+At the beginning, we need to activate our character's high poly head in character creation menu and then our hair, brows (and/or scars, beard) will look excellent on us. 
+For beast races, high poly head will be the second one.
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
 </p>
 
-Then find the *Weapons* category and change settings to the same ones
-you see below.
+Then customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
 
-<p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765697-cf283484-96bd-4c45-81b7-ccb88554f523.png" /> 
-</p>
-
-After that customize your character to your heart's content.
-
-At first, when Ralof or Hadvar frees you, don’t go anywhere right away.
+At second, when Ralof or Hadvar frees you, don’t go anywhere right away.
 Wait a bit for everything to load (wait after all messages on the top
 left side of the screen disappear).
 
-At second, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section if that wasn't done before. Then continue with configurations below.
+At third, remember to turn the _Depth of Field_ slider all the way down in the in-game settings _Display_ section if that wasn't done before.
 
-* **Diziet’s Auto Outfits** - In configuration settings, check the option
-to unset all hotkeys for this mod. The mod's main functionality doesn't even need them and it allows us to use them for different mods.
-* **End Times** - Lock the slider to not be tempted to change the final
-date all time. One in-game year (approximately **18 real life days**) is good enough (and even feels right somehow) as a default setting to 
-do many other things in between saving the world for the first time. And don't worry - **the game won't end if you kill Alduin**. Also disable the spell
-and countdown as those are pretty annoying. You can always enter into MCM again to see how much time
-you have left.
-* **Smart NPC Potions** - Standard potion drops aren’t affected, so set an
-option to drop this mod’s potions to 0%. Change the chance of NPCs
-having potions to 20% (we don’t want everyone to have those, right?) and
-the number of potions to 3.
-* **Werewolf Widget Control (if you are using the mod from the *Interface* section)** - Change opacity to 60 and
-text colour to white. The timer won’t work during your first
-transformation, after transforming at least once, save your game. When
-you transform again, it will be at the top of the screen near your
-compass.
-* **Wyrmstooth** - Change starting requirements to be the quest starting after _A Blade in the Dark_ quest is done (otherwise it feels too soon for an organization to give this quest out).
+Now you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. If you aren't a fan, just press the same button once again to turn them off.
 
-Now we need to activate some of the mods to actually make them work. Close the MCM menu and the system page and do this:
+* **Look What You See** - Press your `V` key.
+* **Animated Shouts** - Press your right `Alt` key.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the add-on too.
 
-* **Animated Shouts** - Press your right *Alt* key.
-* **Look What You See** - Press your *V* key.
-
-If you don't care about points below, feel free to skip. I **definitely recommend** you to check at least the one about fast travelling, so you won't ask me about that in the support channels. 
-So about these things for you to know about:
+Some quick tips before the end:
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
+* **ENB has the same hotkeys as TPF** - `F10` button toggles the ENB effect, `F11` opens the ENB GUI, `F7` toggles an FPS counter. Feel free to make screenshots with Steam by using `F12`.
 * **TK Dodge RE** - _Mouse 3_ (in other games _Mouse 4_ button - Skyrim's oddities) button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, ferry, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-And just wanted to add some info about one **important** thing. Helgen Reborn note in The Bannered Mare can be read **only** after 5 in-game days after you have finished the main quest *Unbound*. If you want to learn more, go [here](#gameplay-guide).
+**And some important info.** Helgen Reborn note in The Bannered Mare can be taken and read only after 5 in-game days after you have finished the main quest Unbound. 
+Be sure to remember.
 
 At last, I recommend you to go through [here](https://github.com/DragonBlame/tpf-dragons-edition/releases) to see if you didn’t miss any important updates.
 
@@ -2980,22 +3015,22 @@ At last, I recommend you to go through [here](https://github.com/DragonBlame/tpf
 
 That’s all, folks! You are set to traverse into another modded world of Skyrim.
 
-If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, 
+If you have any questions following the add-on's instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the add-on) or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-manual-support_ channel. If you have experienced an in-game bug during your walkthrough, 
 jump in [*Bugs*](DOCUMENTATION.md#bugs) section first.
+
+If you want to learn more about what the add-on offers and just some additional information, check [Gameplay Guide](#gameplay-guide). 
+
+If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
+please use Posts feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub. 
+Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on Nexus.
+
+If you are interested in changing TPF’s default ENB to what I use personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
 I will post about updates for the add-on in _#updates_ channel.
-
-If you are interested in changing TPF’s default ENB to what I use
-personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
-
-If you want to learn more about what the add-on offers and just some additional information, check [Gameplay Guide](#gameplay-guide). 
-
-If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
-please use Posts feature on Nexus or use _#tpf-de-feedback_. Suggestions on how to improve the documentation are also welcome on GitHub.
 
 If you just want to chat, share your beautiful screenshots, builds or performance parameters, I am still happy to see you both on Nexus and in Discord. :)
 
@@ -3092,8 +3127,7 @@ Then open `enbseries.ini` file and change the following lines under [RAIN] separ
 
 Save changes to the file.
 
-Now open `enblocal.ini` file in the folder, change input commands to be as
-the some ones as in TPF:
+Now open `enblocal.ini` file in the folder, change input commands to be as the same ones as in TPF:
 
 -   KeyCombination=0
 -   KeyUseEffect=121
@@ -3141,18 +3175,17 @@ At first, some juicy tips for peeps, who went right here after mingling with the
 there will be a neat spell book waiting for you somewhere around Riverwood.
 * And another one - be sure to travel around Falkreath. Something interesting might happen.
 
-At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to go into the console with ~ key, 
+At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with _~_ key, 
 type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
-Don’t overdo these or animations will look funky. And for all our sakes - don't change your race, gender or name mid-game - that won't make the game happy. 
-After setting up the settings, press *R* and *Enter* and you are done.
+Feel free to configure any other gear while using **only** these settings. **Don't** change any other settings. Also don’t overdo these or animations will look funky. 
+And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press *R* and *Enter* and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
 
 At third, look at some of these additional MCM configurations if you wish:
 
-* **Cathedral Weather** - Feel free to enable _Seasonal Perpective_ option. It makes summers appear more warm, while making winters look more cold.
 * **Cond. Expressions** - Disable out of stamina, in pain,
-headache/diseased expressions. It will look odd if our character is constantly sad and in pain.
+headache/diseased expressions. It can look odd if our character is constantly sad and in pain.
 * **Hide Your Quests** - I recommend to hide right away all quests you get
 right at the beginning except the main one (Unbound), because you mustn't
 start Helgen Reborn quest right at the beginning (read further to learn why) and because The Sinister Seven quest isn’t the one
@@ -3164,18 +3197,23 @@ way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
-* **MoreHUD** - No idea why, but Phoenix has disabled the appearance of information about potions, spell books etc. in her MoreHUD preset, when you move your cursor over those items. That is optional, but I would like to actually see this useful information, so let's enable it back by ticking _Show Ingredient Effects_ and _Show Other Effects_ in _Target's Data_ options.
-> This option should be already chosen for Wabbajack users.
 
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
+* **Camera's side** - Change camera's side by using your `Mouse 5` key. If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
+* **Headtracking** - Press your `V` key to disable or enable headtracking at any time.
+* **Dodging** - `Mouse 4` button is chosen by default for dodging. Feel free to change that by using instructions [here](DOCUMENTATION.md#tk-dodge-re).
+* **Crouch sliding** - While sprinting, you can press `Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
 * **Praying** - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
 you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099). 
+* **Animated shouts** - Press your right _Alt_ key to disable or enable animated shouts at any time.
+* **Dragonborn's powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
+You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` button. Console users can access it by using the tween menu.
+* **Powers of undead** - After finishing one very unique quest, you will unlock an interesting power, which gives you access to another one new perk tree. 
+You will be able to upgrade this power by feeding souls to your source of power. Accessible by pressing `.` button. Console users can access it by using the tween menu.
+* **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
 * **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
 You will need to press _,_ button to use the whistle in the game.
-* **Dragonborn's Powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
-You will be able to upgrade this power by shouting and killing dragons.
-* **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (_E_ by default), while in the air. Use your shout key (_Z_ by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
 
 About just some of interesting mods I have added:
 
