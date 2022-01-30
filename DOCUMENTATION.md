@@ -1855,8 +1855,8 @@ else.*
 standard _Ctrl+V_ command to paste something to your console.
 
 *A neat functionality in one mod (very weird that Bethesda haven't
-thought about adding it, well, like always), which you will probably use
-from time to time.*
+thought about adding it, well, like always), which som users will probably use
+from time to time. Can work a bit oddly, but it does the job.*
 
 ### [AddItemMenu - Ultimate Mod Explorer](https://www.nexusmods.com/skyrimspecialedition/mods/17563)
 
