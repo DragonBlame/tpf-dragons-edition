@@ -79,7 +79,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 * Configured _Cathedral Weathers_ mod to make nights a bit brighter.
 * Fixed Realistic Water Two records again.
-* Made some other little fixes as usual.
+* Made some other little fixes and imrpovements in the documentation as usual.
 * Removed all MCM instructions.
 > Even some from the gameplay guide. Everything was automated.
 * Removed all scars, beards and brows related to vanilla head.
