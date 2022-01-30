@@ -31,7 +31,7 @@ Follow those instructions carefully (while obviously choosing _The Phoenix Flavo
 
 ## Configurations
 
-By default your game is capped at 144 FPS and is borderless.
+By default your game is capped at 75 FPS to avoid any issues related to Skyrim's physics and is borderless.
 
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. The new [Game Stock folder system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) allows us to leave our Skyrim's root folder completely clean and this way more compatible with other modpacks. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
 
