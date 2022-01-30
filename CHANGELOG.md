@@ -73,7 +73,7 @@ where our character's face becomes whitened for a while. So we are just going to
 
 ### Other Changes
 
-* Removed all settings loaders.
+* Removed all settings loaders (except the ones from TPF).
 > Because we don't need them anymore with _MCM Recorder_.
 * Configured _Cathedral Weathers_ mod to make nights a bit brighter.
 * Fixed Realistic Water Two records again.
