@@ -419,6 +419,8 @@ won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+I would also like to mention that if something related to mods doesn't look the same way it looks here, chime in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-manual-support_ channel. In that scenario the mod has updated and we will see together if that will somehow trouble your setup.
+
 ### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917?tab=files)
 
 **Main files** - Beyond Skyrim - Assets
