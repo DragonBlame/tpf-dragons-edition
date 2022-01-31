@@ -19,7 +19,7 @@
 ### New Content
 
 * Removed _Interesting Follower Requirements for Interesting NPCs_.
-> Even thou the idea by itself is great, it needs to be implemented better, otherwise people without knowldege of requiremenets for NPCs are just left confused.
+> Even thou the idea by itself is great, it needs to be implemented better, otherwise people without knowledge of requirements for NPCs are just left confused.
 * Added _3DNPC BSA Replacer_.
 * Added _Ayleid Ruins ENB Light_.
 * Added _Prelude to Purgatory - A Lich Custom Skill Tree_.
