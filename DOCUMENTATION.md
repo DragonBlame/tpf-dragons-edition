@@ -3029,7 +3029,7 @@ If you are interested in changing TPF’s default ENB to what I use personally o
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
 
-I will post about updates for the add-on in _#updates_ channel.
+I will post about updates for the add-on in both TPF's and Wabbajack's Discord servers.
 
 If you just want to chat, share your beautiful screenshots, builds or performance parameters, I am still happy to see you both on Nexus and in Discord. :)
 
@@ -3327,7 +3327,7 @@ while exploring. I hope if you were surprised (in a good way) about something an
 
 I am sorry if you need to use this paragraph.
 
-You have read right at the start on the Nexus page that if something bad
+You have read right at the start that if something bad
 happens I want a normal report, not something like *nothing is working
 wtf help plz*. In my opinion, it is a fair request, so, please, try your
 best to follow.
@@ -3339,22 +3339,14 @@ That is important for me, because then I will know that issue is global and mayb
 
 Report requirements:
 
-*   Title of the report should be made according to the problem (not
-    *Issue, HELP!!!!, problem*, but something like *Aela has Black Face, Flying
-    Barrel Outside Whiterun* etc.);
-    
-    > Of course, appliable just for Nexus reports.
-
 *   Confirmation that you haven't modified or added anything to the add-on;
     
     > If something even hints some kind of addition, you will be asked for **YOUR** *modlist.txt* and *loadorder.txt* (Navigate to your MO2
     folder, open *profiles* folder, then to the profile with problem) 
     (**don't copy those directly to report as text**);
-    
-    > Nexus users should use Google Drive, text sharing service or any other tool for the task.
 
 *   Screenshot or video of the problem if that can be done (copy and paste in the report or again
-    just use any kind of picture sharing service etc.) (when the problem is
+    just use any kind of picture/video sharing service etc.) (when the problem is
     seeable, open the console (*\~* key) and press on the
     problem to see maybe the console gives more information on the source of the issue, then take the screenshot);
 
