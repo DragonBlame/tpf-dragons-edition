@@ -3233,6 +3233,7 @@ you will get only 40% chance to break a lockpick on almost any chest.
 * **About knocking** - Now you can knock on locked doors by activating them. Good for roleplaying and also useful.
 * **About Clairvoyance (_Guiding Wisp_ now)** - Now it is much more useful overall. Just try it out (be sure that you have an active quest in your journal).
 * **About being underwater** - Now you cee your oxygen meter while underwater, so you will know how much time you have before comitting to drowning.
+* **About NPC crafting and enchanting services** - Now you can ask different smiths and mages of Skyrim to craft or enchant for you, but, of course, there are drawbacks - their services are pretty costly and take time. 
 * **About buying Hjerim without joining the war** - Now it is enough to just take the care of the Butcher.
 * **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
 * **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
