@@ -2976,10 +2976,9 @@ If you are widesreen user, download the next mod and put it right after the last
 ## Configurations
 
 At the beginning, we need to activate our character's high poly head in character creation menu and then our hair, brows (and/or scars, beard) will look excellent on us. 
-For beast races, high poly head will be the second one.
 
 <p align="center">
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/142765555-8a1712fb-56a2-4cbd-b3a1-0cccff838d12.png" /> 
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/151776057-aaa74ddf-396d-4bc4-9c83-18be28950be6.png" /> 
 </p>
 
 Then customize your character to your heart's content (while being reasonable). If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
