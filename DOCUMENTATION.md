@@ -3212,7 +3212,7 @@ You will be able to upgrade this power by shouting and killing dragons. Accessib
 You will be able to upgrade this power by feeding souls to your source of power. Accessible by pressing `.` button. Console users can access it by using the tween menu.
 * **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
 * **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
-You will need to press _,_ button to use the whistle in the game.
+You will need to press `,` button to use the whistle in the game.
 
 About just some of interesting mods I have added:
 
