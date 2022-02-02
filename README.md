@@ -1,4 +1,4 @@
-![image](images/Banner.png)
+![image](images/Banner.webp)
 # <p align="center">Version 2.0.</p>
 ### <p align="center">For 4.11.2. v. of TPF</p>
 
