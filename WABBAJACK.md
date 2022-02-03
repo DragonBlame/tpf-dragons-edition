@@ -1,4 +1,4 @@
-![image](images/Banner.png)
+![image](images/Banner.webp)
 
 # Wabbajack
 
