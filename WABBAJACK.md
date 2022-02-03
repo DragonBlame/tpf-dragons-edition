@@ -115,7 +115,9 @@ If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.
 were in the add-on at the beginning. Feel free to use the instructions mentioned before to change them back. 
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
-If you want to help even more, you can donate by pressing button right belove this message [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6ABHYO)
+If you want to help even more, you can donate by pressing the button right below. 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6ABHYO)
 
 I will post about updates for the add-on in both TPF's and Wabbajack's Discord servers.
 
