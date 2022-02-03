@@ -11,6 +11,8 @@
   <a href="WABBAJACK.md">Wabbajack</a>
 </p>
 
+[ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6ABHYO)
+
 
 
 
