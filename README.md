@@ -9,9 +9,10 @@
   <a href="DOCUMENTATION.md">Documentation</a> ·
   <a href="https://github.com/DragonBlame/tpf-dragons-edition/releases">Changelog</a> ·
   <a href="WABBAJACK.md">Wabbajack</a>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6ABHYO)
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6ABHYO)
+
 
 
 
