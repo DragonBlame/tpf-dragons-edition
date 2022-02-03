@@ -3027,7 +3027,9 @@ Before asking additional questions be sure to check the gameplay guide mentioned
 If you are interested in changing TPF’s default ENB to what I use personally or just to learn about my preference in ENBs, continue with the [ENB](#enb) section.
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
-If you want to help even more, you can donate to me (via PayPal) by pressing [here](https://www.paypal.com/donate?hosted_button_id=9K4MGQC23DRYL).
+If you want to help even more, you can donate by pressing the button right below. 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6ABHYO)
 
 I will post about updates for the add-on in both TPF's and Wabbajack's Discord servers.
 
