@@ -9,9 +9,10 @@
   <a href="DOCUMENTATION.md">Documentation</a> ·
   <a href="https://github.com/DragonBlame/tpf-dragons-edition/releases">Changelog</a> ·
   <a href="WABBAJACK.md">Wabbajack</a>
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#ff9900', 'H2H6ABHYO');kofiwidget2.draw();</script> 
 </p>
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#ff9900', 'H2H6ABHYO');kofiwidget2.draw();</script> 
+
 
 
 
