@@ -3328,17 +3328,14 @@ while exploring. I hope if you were surprised (in a good way) about something an
 
 I am sorry if you need to use this paragraph.
 
-You have read right at the start that if something bad
-happens I want a normal report, not something like *nothing is working
-wtf help plz*. In my opinion, it is a fair request, so, please, try your
-best to follow.
+You have read right at the beginning that if something bad happens I would like to see a normal report, not something like *nothing is working wtf help plz*. 
+In my opinion, it is a fair request, so, please, try your best to follow.
 
-Of course, if you are reporting not an in-game bug, I am not expecting 5
-sentences about that, just write what the problem is in appropriate channels. 
+Of course, if you are reporting not an in-game bug, I am not expecting 5 sentences about that, just write what the problem is in appropriate channels. 
 And if another person reported any kind of issue you have too, mention that you are having the same issue.
 That is important for me, because then I will know that issue is global and maybe I will need your help to resolve it. 
 
-**Report requirements:**
+### Report requirements
 
 *   Confirmation that you haven't modified or added anything to the add-on;
     
@@ -3368,9 +3365,9 @@ That is important for me, because then I will know that issue is global and mayb
     example), of course, you don’t need to write the same thing
     again).
 
-#### Example
+### Example
 
-***Black Face***
+#### Black Face
 
 A person has sent me a screenshot of a guard with black face and I
 see all the data about the guard from a console, her perfect, untouched
