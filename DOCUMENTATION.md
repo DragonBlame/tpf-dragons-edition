@@ -3338,7 +3338,7 @@ sentences about that, just write what the problem is in appropriate channels.
 And if another person reported any kind of issue you have too, mention that you are having the same issue.
 That is important for me, because then I will know that issue is global and maybe I will need your help to resolve it. 
 
-Report requirements:
+**Report requirements:**
 
 *   Confirmation that you haven't modified or added anything to the add-on;
     
@@ -3363,7 +3363,7 @@ Report requirements:
 *   How to repeat the issue.
 
 >   Remember that Skyrim is Skyrim, so if the
-    issue can’t be repeated, I won’t be able to help) (if by your
+    issue can’t be repeated, I won’t be able to help (if by your
     report it is understandable how to repeat the issue (in the
     example), of course, you don’t need to write the same thing
     again).
