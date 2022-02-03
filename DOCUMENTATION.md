@@ -3250,7 +3250,7 @@ added quests. They can be split between early
 and mid game and late game ones, because their difficulty slightly
 differs.
 
-#### Early and Mid Game Quests
+### Early and Mid Game Quests
 
 * **Winterhold Deep Sea Ruins** - Can be started any time by going northeast
 from Winterhold. A journal can be found there in small ruins, which will
@@ -3282,7 +3282,7 @@ when the mod starts.
 pickpocketing or stealing anything. Level 30-35 is recommended, for
 thief characters (sneaking and pickpocketing).
 
-#### Late Game Quests
+### Late Game Quests
 
 * **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
 Tomb. While generic enemies can be not as tough, the bosses will kick your ass.
