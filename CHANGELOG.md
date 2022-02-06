@@ -52,11 +52,6 @@
 * Removed _Literally Unplayable - Kaidan Patch_.
 > Not needed with the new overhaul we are using now.
 
-### Alternate Start
-
-* Changed installation instructions for _Ralof or Hadvar_.
-> Didn't expect that.
-
 ### Preparations
 
 * Added instructions to ESLify some ESPs.
