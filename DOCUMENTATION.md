@@ -3007,6 +3007,20 @@ If you are widesreen user, download the next mod and put it right after the last
 
 **Main files** - Ultrawide Forget Spell Patch
 
+And the last step for adjusting the add-on is to free some ESP space. Feel free to look [here](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins) if you forgot how to do that. The following plugins need to be ESLified:
+
+* Legion - Bruma EZs (Mid-game).esp
+* SMIM-Bruma-Patch.esp
+* Darkend Balance Patch.esp
+* High Poly Head Vampire Fix.esp
+* UniqueBarbas.esp
+* KS Hairdos SMP for Men.esp
+* Kyoe_BanginBrows_Vanillamatch.esp
+* RealisticHuskySoundsSSE.esp
+* FasterMiningPlusSE.esp
+* Thuum.esp
+* RealisticWaterTwo - Waves - Wyrmstooth.esp
+
 ---
 
 ## Configurations
