@@ -40,6 +40,7 @@
 
 * Added _ENB Input Disabler_.
 * Added _e-FPS - Exterior FPS Boost_ and _eFPS - Official Patch Hub_.
+* Changed installation and FOMOD instructions for _Faster HDT_SMP_.
 
 ### Skeleton & Animations
 
@@ -71,6 +72,7 @@
 ### Updated Add-on's Mods for Wabbajack Users
 
 * moreHUD Inventory Edition
+* Unique Map Weather Framework
 * Serana Dialogue Add-On
 * Wyrmstooth
 * The Wheels of Lull
