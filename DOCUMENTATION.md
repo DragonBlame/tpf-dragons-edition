@@ -240,15 +240,9 @@ least a bunch of the members, The Dark Brotherhood feels like The Dark
 Dragonborn, so give me a chance to save more of the members especially
 considering the mod, which will be featured later.*
 
-### [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=files)
-
-**Main files** - SeranaDialogEdit v 102
-
 ### [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files)
 
 **Main files** - Serana Dialogue Add-On SE
-
-**Optional files** - SDA Serana Dialogue Edit Patch
 
 ### [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files)
 
@@ -403,6 +397,10 @@ younger.*
 ### [Winterhold Deep Sea Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/53707?tab=files)
 
 **Main files** - winterholddeepsearuins
+
+### [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466?tab=files)
+
+**Main files** - Vittorias Alternate Wedding
 
 ### [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329?tab=files)
 
@@ -980,10 +978,6 @@ files.
 
 **Main files** - Kaidan 2.1.1
 
-### [Pandorable's Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/23738?tab=files)
-
-**Main files** - Pandorable's Kaidan SE
-
 ### [Kaidan 2 - HD Armor Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59736?tab=files)
 
 **Main files** - Kaidan 2 - HD Armor Retexture
@@ -991,6 +985,14 @@ files.
 ### [Kaidan 2 Follower Voice Fixes and Additional Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/59349?tab=files)
 
 **Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 2.2
+
+### [High Poly Kaidan - Face and Body](https://www.nexusmods.com/skyrimspecialedition/mods/59975?tab=files)
+
+**Main files** - High Poly Kaidan - Improved
+
+**Main files** - Vanilla Body - Non-Nude with Briefs
+
+**Merge** - Merge both files.
 
 ### [Shirley - A Skyrim Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45956?tab=files)
 
@@ -1028,6 +1030,14 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)
+
+**Main files** - Grass Control v8
+
+**Instructions** - Double click on the mod inside your MO2, find _Text Files_ section, in line 62, change _SuperDenseGrass_ to `True`, in line 99, 
+change _UseGrassCache_ to `True`, in line 74, change _SuperDenseMode_ to `7`, in line 99, 
+change _UseGrassCache_ to `True`, in line 122, change _ExtendGrassCount_ to `True`, in line 149, change _OverwriteGrassDistance_ to `12000`,  in line 163, change _OverwriteGrassFadeRange_ to `8000`, in line 198, change _OnlyLoadFromCache_ to `True`, in line 233, change _DynDOLODGrassMode_ to `1`.  
+
 ### [Lanterns of Skyrim II - Insects Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50670)
 
 **Main files** - Lanterns of Skyrim II Insects Patch (v1.1 esm)
@@ -1049,15 +1059,6 @@ _These ones make me happy too._
 ### [Happy Little Trees - Better Dynamic Ash Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58700)
 
 **Main files** - Happy Little Trees - Better Dynamic Ash Patch
-
-### [Treerific](https://www.nexusmods.com/skyrimspecialedition/mods/62267)
-
-**Main files** - Treerific
-
-**Hide** - hide _treepineforestdead02.nif_ and all snow related files under _\meshes\landscape\trees_ folder. Unfortunately the dead tree mesh is quite broken at the moment and makes your game CTD,
-while snowy meshes give you white leaves on trees. While we are waiting for the author to fix that, let's enjoy happy snowy trees.
-
-_Do I even have to write down here anything related to trees? I didn't have any words, when I looked at in the game for the first time._
 
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
@@ -1250,7 +1251,7 @@ Lanterns of Skyrim II`.
 
 ### [Little Touches - Stairway to The Wind District](https://www.nexusmods.com/skyrimspecialedition/mods/54936)
 
-**Main files** - LT-Stairway_to_The_Wind_District_Fixed
+**Main files** - AIO-LT- A Tree Placement for Whiterun City
 
 ---
 
