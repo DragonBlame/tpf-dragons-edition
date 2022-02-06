@@ -1841,9 +1841,9 @@ with shouts together with Forceful Tongue - Shouts Overhaul.*
 
 ### [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
 
-**Main files (the latest v.)** - Faster HDT-SMP
+**Main files (v. 1.18)** - Faster HDT-SMP
 
-**FOMOD** - don't change anything.
+**FOMOD** - `Not CUDA (recommended), No AVX - Day (recommended), None`.
 
 *SKSE plugin, which will allow us to use physics for our PC, like in our
 scenario, with moving hair. Bonk people, who thought about something
