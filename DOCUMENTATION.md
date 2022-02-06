@@ -1402,8 +1402,8 @@ separator in the same order.
 
 ## Apparel & Weapons
 
-Nothing much as you will get plenty of goodies from new and old quests -
-just some new weapons to our favourite NPCs to show their status and
+Nothing much as you will get plenty of goodies from new and old quests - just some new armours and clothing for all NPCs,
+new weapons to our favourite NPCs to show their status and
 power and different looking variants of gear for player character.
 
 Create a separator and name it `APPAREL & WEAPONS EXTENDED` and place it
@@ -1424,6 +1424,10 @@ While you are logged in and when you will open a link to the website
 from here, there will be a button *Download this file*. If mod has
 different versions, there will be instructions on which one to get like
 always.
+
+### [Fashions of the Fourth Era](https://sforzmods.tumblr.com/sse_fashions)
+
+_One of the most immersive clothing and armour mod I have ever seen. Blends very well within the vanilla gear. What is even more dope - each game much of NPCs gear will change randomly._
 
 ### [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
 
@@ -1809,6 +1813,12 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)
+
+**Main files** - ENB Input Disabler
+
+*Turns off the game's controls, while you make changes to your ENB. A must have for ENB modifiers.*
+
 ### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
 **Main files** - UIExtensions v1-2-0
@@ -1885,6 +1895,18 @@ the game's stock folder.
 
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
+
+### [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
+
+**Main files** - eFPS - Exterior FPS boost
+
+*A must have mod, which makes us save FPS by using occlusion culling technique - placing invisible walls inside mountains, homes, castles etc. not to load what is behind them and player.*
+
+### [eFPS - Official Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/54998)
+
+**Main files** - eFPS - Official Patch Hub
+
+**FOMOD** - Don't change anything, the mod will auto-select all patches we need.
 
 ### [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
 
@@ -2157,14 +2179,6 @@ sounded a little bit too silly.*
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
 
-### [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322)
-
-**Main files** - Animated Forge Water
-
-**FOMOD** - `Slower Embers HD`.
-
-*Just look at that monstrous vanilla forge water and you won't have any questions.*
-
 ### [Character Light](https://www.nexusmods.com/skyrimspecialedition/mods/58955)
 
 **Main files** - Character Light SE AE v2
@@ -2181,10 +2195,6 @@ it doesn't use scripts. Obtainable by using AddItemMenu.*
 ### [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
 
 **Main files** - More Growable Plants_3D Mountain Flowers patch
-
-### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
-
-**Main files** - ENB Lava Particle Light Patch
 
 ---
 
