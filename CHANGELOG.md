@@ -45,6 +45,7 @@
 
 * Added _OnHit Animations Framework_, _zxlice hitStop_ and _Flinching_.
 * Changed installation instructions for _Animation Motion Revolution_.
+* Changed installation and FOMOD instructions for _Pretty Combat Animations_.
 
 ### Literally Unplayable
 
@@ -78,4 +79,6 @@
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 * Winterhold Keep Tweaks for COTN
 * The Great Village of Kynesgrove Patch Collection
+* JK's Interiors Patch Collection
 * Animation Motion Revolution
+* Pretty Combat Animations
