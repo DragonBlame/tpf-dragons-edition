@@ -39,6 +39,9 @@
 
 ### Miscellaneous
 
+* Removed _Animated Forge Water_.
+* Removed _ENB Lava Particle Light Patch_.
+> If we are honest, I expected something better from these two mods.
 * Added _ENB Input Disabler_.
 * Added _e-FPS - Exterior FPS Boost_ and _eFPS - Official Patch Hub_.
 * Changed installation and FOMOD instructions for _Faster HDT_SMP_.
@@ -65,6 +68,7 @@
 * Readded information about _End Times_.
 * Changed the starting spell, which you find inside the first locked cage in Helgen's Keep, to Flames.
 > Sparks aren't useful for player in the early stages of the game. Should have done that long time ago.
+* Generated normal water for forges by using scripting.
 
 ### Wabbajack
 
