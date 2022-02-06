@@ -14,9 +14,10 @@
 
 ### Improved Vanilla Content
 
-* Removed _Serana Dialogue Edit_ and its patch for _Serana Dialogue Add-on_.
+* Removed _Serana Dialogue Edit_.
 > Considering the fact that _SDE_ won't be updated anymore and that it just makes a mess with different voices for Serana, let us just enjoy _SDA_ in peace.
 * Added _Vittorias Alternate Wedding_.
+* Changed installation instructions for _Serana Dialogue Add-On_.
 
 ### New Content
 
