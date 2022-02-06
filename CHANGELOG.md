@@ -72,6 +72,7 @@
 * moreHUD Inventory Edition
 * Serana Dialogue Add-On
 * Wyrmstooth
+* The Wheels of Lull
 * Undeath - Classical Lichdom
 * Prelude to Purgatory - A Lich Custom Skill Tree
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
