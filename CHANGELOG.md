@@ -13,6 +13,8 @@
 
 ### Improved Vanilla Content
 
+* Removed _Serana Dialogue Edit_ and its patch for _Serana Dialogue Add-on_.
+> Considering the fact that _SDE_ won't be updated anymore and that it just makes a mess with different voices for Serana, let us just enjoy _SDA_ in peace.
 * Added _Vittorias Alternate Wedding_.
 
 ### New Content
@@ -47,32 +49,25 @@
 * Removed _Literally Unplayable - Kaidan Patch_.
 > Not needed with the new overhaul we are using now.
 
+### Preparations
+
+* Added instructions to ESLify some ESPs.
+
 ---
 
 ### Other Changes
 
-* 
+* Readded information about _End Times_.
+* Changed the starting spell, which you find inside the first locked cage in Helgen's Keep, to Flames.
+> Sparks aren't useful for player in the early stages of the game. Should have done that long time ago.
 
 ### Wabbajack
 
-* The documentation for Wabbajack users was updated for the latest changes.
+* Added _Racemenu - Widescreen Fix_.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* DynDOLOD Resources
 * Serana Dialogue Add-On
+* Wyrmstooth
 * Undeath - Classical Lichdom
-* FaceGen Output for Different Mods
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
-* Wuth Rein
-* JK's Blue Palace
-* JK's Understone Keep
-* JK's Haelga's Bunkhouse
-* BeastHHBB
-* Base Obejct Swapper
-* Faster HDT-SMP
-* VioLens - A Killmove Mod
-* VioLens - A Killmove Mod - Settings Loader
-* Pretty One-Handed Animations Overhaul
-* TK Dodge RE
-* Literally Unplayable - The Forgotten City Patch
