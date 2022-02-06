@@ -2240,6 +2240,12 @@ _Fixes the vanilla issue, where attacking, while moving slowly, will make you sl
 
 _A SKSE plugin, which removes the mismatch between displacement and supported animations. It basically fixes ice-skating for new animation mods._
 
+### [OnHit Animations Framework](https://www.nexusmods.com/skyrimspecialedition/mods/42574)
+
+**Main files** - OnHit Animations Framework SSE- v1.16
+
+_A framework, which allows mods to execute animations, when you hit your enemy without any in-game scripts running._
+
 ### [Better Power Attack Direction Control](https://www.nexusmods.com/skyrimspecialedition/mods/49648)
 
 **Main files** - Better PowerAttack Control-SSE
@@ -2257,6 +2263,20 @@ _And another one, which allows us to use a script-free invincibility frames feat
 **Main files** - SSE Version
 
 *A little fix for war hammers and battle axes' movement animations, so they won't get a bit jank after running or starting to run.*
+
+### [zxlice hitStop](https://www.nexusmods.com/skyrimspecialedition/mods/42811)
+
+**Main files** - zxlice hitStop - SSE v0.9.3a
+
+*A plugin, which makes you feel when you actually hit something or someone with weapons by altering visual feeback.*
+
+### [Flinching](https://www.nexusmods.com/skyrimspecialedition/mods/42550)
+
+**Main files** - Script free Flinching
+
+**FOMOD** - `Choose everything`. 
+
+*Adds a little flinching animation to player or NPCs, when they are hit, without interrupting anything else.*
 
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
