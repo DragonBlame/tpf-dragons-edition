@@ -10,6 +10,7 @@
 
 * Readded _Weather of World_.
 > After checking everything a little bit more, I agree that it is better than Luminosity's variant.
+* Changed installation instructions for _moreHUD Inventory Edition_.
 
 ### Improved Vanilla Content
 
@@ -67,6 +68,7 @@
 
 ### Updated Add-on's Mods for Wabbajack Users
 
+* moreHUD Inventory Edition
 * Serana Dialogue Add-On
 * Wyrmstooth
 * Undeath - Classical Lichdom
