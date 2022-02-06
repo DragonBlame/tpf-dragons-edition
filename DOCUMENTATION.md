@@ -3053,8 +3053,9 @@ Some quick tips before the end:
 * **TK Dodge RE** - _Mouse 3_ (in other games _Mouse 4_ button - Skyrim's oddities) button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-**And some important info.** Helgen Reborn note in The Bannered Mare can be taken and read only after 5 in-game days after you have finished the main quest Unbound. 
-Be sure to remember.
+**And some important info.** _Helgen Reborn_ note in The Bannered Mare can be taken and read only after 5 in-game days after you have finished the main quest Unbound. 
+Also reminder about _End Times_. Lock the slider to not be tempted to change the final date all time. One default in-game year (approximately **18 real life days**) is good enough (and even feels right somehow) as a default setting to do many other things in between saving the world for the first time. 
+And don't worry - **the game won't end if you kill Alduin**. You can always enter into MCM again to see how much time you have left. Be sure to remember.
 
 At last, I recommend you to go through [here](https://github.com/DragonBlame/tpf-dragons-edition/releases) to see if you didn’t miss any important updates.
 
