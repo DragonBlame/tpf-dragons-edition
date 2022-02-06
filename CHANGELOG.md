@@ -69,7 +69,7 @@
 > Sorry.
 * Changed the starting spell, which you find inside the first locked cage in Helgen's Keep, to Flames.
 > Sparks aren't useful for player in the early stages of the game. Should have done that long time ago.
-* Generated normal water for forges by using scripting.
+* Added additional information to Gameplay Guide.
 
 ### Wabbajack
 
