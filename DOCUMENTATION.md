@@ -164,6 +164,12 @@ books you have read and it tells you about which kind of skill you can level by 
 
 *Enables unique weather to be added to world maps, so we won't see the same Skyrim map's weather inside Soul Cairn's map.*
 
+### [Weather of World](https://www.nexusmods.com/skyrimspecialedition/mods/58782)
+
+**Main files** - Weather of World
+
+*Enhances the general look of our map by adjusting it according to time of day and weather.*
+
 ### [Detailed Mine Markers](https://www.nexusmods.com/skyrimspecialedition/mods/3172)
 
 **Main files** - Detailed Mine Markers v1.4
