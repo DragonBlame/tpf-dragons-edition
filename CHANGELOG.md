@@ -80,5 +80,6 @@
 * Winterhold Keep Tweaks for COTN
 * The Great Village of Kynesgrove Patch Collection
 * JK's Interiors Patch Collection
+* BeastHHBB
 * Animation Motion Revolution
 * Pretty Combat Animations
