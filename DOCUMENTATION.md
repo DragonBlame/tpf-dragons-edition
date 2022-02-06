@@ -2251,9 +2251,10 @@ _And another one, which allows us to use a script-free invincibility frames feat
 a piece of living rock.*
 
 ### [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
-**Main files** - Pretty Combat Animations 1.38
 
-**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Vanilla` two times after skipping extra and sneak options for bows.
+**Main files** - Pretty Combat Animations 1.41 sse
+
+**FOMOD** - `Style 01, Sneak Turn, Sneak Run, Vanilla, Crossbow, Ranger_Belt-Fastened Quiver, Archer Sneak Bow_Belt-Fastened Quiver, Vanilla` two times after skipping extra bow option.
 
 ### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
@@ -2785,8 +2786,6 @@ its colour, so that it won't be the same as TPF's ones.
 **Main files** - Literally Unplayable - Inigo Patch
 
 **Main files** - Literally Unplayable - High Poly Inigo Patch
-
-**Main files** - Literally Unplayable - Kaidan Patch
 
 **Main files** - Literally Unplayable - Shirley Patch
 
