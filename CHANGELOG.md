@@ -72,4 +72,7 @@
 * Serana Dialogue Add-On
 * Wyrmstooth
 * Undeath - Classical Lichdom
+* Prelude to Purgatory - A Lich Custom Skill Tree
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* Winterhold Keep Tweaks for COTN
+* The Great Village of Kynesgrove Patch Collection
