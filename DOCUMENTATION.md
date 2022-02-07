@@ -3013,6 +3013,12 @@ If you are widesreen user, download the next mod and put it right after the last
 
 **Main files** - Ultrawide Forget Spell Patch
 
+Then we need to update one of TPF's mod to the latest of its version.
+
+[AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654)
+
+**MOptional files** - AI Overhaul for SE Only
+
 And the last step for adjusting the add-on is to free some ESP space. Feel free to look [here](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins) if you forgot how to do that. The following plugins need to be ESLified:
 
 * Legion - Bruma EZs (Mid-game).esp
