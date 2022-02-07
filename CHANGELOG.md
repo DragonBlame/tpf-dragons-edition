@@ -29,7 +29,6 @@
 
 * Removed _Treerific_.
 > That is sad, but it has too many problems which need to be dealth with in order to be added back. Well, at least the modlist will have less performance impact on your machines.
-* Added _No Grass In Objects_.
 * Added _Renthal's Reach Mountain Moss_.
 * Changed installation instructions for _Little Touches - A Tree Placement for Whiterun City_.
 > No big trees means that they can return to the city.
