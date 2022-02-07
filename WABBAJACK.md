@@ -10,7 +10,7 @@ If you would like to learn more general information about the fork, be sure to v
 
 **Fork's installation size** - ~ 153 GB (your installation folder must be unique)
 
-**Fork mod's size** - ~ 83 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
+**Fork mod's size** - ~ 84 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
 
 ---
 
