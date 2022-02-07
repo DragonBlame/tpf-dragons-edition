@@ -398,6 +398,10 @@ younger.*
 
 **Main files** - winterholddeepsearuins
 
+### [Runic Dawnguard - Separated Lost Relic Questline](https://www.nexusmods.com/skyrimspecialedition/mods/63108/?tab=files)
+
+**Main files** - Runic Dawnguard - USSEP Version
+
 ### [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466?tab=files)
 
 **Main files** - Vittorias Alternate Wedding
