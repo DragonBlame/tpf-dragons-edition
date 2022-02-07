@@ -153,7 +153,7 @@ active effects by their expiration time and by making equipped items grouped rig
 
 ### [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
 
-**Old files** - moreHUD Inventory Edition Loose Version - Pre AE
+**Optional files** - moreHUD Inventory Edition Loose Version - Pre AE
 
 *It makes you aware of known weapon and armor enchantments, 
 books you have read and it tells you about which kind of skill you can level by reading book.*
@@ -163,6 +163,12 @@ books you have read and it tells you about which kind of skill you can level by 
 **Main files** - Unique Map Weather Framework
 
 *Enables unique weather to be added to world maps, so we won't see the same Skyrim map's weather inside Soul Cairn's map.*
+
+### [Weather of World](https://www.nexusmods.com/skyrimspecialedition/mods/58782)
+
+**Main files** - Weather of World
+
+*Enhances the general look of our map by adjusting it according to time of day and weather.*
 
 ### [Detailed Mine Markers](https://www.nexusmods.com/skyrimspecialedition/mods/3172)
 
@@ -234,15 +240,9 @@ least a bunch of the members, The Dark Brotherhood feels like The Dark
 Dragonborn, so give me a chance to save more of the members especially
 considering the mod, which will be featured later.*
 
-### [Serana Dialogue Edit](https://www.nexusmods.com/skyrimspecialedition/mods/16222?tab=files)
-
-**Main files** - SeranaDialogEdit v 102
-
 ### [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=files)
 
 **Main files** - Serana Dialogue Add-On SE
-
-**Optional files** - SDA Serana Dialogue Edit Patch
 
 ### [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473?tab=files)
 
@@ -397,6 +397,14 @@ younger.*
 ### [Winterhold Deep Sea Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/53707?tab=files)
 
 **Main files** - winterholddeepsearuins
+
+### [Runic Dawnguard - Separated Lost Relic Questline](https://www.nexusmods.com/skyrimspecialedition/mods/63108/?tab=files)
+
+**Main files** - Runic Dawnguard - USSEP Version
+
+### [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466?tab=files)
+
+**Main files** - Vittorias Alternate Wedding
 
 ### [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329?tab=files)
 
@@ -974,10 +982,6 @@ files.
 
 **Main files** - Kaidan 2.1.1
 
-### [Pandorable's Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/23738?tab=files)
-
-**Main files** - Pandorable's Kaidan SE
-
 ### [Kaidan 2 - HD Armor Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59736?tab=files)
 
 **Main files** - Kaidan 2 - HD Armor Retexture
@@ -985,6 +989,14 @@ files.
 ### [Kaidan 2 Follower Voice Fixes and Additional Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/59349?tab=files)
 
 **Main files** - Kaidan 2 Voice Fixes and Additional Dialogue 2.2
+
+### [High Poly Kaidan - Face and Body](https://www.nexusmods.com/skyrimspecialedition/mods/59975?tab=files)
+
+**Main files** - High Poly Kaidan - Improved
+
+**Main files** - Vanilla Body - Non-Nude with Briefs
+
+**Merge** - Merge both files.
 
 ### [Shirley - A Skyrim Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45956?tab=files)
 
@@ -1022,6 +1034,14 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)
+
+**Main files** - Grass Control v8
+
+**Instructions** - Double click on the mod inside your MO2, find _Text Files_ section, in line 62, change _SuperDenseGrass_ to `True`, in line 99, 
+change _UseGrassCache_ to `True`, in line 74, change _SuperDenseMode_ to `7`, in line 99, 
+change _UseGrassCache_ to `True`, in line 122, change _ExtendGrassCount_ to `True`, in line 149, change _OverwriteGrassDistance_ to `12000`,  in line 163, change _OverwriteGrassFadeRange_ to `8000`, in line 198, change _OnlyLoadFromCache_ to `True`, in line 219, add `_EntranceTowerLower;3DNPCGabaniasWorld;aaaaMODFIREFinalBossWorld;aaaLucOblivionRealm;aaaWereBalokDungeonWorld;Blackreach;BlindCliffCaveWorld;BloatedMansGrottoWorld;BluePalaceWingWorld;BSHeartland;BSKTestWorld;CYRBiomeTesting;CYRFrostfireGlade;CYRGreenLeafGlade;CYRTestWorld;DarkwaterWorld;DeepwoodRedoubtWorld;Dimfrost;DLC01Boneyard;DLC01FalmerValley;DLC01SoulCairn;DLC1AncestorsGladeWorld;DLC1DarkfallPassageWorld;DLC1ForebearsHoldout;DLC1HunterHQWorld;DLC1VampireCastleCourtyard;DLC2SolstheimWorld;EastEmpireWarehouse;EldergleamSanctuaryWorld;ERDPGrimrootHollowWorld01;ERDPIsleofAshes;ERDPRimewakeGrottoWorld01;ERDPStonehillRefugeWorld01;ERDPStonehillRefugeWorld02;FallowstoneCaveWorldEnd;FallowstoneCaveWorldStart;FDIWDLC1CanyonBaths;FDIWDLC1CanyonLibrary;FFAOBBoethiahPlane;FrostmereCryptWorld;JaphetsFollyWorld;KarthspireRedoubtWorld;KatariahWorld;mannyGFDesert;mannyGFL;mannyGFO;MarkarthWorld;MossMotherCavernWorld;NecroDragontailMountains;RiftenWorld;ShadowgreenCavernWorld;SkuldafnWorld;SolitudeWorld;Sovngarde;Tamriel;Vuldur;WhiterunDragonsreachWorld;WhiterunWorld;WindhelmPitWorldspace;WindhelmWorld;WyrmstoothWorld;XJKDarkendTower;XJKislandWorld;XJKislandWorld2` inside the quotes of _OnlyPregeneratedWorldSpaces_, in line 233, change _DynDOLODGrassMode_ to `1`.  
+
 ### [Lanterns of Skyrim II - Insects Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50670)
 
 **Main files** - Lanterns of Skyrim II Insects Patch (v1.1 esm)
@@ -1043,15 +1063,6 @@ _These ones make me happy too._
 ### [Happy Little Trees - Better Dynamic Ash Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58700)
 
 **Main files** - Happy Little Trees - Better Dynamic Ash Patch
-
-### [Treerific](https://www.nexusmods.com/skyrimspecialedition/mods/62267)
-
-**Main files** - Treerific
-
-**Hide** - hide _treepineforestdead02.nif_ and all snow related files under _\meshes\landscape\trees_ folder. Unfortunately the dead tree mesh is quite broken at the moment and makes your game CTD,
-while snowy meshes give you white leaves on trees. While we are waiting for the author to fix that, let's enjoy happy snowy trees.
-
-_Do I even have to write down here anything related to trees? I didn't have any words, when I looked at in the game for the first time._
 
 ### [Official Unique Flowers and Plants](https://www.nexusmods.com/skyrimspecialedition/mods/29154)
 
@@ -1082,6 +1093,12 @@ Cathedral Mountain Flowers
 
 **Optional files** - A Patch for Lanterns of Skyrim II and Cathedral
 Mountain Flowers
+
+### [Renthal's Reach Mountain Moss](https://www.nexusmods.com/skyrimspecialedition/mods/44090)
+
+**Main files** - Renthal's Reach Mountain Moss Desaturated
+
+*Just look at the pictures.*
 
 ### [Butterflies Land True](https://www.nexusmods.com/skyrimspecialedition/mods/29434)
 
@@ -1244,7 +1261,7 @@ Lanterns of Skyrim II`.
 
 ### [Little Touches - Stairway to The Wind District](https://www.nexusmods.com/skyrimspecialedition/mods/54936)
 
-**Main files** - LT-Stairway_to_The_Wind_District_Fixed
+**Main files** - AIO-LT- A Tree Placement for Whiterun City
 
 ---
 
@@ -1395,8 +1412,8 @@ separator in the same order.
 
 ## Apparel & Weapons
 
-Nothing much as you will get plenty of goodies from new and old quests -
-just some new weapons to our favourite NPCs to show their status and
+Nothing much as you will get plenty of goodies from new and old quests - just some new armours and clothing for all NPCs,
+new weapons to our favourite NPCs to show their status and
 power and different looking variants of gear for player character.
 
 Create a separator and name it `APPAREL & WEAPONS EXTENDED` and place it
@@ -1417,6 +1434,10 @@ While you are logged in and when you will open a link to the website
 from here, there will be a button *Download this file*. If mod has
 different versions, there will be instructions on which one to get like
 always.
+
+### [Fashions of the Fourth Era](https://sforzmods.tumblr.com/sse_fashions)
+
+_One of the most immersive clothing and armour mod I have ever seen. Blends very well within the vanilla gear. What is even more dope - each game much of NPCs gear will change randomly._
 
 ### [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
 
@@ -1802,6 +1823,12 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
+### [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)
+
+**Main files** - ENB Input Disabler
+
+*Turns off the game's controls, while you make changes to your ENB. A must have for ENB modifiers.*
+
 ### [UIExtensions](https://www.nexusmods.com/skyrimspecialedition/mods/17561)
 
 **Main files** - UIExtensions v1-2-0
@@ -1841,9 +1868,9 @@ with shouts together with Forceful Tongue - Shouts Overhaul.*
 
 ### [Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
 
-**Main files (the latest v.)** - Faster HDT-SMP
+**Main files (v. 1.18)** - Faster HDT-SMP
 
-**FOMOD** - don't change anything.
+**FOMOD** - `Not CUDA (recommended), No AVX - Day (recommended), None`.
 
 *SKSE plugin, which will allow us to use physics for our PC, like in our
 scenario, with moving hair. Bonk people, who thought about something
@@ -1878,6 +1905,18 @@ the game's stock folder.
 
 *Allows your friends in Discord to see that you are actually really busy
 looting Nazeem's house.*
+
+### [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
+
+**Main files** - eFPS - Exterior FPS boost
+
+*A must have mod, which makes us save FPS by using occlusion culling technique - placing invisible walls inside mountains, homes, castles etc. not to load what is behind them and player.*
+
+### [eFPS - Official Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/54998)
+
+**Main files** - eFPS - Official Patch Hub
+
+**FOMOD** - Don't change anything, the mod will auto-select all patches we need.
 
 ### [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641)
 
@@ -2150,14 +2189,6 @@ sounded a little bit too silly.*
 *That’s a little bit stupid than in vanilla you don’t get to see the new
 Gildergreen growing from the sapling. Let’s change that.*
 
-### [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322)
-
-**Main files** - Animated Forge Water
-
-**FOMOD** - `Slower Embers HD`.
-
-*Just look at that monstrous vanilla forge water and you won't have any questions.*
-
 ### [Character Light](https://www.nexusmods.com/skyrimspecialedition/mods/58955)
 
 **Main files** - Character Light SE AE v2
@@ -2174,10 +2205,6 @@ it doesn't use scripts. Obtainable by using AddItemMenu.*
 ### [3D Mountain Flowers Hearthfire Planters Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49113)
 
 **Main files** - More Growable Plants_3D Mountain Flowers patch
-
-### [ENB Lava Particle Light Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
-
-**Main files** - ENB Lava Particle Light Patch
 
 ---
 
@@ -2219,9 +2246,15 @@ _Fixes the vanilla issue, where attacking, while moving slowly, will make you sl
 
 ### [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)
 
-**Main files** - Animation Motion Revolution 1.4
+**Main files** - Animation Motion Revolution - Special Edition
 
 _A SKSE plugin, which removes the mismatch between displacement and supported animations. It basically fixes ice-skating for new animation mods._
+
+### [OnHit Animations Framework](https://www.nexusmods.com/skyrimspecialedition/mods/42574)
+
+**Main files** - OnHit Animations Framework SSE- v1.16
+
+_A framework, which allows mods to execute animations, when you hit your enemy without any in-game scripts running._
 
 ### [Better Power Attack Direction Control](https://www.nexusmods.com/skyrimspecialedition/mods/49648)
 
@@ -2241,6 +2274,20 @@ _And another one, which allows us to use a script-free invincibility frames feat
 
 *A little fix for war hammers and battle axes' movement animations, so they won't get a bit jank after running or starting to run.*
 
+### [zxlice hitStop](https://www.nexusmods.com/skyrimspecialedition/mods/42811)
+
+**Main files** - zxlice hitStop - SSE v0.9.3a
+
+*A plugin, which makes you feel when you actually hit something or someone with weapons by altering visual feeback.*
+
+### [Flinching](https://www.nexusmods.com/skyrimspecialedition/mods/42550)
+
+**Main files** - Script free Flinching
+
+**FOMOD** - `Choose everything`. 
+
+*Adds a little flinching animation to player or NPCs, when they are hit, without interrupting anything else.*
+
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148)
 
 **Main files** - Conditional Expressions
@@ -2251,9 +2298,10 @@ _And another one, which allows us to use a script-free invincibility frames feat
 a piece of living rock.*
 
 ### [Pretty Combat Animations](https://www.nexusmods.com/skyrimspecialedition/mods/3761)
-**Main files** - Pretty Combat Animations 1.38
 
-**FOMOD** - `Style 01, Sneak Turn, Vanilla, Crossbow, Ranger, Vanilla` two times after skipping extra and sneak options for bows.
+**Main files** - Pretty Combat Animations 1.41 sse
+
+**FOMOD** - `Style 01, Sneak Turn, Sneak Run, Vanilla, Crossbow, Ranger_Belt-Fastened Quiver, Archer Sneak Bow_Belt-Fastened Quiver, Vanilla` two times after skipping extra bow option.
 
 ### [Pretty One-Handed Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/3772)
 
@@ -2786,8 +2834,6 @@ its colour, so that it won't be the same as TPF's ones.
 
 **Main files** - Literally Unplayable - High Poly Inigo Patch
 
-**Main files** - Literally Unplayable - Kaidan Patch
-
 **Main files** - Literally Unplayable - Shirley Patch
 
 **Main files** - Literally Unplayable - Cuyima's 3DNPC Patch
@@ -2971,6 +3017,26 @@ If you are widesreen user, download the next mod and put it right after the last
 
 **Main files** - Ultrawide Forget Spell Patch
 
+Then we need to update one of TPF's mod to the latest of its version.
+
+[AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654)
+
+**MOptional files** - AI Overhaul for SE Only
+
+And the last step for adjusting the add-on is to free some ESP space. Feel free to look [here](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins) if you forgot how to do that. The following plugins need to be ESLified:
+
+* Legion - Bruma EZs (Mid-game).esp
+* SMIM-Bruma-Patch.esp
+* Darkend Balance Patch.esp
+* High Poly Head Vampire Fix.esp
+* UniqueBarbas.esp
+* KS Hairdos SMP for Men.esp
+* Kyoe_BanginBrows_Vanillamatch.esp
+* RealisticHuskySoundsSSE.esp
+* FasterMiningPlusSE.esp
+* Thuum.esp
+* RealisticWaterTwo - Waves - Wyrmstooth.esp
+
 ---
 
 ## Configurations
@@ -3003,10 +3069,13 @@ Some quick tips before the end:
 * **TK Dodge RE** - _Mouse 3_ (in other games _Mouse 4_ button - Skyrim's oddities) button is chosen by default for dodging. Feel free to change that by using instructions [here](#tk-dodge-re).
 * **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
 
-**And some important info.** Helgen Reborn note in The Bannered Mare can be taken and read only after 5 in-game days after you have finished the main quest Unbound. 
-Be sure to remember.
+**And some important info.** _Helgen Reborn_ note in The Bannered Mare can be taken and read **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
-At last, I recommend you to go through [here](https://github.com/DragonBlame/tpf-dragons-edition/releases) to see if you didn’t miss any important updates.
+Also a reminder that the modlist uses a mod called _End Times_, which will **end the game** if don't finish the main quest line by default in one in-game year (approximately **18 real life days, that means 432 real life hours**). Go into the mod's mod configuration menu and lock the slider not to be tempted to change the final date all time. 
+That should be enough (and even feels right somehow) to do many other things in between saving the world for the first time. 
+And don't worry - **the game won't end if you finish the main quest**. You can always enter into MCM again to see how much time you have left. Be sure to remember.
+
+And on this spicy note, I recommend you to go through [here](https://github.com/DragonBlame/tpf-dragons-edition/releases) to see if you didn’t miss any important updates.
 
 ---
 
@@ -3220,6 +3289,7 @@ About just some of interesting mods I have added:
 
 * **About AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
+* **About different kinds of clothing on NPCs each playthrough** - Dope, right? This change makes NPCs and towns much more lively.
 * **About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
 * **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
 * **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.

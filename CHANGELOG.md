@@ -2,108 +2,94 @@
 
 # Changelog
 
-## Version 2.0.
+## Version 2.1.
 
-> Updated final patches. Updated Nemesis, Texgen and DynDOLOD and Occlusion outputs.
+> Updated final patches. Updated all outputs.
 
 ### Interface
 
-* Removed _Weather of World_.
+* Readded _Weather of World_.
+> After checking everything a little bit more, I agree that it is better than Luminosity's variant.
+* Changed installation instructions for _moreHUD Inventory Edition_.
 
 ### Improved Vanilla Content
 
-* Added _Obscure's College of Winterhold NPC Stuck in Staircase Fix_.
-* Added _Immersive Fort Dawnguard and Landscape Fixes for Grass Mods Patch_.
-* Changed installation instructions to _Obscure's College of Winterhold_.
+* Removed _Serana Dialogue Edit_.
+> Considering the fact that _SDE_ won't be updated anymore and that it just makes a mess with different voices for Serana, let us just enjoy _SDA_ in peace.
+* Added _Runic Dawnguard - Separated Lost Relic Questline_.
+* Added _Vittorias Alternate Wedding_.
+* Changed installation instructions for _Serana Dialogue Add-On_.
 
 ### New Content
 
-* Removed _Interesting Follower Requirements for Interesting NPCs_.
-> Even thou the idea by itself is great, it needs to be implemented better, otherwise people without knowledge of requirements for NPCs are just left confused.
-* Added _3DNPC BSA Replacer_.
-* Added _Ayleid Ruins ENB Light_.
-* Added _Prelude to Purgatory - A Lich Custom Skill Tree_.
-* Readded _Beyond Skyrim Bruma - Hotfix_, added additional instructions for it.
-> It was stupid to remove it whole just because of one broken mesh. I guess I was worried that maybe something else is broken there too, which I hadn't known about yet.
-* Added additional instructions for _Clockwork_, _Undeath_, _Ruska - Riften Player Home_ and _Knight's Rest_.
-* Changed installation instructions to _Kaidan 2 Follower Voice Fixes and Additional Dialogue_.
+* Removed _Pandorable's Kaidan_. Added _High Poly Kaidan - Face and Body_.
+> He just looks more sexy with this one.
 
 ### Exteriors
 
-* Added _Treerific_.
-* Added _Cathedral 3D Mountain Flowers - Base Object Swapper_.
-* Added _Fixed Mesh Lighting - Ancient Trees of Skyrim Patch_.
+* Removed _Treerific_.
+> That is sad, but it has too many problems which need to be dealth with in order to be added back. Well, at least the modlist will have less performance impact on your machines.
+* Added _Renthal's Reach Mountain Moss_.
 * Changed installation instructions for _Little Touches - A Tree Placement for Whiterun City_.
+> No big trees means that they can return to the city.
 
-### Appearance
+### Apparel & Weapons
 
-* Removed _Vanilla Hair Replacer_.
-> I just didn't like the fact that many of hair for males felt out of place with our high poly head and also that sometimes a weird issue happened, 
-where our character's face becomes whitened for a while. So we are just going to use TPF's hair textures together with _High Poly Head_'s hair meshes.
-* Changed installation instructions for _High Poly Head_.
-
-### Gameplay Overhauls
-
-* Added _Honed Metal - NPC Crafting and Enchanting Services_, _Honed Metal Revoiced_ and _Honed Metal - Additional Materials_.
+* Added _Fashions of the Fourth Era_.
+> I have never expected to spend so much time doing stuff for this section of the modlist.
 
 ### Miscellaneous
 
-* Added _MCM Recorder_.
-* Added _Custom Skills Menu_.
-* Removed _Face Discoloration Fix_.
-> Not needed anymore without _Vanilla Hair Replacer_.
-* Added _Base Object Swapper_.
-* Added _Improved Loading Screen Colors_.
-* Added additional instructions for _End Times_.
-* Updated installation and FOMOD instructions for _Faster HDT-SMP_.
+* Removed _Animated Forge Water_.
+* Removed _ENB Lava Particle Light Patch_.
+> If we are honest, I expected something better from these two mods.
+* Added _ENB Input Disabler_.
+* Added _e-FPS - Exterior FPS Boost_ and _eFPS - Official Patch Hub_.
+* Changed installation and FOMOD instructions for _Faster HDT_SMP_.
 
 ### Skeleton & Animations
 
-* Removed _Leviathan Animations - Two-Handed Normal Attacks_, _Vanargand Animations - One Handed Mid Stance_ and _Vanargand Animations - One Handed Normal Attacks_.
-* Changed FOMOD instructions for _Pretty Combat Animations_.
-* Updated installation and FOMOD instructions for _Pretty One-Handed Animations Overhaul_.
-* Updated installation instructions, added FOMOD instructions for _TK Dodge RE_.
-> After playing for some time, I have realized that normal attacks were looking like we are swinging not a weapon, but definitely something else. And with the new update of _Pretty One-Handed Animations Overhaul_ I don't feel we need different animations for being idle, running and walking when using one handed weapons.
+* Added _OnHit Animations Framework_, _zxlice hitStop_ and _Flinching_.
+* Changed installation instructions for _Animation Motion Revolution_.
+* Changed installation and FOMOD instructions for _Pretty Combat Animations_.
 
-### NPC Overhauls
+### Literally Unplayable
 
-* Added _Northbourne NPCs of Hjaalmarch_.
-* Updated installation instructions for _USSEP - Northbourne NPCs - AI Overhaul Patches' Compendium_.
+* Removed _Literally Unplayable - Kaidan Patch_.
+> Not needed with the new overhaul we are using now.
+
+### Preparations
+
+* Added instructions to update AI Overhaul.
+> While TPF is in the updating process.
+* Added instructions to ESLify some ESPs.
 
 ---
 
 ### Other Changes
 
-* Removed all settings loaders (except the ones from TPF) and MCM instructions.
-> Because we don't need them anymore with _MCM Recorder_. Everything was automated (sad, because I have already learned how to compile and modify scripts to do that, but I guess that knowledge will come in handy in other places).
-* Configured _Cathedral Weathers_ mod to make nights a bit brighter.
-* Fixed Realistic Water Two records again.
-* Made some other little fixes and improvements to the documentation as usual.
-* Removed all scars, beards and brows related to vanilla head.
-> To unclutter the character creation menu.
-* Removed position change instructions for quivers and bolts.
-> Was automated for all NPCs and player character.
+* Readded information about _End Times_ for all users.
+* Changed the starting spell, which you find inside the first locked cage in Helgen's Keep, to Flames.
+> Sparks aren't useful for player in the early stages of the game. Should have done that long time ago.
+* Added additional information to Gameplay Guide.
 
 ### Wabbajack
 
-* The documentation for Wabbajack users was updated for the latest changes.
+* Added _Racemenu - Widescreen Fix_.
 
 ### Updated Add-on's Mods for Wabbajack Users
 
-* DynDOLOD Resources
+* moreHUD Inventory Edition
+* Unique Map Weather Framework
 * Serana Dialogue Add-On
+* Wyrmstooth
+* The Wheels of Lull
 * Undeath - Classical Lichdom
-* FaceGen Output for Different Mods
+* Prelude to Purgatory - A Lich Custom Skill Tree
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
-* Wuth Rein
-* JK's Blue Palace
-* JK's Understone Keep
-* JK's Haelga's Bunkhouse
+* Winterhold Keep Tweaks for COTN
+* The Great Village of Kynesgrove Patch Collection
+* JK's Interiors Patch Collection
 * BeastHHBB
-* Base Obejct Swapper
-* Faster HDT-SMP
-* VioLens - A Killmove Mod
-* VioLens - A Killmove Mod - Settings Loader
-* Pretty One-Handed Animations Overhaul
-* TK Dodge RE
-* Literally Unplayable - The Forgotten City Patch
+* Animation Motion Revolution
+* Pretty Combat Animations

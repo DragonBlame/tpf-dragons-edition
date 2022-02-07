@@ -10,7 +10,7 @@ If you would like to learn more general information about the fork, be sure to v
 
 **Fork's installation size** - ~ 153 GB (your installation folder must be unique)
 
-**Fork mod's size** - ~ 83 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
+**Fork mod's size** - ~ 84 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
 
 ---
 
@@ -91,7 +91,11 @@ Some quick tips before the end:
 
 ---
 
-**And some important info.** _Helgen Reborn_ note in The Bannered Mare can be taken and read **only** after 5 in-game days after you have finished the main quest _Unbound_. Be sure to remember.
+**And some important info.** _Helgen Reborn_ note in The Bannered Mare can be taken and read **only** after 5 in-game days after you have finished the main quest _Unbound_.
+
+Also a reminder that the modlist uses a mod called _End Times_, which will **end the game** if don't finish the main quest line by default in one in-game year (approximately **18 real life days, that means 432 real life hours**). Go into the mod's mod configuration menu and lock the slider not to be tempted to change the final date all time. 
+That should be enough (and even feels right somehow) to do many other things in between saving the world for the first time. 
+And don't worry - **the game won't end if you finish the main quest**. You can always enter into MCM again to see how much time you have left. Be sure to remember.
 
 ---
 
