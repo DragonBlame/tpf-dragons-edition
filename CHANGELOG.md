@@ -60,6 +60,8 @@
 
 ### Preparations
 
+* Added instructions to update AI Overhaul.
+> While TPF is in the updating process.
 * Added instructions to ESLify some ESPs.
 
 ---
