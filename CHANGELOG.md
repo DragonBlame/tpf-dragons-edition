@@ -16,6 +16,7 @@
 
 * Removed _Serana Dialogue Edit_.
 > Considering the fact that _SDE_ won't be updated anymore and that it just makes a mess with different voices for Serana, let us just enjoy _SDA_ in peace.
+* Added _Runic Dawnguard - Separated Lost Relic Questline_.
 * Added _Vittorias Alternate Wedding_.
 * Changed installation instructions for _Serana Dialogue Add-On_.
 
