@@ -1090,6 +1090,12 @@ Cathedral Mountain Flowers
 **Optional files** - A Patch for Lanterns of Skyrim II and Cathedral
 Mountain Flowers
 
+### [Renthal's Reach Mountain Moss](https://www.nexusmods.com/skyrimspecialedition/mods/44090)
+
+**Main files** - Renthal's Reach Mountain Moss Desaturated
+
+*Just look at the pictures.*
+
 ### [Butterflies Land True](https://www.nexusmods.com/skyrimspecialedition/mods/29434)
 
 **Optional files** - Butterflies Land True - ESPFE Alternate Version
