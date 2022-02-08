@@ -42,7 +42,7 @@ use a guide from [here](https://github.com/LostDragonist/steam-library-setup-too
 
 ### Start With Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in _Documents/My Games/_ by deleting the contents inside.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the _Skyrim Special Edition_ folder inside _Documents/My Games/_ by deleting the contents inside.
 
 ### Set The Game's Language To English
 
