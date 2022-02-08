@@ -35,7 +35,7 @@ If you have successfully used any other official Wabbajack modlist for Skyrim Sp
 
 ### Steam Library Should Be Outside Windows Related Folders
 
-The best location would be _C:\Steam_. Such location is also called _the root of the drive_. Can be also something like _C:\Games\Steam_.
+The best location would be _C:\Steam_. Such location is also called _the root of the drive_. It can also be located in somewhere like _C:\Games\Steam_.
 
 If you have your Steam library inside Windows related folder such as _Desktop, Program Files, Downloads, Documents_ or _OneDrive_ etc., 
 use a guide from [here](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it outside of one of these folders.
