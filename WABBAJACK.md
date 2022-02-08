@@ -60,7 +60,7 @@ Start the game from Steam and and let it do the initial graphics check. Do not w
 
 ## Installation
 
-If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. Again this folder must not be in the Windows related folders.
+If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. Again this file must not be in the Windows related folders.
 
 The downloading and installation process can take a very long time, it depends on your system's specifications and on your internet's speed.
 > It will be way faster if you have one big mod folder for all modlists to make the installation process faster and not to make you download the mods once again 
@@ -68,7 +68,7 @@ if you have them already.
 
 1. Open `Wabbajack.exe`.
 2. Click on `Browse Modlists` and download `The Phoenix Flavour - Dragon's Edition` from the gallery.
-3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:/Modlists/The Phoenix Flavour - Dragon's Edition_ or _C:/The Phoenix Flavour - Dragon's Edition_. 
+3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:/Skyrim SE Modlists/The Phoenix Flavour - Dragon's Edition_ or _C:/The Phoenix Flavour - Dragon's Edition_. 
 4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:/Skyrim SE Mods_ or _D:/Skyrim/Mods_ and 
 then point Wabbajack to it.
 5. Click the `Play` button.
