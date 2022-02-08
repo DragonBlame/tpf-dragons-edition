@@ -15,21 +15,23 @@ I would very strongly recommend to check _Questions & Answers_ section for the m
 
 ## Requirements
 
-  - Fork's installation size - ~ 153 GB 
-    - ~ 13GB is copied from your Skyrim SE install
-    - Should be put inside SSD
-  - Fork mod's size - ~ 84 GB
+  - Fork's installation size - ~ 153 GB.
+    - ~ 13GB is copied from your Skyrim SE install.
+    - Should be put inside SSD.
+  - Fork mod's size - ~ 84 GB.
     - Your downloads folder should be the same for all modlists to make the installation process faster and not to make you download the mods once again 
-if you have them already
-    - Should be put inside HDD
+if you have them already.
+    - Should be put inside HDD.
   
-  - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022);
-  - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime);
-  - The latest version of Skyrim - 1.6.353
+  - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
+  - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+  - The latest version of Skyrim - 1.6.353.
 
 ---
 
 ## Steam Setup
+
+If you have used any other official Wabbajack modlist for Skyrim Special Edition recently and if it uses [Game Stock folder system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)), which allows us to leave Skyrim completely untouched and this way more compatible with other modpacks, then you don't need to do the steps in this section.
 
 ### Steam Library Should Be Outside Windows Related Folders
 
@@ -38,7 +40,7 @@ The best location would be _C:\Steam_. Such location is also called _the root of
 If you have your Steam library inside Windows related folder such as _Desktop, Program Files, Downloads, Documents_ or _OneDrive_ etc., 
 use a guide from [here](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it outside of one of these folders.
 
-### Clean Skyrim
+### Start With Clean Skyrim
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in _Documents/My Games/_ by deleting the contents inside.
 
@@ -61,26 +63,27 @@ Start the game from Steam and and let it do the initial graphics check. Do not w
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. Again this folder must not be in the Windows related folders.
 
 The downloading and installation process can take a very long time, it depends on your system's specifications and on your internet's speed.
-> It will be way faster if you have saved 
+> It will be way faster if you have one big mod folder for all modlists to make the installation process faster and not to make you download the mods once again 
+if you have them already.
 
 1. Open `Wabbajack.exe`.
-2. Click on `Browse Modlists` and download The Phoenix Flavour - Dragon's Edition from the gallery.
-3. Once the download is done, set the installation location again somewhere outside Windows related folders like `C:/Modlists/The Phoenix Flavour - Dragon's Edition` or `C:/The Phoenix Flavour - Dragon's Edition`. 
-4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like `C:/`.
-5. Click the Go/Begin button
-6. Wait for Wabbajack to finish
-7. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
-
-Phoenix also wrote a very detailed instructions on [how to set up your Skyrim Special Edition correctly for any Wabbajack list](https://thephoenixflavour.com/wj/wj-sse/game-setup/) and also for [installing those lists through Wabbajack](https://thephoenixflavour.com/wj/wj-sse/list-installation/). 
-Follow those instructions carefully (while obviously choosing _The Phoenix Flavour - Dragon's Edition_ as the list you want to install) until you reach the _Troubleshooting_ section of the list installation instructions.
+2. Click on `Browse Modlists` and download `The Phoenix Flavour - Dragon's Edition` from the gallery.
+3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:/Modlists/The Phoenix Flavour - Dragon's Edition_ or _C:/The Phoenix Flavour - Dragon's Edition_. 
+4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:/Skyrim SE Mods_ or _D:/Skyrim/Mods_ and 
+then point Wabbajack to it.
+5. Click the `Play` button.
+6. Wait for Wabbajack to finish.
+7. If you run into any issues, at first, try to simply retry the Wabbajack installation. If the installation still fails, 
+ask for help in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
+#tpf-dragons-edition-support channel. 
 
 ---
 
 ## Configurations
 
-By default your game is capped at 75 FPS (to avoid any issues related to Skyrim's physics) and is borderless.
+Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right.
 
-Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. The new [Game Stock folder system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)) allows us to leave our Skyrim's root folder completely clean and this way more compatible with other modpacks. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right. 
+By default your game is capped at 75 FPS (to avoid any issues related to Skyrim's physics) and is borderless. Resolution is automatically detected and changed by Wabbajack.
 
 ---
 
