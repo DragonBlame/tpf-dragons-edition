@@ -14,8 +14,9 @@ If you would like to learn more general information about the fork, be sure to v
 
 ## Requirements
 
-  - **Fork's installation size** - ~ 153 GB (~ 13GB is copied from your Skyrim SE install, your installation folder must be unique)
-  - **Fork mod's size** - ~ 84 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
+  - Fork's installation size - ~ 153 GB (~ 13GB is copied from your Skyrim SE install, your installation folder must be unique)
+  - Fork mod's size - ~ 84 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
+  
   
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022);
   - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime);
@@ -59,7 +60,7 @@ The downloading and installation process can take a very long time, it depends o
 
 1. Open `Wabbajack.exe`.
 2. Click on `Browse Modlists` and download The Phoenix Flavour - Dragon's Edition from the gallery.
-3. Once the download is done, set the installation folder again somewhere outside Windows related folders like `C:/Modlists/The Phoenix Flavour - Dragon's Edition` or `C:/Modlists/The Phoenix Flavour - Dragon's Edition`. The downloads path should automatically fill in the installation path.
+3. Once the download is done, set the installation location again somewhere outside Windows related folders like `C:/Modlists/The Phoenix Flavour - Dragon's Edition` or `C:/The Phoenix Flavour - Dragon's Edition`. The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
