@@ -4,22 +4,18 @@
 
 ## About Wabbajack and the fork
 
-Wabbajack allows you to install my modpack to your PC by duplicating my setup directly to your PC, including each mod, setting, output etc. If you want to better understand the 
-general idea of Wabbajack, refer to a Reddit article [_What Wabbajack is and Why You Should Care_](https://www.reddit.com/r/skyrimmods/comments/mbfk5f/what_wabbajack_is_and_why_you_should_care/).
+Wabbajack allows you to install my modpack to your PC by duplicating my setup directly to your PC, including each mod, setting, output etc. 
+If you want to better understand the general idea of Wabbajack, refer to a Reddit article 
+[_What Wabbajack is and Why You Should Care_](https://www.reddit.com/r/skyrimmods/comments/mbfk5f/what_wabbajack_is_and_why_you_should_care/).
 
 If you would like to learn more general information about the fork, be sure to visit its home page again [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973). I would very strongly recommend to check _Questions & Answers_ section for the most popular questions asked by users of the add-on.
 
-**Fork's installation size** - ~ 153 GB (your installation folder must be unique)
-
-**Fork mod's size** - ~ 84 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
-
 ---
 
-## Preparations
+## Requirements
 
-If you have your Steam library in Program Files, read this to put it somewhere else. I will not provide support to people with Skyrim in their Program Files folder. Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be C:\SteamLibrary if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
-
-### Requirements
+  - **Fork's installation size** - ~ 153 GB (~ 13GB is copied from your Skyrim SE install, your installation folder must be unique)
+  - **Fork mod's size** - ~ 84 GB (your downloads folder should be the same as TPF's one to make the installation process faster and not to make you download TPF's mods once again)
   
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022);
   - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime);
@@ -27,7 +23,46 @@ If you have your Steam library in Program Files, read this to put it somewhere e
 
 ---
 
-### Steam Library
+## Steam Setup
+
+### Steam Library Should Be Outside Windows Related Folders
+
+The best location would be _C:\Steam_. Such location is also called _the root of the drive_.
+
+If you have your Steam library inside Windows related folder such as _Desktop, Program Files, Downloads, Documents_ or _OneDrive_ etc., 
+use a guide from [here](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it outside of one of these folders.
+
+### Clean Skyrim
+
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in _Documents/My Games/_ by deleting the contents in it.
+
+### Set The Game's Language To English
+
+Right click on your `The Elder Scrolls IV: Skyrim Special Edition` game, select `Properties`, navigate to the `LANGUAGE` tab and select `English` from the dropdown menu.
+
+### Change Game's Update Behaviour
+
+Head over to the `Properties` again, navigate to the `UPDATES` tab and change _AUTOMATIC UPDATES_ parameter to `Only update this game when I launch it`. 
+
+### Start Skyrim At Least Once
+
+Start the game from Steam and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings. Start the game and exit once you're in the main menu.
+
+---
+
+## Installation
+
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. Again this folder must not be in the Windows related folders.
+
+The downloading and installation process can take a very long time, it depends on your system's specifications and on your internet's speed.
+> It will be way faster if you have saved 
+
+1. Open `Wabbajack.exe`.
+2. Click on `Browse Modlists` and download The Phoenix Flavour - Dragon's Edition from the gallery.
+3. Once the download is done, set the installation folder again somewhere outside Windows related folders like `C:/Modlists/The Phoenix Flavour - Dragon's Edition` or `C:/Modlists/The Phoenix Flavour - Dragon's Edition`. The downloads path should automatically fill in the installation path.
+4. Click the Go/Begin button
+5. Wait for Wabbajack to finish
+6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 Phoenix also wrote a very detailed instructions on [how to set up your Skyrim Special Edition correctly for any Wabbajack list](https://thephoenixflavour.com/wj/wj-sse/game-setup/) and also for [installing those lists through Wabbajack](https://thephoenixflavour.com/wj/wj-sse/list-installation/). 
 Follow those instructions carefully (while obviously choosing _The Phoenix Flavour - Dragon's Edition_ as the list you want to install) until you reach the _Troubleshooting_ section of the list installation instructions.
