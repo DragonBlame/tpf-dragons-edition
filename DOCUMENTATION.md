@@ -1036,14 +1036,6 @@ colour, so that it won't be the same as TPF's ones.
 All of the following mods in this category will be placed under this
 separator in the same order.
 
-### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)
-
-**Main files** - Grass Control v8
-
-**Instructions** - Double click on the mod inside your MO2, find _Text Files_ section, in line 62, change _SuperDenseGrass_ to `True`, in line 99, 
-change _UseGrassCache_ to `True`, in line 74, change _SuperDenseMode_ to `7`, in line 99, 
-change _UseGrassCache_ to `True`, in line 122, change _ExtendGrassCount_ to `True`, in line 149, change _OverwriteGrassDistance_ to `12000`,  in line 163, change _OverwriteGrassFadeRange_ to `8000`, in line 198, change _OnlyLoadFromCache_ to `True`, in line 219, add `_EntranceTowerLower;3DNPCGabaniasWorld;aaaaMODFIREFinalBossWorld;aaaLucOblivionRealm;aaaWereBalokDungeonWorld;Blackreach;BlindCliffCaveWorld;BloatedMansGrottoWorld;BluePalaceWingWorld;BSHeartland;BSKTestWorld;CYRBiomeTesting;CYRFrostfireGlade;CYRGreenLeafGlade;CYRTestWorld;DarkwaterWorld;DeepwoodRedoubtWorld;Dimfrost;DLC01Boneyard;DLC01FalmerValley;DLC01SoulCairn;DLC1AncestorsGladeWorld;DLC1DarkfallPassageWorld;DLC1ForebearsHoldout;DLC1HunterHQWorld;DLC1VampireCastleCourtyard;DLC2SolstheimWorld;EastEmpireWarehouse;EldergleamSanctuaryWorld;ERDPGrimrootHollowWorld01;ERDPIsleofAshes;ERDPRimewakeGrottoWorld01;ERDPStonehillRefugeWorld01;ERDPStonehillRefugeWorld02;FallowstoneCaveWorldEnd;FallowstoneCaveWorldStart;FDIWDLC1CanyonBaths;FDIWDLC1CanyonLibrary;FFAOBBoethiahPlane;FrostmereCryptWorld;JaphetsFollyWorld;KarthspireRedoubtWorld;KatariahWorld;mannyGFDesert;mannyGFL;mannyGFO;MarkarthWorld;MossMotherCavernWorld;NecroDragontailMountains;RiftenWorld;ShadowgreenCavernWorld;SkuldafnWorld;SolitudeWorld;Sovngarde;Tamriel;Vuldur;WhiterunDragonsreachWorld;WhiterunWorld;WindhelmPitWorldspace;WindhelmWorld;WyrmstoothWorld;XJKDarkendTower;XJKislandWorld;XJKislandWorld2` inside the quotes of _OnlyPregeneratedWorldSpaces_, in line 233, change _DynDOLODGrassMode_ to `1`.  
-
 ### [Lanterns of Skyrim II - Insects Patch](https://www.nexusmods.com/skyrimspecialedition/mods/50670)
 
 **Main files** - Lanterns of Skyrim II Insects Patch (v1.1 esm)
