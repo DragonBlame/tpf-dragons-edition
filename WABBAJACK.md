@@ -31,7 +31,7 @@ if you have them already.
 
 ## Steam Setup
 
-If you have used any other official Wabbajack modlist for Skyrim Special Edition recently and if it uses [Game Stock folder system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)), which allows us to leave Skyrim completely untouched and this way more compatible with other modpacks, then you don't need to do the steps in this section.
+If you have successfully used any other official Wabbajack modlist for Skyrim Special Edition recently and if it uses [Game Stock folder system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)), which allows us to leave Skyrim completely untouched and this way more compatible with other modpacks, then you don't need to do the steps in this section.
 
 ### Steam Library Should Be Outside Windows Related Folders
 
