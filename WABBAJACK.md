@@ -73,9 +73,10 @@ if you have them already.
 then point Wabbajack to it.
 5. Click the `Play` button.
 6. Wait for Wabbajack to finish.
-7. If you run into any issues, at first, try to simply retry the Wabbajack installation. If the installation still fails, 
+7. If you run into any issues, simply retry the Wabbajack installation. If the installation still fails, 
 ask for help in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
-#tpf-dragons-edition-support channel. 
+#tpf-dragons-edition-support channel. You will need to upload your log file to the corresponding channel. 
+You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folder within the latest version folder - this will be in the same location you saved _Wabbajack.exe_ to.
 
 ---
 
