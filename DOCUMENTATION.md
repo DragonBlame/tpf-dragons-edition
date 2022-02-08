@@ -162,6 +162,8 @@ books you have read and it tells you about which kind of skill you can level by 
 
 **Main files** - Unique Map Weather Framework
 
+**FOMOD** - `UMWF for 1.5.97 (Pre-AE), Vanilla Additions`.
+
 *Enables unique weather to be added to world maps, so we won't see the same Skyrim map's weather inside Soul Cairn's map.*
 
 ### [Weather of World](https://www.nexusmods.com/skyrimspecialedition/mods/58782)
