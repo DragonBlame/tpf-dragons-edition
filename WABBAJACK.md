@@ -85,7 +85,7 @@ You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folde
 
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right.
 
-By default your game is capped at 75 FPS (to avoid any issues related to Skyrim's physics) and is borderless. Resolution is automatically detected and changed by Wabbajack.
+By default your game is capped at 75 FPS (to avoid any issues related to Skyrim's physics) and is borderless. Your resolution was automatically detected and changed by Wabbajack.
 
 ---
 
