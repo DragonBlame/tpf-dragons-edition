@@ -4,9 +4,10 @@
 
 ## About Wabbajack and the fork
 
-Wabbajack allows you to install my modpack to your PC by duplicating my setup directly to your PC, including each mod, setting, output etc. If you want to learn more about Wabbajack in general, refer to Phoenix's article, [_About Wabbajack_](https://thephoenixflavour.com/wj/about-wabbajack/).
+Wabbajack allows you to install my modpack to your PC by duplicating my setup directly to your PC, including each mod, setting, output etc. If you want to better understand the 
+general idea of Wabbajack, refer to a Reddit article [_What Wabbajack is and Why You Should Care_](https://www.reddit.com/r/skyrimmods/comments/mbfk5f/what_wabbajack_is_and_why_you_should_care/).
 
-If you would like to learn more general information about the fork, be sure to visit its home page again [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973). I would very strongly recommend to check Questions & Answers for the most popular questions asked by users of the add-on.
+If you would like to learn more general information about the fork, be sure to visit its home page again [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973). I would very strongly recommend to check _Questions & Answers_ section for the most popular questions asked by users of the add-on.
 
 **Fork's installation size** - ~ 153 GB (your installation folder must be unique)
 
@@ -14,7 +15,11 @@ If you would like to learn more general information about the fork, be sure to v
 
 ---
 
-## Requirements
+## Preparations
+
+If you have your Steam library in Program Files, read this to put it somewhere else. I will not provide support to people with Skyrim in their Program Files folder. Locations like Documents, Downloads, Desktop, or OneDrive are NOT fine. The best location would be C:\SteamLibrary if you have a single drive, or whichever Drive Letter you have on your main Games drive. Such a location is also called the "root of the drive."
+
+### Requirements
   
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022);
   - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime);
@@ -22,7 +27,7 @@ If you would like to learn more general information about the fork, be sure to v
 
 ---
 
-## Installation
+### Steam Library
 
 Phoenix also wrote a very detailed instructions on [how to set up your Skyrim Special Edition correctly for any Wabbajack list](https://thephoenixflavour.com/wj/wj-sse/game-setup/) and also for [installing those lists through Wabbajack](https://thephoenixflavour.com/wj/wj-sse/list-installation/). 
 Follow those instructions carefully (while obviously choosing _The Phoenix Flavour - Dragon's Edition_ as the list you want to install) until you reach the _Troubleshooting_ section of the list installation instructions.
