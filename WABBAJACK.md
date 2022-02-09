@@ -60,7 +60,8 @@ Start the game from Steam and and let it do the initial graphics check. Do not w
 
 ## Installation
 
-If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. Again this file must not be in the Windows related folders.
+If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. Again this file must not be in the Windows related folders 
+(_Desktop, Program Files, Downloads, Documents, OneDrive_ etc.).
 
 The downloading and installation process can take a very long time, it depends on your system's specifications and on your internet's speed.
 > It will be way faster if you have one big mod folder for all modlists to make the installation process faster and not to make you download the mods once again 
