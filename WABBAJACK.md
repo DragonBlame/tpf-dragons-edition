@@ -97,7 +97,10 @@ If you want to downgrade your resolution, do the following:
 5. In line 58, change _BorderlessUpscale_ parameter to `True`.
 6. In line 66, remove `#` sign before _Resolution_ parameter and then write down your desired resolution after _=_ sign.
 7. Press on `Save` button.
-![image](https://user-images.githubusercontent.com/37147270/153157130-5fa2ffc8-8770-4b9a-8565-a0e564af2542.png)
+
+<p>
+    <img width="50%" src="https://user-images.githubusercontent.com/37147270/153157130-5fa2ffc8-8770-4b9a-8565-a0e564af2542.png" /> 
+</p>
 
 ---
 
