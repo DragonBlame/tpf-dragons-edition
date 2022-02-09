@@ -60,7 +60,7 @@ Start the game from Steam and and let it do the initial graphics check. Do not w
 
 ## Installation
 
-If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. Again this file must not be in the Windows related folders 
+If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. This file must not be in the Windows related folders 
 (_Desktop, Program Files, Downloads, Documents, OneDrive_ etc.).
 
 The downloading and installation process can take a very long time, it depends on your system's specifications and on your internet's speed.
@@ -69,8 +69,8 @@ if you have them already.
 
 1. Open `Wabbajack.exe`.
 2. Click on `Browse Modlists` and download `The Phoenix Flavour - Dragon's Edition` from the gallery.
-3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:/Skyrim SE Modlists/The Phoenix Flavour - Dragon's Edition_ or _C:/The Phoenix Flavour - Dragon's Edition_. 
-4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:/Skyrim SE Mods_ or _D:/Skyrim/Mods_ and 
+3. Once the download is done, set the installation location again somewhere outside Windows related folders like _C:\Skyrim SE Modlists\The Phoenix Flavour - Dragon's Edition_ or _C:\The Phoenix Flavour - Dragon's Edition_. 
+4. Point Wabbajack towards your download location. If you haven't downloaded any mods before, make a folder like _D:/Skyrim SE Mods_ or _D:\Skyrim\Mods_ and 
 then point Wabbajack to it.
 5. Click the `Play` button.
 6. Wait for Wabbajack to finish.
@@ -87,6 +87,17 @@ You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folde
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right.
 
 By default your game is capped at 75 FPS (to avoid any issues related to Skyrim's physics) and is borderless. Your resolution was automatically detected and changed by Wabbajack.
+
+If you want to downgrade your resolution, do the following:
+
+1. Press on `ESSENTIAL MODS` separator.
+2. Double click on `SSE Display Tweaks` mod.
+3. Choose `INI files` tab.
+4. Press on `SKSE\Plugins\SSEDisplayTweaks.ini`.
+5. In line 58, change _BorderlessUpscale_ parameter to `True`.
+6. In line 66, remove `#` sign before _Resolution_ parameter and then write down your desired resolution after _=_ sign.
+7. Press on `Save` button.
+![image](https://user-images.githubusercontent.com/37147270/153157130-5fa2ffc8-8770-4b9a-8565-a0e564af2542.png)
 
 ---
 
