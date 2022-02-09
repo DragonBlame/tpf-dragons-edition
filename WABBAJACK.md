@@ -99,7 +99,7 @@ If you want to downgrade your resolution, do the following:
 7. Press on `Save` button.
 
 <p>
-    <img width="50%" src="https://user-images.githubusercontent.com/37147270/153157130-5fa2ffc8-8770-4b9a-8565-a0e564af2542.png" /> 
+    <img width="25%" src="https://user-images.githubusercontent.com/37147270/153157130-5fa2ffc8-8770-4b9a-8565-a0e564af2542.png" /> 
 </p>
 
 ---
