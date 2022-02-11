@@ -40,11 +40,11 @@ The best location would be _C:\Steam_. Such location is also called _the root of
 If you have your Steam library inside Windows related folder such as _Desktop, Program Files, Downloads, Documents, OneDrive_ etc., 
 use a guide from [here](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it outside of one of these folders.
 
-### Start With Clean Skyrim
+### Start with Clean Skyrim
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the _Skyrim Special Edition_ folder inside _Documents/My Games/_ by deleting the contents inside.
 
-### Set The Game's Language To English
+### Set the Game's Language to English
 
 Right click on your `The Elder Scrolls IV: Skyrim Special Edition` game, select `Properties`, navigate to the `LANGUAGE` tab and select `English` from the dropdown menu.
 
@@ -52,7 +52,7 @@ Right click on your `The Elder Scrolls IV: Skyrim Special Edition` game, select 
 
 Head over to the `Properties` again, navigate to the `UPDATES` tab and change _AUTOMATIC UPDATES_ parameter to `Only update this game when I launch it`. 
 
-### Start Skyrim At Least Once
+### Start Skyrim at Least Once
 
 Start the game from Steam and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings. Start the game and exit once you're in the main menu.
 
@@ -76,7 +76,7 @@ then point Wabbajack to it.
 6. Wait for Wabbajack to finish.
 7. If you run into any issues, simply retry the Wabbajack installation. If the installation still fails, 
 ask for help in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
-#tpf-dragons-edition-support channel. 
+_#tpf-dragons-edition-support_ channel. 
 > You will need to upload your log file to the corresponding channel. 
 You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folder within the latest version folder - this will be in the same location you saved _Wabbajack.exe_ to.
 
@@ -133,7 +133,7 @@ Then customize your character to your heart's content (while being reasonable). 
 <p align="center">
     <img width="75%" src="https://user-images.githubusercontent.com/37147270/151706652-f8f91309-203f-4b10-a975-8be565db54fd.png" /> 
 </p>
-If you want to use hair with physics for men, you will find instructions on how to get them a bit later.
+If you want to use hair with physics for men, you will find instructions on how to get them a bit later. For better results
 
 ---
 
@@ -143,22 +143,22 @@ It will be awesome if you wait for two pop-up's to appear one shortly after the 
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
-* **Look What You See** - Press your *V* key.
-* **Animated Shouts** - Press your right *Alt* key.
+* **Look What You See** - Press your `V` key.
+* **Animated Shouts** - Press your `right Alt` key.
 > You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the add-on too if you forget about it.
 
-Also we have toggable HUD, so feel free to press *X* key to turn it on and off when you need that.
+Also we have toggable HUD, so feel free to press `X` key to turn it on and off when you need that.
 
 Some quick tips before the end:
 
-* **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called _AddItemMenu_ and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
+* **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called `AddItemMenu` and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **About ENB** - `F10` button toggles the ENB effect, `F11` opens the ENB GUI, `F7` toggles an FPS counter. Feel free to make screenshots with Steam by using `F12`. 
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells, another mean, which is tied to a quest (don't want to spoil that) etc. If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells, another mean, which is tied to a quest (don't want to spoil that) etc. If you still aren't sold, feel free to reenable it by disabling `Disable Fast Travel SKSE - No Janky Map UI` mod under the _Interface_ separator.
 
 ---
 
-**And some important info.** _Helgen Reborn_ note in The Bannered Mare can be taken and read **only** after 5 in-game days after you have finished the main quest _Unbound_.
+**And some important info.** _Note_ near The Drunken Huntsman's door can be acitvated **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
 Also a reminder that the modlist uses a mod called _End Times_, which will **end the game** if don't finish the main quest line by default in one in-game year (approximately **18 real life days, that means 432 real life hours**). Go into the mod's mod configuration menu and lock the slider not to be tempted to change the final date all time. 
 That should be enough (and even feels right somehow) to do many other things in between saving the world for the first time. 
@@ -178,7 +178,7 @@ If you have experienced a bug during your walkthrough, jump in [*Bugs*](DOCUMENT
 If you want to learn more about what the add-on offers and what actually many of the mods do, check [Gameplay Guide](DOCUMENTATION.md#gameplay-guide). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
-please use _Posts_ feature on Nexus or use _#tpf-de-feedback_  on TPF's Discord server. Suggestions on how to improve the documentation are also welcome on GitHub.
+please use _Posts_ feature on Nexus or use _#tpf-de-feedback_ on TPF's Discord server. Suggestions on how to improve the documentation are also welcome on GitHub.
 Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on Nexus.
 
 If you want to learn more about the ENB we are using, drop [here](DOCUMENTATION.md#enb).
