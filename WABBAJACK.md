@@ -133,7 +133,7 @@ Then customize your character to your heart's content (while being reasonable). 
 <p align="center">
     <img width="75%" src="https://user-images.githubusercontent.com/37147270/151706652-f8f91309-203f-4b10-a975-8be565db54fd.png" /> 
 </p>
-If you want to use hair with physics for men, you will find instructions on how to get them a bit later. For better results
+If you want to use hair with physics for men, you will find instructions on how to get them a bit later. For better results with those, equip bald hair style now.
 
 ---
 
