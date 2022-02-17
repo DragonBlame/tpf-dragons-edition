@@ -158,7 +158,7 @@ Some quick tips before the end:
 
 ---
 
-**And some important info.** _Note_ near The Drunken Huntsman's door can be acitvated **only** after 5 in-game days after you have finished the main quest _Unbound_.
+**And some important info.** _Note_ near The Drunken Huntsman's door can be activated **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
 Also a reminder that the modlist uses a mod called _End Times_, which will **end the game** if don't finish the main quest line by default in one in-game year (approximately **18 real life days, that means 432 real life hours**). Go into the mod's mod configuration menu and lock the slider not to be tempted to change the final date all time. 
 That should be enough (and even feels right somehow) to do many other things in between saving the world for the first time. 
