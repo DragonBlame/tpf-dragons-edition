@@ -144,6 +144,7 @@ After talking with Ralof or Hadvar, you can turn on the following mods to decide
 If you aren't a fan, just press the same button once again to turn them off. 
 
 * **Look What You See** - Press your `V` key.
+> A headtracking mod. Can be seen in action in the third person view.
 * **Animated Shouts** - Press your `right Alt` key.
 > You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the add-on too if you forget about it.
 
