@@ -4,8 +4,11 @@
 
 ## Version 2.2.
 
-This update was mainly meant to improve appearance of the whole add-on. Some of other changes were made, which are related to the feedback survey I made inside TPF's Discord server.
-Feel free to took at my [feedback summary report]() to learn more.
+With this update comes removal of the manual guide for the modlist. It was hard considering that is what made the fork possible to be made and to be on Wabbajack, but to continue going forward the fork from this moment becomes exlusive to Wabbajack. That doesn't mean that the direction of my work will go somewhere else. It is needed to make my work feel less like some kind of accounting job (well, no one reads my _reports_ anyway, so what is the point) and focus more on what would I actually want to do. Somewhere around this year Phoenix will rise (hehe) and you will be able to enjoy her work again, but I hope that my manual guide gave some of you at least a little bit of insight on the mods of Skyrim and how we are making them work.
+
+That means that there are going to be some changes pretty much everywhere starting from this changelog.
+
+This update was mainly meant to improve appearance of the whole add-on. Some of other changes were made too related to the feedback survey I made inside TPF's Discord server. Feel free to took at my [feedback summary report]() to learn more.
 
 **New save is required.**
 
