@@ -17,6 +17,10 @@ Feel free to took at my [feedback summary report]() to learn more.
 
 **New save is required.**
 
+### Changes
+
+* xxx
+
 ### Removed Mods
 
 * xxx
@@ -25,6 +29,6 @@ Feel free to took at my [feedback summary report]() to learn more.
 
 * xxx
 
-### Minor Changes
+### Updated Mods
 
 * xxx
