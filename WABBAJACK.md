@@ -26,6 +26,7 @@ if you have them already.
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
   - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
   - The latest version of Skyrim - 1.6.353.
+  - 
 
 ---
 
@@ -86,9 +87,18 @@ You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folde
 
 Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right.
 
-By default your game is capped at 75 FPS (to avoid any issues related to Skyrim's physics) and is borderless. Your resolution was automatically detected and changed by Wabbajack.
+By default your game is capped at 60 FPS (to avoid any issues related to Skyrim's physics) and is borderless. Your resolution was automatically detected and changed by Wabbajack.
 
-If you want to downgrade your resolution, do the following:
+If you want to uncap your framerate (that is on you), do the following:
+
+1. Press on `ESSENTIAL MODS` separator.
+2. Double click on `SSE Display Tweaks` mod.
+3. Choose `INI files` tab.
+4. Press on `SKSE\Plugins\SSEDisplayTweaks.ini`.
+5. In line 207, change _FramerateLimit_ parameter to your desired framerate after _=_ sign.
+7. Press on `Save` button.
+
+If you want to downscale your resolution, do the following:
 
 1. Press on `ESSENTIAL MODS` separator.
 2. Double click on `SSE Display Tweaks` mod.
