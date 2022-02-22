@@ -8,8 +8,10 @@ In my opinion, it is a fair request, so, please, try your best to follow these s
 At first, **don't expect support for adding any other mods or for your modified setups of the modlist**. Everyone in the community are just people, 
 who have their own life and work to do. I and other users can offer resources and advice about dealing with mod conflicts in the respective channels, 
 but we aren't robots to know each and every mod and its consequences on the modpack. If you can add something, do it. If you can't, at first learn how to do it. 
-If you tried your best, but something is still not right, you can ask for help in Wabbajack Discord server's _#general-se-discussion_ or 
-TPF Discord server's _#tpf-de-modifications_ channel.
+If you tried your best, but something is still not right, you can ask for help in [Wabbajack Discord server](https://discord.gg/wabbajack)'s _#general-se-discussion_ or 
+[TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-modifications_ channel.
+
+At second, support with in-game issues is offered in TPF Discord server's _#tpf-de-wabbajack-support_ and _#tpf-de-crash-reports_ channels and Wabbajack Discord server's _#tpf-dragons-edition-support_ channel.
 
 At second, if another person reports any kind of issue you have too, mention that you are having the same issue.
 That is important for me, because then I will know that issue is global and maybe I will need your help to resolve it. 
