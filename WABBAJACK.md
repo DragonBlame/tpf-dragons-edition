@@ -32,7 +32,6 @@ if you have them already.
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
   - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
   - The latest version of Skyrim - 1.6.353.
-  - [Nexus](https://www.nexusmods.com/skyrimspecialedition)
 
 ---
 
@@ -120,7 +119,7 @@ If you want to downscale your resolution, do the following:
 
 ---
 
-While following the main documentation, users have a choice to use or not to use the [_Interface_](DOCUMENTATION.md#interface-optional) section of the add-on. For Wabbajack users this section is enabled by default, but if you don't like a mod or two, you are free to disable them according to provided instructions in the documentation.
+While following the main documentation, users have a choice to use or not to use the [_Interface_](INTERFACE.md) section of the add-on. For Wabbajack users this section is enabled by default, but if you don't like a mod or two, you are free to disable them according to provided instructions in the documentation.
 
 ---
 
