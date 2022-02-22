@@ -34,15 +34,9 @@ At third, if you aren't reporting an in-game bug, I am not asking you to write s
 
 *   Description of the problem (what, when, where);
 
-*   Try to repeat the issue (go somewhere else, then do whatever you
-    were doing before again for at least 3 times);
+*   How to repeat the issue;
     
->   Remember that Skyrim is Skyrim, so if the issue can’t be repeated, I won’t be able to help (if by your
-    report it is understandable how to repeat the issue (in the
-    example), of course, you don’t need to write the same thing
-    again).
-
-*   How to repeat the issue.
+>   Remember that Skyrim is Skyrim, so if the issue can’t be repeated at least 3 times, I won’t be able to help.
 
 ## Example of the Bug Report
 
