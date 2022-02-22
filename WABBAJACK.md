@@ -121,7 +121,6 @@ If you want to downscale your resolution, do the following:
 
 Some of the mods inside Mod Organizer are disabled by default in the add-on. Some of these are:
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
-  - _Classic Sprinting Redone_ in TPF's _Controls & Camera_ section, because I hate the old times function of holding down the button for sprinting. Special Edition's way of making sprinting toggable is much better, but if you somehow don't like it, feel free to enable the mod.
   - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 > Do not touch any other disabled mods for now.
 
