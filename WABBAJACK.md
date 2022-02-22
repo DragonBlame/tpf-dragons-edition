@@ -1,6 +1,6 @@
 ![image](images/Banner.webp)
 
-# Wabbajack
+# Wabbajack Guide
 
 ## About Wabbajack and the fork
 
