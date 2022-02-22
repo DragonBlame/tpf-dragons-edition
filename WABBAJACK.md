@@ -119,7 +119,7 @@ If you want to downscale your resolution, do the following:
 
 ---
 
-While following the main documentation, users have a choice to use or not to use the [_Interface_](INTERFACE.md) section of the add-on. For Wabbajack users this section is enabled by default, but if you don't like a mod or two, you are free to disable them according to provided instructions in the documentation.
+You have a choice to use or not to use the mods under _Interface Extended_ section of the fork. It is enabled by default, but if you don't like a mod or two, you are free to disable them according to the information found [here](INTERFACE.md).
 
 ---
 
