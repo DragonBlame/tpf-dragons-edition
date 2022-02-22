@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/51973">Main page</a> ·
-  <a href="WABBAJACK.md">Wabbajack</a> ·
+  <a href="WABBAJACK.md">Wabbajack Guide</a> ·
   <a href="https://github.com/DragonBlame/tpf-dragons-edition/releases">Changelog</a> ·
   <a href="GAMEPLAY.md">Gameplay Guide</a> ·
   <a href="BUGS.md">Bug Reporting</a>
