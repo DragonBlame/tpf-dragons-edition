@@ -7,8 +7,8 @@ In my opinion, it is a fair request, so, please, try your best to follow these s
 
 At first, **don't expect support for adding any other mods or for your modified setups of the modlist**. Everyone in the community are just people, 
 who have their own life and work to do. I and other users can offer resources and advice about dealing with mod conflicts in the respective channels, 
-but do not ask about adding something or expecting that someone will deal with the problem in your place. If you can add something, do it. 
-If you can't, at first learn how to do it. If you tried your best, but something is still not right, chime inside Wabbajack Discord server's _#general-se-discussion_ or 
+but we aren't robots to know each and every mod and its consequences on the modpack. If you can add something, do it. If you can't, at first learn how to do it. 
+If you tried your best, but something is still not right, you can ask for help in Wabbajack Discord server's _#general-se-discussion_ or 
 TPF Discord server's _#tpf-de-modifications_ channel.
 
 At second, if another person reports any kind of issue you have too, mention that you are having the same issue.
