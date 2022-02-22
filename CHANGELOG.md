@@ -2,94 +2,29 @@
 
 # Changelog
 
-## Version 2.1.
+## Version 2.2.
 
-> Updated final patches. Updated all outputs.
+With this update comes removal of the manual guide for the modlist. It was hard considering that is what made the fork possible to be made and to be on Wabbajack, 
+but to continue going forward the fork from this moment becomes exlusive to Wabbajack. That doesn't mean that the direction of my work will go somewhere else.
+It is needed to make my work feel less like some kind of accounting job (well, no one reads my _reports_ anyway, so what is the point) and 
+focus more on what would I actually want to do. Somewhere around this year Phoenix will rise (hehe) and you will be able to enjoy her work again, but
+I hope that my manual guide gave some of you at least a little bit of insight on the mods of Skyrim and how we are making them work.
 
-### Interface
+That means that there are going to be some changes pretty much everywhere starting from this changelog. 
 
-* Readded _Weather of World_.
-> After checking everything a little bit more, I agree that it is better than Luminosity's variant.
-* Changed installation instructions for _moreHUD Inventory Edition_.
+This update was mainly meant to improve appearance of the whole add-on. Some of other changes were made too related to the feedback survey I made inside TPF's Discord server.
+Feel free to took at my [feedback summary report]() to learn more.
 
-### Improved Vanilla Content
+**New save is required.**
 
-* Removed _Serana Dialogue Edit_.
-> Considering the fact that _SDE_ won't be updated anymore and that it just makes a mess with different voices for Serana, let us just enjoy _SDA_ in peace.
-* Added _Runic Dawnguard - Separated Lost Relic Questline_.
-* Added _Vittorias Alternate Wedding_.
-* Changed installation instructions for _Serana Dialogue Add-On_.
+### Removed Mods
 
-### New Content
+* xxx
 
-* Removed _Pandorable's Kaidan_. Added _High Poly Kaidan - Face and Body_.
-> He just looks more sexy with this one.
+### Added Mods
 
-### Exteriors
+* xxx
 
-* Removed _Treerific_.
-> That is sad, but it has too many problems which need to be dealth with in order to be added back. Well, at least the modlist will have less performance impact on your machines.
-* Added _Renthal's Reach Mountain Moss_.
-* Changed installation instructions for _Little Touches - A Tree Placement for Whiterun City_.
-> No big trees means that they can return to the city.
+### Minor Changes
 
-### Apparel & Weapons
-
-* Added _Fashions of the Fourth Era_.
-> I have never expected to spend so much time doing stuff for this section of the modlist.
-
-### Miscellaneous
-
-* Removed _Animated Forge Water_.
-* Removed _ENB Lava Particle Light Patch_.
-> If we are honest, I expected something better from these two mods.
-* Added _ENB Input Disabler_.
-* Added _e-FPS - Exterior FPS Boost_ and _eFPS - Official Patch Hub_.
-* Changed installation and FOMOD instructions for _Faster HDT_SMP_.
-
-### Skeleton & Animations
-
-* Added _OnHit Animations Framework_, _zxlice hitStop_ and _Flinching_.
-* Changed installation instructions for _Animation Motion Revolution_.
-* Changed installation and FOMOD instructions for _Pretty Combat Animations_.
-
-### Literally Unplayable
-
-* Removed _Literally Unplayable - Kaidan Patch_.
-> Not needed with the new overhaul we are using now.
-
-### Preparations
-
-* Added instructions to update AI Overhaul.
-> While TPF is in the updating process.
-* Added instructions to ESLify some ESPs.
-
----
-
-### Other Changes
-
-* Readded information about _End Times_ for all users.
-* Changed the starting spell, which you find inside the first locked cage in Helgen's Keep, to Flames.
-> Sparks aren't useful for player in the early stages of the game. Should have done that long time ago.
-* Added additional information to Gameplay Guide.
-
-### Wabbajack
-
-* Added _Racemenu - Widescreen Fix_.
-
-### Updated Add-on's Mods for Wabbajack Users
-
-* moreHUD Inventory Edition
-* Unique Map Weather Framework
-* Serana Dialogue Add-On
-* Wyrmstooth
-* The Wheels of Lull
-* Undeath - Classical Lichdom
-* Prelude to Purgatory - A Lich Custom Skill Tree
-* Kaidan 2 Follower Voice Fixes and Additional Dialogue
-* Winterhold Keep Tweaks for COTN
-* The Great Village of Kynesgrove Patch Collection
-* JK's Interiors Patch Collection
-* BeastHHBB
-* Animation Motion Revolution
-* Pretty Combat Animations
+* xxx
