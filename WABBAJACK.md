@@ -90,7 +90,7 @@ You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folde
 
 ## Configurations
 
-Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. Now you can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right.
+Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. You can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right.
 
 By default your game is capped at 60 FPS (to avoid any issues related to Skyrim's physics) and is borderless. Your resolution was automatically detected and changed by Wabbajack.
 
@@ -119,7 +119,7 @@ If you want to downscale your resolution, do the following:
 
 ---
 
-You have a choice to use or not to use the mods under _Interface Extended_ section of the fork. It is enabled by default, but if you don't like a mod or two, you are free to disable them according to the information found [here](INTERFACE.md).
+You also have a choice to use or not to use the mods under _Interface Extended_ section of the fork. It is enabled by default, but if you don't like a mod or two, you are free to disable them according to the information found [here](INTERFACE.md).
 
 ---
 
