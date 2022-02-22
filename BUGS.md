@@ -40,9 +40,8 @@ At third, if you aren't reporting an in-game bug, I am not asking you to write s
 ## Example of the Bug Report
 
 A person has sent me a screenshot of a guard with black face and I
-see all the data about the guard from a console, her perfect, untouched
-modlist.txt and loadorder.txt.
+see all the data about the guard from a console.
 
 _Was going to Whiterun for the first time, right near the gate of the
-city one of the guards has black face. Have tried to get to Whiterun
-and then return, but the issue is still there._
+city one of the guards has a black face. Have tried to get to Whiterun
+and then return 2 more times, but the issue is still there._
