@@ -18,25 +18,24 @@ At third, if you aren't reporting an in-game bug, I am not asking you to write s
 
 ## Report requirements
 
-*   Confirmation that you haven't modified the add-on;
-    
->   If something even hints some kind of addition, you will be asked for **YOUR** *modlist.txt* and *loadorder.txt* (Navigate to your mod organizer folder, 
-    open *profiles* folder, then to the profile with problem) (don't copy those directly to report as text, load as a file).
+*   Confirmation that you haven't modified the modpack;
 
-*   Version of the add-on;
+*   Version of the fork;
 
->   Can be found on the first separator in MO2.  
+>   Can be found on the first separator inside the mod organizer.  
 
 *   Screenshot or video of the problem if appliable;
    
->   Copy and paste in the report or just use any kind of picture/video sharing service (when the problem is seeable, open the console (`~` key) and press on the
-    problem to see maybe the console gives more information on the source of the issue, then take the screenshot).
+>   When the problem is seeable, open the console (`~` key) and press on the problem to see maybe the console gives more information on the source of the issue.
+    Then copy and paste in the report or just use any kind of picture/video sharing service.
 
 *   Description of the problem (what, when, where);
 
-*   How to repeat the issue;
+*   How to repeat the issue.
     
 >   Remember that Skyrim is Skyrim, so if the issue can’t be repeated at least 3 times, I won’t be able to help.
+
+---
 
 ## Example of the Bug Report
 
@@ -47,6 +46,3 @@ modlist.txt and loadorder.txt.
 _Was going to Whiterun for the first time, right near the gate of the
 city one of the guards has black face. Have tried to get to Whiterun
 and then return, but the issue is still there._
-
-I will try to respond as fast as I can. Please, be mindful that I have
-studies, other hobbies and many other things to do and places to be.
