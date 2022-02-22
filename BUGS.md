@@ -16,10 +16,10 @@ but something is still not right, you can ask for advice in [Wabbajack Discord s
 
 At second, support with in-game issues is offered in TPF Discord server's _#tpf-de-wabbajack-support_ and _#tpf-de-crash-reports_ channels and Wabbajack Discord server's _#tpf-dragons-edition-support_ channel.
 
-At second, if another person reports any kind of issue you have too, mention that you are having the same issue.
+At third, if another person reports any kind of issue you have too, mention that you are having the same issue.
 That is important for me, because then I will know that issue is global and maybe I will need your help to resolve it. 
 
-At third, if you aren't reporting an in-game bug, I am not asking you to write stories about that, just say what the problem is in appropriate channels. 
+At fourth, if you aren't reporting an in-game bug, I am not asking you to write stories about that, just say what the problem is in appropriate channels. 
 
 ## Report requirements
 
