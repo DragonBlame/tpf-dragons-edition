@@ -13,6 +13,12 @@ I would very strongly recommend to check _Questions & Answers_ section for the m
 
 ---
 
+## Disclaimer
+
+### READING THIS README IN ITS ENTIRETY IS REQUIRED FOR THE LIST TO WORK AS INTENDED. IT WILL NOT WORK CORRECTLY IF YOU DON'T READ.
+
+---
+
 ## Requirements
 
   - Fork's installation size - ~ 153 GB.
@@ -26,7 +32,7 @@ if you have them already.
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
   - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
   - The latest version of Skyrim - 1.6.353.
-  - 
+  - [Nexus](https://www.nexusmods.com/skyrimspecialedition)
 
 ---
 
