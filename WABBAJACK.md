@@ -2,6 +2,12 @@
 
 # Wabbajack Guide
 
+## Disclaimer
+
+### READING THIS GUIDE IS REQUIRED FOR THE MODPACK TO WORK AS INTENDED. IT WILL NOT WORK CORRECTLY IF YOU DO NOT GET AQQUAINTED AND FOLLOW ALL THE INFORMATION.
+
+---
+
 ## About Wabbajack and the fork
 
 Wabbajack allows you to install my modpack to your PC by duplicating my setup directly to your PC, including each mod, setting, output etc. 
@@ -10,12 +16,6 @@ If you want to better understand the general idea of Wabbajack, refer to a Reddi
 
 If you would like to learn more general information about the fork, be sure to visit its home page again [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973). 
 I would very strongly recommend to check _Questions & Answers_ section for the most popular questions asked by users of the add-on.
-
----
-
-## Disclaimer
-
-### READING THIS README IN ITS ENTIRETY IS REQUIRED FOR THE LIST TO WORK AS INTENDED. IT WILL NOT WORK CORRECTLY IF YOU DON'T READ.
 
 ---
 
