@@ -37,6 +37,8 @@ At fourth, if you aren't reporting an in-game bug, I am not asking you to write 
 *   How to repeat the issue.    
 >   Remember that Skyrim is Skyrim, so if the issue can’t be repeated at least 3 times, I won’t be able to help.
 
+---
+
 ## Example of the Bug Report
 
 A person has sent me a screenshot of a guard with black face and I
