@@ -53,11 +53,9 @@ you will get only 40% chance to break a lockpick on almost any chest.
 
 ## New Mechanics
 
-Soon enough (or maybe not) you will get some kind of special powers:
-
-* **Camera's side** - Change camera's side by using your `Mouse 5` key. If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
-* **Headtracking** - Press your `V` key to disable or enable headtracking at any time.
-* **Dodging** - `Mouse 4` button is chosen by default for dodging.
+* [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
+* [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
+* [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - `Mouse 4` button is chosen by default for dodging.
 
 If you want to change the button for dodging, do the following:
 
@@ -69,17 +67,17 @@ If you want to change the button for dodging, do the following:
 > Because of some kind of Skyrim's oddities, each button here is actually one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
 6. Press on `Save` button.
 
-* **Crouch sliding** - While sprinting, you can press `Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
-* **Praying** - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
-you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/54099). 
-* **Animated shouts** - Press your right _Alt_ key to disable or enable animated shouts at any time.
+* [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
+* [Praying](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
+you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree.
+* [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your right _Alt_ key to disable or enable animated shouts at any time.
 * **Dragonborn's powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
 You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` button. Console users can access it by using the tween menu.
 * **Powers of undead** - After finishing one very unique quest, you will unlock an interesting power, which gives you access to another one new perk tree. 
 You will be able to upgrade this power by feeding souls to your source of power. Accessible by pressing `.` button. Console users can access it by using the tween menu.
 * **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
-* **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
-You will need to press `,` button to use the whistle in the game.
+
+## Utility Tools
 
 About just some of interesting mods I have added:
 
@@ -112,6 +110,8 @@ you will get only 40% chance to break a lockpick on almost any chest.
 * **About Lydia** - If the new Lydia is too noisy for you, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
 * **About Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 * **About your character's light adjustments** - You will need to use _AddItemMenu_ again, but this time type the word `light`. _Character Light_ allows use to make better screenshots if we want lightning of our character to be a bit different and can also be used in an ordinary gameplay if you wish as the mod doesn't use scripts. It works even on followers, but then you should give them the corresponding NPC lightning item.
+* **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
+You will need to press `,` button to use the whistle in the game.
 
 And now just a little heads up and how and when and how you should start newly
 added quests. They can be split between early
