@@ -28,7 +28,7 @@ and perks that activate when wearing a full set of heavy or light armor work wit
 - [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411);
 - [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130);
 - [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138);
-- [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099);
+- [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - Shrines no longer heal you from any kind of disease, but at the same time blessings are much more useful and stay with you as long as you pray for your chosen diety.
 - [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746);
 - [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639).
 
