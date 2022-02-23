@@ -98,18 +98,19 @@ offer inside their plugins. I have added it for people to know that there is an 
 * [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Now there are much more of them than in vanilla Skyrim and they look pretty different from each other. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
 * [Enemies during College of Winterhold quest line](https://www.nexusmods.com/skyrimspecialedition/mods/44557) - Now you will actually need magic to beat College of Winterhold. You have been warned. Conjured minions, enhanced weapons, illusion, of course, destruction magic, shouts. Good, old steel isn't as reliable now.
 * [Hjerim without joining the war](https://www.nexusmods.com/skyrimspecialedition/mods/29508) - It is enough to just take the care of the Butcher.
-* Cured Serana's look - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable `Cured Serana Patch`, which 
+* [Cured Serana's look](https://www.nexusmods.com/skyrimspecialedition/mods/35892) - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable `Cured Serana Patch`, which 
 you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 * [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
 
 ## Beginner Tips
 
-Now some juicy tips for peeps, who went right here after mingling with the add-on:
+Now some juicy tips for peeps, who are still here after mingling with the add-on:
 
 * Be sure to do the main quest series as some added quests are tied to it (more information later).
 * For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
 there will be a neat spell book waiting for you somewhere around Riverwood.
-* And another one - be sure to travel around Falkreath. Something interesting might happen.
+* Feel free to use Divine Elegance Store near Old Hroldan inn. I have added it to serve a resource for making different screenshots. Of course, 
+you can also use all those outfits, accessories etc. to make your character just prettier. There are things for everyone to play with, even warriors.
 
 At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with _~_ key, 
 type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
@@ -136,7 +137,7 @@ level 15. Don't forget to unhide the quests, when you actually would want and wo
 
 ## New Quests
 
-And now just a little heads up and how and when and how you should start newly added quests. They can be split between early and mid game and late game ones, 
+And then just a little heads up and how and when and how you should start newly added quests. They can be split between early and mid game and late game ones, 
 because their difficulty slightly differs.
 
 ### Early and Mid Game Quests
@@ -170,6 +171,7 @@ thief characters (sneaking and pickpocketing).
 
 ### Late Game Quests
 
+* **Miraak** - 
 * **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
 Tomb. While generic enemies can be not as tough, the bosses will kick your ass.
 At least level 15 is recommended from the author, I recommend at least level 35 even with the patches, which nerf the bosses. Without a follower.
