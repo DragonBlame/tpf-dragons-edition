@@ -10,6 +10,8 @@ I have tried to write as little information about the new adventures as I could 
 [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) allows us to skip the carriage drive and enter right into Helgen’s Keep with Ralof or Hadvar. 
 In some way it isn't an alternate start, but at the same time it is. What matters is this mod’s simplicity, which allows us to jump right into the action.
 
+---
+
 ## Gameplay Overhauls
 
 Overall:
@@ -54,6 +56,8 @@ while introducing some disadvantages of getting gear with help of others such as
 - [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439) - Draugr will stop stealing any septims around Skyrim and bringing them to crypts. But if we serious, there are many different coins around Skyrim now in places, where septims didn't make any sense, which will then be converted to their value in septims, when you pick them up.
 - [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276).
 
+---
+
 ## New Mechanics
 
 * [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Spend some stamina to be able to dodge attack of your enemies. `Mouse 4` button is chosen by default for dodging.
@@ -79,6 +83,8 @@ If you want to change the button for dodging, do the following:
 You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` button. Console users can access it by using the tween menu.
 * [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
 
+---
+
 ## Utility Tools and Quality of Life Additions
 
 * [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
@@ -101,6 +107,8 @@ offer inside their plugins. I have added it for people to know that there is an 
 * [Cured Serana's look](https://www.nexusmods.com/skyrimspecialedition/mods/35892) - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable `Cured Serana Patch`, which 
 you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 * [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
+
+---
 
 ## Beginner Tips
 
@@ -135,6 +143,8 @@ way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
+
+---
 
 ## New Quests
 
