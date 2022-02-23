@@ -22,8 +22,8 @@ If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several
 - [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686);
 - [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487);
 - [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549);
-- [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191);
-- [Hand To Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790); 
+- [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Some key features include spells and perks that finally scale and remain strong options in the late game, shouts that will also scale in strength based on your Speech level and advance your Speech skill and perks that activate when wearing a full set of heavy or light armor work with only three pieces worn (no need for a helmet).
+- [Hand To Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat. Merging Lockpicking and Pickpocketing into a single tree improves thief gameplay by reducing the number of non-combat skills that players need to invest in. It also creates space to add a new, fully integrated perk tree for Hand to Hand. This allows for full support for unarmed combat as a legitimate and competitive gameplay style, while also untethering unarmed from either light or heavy armor.
 - [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411);
 - [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130);
 - [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138);
@@ -34,6 +34,8 @@ If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several
 Then there are some additional overhauls, which compliment these changes:
 
 - [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484) - Adds some of the perks from our perk overhaul to a little amount of NPCs to make them stronger. No more unique strength from perks just for our player character.
+- [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) - Finally bandits, mages and assassins will also have an option to have
+and use some potions. And not just healing potions, which they already use in vanilla to, to make our lives a little bit harder.
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will iron equipment be completely irrelevant in a matter of a few hours.
 - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
 while giving this way some disadvantages such as them being costly and taking time to complete. 
@@ -44,7 +46,10 @@ you will have only 40% chance to break a lockpick. That's the easiest lock you c
 But if you as total rookie will try to pick a master lock, be prepared to lose 15 lockpicks. Sounds reasonable for me, maybe you should lose even more.
 And that also works in other way - if you are a master thief (your lockpicking skill is big enough), 
 you will get only 40% chance to break a lockpick on almost any chest.
-- [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276);
+- [Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/4202) - Makes us become smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.
+- [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276).
+
+## New Mechanics
 
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
