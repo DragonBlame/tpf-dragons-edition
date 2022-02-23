@@ -51,7 +51,7 @@ you will get only 40% chance to break a lockpick on almost any chest.
 - [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115);
 - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
 while introducing some disadvantages of getting gear with help of others such as their services being costly and taking time to complete.
-- [C.O.I.N. - Coins of Interesting Natures] - Draugr will stop stealing any septims around Skyrim and bringing them to crypts. But if we serious, there are many different coins around Skyrim now in places, where septims didn't make any sense, which will then be converted to their value in septims, when you pick them up.
+- [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439) - Draugr will stop stealing any septims around Skyrim and bringing them to crypts. But if we serious, there are many different coins around Skyrim now in places, where septims didn't make any sense, which will then be converted to their value in septims, when you pick them up.
 - [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276).
 
 ## New Mechanics
@@ -109,6 +109,7 @@ Now some juicy tips for peeps, who are still here after mingling with the add-on
 * Be sure to do the main quest series as some added quests are tied to it (more information later).
 * For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
 there will be a neat spell book waiting for you somewhere around Riverwood.
+* Aela in a way is much more unique than other followers (not as unique starting with 2.2. version, but still). Pick her on a tough adventure to learn how.
 * Feel free to use Divine Elegance Store near Old Hroldan inn. I have added it to serve a resource for making different screenshots. Of course, 
 you can also use all those outfits, accessories etc. to make your character just prettier. There are things for everyone to play with, even warriors.
 
@@ -171,7 +172,6 @@ thief characters (sneaking and pickpocketing).
 
 ### Late Game Quests
 
-* **Miraak** - 
 * **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
 Tomb. While generic enemies can be not as tough, the bosses will kick your ass.
 At least level 15 is recommended from the author, I recommend at least level 35 even with the patches, which nerf the bosses. Without a follower.
@@ -207,8 +207,4 @@ combat oriented character required, very hard mod. After reaching level
 
 Won’t tell you any details about your potential new
 followers and other surprises as they should be discovered pretty easily
-while exploring. I hope if you were surprised (in a good way) about something and this section helped to learn about that a bit more.
-
-
-
-* **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
+while exploring. I hope if you were surprised (in a good way) about something and this guide helped to learn about that a bit more.
