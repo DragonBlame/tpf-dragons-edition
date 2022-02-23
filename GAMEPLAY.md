@@ -28,7 +28,9 @@ and perks that activate when wearing a full set of heavy or light armor work wit
 - [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411);
 - [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130);
 - [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138);
-- [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - Shrines no longer heal you from any kind of disease, but at the same time blessings are much more useful and stay with you as long as you pray for your chosen diety.
+- [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - After you pray at the shrine, you won't get cured from any disease, but 
+you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity you were praying to, but 
+a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree.
 - [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746);
 - [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639).
 
@@ -53,8 +55,6 @@ you will get only 40% chance to break a lockpick on almost any chest.
 
 ## New Mechanics
 
-* [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
-* [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
 * [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - `Mouse 4` button is chosen by default for dodging.
 
 If you want to change the button for dodging, do the following:
@@ -68,20 +68,19 @@ If you want to change the button for dodging, do the following:
 6. Press on `Save` button.
 
 * [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
-* [Praying](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - After you pray at the shrine, you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity
-you were praying to, but a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree.
-* [Upgraded horses]()
-* [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your right _Alt_ key to disable or enable animated shouts at any time.
-* **Dragonborn's powers** - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
+* [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.
+* [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
+* [Paragliding] - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
+(`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
+* [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
+* [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
 You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` button. Console users can access it by using the tween menu.
-* **Powers of undead** - After finishing one very unique quest, you will unlock an interesting power, which gives you access to another one new perk tree. 
-You will be able to upgrade this power by feeding souls to your source of power. Accessible by pressing `.` button. Console users can access it by using the tween menu.
-* **Skyrim's Paraglider** - If you have used one of my tips from before, you should know what this is about. Toggle paraglider by pressing your activation key (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person (mod's limitations).
 
-## Utility Tools
+## Utility Tools and Quality of Life Additions
 
-About just some of interesting mods I have added:
-
+* [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
+* [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
+* [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your right _Alt_ key to disable or enable animated shouts at any time.
 * **About AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
 * **About different kinds of clothing on NPCs each playthrough** - Dope, right? This change makes NPCs and towns much more lively.
