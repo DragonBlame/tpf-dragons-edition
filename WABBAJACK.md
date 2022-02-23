@@ -166,8 +166,7 @@ Some quick tips before the end:
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **About ENB** - `F10` button toggles the ENB effect, `F11` opens the ENB GUI, `F7` toggles an FPS counter. Feel free to make screenshots with Steam by using `F12`.
 
-> If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2). Then delete add-on's _enbseries_ folder, _enblocal.ini_ and _enbseries.ini_ files from the add-ons' _Stock Game_ folder and replace with the ones from your desired ENB. Also just want to warn you that your key bindings are going to be different that the ones, which 
-were in the add-on at the beginning. Feel free to use the instructions mentioned before to change them back. 
+> If the ENB isn't for you and you want to change it, delete modpack's _enbseries_ folder, _enblocal.ini_ and _enbseries.ini_ files from the fork's _Stock Game_ folder and replace with the ones from your desired ENB. Also just want to warn you that your key bindings are going to be different that the ones, which were in the add-on at the beginning.
 
 ---
 
