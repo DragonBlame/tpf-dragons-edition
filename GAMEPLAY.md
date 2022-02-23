@@ -3,7 +3,7 @@
 # Gameplay Guide
 
 This guide highlights major gameplay mods included in The Phoenix Flavour - Dragon's Edition, while also giving you some pointers on how to start your new adventures. 
-I have tried to write as little information about the new adventures as I could not to spoil the content for you, but it is hard to do, so you have been warned.
+I have tried to write as little information as I don't want to spoil the content for you, but it is hard to do, so you have been warned.
 
 ## Alternate Start
 
@@ -216,5 +216,5 @@ combat oriented character required, very hard mod. After reaching level
 60, a bonus quest becomes available.
 
 Won’t tell you any details about your potential new
-followers and other surprises as they should be discovered pretty easily
-while exploring. I hope if you were surprised (in a good way) about something and this guide helped to learn about that a bit more.
+followers and other surprises like improved vanilla quests as they should be discovered pretty easily
+while exploring. I hope you were intrigued about something from the modpack and this guide helped to learn about that a bit more.
