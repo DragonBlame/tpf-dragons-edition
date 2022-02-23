@@ -164,8 +164,10 @@ Some quick tips before the end:
 
 * **About the option to remove your tail** - It is weird, but you will actually need to equip another tail to get rid from... "them both". To get the tail, open your inventory and in misc item section find an item called `AddItemMenu` and click on it. Another menu with 4 items will pop up. Grab an item with a search option. Then open your inventory and use the item with the search option. Type `tail` in AddItemMenu's searcher. Choose the mod's plugin and grab your tail. Then equip it like gear and your tail will be gone.
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
-* **About ENB** - `F10` button toggles the ENB effect, `F11` opens the ENB GUI, `F7` toggles an FPS counter. Feel free to make screenshots with Steam by using `F12`. 
-* **About fast travelling (if you are using the *Interface* section)** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells, another mean, which is tied to a quest (don't want to spoil that) etc. If you still aren't sold, feel free to reenable it by disabling `Disable Fast Travel SKSE - No Janky Map UI` mod under the _Interface_ separator.
+* **About ENB** - `F10` button toggles the ENB effect, `F11` opens the ENB GUI, `F7` toggles an FPS counter. Feel free to make screenshots with Steam by using `F12`.
+
+> If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2). Then delete add-on's _enbseries_ folder, _enblocal.ini_ and _enbseries.ini_ files from the add-ons' _Stock Game_ folder and replace with the ones from your desired ENB. Also just want to warn you that your key bindings are going to be different that the ones, which 
+were in the add-on at the beginning. Feel free to use the instructions mentioned before to change them back. 
 
 ---
 
@@ -191,9 +193,6 @@ If you want to learn more about what the add-on offers and what actually many of
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
 please use _Posts_ feature on Nexus or use _#tpf-de-feedback_ on TPF's Discord server. Suggestions on how to improve the documentation are also welcome on GitHub.
 Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on Nexus.
-
-> If the ENB isn't for you and you want to change it, disable _Silent Horizons ENB Addon - Solar Cleaner_ in the _Exteriors_ section of the add-on (by clicking on a rectangle with a check-mark right next to the name of the mod on the left side of MO2). Then delete add-on's _enbseries_ folder, _enblocal.ini_ and _enbseries.ini_ files from the add-ons' _Stock Game_ folder and replace with the ones from your desired ENB. Also just want to warn you that your key bindings are going to be different that the ones, which 
-were in the add-on at the beginning. Feel free to use the instructions mentioned before to change them back. 
 
 If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate by pressing the button right below. 
