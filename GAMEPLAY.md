@@ -39,23 +39,24 @@ Then there are some additional overhauls, which compliment these changes:
 - [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484) - Adds some of the perks from our perk overhaul to a little amount of NPCs to make them stronger. No more unique strength from perks just for our player character.
 - [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) - Finally bandits, mages and assassins will also have an option to have
 and use some potions. And not just healing potions, which they already use in vanilla to, to make our lives a little bit harder.
-- [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will iron equipment be completely irrelevant in a matter of a few hours.
-- [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115);
-- [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
-while introducing some disadvantages of getting gear with help of others such as their services being costly and taking time to complete. 
-- [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
-- [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) - Modifies radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
 - [No Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/32218) - The end of the annoying lockpicking game. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful. Locks will break according to your skill too. For example, if you are a novice at lockpicking and you try to pick a novice lock, 
 you will have only 40% chance to break a lockpick. That's the easiest lock you can pick, so that is pretty fair for both balance and roleplay. 
 But if you as total rookie will try to pick a master lock, be prepared to lose 15 lockpicks. Sounds reasonable for me, maybe you should lose even more.
 And that also works in other way - if you are a master thief (your lockpicking skill is big enough), 
 you will get only 40% chance to break a lockpick on almost any chest.
 - [Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/4202) - Makes us become smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.
+- [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
+- [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) - Modifies radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
+- [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will iron equipment be completely irrelevant in a matter of a few hours.
+- [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115);
+- [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
+while introducing some disadvantages of getting gear with help of others such as their services being costly and taking time to complete. 
 - [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276).
+- [C.O.I.N. - Coins of Interesting Natures] - Draugr will stop stealing any septims around Skyrim and bringing them to crypts. But if we serious, there are many different coins around Skyrim now in places, where septims didn't make any sense, which will then be converted to their value in septims, when you pick them up.
 
 ## New Mechanics
 
-* [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - `Mouse 4` button is chosen by default for dodging.
+* [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Spend some stamina to be able to dodge attack of your enemies. `Mouse 4` button is chosen by default for dodging.
 
 If you want to change the button for dodging, do the following:
 
@@ -68,9 +69,11 @@ If you want to change the button for dodging, do the following:
 6. Press on `Save` button.
 
 * [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
+* [Knocking](https://www.nexusmods.com/skyrimspecialedition/mods/14098) - Knock on locked doors by activating them. Good for roleplaying and also useful.
+* [Party damage control](https://www.nexusmods.com/skyrimspecialedition/mods/62613) - If you have 3 or more members inside your party, be ready that you all will deal much less damage than before. A must have. 
 * [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
-* [Paragliding] - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
+* [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
 (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
 * [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
 * [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
@@ -80,30 +83,19 @@ You will be able to upgrade this power by shouting and killing dragons. Accessib
 
 * [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
 * [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
-* [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your right _Alt_ key to disable or enable animated shouts at any time.
-* **About AddItemMenu item in your inventory** - If you recall, we have added a mod, which makes it possible to test all items other mods have to
+* [Looting quickly](https://www.nexusmods.com/skyrimspecialedition/mods/21085) - One of the best additions to Fallout 4 (FO4) was the looting menu,
+which appears right when you move your cursor over lootable item without need to open game's full menu. This mod allows us to use this addition,
+but in Skyrim.
+* [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) - A mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
-* **About different kinds of clothing on NPCs each playthrough** - Dope, right? This change makes NPCs and towns much more lively.
-* **About binding items** - Now you can bind not just one item to one button, but much more. If you want to learn more, click [here](https://www.nexusmods.com/skyrimspecialedition/mods/27184).
-* **About forgetting your older spells** - Now you can forget spells you don't use anymore by going into the spells menu and pressing _R_ button.
-* **About automatically changing outfits according to different scenarios** - _Diziet' Auto Outfits_ makes you automatically change your outfit according to different conditions, which can be configured inside the mod's MCM. For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities.
-* **About lockpicking** - Now you don't need to do the annoying lockpicking game anymore. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful too. Locks will break according to your skill too. For example, if you are a novice at lockpicking and you try to pick a novice lock, 
-you will have only 40% chance to break a lockpick. That's the easiest lock you can pick, so that is pretty fair for both balance and roleplay. 
-But if you as total rookie will try to pick a master lock, be prepared to lose 15 lockpicks. Sounds reasonable for me, maybe you should lose even more.
-And that also works in other way - if you are a master thief (your lockpicking skill is big enough), 
-you will get only 40% chance to break a lockpick on almost any chest.
-* **About reading** - Now you will get experience boost to your leveling speed in a skill, which you have read about. 
-* **About different coins** - Now there are much more different coins around Skyrim, which will then be converted to their value in septims, when you pick them up.
-* **About bribing** - Now it depends on our speech skill too. Be prepared to actually pay if you aren't talkative enough. 
-* **About stealing** - Now you need to be crouched to steal items, which aren't the ones in containers. Finally I won't steal something by accident.
-* **About knocking** - Now you can knock on locked doors by activating them. Good for roleplaying and also useful.
-* **About Clairvoyance (_Guiding Wisp_ now)** - Now it is much more useful overall. Just try it out (be sure that you have an active quest in your journal).
-* **About being underwater** - Now you cee your oxygen meter while underwater, so you will know how much time you have before comitting to drowning.
-* **About NPC crafting and enchanting services** - Now you can ask different smiths and mages of Skyrim to craft or enchant for you, but, of course, there are drawbacks - their services are pretty costly and take time. 
-* **About buying Hjerim without joining the war** - Now it is enough to just take the care of the Butcher.
-* **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
-* **About werewolves** - Now there are much more of them than in vanilla Skyrim. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
-* **About sun and being a vampire** - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
+* [Binding items](https://www.nexusmods.com/skyrimspecialedition/mods/27184) - Now you can bind not just one item to one button, but much more. Feel free to check the mod to learn how to set it up.
+* [Forgetting your older spells](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Forget spells you don't use anymore by going into the spells menu and pressing `R` button.
+* [Automatically changing outfits according to different scenarios](https://www.nexusmods.com/skyrimspecialedition/mods/40801) - For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities. Be sure to check its MCM to activate it.
+* [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/18732) - Now you need to be crouched to steal items, which aren't the ones in containers.
+* [Clairvoyance (_Guiding Wisp_ now)](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Clairvoyance, but much more useful. Just try it out (be sure that you have an active quest in your journal).
+* [Hjerim without joining the war](https://www.nexusmods.com/skyrimspecialedition/mods/29508) - It is enough to just take the care of the Butcher.
+* [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Now there are much more of them than in vanilla Skyrim and they look pretty different from each other. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
+* [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
 * **About College of Winterhold** - Now you will actually need magic to beat College of Winterhold. You have been warned. Conjured minions, enhanced weapons, illusion, of course, destruction magic, shouts. Good, old steel isn't as reliable now.
 * **About getting armored pants** - You will be able to get these in exchange for their counterparts (heavy armors) in Skyrim. Just use any forge for that.
 * **About cleaning up your mess** - Now if you have accidentally Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
@@ -112,13 +104,15 @@ you will get only 40% chance to break a lockpick on almost any chest.
 * **About your character's light adjustments** - You will need to use _AddItemMenu_ again, but this time type the word `light`. _Character Light_ allows use to make better screenshots if we want lightning of our character to be a bit different and can also be used in an ordinary gameplay if you wish as the mod doesn't use scripts. It works even on followers, but then you should give them the corresponding NPC lightning item.
 * **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
 You will need to press `,` button to use the whistle in the game.
+* [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your right _Alt_ key to disable or enable animated shouts at any time.
+
+
+## New Quests
 
 And now just a little heads up and how and when and how you should start newly
 added quests. They can be split between early
 and mid game and late game ones, because their difficulty slightly
 differs.
-
-## New Quests
 
 ### Early and Mid Game Quests
 
@@ -218,3 +212,5 @@ way - you heard about what is happening from elves when you were trying
 to cross Skyrim’s border. You can do it as fast as you want, but enemies
 won’t be the easiest ones to beat. I would recommend getting at least
 level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
+
+* **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
