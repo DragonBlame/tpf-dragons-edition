@@ -3,7 +3,7 @@
 # Gameplay Guide
 
 This guide highlights major gameplay mods included in The Phoenix Flavour - Dragon's Edition, while also giving you some pointers on how to start your new adventures. 
-Consider it as **one big spoiler** for the content added and so you have been warned.
+I have tried to write as little information about the new adventures as I could not to spoil the content for you, but it is hard to do, so you have been warned.
 
 ## Alternate Start
 
@@ -36,6 +36,8 @@ a more unique one than those you get in vanilla. You can even take those powers 
 
 Then there are some additional overhauls, which compliment these changes:
 
+- [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
+- [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) - Modifies radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
 - [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484) - Adds some of the perks from our perk overhaul to a little amount of NPCs to make them stronger. No more unique strength from perks just for our player character.
 - [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) - Finally bandits, mages and assassins will also have an option to have
 and use some potions. And not just healing potions, which they already use in vanilla to, to make our lives a little bit harder.
@@ -45,14 +47,12 @@ But if you as total rookie will try to pick a master lock, be prepared to lose 1
 And that also works in other way - if you are a master thief (your lockpicking skill is big enough), 
 you will get only 40% chance to break a lockpick on almost any chest.
 - [Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/4202) - Makes us become smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.
-- [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
-- [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) - Modifies radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will iron equipment be completely irrelevant in a matter of a few hours.
 - [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115);
 - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
-while introducing some disadvantages of getting gear with help of others such as their services being costly and taking time to complete. 
-- [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276).
+while introducing some disadvantages of getting gear with help of others such as their services being costly and taking time to complete.
 - [C.O.I.N. - Coins of Interesting Natures] - Draugr will stop stealing any septims around Skyrim and bringing them to crypts. But if we serious, there are many different coins around Skyrim now in places, where septims didn't make any sense, which will then be converted to their value in septims, when you pick them up.
+- [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276).
 
 ## New Mechanics
 
@@ -75,9 +75,9 @@ If you want to change the button for dodging, do the following:
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
 (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
-* [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
 * [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
 You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` button. Console users can access it by using the tween menu.
+* [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
 
 ## Utility Tools and Quality of Life Additions
 
@@ -88,31 +88,56 @@ which appears right when you move your cursor over lootable item without need to
 but in Skyrim.
 * [AddItemMenu](https://www.nexusmods.com/skyrimspecialedition/mods/17563) - A mod, which makes it possible to test all items other mods have to
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
+* [Light adjustments for your character](https://www.nexusmods.com/skyrimspecialedition/mods/58955) - You will need to use _AddItemMenu_ again, but this time type the word `light`. _Character Light_ allows use to make better screenshots if we want lightning of our character to be a bit different and can also be used in an ordinary gameplay if you wish as the mod doesn't use scripts. It works even on followers, but then you should give them the corresponding NPC lightning item.
 * [Binding items](https://www.nexusmods.com/skyrimspecialedition/mods/27184) - Now you can bind not just one item to one button, but much more. Feel free to check the mod to learn how to set it up.
 * [Forgetting your older spells](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Forget spells you don't use anymore by going into the spells menu and pressing `R` button.
 * [Automatically changing outfits according to different scenarios](https://www.nexusmods.com/skyrimspecialedition/mods/40801) - For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities. Be sure to check its MCM to activate it.
 * [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/18732) - Now you need to be crouched to steal items, which aren't the ones in containers.
 * [Clairvoyance (_Guiding Wisp_ now)](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Clairvoyance, but much more useful. Just try it out (be sure that you have an active quest in your journal).
-* [Hjerim without joining the war](https://www.nexusmods.com/skyrimspecialedition/mods/29508) - It is enough to just take the care of the Butcher.
-* [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Now there are much more of them than in vanilla Skyrim and they look pretty different from each other. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
-* [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
-* **About College of Winterhold** - Now you will actually need magic to beat College of Winterhold. You have been warned. Conjured minions, enhanced weapons, illusion, of course, destruction magic, shouts. Good, old steel isn't as reliable now.
-* **About getting armored pants** - You will be able to get these in exchange for their counterparts (heavy armors) in Skyrim. Just use any forge for that.
-* **About cleaning up your mess** - Now if you have accidentally Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
-* **About Lydia** - If the new Lydia is too noisy for you, feel free to change her comment frequency in _Improved Follower Dialogue_ MCM.
-* **About Cured Serana Patch** - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable the patch, which you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
-* **About your character's light adjustments** - You will need to use _AddItemMenu_ again, but this time type the word `light`. _Character Light_ allows use to make better screenshots if we want lightning of our character to be a bit different and can also be used in an ordinary gameplay if you wish as the mod doesn't use scripts. It works even on followers, but then you should give them the corresponding NPC lightning item.
-* **Inigo's Whistle Key** - You can issue commands to Inigo by whistling to him. This ability is introduced during his quests and will be explained in-game. 
-You will need to press `,` button to use the whistle in the game.
 * [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your right _Alt_ key to disable or enable animated shouts at any time.
+* [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Now there are much more of them than in vanilla Skyrim and they look pretty different from each other. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
+* [Enemies during College of Winterhold quest line](https://www.nexusmods.com/skyrimspecialedition/mods/44557) - Now you will actually need magic to beat College of Winterhold. You have been warned. Conjured minions, enhanced weapons, illusion, of course, destruction magic, shouts. Good, old steel isn't as reliable now.
+* [Hjerim without joining the war](https://www.nexusmods.com/skyrimspecialedition/mods/29508) - It is enough to just take the care of the Butcher.
+* Cured Serana's look - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable `Cured Serana Patch`, which 
+you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+* [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
 
+## Beginner Tips
+
+Now some juicy tips for peeps, who went right here after mingling with the add-on:
+
+* Be sure to do the main quest series as some added quests are tied to it (more information later).
+* For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
+there will be a neat spell book waiting for you somewhere around Riverwood.
+* And another one - be sure to travel around Falkreath. Something interesting might happen.
+
+At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with _~_ key, 
+type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
+Feel free to configure any other gear while using **only** these settings. **Don't** change any other settings. Also don’t overdo these or animations will look funky. 
+And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press *R* and *Enter* and you are done.
+
+![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
+
+At third, look at some of these additional MCM configurations if you wish:
+
+* **Cond. Expressions** - Disable out of stamina, in pain,
+headache/diseased expressions. It can look odd if our character is constantly sad and in pain.
+* **Hide Your Quests** - I recommend to hide right away all quests you get
+right at the beginning except the main one (Unbound), because you mustn't
+start Helgen Reborn quest right at the beginning (read further to learn why) and because The Sinister Seven quest isn’t the one
+where you go to objective, just hide it, quest givers will look for you
+when a time comes and then you can unhide it. Tried to understand how to make the quest with
+Thalmor involved appear after you finish Diplomatic Immunity quest for
+immersiveness, but couldn't, will look at that later, so let it be this
+way - you heard about what is happening from elves when you were trying
+to cross Skyrim’s border. You can do it as fast as you want, but enemies
+won’t be the easiest ones to beat. I would recommend getting at least
+level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
 
 ## New Quests
 
-And now just a little heads up and how and when and how you should start newly
-added quests. They can be split between early
-and mid game and late game ones, because their difficulty slightly
-differs.
+And now just a little heads up and how and when and how you should start newly added quests. They can be split between early and mid game and late game ones, 
+because their difficulty slightly differs.
 
 ### Early and Mid Game Quests
 
@@ -178,39 +203,10 @@ finishing the main quest *The Horn of Jurgen Windcaller*. Stealth and
 combat oriented character required, very hard mod. After reaching level
 60, a bonus quest becomes available.
 
-I have tried to write as little information as I could so as not to
-spoil the content. Won’t tell you any details about your potential new
+Won’t tell you any details about your potential new
 followers and other surprises as they should be discovered pretty easily
 while exploring. I hope if you were surprised (in a good way) about something and this section helped to learn about that a bit more.
 
-But at first, some juicy tips for peeps, who went right here after mingling with the add-on:
 
-* Be sure to do the main quest series as some added quests are tied to it (more information later).
-* For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
-there will be a neat spell book waiting for you somewhere around Riverwood.
-* And another one - be sure to travel around Falkreath. Something interesting might happen.
-
-At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with _~_ key, 
-type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
-Feel free to configure any other gear while using **only** these settings. **Don't** change any other settings. Also don’t overdo these or animations will look funky. 
-And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press *R* and *Enter* and you are done.
-
-![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
-
-At third, look at some of these additional MCM configurations if you wish:
-
-* **Cond. Expressions** - Disable out of stamina, in pain,
-headache/diseased expressions. It can look odd if our character is constantly sad and in pain.
-* **Hide Your Quests** - I recommend to hide right away all quests you get
-right at the beginning except the main one (Unbound), because you mustn't
-start Helgen Reborn quest right at the beginning (read further to learn why) and because The Sinister Seven quest isn’t the one
-where you go to objective, just hide it, quest givers will look for you
-when a time comes and then you can unhide it. Tried to understand how to make the quest with
-Thalmor involved appear after you finish Diplomatic Immunity quest for
-immersiveness, but couldn't, will look at that later, so let it be this
-way - you heard about what is happening from elves when you were trying
-to cross Skyrim’s border. You can do it as fast as you want, but enemies
-won’t be the easiest ones to beat. I would recommend getting at least
-level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
 
 * **About Aela** - Now Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
