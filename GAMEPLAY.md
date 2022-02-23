@@ -15,13 +15,14 @@ In some way it isn't an alternate start, but at the same time it is. What matter
 Overall:
   - Like in vanilla, you are limited to one follower at a time (if we don't count followers with their own unique AI like Inigo and Lucien).
   - Leveling is slower than in vanilla, but you receive more perk points as you level up.
-  - Combat is more difficult than in vanilla.
+  - Combat is more difficult than in vanilla, but feels fair.
+  - The Arcane Blacksmith perk was removed from the perk tree and given to the player automatically. The idea is that being forced to decide between a weak but enchanted weapon or a strong but unenchanted item is not particularly fun.
 
 If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus' overhauls to core gameplay system, which greatly improve the experience, but at the same time stay as close to their origins as possible:
 
 - [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686);
 - [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487);
-- [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549);
+- [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - Adjusts the difficulty modifiers, slightly increasing incoming damage. With those changes, combat will feel noticably more difficult than vanilla to the point where you may be one-shot by certain enemy types. Facing mages without any magic resist enchantments or potions can be perilous.
 - [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Some key features include spells and perks that finally scale and remain strong options in the late game, shouts that will also scale in strength based on your Speech level and advance your Speech skill and perks that activate when wearing a full set of heavy or light armor work with only three pieces worn (no need for a helmet).
 - [Hand To Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat. Merging Lockpicking and Pickpocketing into a single tree improves thief gameplay by reducing the number of non-combat skills that players need to invest in. It also creates space to add a new, fully integrated perk tree for Hand to Hand. This allows for full support for unarmed combat as a legitimate and competitive gameplay style, while also untethering unarmed from either light or heavy armor.
 - [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411);
@@ -37,6 +38,7 @@ Then there are some additional overhauls, which compliment these changes:
 - [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) - Finally bandits, mages and assassins will also have an option to have
 and use some potions. And not just healing potions, which they already use in vanilla to, to make our lives a little bit harder.
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will iron equipment be completely irrelevant in a matter of a few hours.
+- [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115);
 - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
 while giving this way some disadvantages such as them being costly and taking time to complete. 
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
