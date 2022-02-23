@@ -17,7 +17,7 @@ Overall:
   - Leveling is slower than in vanilla, but you receive more perk points as you level up.
   - Combat is more difficult than in vanilla.
 
-If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus' overhauls to core gameplay system, which greatly improve the experience, but at the same time stays as close to origins as possible:
+If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus' overhauls to core gameplay system, which greatly improve the experience, but at the same time stay as close to their origins as possible:
 
 - [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686);
 - [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487);
