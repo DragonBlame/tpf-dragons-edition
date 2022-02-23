@@ -64,7 +64,7 @@ If you want to change the button for dodging, do the following:
 3. Choose `INI files` tab.
 4. Press on `SKSE\Plugins\TK Dodge RE.ini`.
 5. In line 5, change _DodgeHotkey_ parameter according to instructions found [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes) after _=_ sign.
-> Because of some kind of Skyrim's oddities, each button here is actually one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
+> Because of some kind of Skyrim's oddities, each button there is actually one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
 6. Press on `Save` button.
 
 * [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
