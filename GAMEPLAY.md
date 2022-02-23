@@ -2,37 +2,49 @@
 
 # Gameplay Guide
 
-The gameplay guide is meant to inform people about what they can expect from the add-on overall. Of course, some of you just went through the good, old manual way through all the documentation, but maybe you have forgotten about something, or some of you set up the add-on by using Wabbajack and now have no idea what possibilities await you. I consider this section as **one big spoiler** for some of the content added and so you have been warned.
+This guide highlights major gameplay mods included in The Phoenix Flavour - Dragon's Edition, while also giving you some pointers on how to start your new adventures. 
+Consider it as **one big spoiler** for the content added and so you have been warned.
 
-At first, some juicy tips for peeps, who went right here after mingling with the add-on:
+## Alternate Start
 
-* Be sure to do the main quest series as some added quests are tied to it (more information later).
-* For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
-there will be a neat spell book waiting for you somewhere around Riverwood.
-* And another one - be sure to travel around Falkreath. Something interesting might happen.
+[Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) allows us to skip the carriage drive and enter right into Helgen’s Keep with Ralof or Hadvar. 
+In some way it isn't an alternate start, but at the same time it is. What matters is this mod’s simplicity, which allows us to jump right into the action.
 
-At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with _~_ key, 
-type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
-Feel free to configure any other gear while using **only** these settings. **Don't** change any other settings. Also don’t overdo these or animations will look funky. 
-And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press *R* and *Enter* and you are done.
+## Gameplay Overhauls
 
-![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
+Overall:
+  - Like in vanilla, you are limited to one follower at a time (if we don't count followers with their own unique AI like Inigo and Lucien).
+  - Leveling is slower than in vanilla, but you receive more perk points as you level up.
+  - Combat is more difficult than in vanilla.
 
-At third, look at some of these additional MCM configurations if you wish:
+If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus' overhauls to core gameplay system, which greatly improve the experience, but at the same time stays as close to origins as possible:
 
-* **Cond. Expressions** - Disable out of stamina, in pain,
-headache/diseased expressions. It can look odd if our character is constantly sad and in pain.
-* **Hide Your Quests** - I recommend to hide right away all quests you get
-right at the beginning except the main one (Unbound), because you mustn't
-start Helgen Reborn quest right at the beginning (read further to learn why) and because The Sinister Seven quest isn’t the one
-where you go to objective, just hide it, quest givers will look for you
-when a time comes and then you can unhide it. Tried to understand how to make the quest with
-Thalmor involved appear after you finish Diplomatic Immunity quest for
-immersiveness, but couldn't, will look at that later, so let it be this
-way - you heard about what is happening from elves when you were trying
-to cross Skyrim’s border. You can do it as fast as you want, but enemies
-won’t be the easiest ones to beat. I would recommend getting at least
-level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
+- [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686);
+- [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487);
+- [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549);
+- [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191);
+- [Hand To Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790); 
+- [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411);
+- [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130);
+- [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138);
+- [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099);
+- [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746);
+- [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639).
+
+Then there are some additional overhauls, which compliment these changes:
+
+- [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484) - Adds some of the perks from our perk overhaul to a little amount of NPCs to make them stronger. No more unique strength from perks just for our player character.
+- [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will iron equipment be completely irrelevant in a matter of a few hours.
+- [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
+while giving this way some disadvantages such as them being costly and taking time to complete. 
+- [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
+- [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) - Modifies radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
+- [No Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/32218) - The end of the annoying lockpicking game. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful. Locks will break according to your skill too. For example, if you are a novice at lockpicking and you try to pick a novice lock, 
+you will have only 40% chance to break a lockpick. That's the easiest lock you can pick, so that is pretty fair for both balance and roleplay. 
+But if you as total rookie will try to pick a master lock, be prepared to lose 15 lockpicks. Sounds reasonable for me, maybe you should lose even more.
+And that also works in other way - if you are a master thief (your lockpicking skill is big enough), 
+you will get only 40% chance to break a lockpick on almost any chest.
+- [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276);
 
 Soon enough (or maybe not) you will get some kind of special powers. Here is a reminder on how to use them:
 
@@ -100,14 +112,11 @@ marked as two rocks together) southeast of Helgen. Personally recommend to start
 Some zones further from where you start the mod's quest will be much harder in the beginning like in Skyrim.
 * **Moonpath to Elsweyr** - Can be started any time in Bruma’s *Greenwood*,
 the southernmost point of County Bruma.
-* **Moon and Star** - Automatically after finishing the main quest *The* *Way
-of the Voice.*
+* **Moon and Star** - Automatically after finishing the main quest *The Way of the Voice.*
 * **Carved Bink** - After reaching level 10 in *Abandoned Grotto* west of Lost
 Knife Hideout.
-* **Project AHO** - After reaching level 15, head to Braidwood Inn (located at
-Kynesgrove) and talk to the innkeeper. Without a follower.
-* **The Wheels of Lull** - Automatically after reaching level 20, can be
-finished after reaching level 35.
+* **Project AHO** - After reaching level 15, head to Braidwood Inn (located at Kynesgrove) and talk to the innkeeper. Without a follower.
+* **The Wheels of Lull** - Automatically after reaching level 20, can be finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound*. 
 Recommended to be started at level 20. Read a note called *Helgen Reborn* in The Bannered Mare to start the quest.
 * **The Tools of Kagrenac** - Join College of Winterhold and finish the
@@ -159,3 +168,33 @@ I have tried to write as little information as I could so as not to
 spoil the content. Won’t tell you any details about your potential new
 followers and other surprises as they should be discovered pretty easily
 while exploring. I hope if you were surprised (in a good way) about something and this section helped to learn about that a bit more.
+
+But at first, some juicy tips for peeps, who went right here after mingling with the add-on:
+
+* Be sure to do the main quest series as some added quests are tied to it (more information later).
+* For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
+there will be a neat spell book waiting for you somewhere around Riverwood.
+* And another one - be sure to travel around Falkreath. Something interesting might happen.
+
+At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with _~_ key, 
+type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
+Feel free to configure any other gear while using **only** these settings. **Don't** change any other settings. Also don’t overdo these or animations will look funky. 
+And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press *R* and *Enter* and you are done.
+
+![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
+
+At third, look at some of these additional MCM configurations if you wish:
+
+* **Cond. Expressions** - Disable out of stamina, in pain,
+headache/diseased expressions. It can look odd if our character is constantly sad and in pain.
+* **Hide Your Quests** - I recommend to hide right away all quests you get
+right at the beginning except the main one (Unbound), because you mustn't
+start Helgen Reborn quest right at the beginning (read further to learn why) and because The Sinister Seven quest isn’t the one
+where you go to objective, just hide it, quest givers will look for you
+when a time comes and then you can unhide it. Tried to understand how to make the quest with
+Thalmor involved appear after you finish Diplomatic Immunity quest for
+immersiveness, but couldn't, will look at that later, so let it be this
+way - you heard about what is happening from elves when you were trying
+to cross Skyrim’s border. You can do it as fast as you want, but enemies
+won’t be the easiest ones to beat. I would recommend getting at least
+level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
