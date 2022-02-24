@@ -14,7 +14,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 
 ### Removed Mods
 
-* Silent Horizons ENB
+* Silent Horizons ENB, its patch
 * Miraak - Dragonborn Follower
 > Not actually needed, we are fine just with Miraak - Dragonborn Follower Dialogue Overhaul.
 * Miraak Husbando
@@ -46,9 +46,8 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Overhauled documentation.
 > Everything, again.
 * Divided miscellaneous mods into more categories. 
-* Added optional invisible headgear patch.
 * Added bigger Quick Loot for widescreen users.
-* Fixed Xander.
+* Fixed Xander's face.
 * Cleaned up Helgen Keep's entrance. 
 
 ### Updated Mods
