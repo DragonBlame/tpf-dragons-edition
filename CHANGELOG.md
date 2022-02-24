@@ -39,6 +39,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Falskaar - Addons and Patches
 * Comprehesive Falskaar Fixes
 * Lanterns Of Falskaar
+* Falskaar - Apothecary Patch
 * Better Falskaar and Wyrmstooth Map With Roads
 * Wyrmstooth - Mysticism Spell Consistency Patch
 * More to do in Hammerfell - The Gray Cowl of Nocturnal
