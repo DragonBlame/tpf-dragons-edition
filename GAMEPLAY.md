@@ -245,6 +245,8 @@ finishing the main quest *The Horn of Jurgen Windcaller*. Stealth and
 combat oriented character required, very hard mod. After reaching level
 60, a bonus quest becomes available.
 
+---
+
 Won’t tell you any details about your potential new
 followers and other surprises like improved vanilla quests as they should be discovered pretty easily
 while exploring. I hope you were intrigued about something from the modpack and this guide helped to learn about that a bit more.
