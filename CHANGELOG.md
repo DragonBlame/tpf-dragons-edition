@@ -34,6 +34,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Runic Dawnguard - Separated Lost Relic Questline
 * Spooky Philter of the Phantom
 * Bruma Armor Expansion
+* Wyrmstooth - Mysticism Spell Consistency Patch
 * More to do in Hammerfell - The Gray Cowl of Nocturnal
 * Frozen in Time - Definitely Not A Snow Elf Waifu Mod
 * Tragedian's Interesting NPCs
@@ -52,7 +53,11 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Party Damage Control
 * Dark Elf Lantern ENB Light
 * Water Effects Brightness and Reflection Fix
+* Diverse Werewolves Collection
 * Stagger Direction Fix
+* Skyrim's Paraglider - Stamina Drain
+* Monster Facial Animation
+* Werewolf Eyetracking Behavior
 * Modpocalypse NPCs
 > For not vanilla NPCs.
 * Tragedian's Fabulous Followers
