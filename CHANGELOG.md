@@ -38,6 +38,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * More to do in Hammerfell - The Gray Cowl of Nocturnal
 * Frozen in Time - Definitely Not A Snow Elf Waifu Mod
 * Tragedian's Interesting NPCs
+* Auri - Dismount AI Fix
 * Shrubs
 * Great City of Dragon Bridge - Navmesh Fix
 * Seasonal Weathers Framework
