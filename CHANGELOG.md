@@ -23,6 +23,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Shield Sisters Re-Imagined
 * All AI Overhaul patches
 > I generate these from now on.
+* Literally Unplayable - Shield Sisters Re-Imagined Patch
 
 ### Added Mods
 
@@ -35,6 +36,22 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Bruma Armor Expansion
 * More to do in Hammerfell - The Gray Cowl of Nocturnal
 * Frozen in Time - Definitely Not A Snow Elf Waifu Mod
+* Tragedian's Interesting NPCs
+* Shrubs
+* Seasonal Weathers Framework
+* Seasonal Weathers Framework - Cathedral Weathers and Seasons
+* Seasons of Skyrim
+* Seasons of Skyrim - Remove Unwanted Grass
+* Shrubs of Snow
+* Shrubs for Shrubs of Snow
+* Turn of the Seasons
+* Seasonal Wildlife Distribution
+* Seasonal Alchemy
+* Bent Pines for Seasons Of Skyrim
+* Adamant Perks For NPCS
+* Party Damage Control
+* Dark Elf Lantern ENB Light
+* Water Effects Brightness and Reflection Fix
 * Modpocalypse NPCs
 > For not vanilla NPCs.
 * Tragedian's Fabulous Followers
@@ -43,13 +60,20 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 
 * Removed manual guide.
 * Removed some of TPF's mods, which were completely overwritten by ours.
+* Readded full KS Hairdos.
 * Overhauled documentation.
-> Everything, again.
 * Divided miscellaneous mods into more categories. 
+> Everything, again.
+* Changed priorities of NPC overhauls.
+> If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
+* Locked some previously easily obtainable houses, left you riddles in the gameplay guide on how to get them. 
 * Added bigger Quick Loot for widescreen users.
 * Fixed Xander's face.
 * Cleaned up Helgen Keep's entrance. 
 
 ### Updated Mods
 
-* xxx
+* SKSE
+> Didn't know that there was 2.0.20. build.
+* Ralof or Hadvar
+* Another KS Hairdos Replacer
