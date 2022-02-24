@@ -75,5 +75,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 
 * SKSE
 > Didn't know that there was 2.0.20. build.
-* Ralof or Hadvar
+* Kaidan 2 Follower Voice Fixes and Additional Dialogue
+> Just downloaded it from its new page.
 * Another KS Hairdos Replacer
+* Ralof or Hadvar 
