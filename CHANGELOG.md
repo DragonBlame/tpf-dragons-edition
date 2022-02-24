@@ -39,6 +39,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Frozen in Time - Definitely Not A Snow Elf Waifu Mod
 * Tragedian's Interesting NPCs
 * Shrubs
+* Great City of Dragon Bridge - Navmesh Fix
 * Seasonal Weathers Framework
 * Seasonal Weathers Framework - Cathedral Weathers and Seasons
 * Seasons of Skyrim
