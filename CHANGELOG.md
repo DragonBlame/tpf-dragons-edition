@@ -15,22 +15,37 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 ### Removed Mods
 
 * Silent Horizons ENB
+* Miraak - Dragonborn Follower
+> Not actually needed, we are fine just with Miraak - Dragonborn Follower Dialogue Overhaul.
+* Miraak Husbando
 * Facegen Output for Random Mods
 * Diverse Skyrim - Cathedral NPCs Facegen Patch
+* Shield Sisters Re-Imagined
+* All AI Overhaul patches
+> I generate these from now on.
 
 ### Added Mods
 
 * Culminated ENB
+* Authentic Sinding Follower
+* Handsome and Miraakulous Miraak
 * Underwater Treasure
+* Runic Dawnguard - Separated Lost Relic Questline
+* Spooky Philter of the Phantom
+* Bruma Armor Expansion
+* More to do in Hammerfell - The Gray Cowl of Nocturnal
+* Frozen in Time - Definitely Not A Snow Elf Waifu Mod
 * Modpocalypse NPCs
-> For newly added NPCs.
+> For not vanilla NPCs.
+* Tragedian's Fabulous Followers
 
 ### Changes
 
-* Overhauled documentation.
 * Removed manual guide.
 * Removed some of TPF's mods, which were completely overwritten by ours.
-* Divided miscellaneous mods into 
+* Overhauled documentation.
+> Each section of the documentation was touched.
+* Divided miscellaneous mods into more categories. 
 * Added optional invisible headgear patch.
 * Added bigger Quick Loot for widescreen users.
 * Fixed Xander.
