@@ -52,6 +52,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Party Damage Control
 * Dark Elf Lantern ENB Light
 * Water Effects Brightness and Reflection Fix
+* Stagger Direction Fix
 * Modpocalypse NPCs
 > For not vanilla NPCs.
 * Tragedian's Fabulous Followers
