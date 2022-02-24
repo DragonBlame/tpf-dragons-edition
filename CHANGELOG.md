@@ -95,6 +95,8 @@ But you will wait more for common ingredients if NPCs don't have them. It didn't
 * Added bigger Quick Loot for widescreen users.
 * Fixed Xander's face.
 * Cleaned up Helgen Keep's entrance. 
+* Updated for TPF's latest version, but without A Matter of Time, Nordic UI and cursor changes.
+> Have tried Nordic UI hundreds of times, still don't like it. And overall I don't feel that I need to see in-game time. 
 
 ### Updated Mods
 
