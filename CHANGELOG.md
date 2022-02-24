@@ -100,9 +100,11 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Beyond Skyrim - Bruma
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 > Just downloaded it from its new page.
-* COTN Dawnstar Patch Collection
-* COTN Winterhold Patch Collection
+* Cities of the North - Dawnstar Patch Collection
+* Cities of the North - Winterhold Patch Collection
+* Cities of the North - Falkreath Patch Collection
 * JKs Guild HQ Interiors Patch Collection
+* Pilgrim - A Religion Overhaul
 * Another KS Hairdos Replacer
 * Pretty One-Handed Animations Overhaul
 * Ralof or Hadvar 
