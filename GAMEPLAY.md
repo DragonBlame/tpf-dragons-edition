@@ -146,6 +146,35 @@ level 15. Don't forget to unhide the quests, when you actually would want and wo
 
 ---
 
+## Player Homes
+
+The modpack features a bunch of different player homes. Some of them I have locked and hidden the keys all round Skyrim. To find them, you will have to solve these riddles:
+
+`
+**Viking's Longhouse**
+Makes it possible to make a respite for each weary traveller.
+Home of hundreds.
+Will burn greatly!
+
+**Red Rose Mill**
+My goat!
+Inside realm of pleasure and revelry.
+Some nights should better be forgotten, but will be remembered.
+
+**Ruska**
+Sight of nature, life. Time to bask in its glory.
+Then some peace in the soothing hot springs.
+Those three, not ever talking hunters... Great! Will stay here for a while.
+
+**Wind Path**
+The first, the second, the third and the fourth teacher of the Dovah came outside. Still didn't see the fifth one.
+Those trainings... Running like the wind...
+The one, who talks, finally took Dovah to meditate with him to the top.
+
+`
+
+---
+
 ## New Quests
 
 And then just a little heads up and how and when and how you should start newly added quests. They can be split between early and mid game and late game ones, 
