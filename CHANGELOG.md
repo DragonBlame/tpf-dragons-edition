@@ -87,7 +87,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Divided miscellaneous mods into more categories. 
 * Changed priorities of NPC overhauls.
 > If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
-* Locked some previously easily obtainable houses, left you riddles in the gameplay guide on how to get them. 
+* Locked some previously easily obtainable houses, left riddles in the gameplay guide on how to get the keys. 
 * Added bigger Quick Loot for widescreen users.
 * Fixed Xander's face.
 * Cleaned up Helgen Keep's entrance. 
