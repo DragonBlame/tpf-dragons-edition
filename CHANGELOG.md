@@ -20,6 +20,8 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Miraak Husbando
 * Better Wyrmstooth Map With Roads
 * Facegen Output for Random Mods
+* Fixed Mesh Lighting - Ancient Trees of Skyrim Patch
+> Included in Fixed Mesh Lightning's update.
 * Diverse Skyrim - Cathedral NPCs Facegen Patch
 * Shield Sisters Re-Imagined
 * All AI Overhaul patches
