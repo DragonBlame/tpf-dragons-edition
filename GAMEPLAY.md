@@ -219,7 +219,7 @@ At least level 15 is recommended from the author, I recommend at least level 35 
 30 (I know, not immersive, unfortunately the patch for making it start
 in a better way was removed from Nexus, going to deal with that later,
 the late game quest, considered you should have gotten it after one
-Dragonborn quest).
+Dragonborn quest). Also grants you similar perk tree like the Dragonborn one and you get perk points by feeding your source of dark powers.
 * **The Forgotten City** - Automatically after reaching level 40. The story
 responds to your character’s individual history, actions, so a high
 level of speech skill (approximately 60) is also recommended. Enemies
