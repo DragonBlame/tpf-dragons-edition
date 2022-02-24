@@ -44,7 +44,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Removed manual guide.
 * Removed some of TPF's mods, which were completely overwritten by ours.
 * Overhauled documentation.
-> Each section of the documentation was touched.
+> Everything, again.
 * Divided miscellaneous mods into more categories. 
 * Added optional invisible headgear patch.
 * Added bigger Quick Loot for widescreen users.
