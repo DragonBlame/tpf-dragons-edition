@@ -152,9 +152,9 @@ The modpack features a bunch of different player homes. Some of them I have lock
 
 
 **Viking's Longhouse**
-`Makes it possible to make a respite for each weary traveller.`
-`Home of hundreds.`
-`Will burn greatly!`
+Makes it possible to make a respite for each weary traveller.
+Home of hundreds.
+Will burn greatly!
 
 **Red Rose Mill**
 My goat!
