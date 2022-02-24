@@ -83,7 +83,6 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Readded full KS Hairdos.
 * Overhauled documentation.
 * Divided miscellaneous mods into more categories. 
-> Everything, again.
 * Changed priorities of NPC overhauls.
 > If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
 * Locked some previously easily obtainable houses, left you riddles in the gameplay guide on how to get them. 
@@ -97,5 +96,6 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 > Didn't know that there was the 2.0.20. build.
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 > Just downloaded it from its new page.
+* JKs Guild HQ Interiors Patch Collection
 * Another KS Hairdos Replacer
 * Ralof or Hadvar 
