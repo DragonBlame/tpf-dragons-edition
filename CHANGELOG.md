@@ -12,17 +12,29 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 
 **New save is required.**
 
-### Changes
-
-* xxx
-
 ### Removed Mods
 
-* xxx
+* Silent Horizons ENB
+* Facegen Output for Random Mods
+* Diverse Skyrim - Cathedral NPCs Facegen Patch
 
 ### Added Mods
 
-* xxx
+* Culminated ENB
+* Underwater Treasure
+* Modpocalypse NPCs
+> For newly added NPCs.
+
+### Changes
+
+* Overhauled documentation.
+* Removed manual guide.
+* Removed some of TPF's mods, which were completely overwritten by ours.
+* Divided miscellaneous mods into 
+* Added optional invisible headgear patch.
+* Added bigger Quick Loot for widescreen users.
+* Fixed Xander.
+* Cleaned up Helgen Keep's entrance. 
 
 ### Updated Mods
 
