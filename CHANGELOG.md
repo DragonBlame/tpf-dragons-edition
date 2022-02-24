@@ -94,6 +94,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 
 * SKSE
 > Didn't know that there was the 2.0.20. build.
+* Fixed Mesh Lightning
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 > Just downloaded it from its new page.
 * JKs Guild HQ Interiors Patch Collection
