@@ -18,6 +18,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Miraak - Dragonborn Follower
 > Not actually needed, we are fine just with Miraak - Dragonborn Follower Dialogue Overhaul.
 * Miraak Husbando
+* Better Wyrmstooth Map With Roads
 * Facegen Output for Random Mods
 * Diverse Skyrim - Cathedral NPCs Facegen Patch
 * Shield Sisters Re-Imagined
@@ -34,6 +35,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Runic Dawnguard - Separated Lost Relic Questline
 * Spooky Philter of the Phantom
 * Bruma Armor Expansion
+* Better Falskaar and Wyrmstooth Map With Roads
 * Wyrmstooth - Mysticism Spell Consistency Patch
 * More to do in Hammerfell - The Gray Cowl of Nocturnal
 * Frozen in Time - Definitely Not A Snow Elf Waifu Mod
