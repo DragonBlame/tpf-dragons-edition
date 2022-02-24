@@ -35,6 +35,10 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Runic Dawnguard - Separated Lost Relic Questline
 * Spooky Philter of the Phantom
 * Bruma Armor Expansion
+* Falskaar
+* Falskaar - Addons and Patches
+* Comprehesive Falskaar Fixes
+* Lanterns Of Falskaar
 * Better Falskaar and Wyrmstooth Map With Roads
 * Wyrmstooth - Mysticism Spell Consistency Patch
 * More to do in Hammerfell - The Gray Cowl of Nocturnal
@@ -86,7 +90,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 ### Updated Mods
 
 * SKSE
-> Didn't know that there was 2.0.20. build.
+> Didn't know that there was the 2.0.20. build.
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 > Just downloaded it from its new page.
 * Another KS Hairdos Replacer
