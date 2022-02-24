@@ -55,6 +55,8 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Modpocalypse NPCs
 > For not vanilla NPCs.
 * Tragedian's Fabulous Followers
+* Literally Unplayable - Kaidan 2 Patch
+> Apparently it is still needed for one head part.
 
 ### Changes
 
