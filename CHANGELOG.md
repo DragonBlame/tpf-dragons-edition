@@ -22,7 +22,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Diverse Skyrim - Cathedral NPCs Facegen Patch
 * Shield Sisters Re-Imagined
 * All AI Overhaul patches
-> I generate these from now on.
+> I generate and then manually correct these from now on.
 * Literally Unplayable - Shield Sisters Re-Imagined Patch
 
 ### Added Mods
