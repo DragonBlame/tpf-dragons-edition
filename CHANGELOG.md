@@ -43,6 +43,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Wyrmstooth - Mysticism Spell Consistency Patch
 * More to do in Hammerfell - The Gray Cowl of Nocturnal
 * Frozen in Time - Definitely Not A Snow Elf Waifu Mod
+* The Wheel of Time
 * Tragedian's Interesting NPCs
 * Auri - Dismount AI Fix
 * Shrubs
