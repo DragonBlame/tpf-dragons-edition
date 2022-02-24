@@ -87,9 +87,9 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Divided miscellaneous mods into more categories. 
 * Changed priorities of NPC overhauls.
 > If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
-* Changed settings for Honed Metal.
+* Tweaked Honed Metal.
 > Now everything should be just a little bit more expensive and time consuming to balance everything out. 
-But you will wait more for common ingredients if NPCs don't have them. It didn't make sense that person is gathering resources faster than all other procedures.
+But you will wait more for common ingredients if NPCs don't have them. It didn't make sense that they got them so fast.
 * Locked some previously easily obtainable houses, left riddles in the gameplay guide on how to get the keys. 
 * Added bigger Quick Loot for widescreen users.
 * Fixed Xander's face.
