@@ -87,6 +87,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Divided miscellaneous mods into more categories. 
 * Changed priorities of NPC overhauls.
 > If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
+* Made hoods and other type of headgear, which isn't armour, appear much more less on NPCs.
 * Tweaked Honed Metal.
 > Now everything should be just a little bit more expensive and time consuming to balance everything out. 
 But you will wait more for common ingredients if NPCs don't have them. It didn't make sense that they got them so fast.
