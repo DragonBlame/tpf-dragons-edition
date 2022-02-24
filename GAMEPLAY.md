@@ -150,11 +150,11 @@ level 15. Don't forget to unhide the quests, when you actually would want and wo
 
 The modpack features a bunch of different player homes. Some of them I have locked and hidden the keys all round Skyrim. To find them, you will have to solve these riddles:
 
-`
+
 **Viking's Longhouse**
-Makes it possible to make a respite for each weary traveller.
-Home of hundreds.
-Will burn greatly!
+`Makes it possible to make a respite for each weary traveller.`
+`Home of hundreds.`
+`Will burn greatly!`
 
 **Red Rose Mill**
 My goat!
@@ -170,8 +170,6 @@ Those three, not ever talking hunters... Great! Will stay here for a while.
 The first, the second, the third and the fourth teacher of the Dovah came outside. Still didn't see the fifth one.
 Those trainings... Running like the wind...
 The one, who talks, finally took Dovah to meditate with him to the top.
-
-`
 
 ---
 
