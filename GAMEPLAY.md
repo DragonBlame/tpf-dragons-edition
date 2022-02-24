@@ -40,7 +40,7 @@ Then there are some additional overhauls, which compliment these changes:
 
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
 - [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) - Modifies radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
-- [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484) - Adds some of the perks from our perk overhaul to a little amount of NPCs to make them stronger. No more unique strength from perks just for our player character.
+- [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484) - Adds some of the perks from our perk overhaul to a little amount of NPCs to make them stronger. No more unique strength from perks just for our player character. There is only 15% change of perks being added to NPC, so it shoudn't be too hard for anyone.
 - [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) - Finally bandits, mages and assassins will also have an option to have
 and use some potions. And not just healing potions, which they already use in vanilla to, to make our lives a little bit harder.
 - [No Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/32218) - The end of the annoying lockpicking game. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful. Locks will break according to your skill too. For example, if you are a novice at lockpicking and you try to pick a novice lock, 
