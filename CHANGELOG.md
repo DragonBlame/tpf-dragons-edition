@@ -58,7 +58,6 @@ This update was mainly meant to improve appearance of the whole fork, while also
 * Diverse Werewolves Collection
 * Stagger Direction Fix
 * NPC Animation Remix
-* Vanargand Animations - Dual Wield Attacks
 * Skyrim's Paraglider - Stamina Drain
 * Monster Facial Animation
 * Werewolf Eyetracking Behavior
