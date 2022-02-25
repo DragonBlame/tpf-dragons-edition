@@ -20,6 +20,9 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Miraak Husbando
 * Better Wyrmstooth Map With Roads
 * Facegen Output for Random Mods
+* The Sinister Seven
+> I love the mod, I am fine with enemies coming whenever they come, but it should start more immersively. It is the only mod with this problem now after
+Kaidan got his deserved treatment (if we exclude Undeath, which at least starts some time later and has much more content), so I have decided to remove it for consistency.
 * Fixed Mesh Lighting - Ancient Trees of Skyrim Patch
 > Included in Fixed Mesh Lightning's update.
 * Diverse Skyrim - Cathedral NPCs Facegen Patch
