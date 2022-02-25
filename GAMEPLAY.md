@@ -123,10 +123,10 @@ there will be a neat spell book waiting for you somewhere around Riverwood.
 * Feel free to use Divine Elegance Store near Old Hroldan inn. I have added it to serve a resource for making different screenshots. Of course, 
 you can also use all those outfits, accessories etc. to make your character just prettier. There are things for everyone to play with, even warriors.
 
-At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with _~_ key, 
-type `showracemenu`, press *Enter* and make corrections to your gear's position using settings you can again see below. 
+At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with `~` key, 
+type `showracemenu`, press `Enter` and make corrections to your gear's position using settings you can again see below. 
 Feel free to configure any other gear while using **only** these settings. **Don't** change any other settings. Also don’t overdo these or animations will look funky. 
-And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press *R* and *Enter* and you are done.
+And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press `R` and `Enter` and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
 
