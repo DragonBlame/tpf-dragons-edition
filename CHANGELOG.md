@@ -38,6 +38,7 @@ This update was mainly meant to improve appearance of the whole fork, while also
 * Tragedian's Interesting NPCs
 * Auri - Dismount AI Fix
 * Immersive Kaidan Start
+* The Dragon Bridge
 * Shrubs
 * Great City of Dragon Bridge - Navmesh Fix
 * Seasonal Weathers Framework
