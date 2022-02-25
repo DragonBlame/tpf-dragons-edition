@@ -96,6 +96,8 @@ but in Skyrim.
 offer inside their plugins. I have added it for people to know that there is an option like that and for your own testing purposes (can't decide, which armour I would like to get more, let me see and then I will reload my earlier save). I hope you won’t use it for cheating.
 * [Light adjustments for your character](https://www.nexusmods.com/skyrimspecialedition/mods/58955) - You will need to use _AddItemMenu_ again, but this time type the word `light`. _Character Light_ allows use to make better screenshots if we want lightning of our character to be a bit different and can also be used in an ordinary gameplay if you wish as the mod doesn't use scripts. It works even on followers, but then you should give them the corresponding NPC lightning item.
 * [Binding items](https://www.nexusmods.com/skyrimspecialedition/mods/27184) - Now you can bind not just one item to one button, but much more. Feel free to check the mod to learn how to set it up.
+* [Hiding quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125) - Gives you an option to hide a quest you will do later from your journal by 
+using MCM.
 * [Forgetting your older spells](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Forget spells you don't use anymore by going into the spells menu and pressing `R` button.
 * [Automatically changing outfits according to different scenarios](https://www.nexusmods.com/skyrimspecialedition/mods/40801) - For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities. Be sure to check its MCM to activate it.
 * [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/18732) - Now you need to be crouched to steal items, which aren't the ones in containers.
@@ -127,22 +129,6 @@ Feel free to configure any other gear while using **only** these settings. **Don
 And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press *R* and *Enter* and you are done.
 
 ![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
-
-At third, look at some of these additional MCM configurations if you wish:
-
-* **Cond. Expressions** - Disable out of stamina, in pain,
-headache/diseased expressions. It can look odd if our character is constantly sad and in pain.
-* **Hide Your Quests** - I recommend to hide right away all quests you get
-right at the beginning except the main one (Unbound), because you mustn't
-start Helgen Reborn quest right at the beginning (read further to learn why) and because The Sinister Seven quest isn’t the one
-where you go to objective, just hide it, quest givers will look for you
-when a time comes and then you can unhide it. Tried to understand how to make the quest with
-Thalmor involved appear after you finish Diplomatic Immunity quest for
-immersiveness, but couldn't, will look at that later, so let it be this
-way - you heard about what is happening from elves when you were trying
-to cross Skyrim’s border. You can do it as fast as you want, but enemies
-won’t be the easiest ones to beat. I would recommend getting at least
-level 15. Don't forget to unhide the quests, when you actually would want and would be able to start them.
 
 ---
 
