@@ -8,7 +8,7 @@ With this update comes removal of the manual guide for the fork. It was hard con
 
 That means that there are going to be some changes pretty much everywhere in the written part of the modlist starting from this changelog. If you feel that it can be improved, feel free to report in the appropriate channels.
 
-This update was mainly meant to improve appearance of the whole fork. Some of other changes were made too related to the feedback survey I made inside TPF's Discord server. Feel free to took at my [feedback summary report]() to learn more.
+This update was mainly meant to improve appearance of the whole fork, while also giving it more content. Skyrim now changes looks every season. Also welcome Midwood Isle, Falskaar, More to do in Hammerfell, Frozen in Time and The Wheel of Time. Some of other changes were made too related to the feedback survey I made inside TPF's Discord server. Feel free to took at my [feedback summary report]() to learn more.
 
 **New save is required.**
 
@@ -32,8 +32,8 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Falskaar - Apothecary Patch
 * Better Falskaar and Wyrmstooth Map With Roads
 * Wyrmstooth - Mysticism Spell Consistency Patch
-* More to do in Hammerfell - The Gray Cowl of Nocturnal
-* Frozen in Time - Definitely Not A Snow Elf Waifu Mod
+* More to do in Hammerfell
+* Frozen in Time
 * The Wheel of Time
 * Tragedian's Interesting NPCs
 * Auri - Dismount AI Fix
@@ -99,7 +99,7 @@ Kaidan got his deserved treatment (if we exclude Undeath, which at least starts 
 * Changed priorities of NPC overhauls.
 > If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
 * Made hoods and other type of headgear, which isn't armour, appear much more less on n NPCs.
-* Made crosshair bigger.
+* Made crosshair and Quick Loot's UI bigger.
 > Should make ultrawide users' lives easier too.
 * Tweaked Honed Metal.
 > Now everything should be just a little bit more expensive and time consuming to balance everything out. 
