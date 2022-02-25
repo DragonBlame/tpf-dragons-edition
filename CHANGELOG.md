@@ -83,6 +83,7 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 * Removed manual guide.
 * Removed some of TPF's mods, which were completely overwritten by ours.
 * Readded full KS Hairdos.
+> Because I have gone through it again and chosen good hairstyles for us.
 * Overhauled documentation.
 * Divided miscellaneous mods into more categories. 
 * Changed priorities of NPC overhauls.
