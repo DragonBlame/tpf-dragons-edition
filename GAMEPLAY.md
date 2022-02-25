@@ -183,10 +183,13 @@ because their difficulty slightly differs.
 
 ### Early and Mid Game Quests
 
+* **The Wheel of Time** - 
+* **Falskaar** - Can be started any time. Go to Riften and speak with Jalamar.
 * **Winterhold Deep Sea Ruins** - Can be started any time by going northeast
 from Winterhold. A journal can be found there in small ruins, which will
 point you to the location with a ship marker. Should be done without a
 follower.
+* **Frozen in Time** - Can be started any time. It is recommended to start it at level 5-7. Go to Nightgate Inn and head west towards Silverdrift Lair.
 * **Clockwork** - Automatically after reaching level 5. Without a follower.
 * **Beyond Skyrim - Bruma** - Can be started any time in *Pale Pass* (will be
 marked as two rocks together) southeast of Helgen. Personally recommend to start it at level 10. 
@@ -197,6 +200,7 @@ the southernmost point of County Bruma.
 * **Carved Bink** - After reaching level 10 in *Abandoned Grotto* west of Lost
 Knife Hideout.
 * **Project AHO** - After reaching level 15, head to Braidwood Inn (located at Kynesgrove) and talk to the innkeeper. Without a follower.
+* **Midwood Isle** - Automatically after finishing the main quest *The Way of the Voice.* Recommend to start it at level 15-20. 
 * **The Wheels of Lull** - Automatically after reaching level 20, can be finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound*. 
 Recommended to be started at level 20. Read a note called *Helgen Reborn* in The Bannered Mare to start the quest.
