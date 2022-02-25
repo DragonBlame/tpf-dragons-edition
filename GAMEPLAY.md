@@ -183,7 +183,7 @@ because their difficulty slightly differs.
 
 ### Early and Mid Game Quests
 
-* **The Wheel of Time** - 
+* **The Wheel of Time** - literally just cross the Riverwood's bridge.
 * **Falskaar** - Can be started any time. Go to Riften and speak with Jalamar.
 * **Winterhold Deep Sea Ruins** - Can be started any time by going northeast
 from Winterhold. A journal can be found there in small ruins, which will
