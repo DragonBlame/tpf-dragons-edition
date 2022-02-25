@@ -12,25 +12,6 @@ This update was mainly meant to improve appearance of the whole fork. Some of ot
 
 **New save is required.**
 
-### Removed Mods
-
-* Silent Horizons ENB, its patch
-* Miraak - Dragonborn Follower
-> Not actually needed, we are fine just with Miraak - Dragonborn Follower Dialogue Overhaul.
-* Miraak Husbando
-* Better Wyrmstooth Map With Roads
-* Facegen Output for Random Mods
-* The Sinister Seven
-> I love the mod, I am fine with enemies coming whenever they come, but it should start more immersively. It is the only mod with this problem now after
-Kaidan got his deserved treatment (if we exclude Undeath, which at least starts some time later and has much more content), so I have decided to remove it for consistency.
-* Fixed Mesh Lighting - Ancient Trees of Skyrim Patch
-> Included in Fixed Mesh Lightning's update.
-* Diverse Skyrim - Cathedral NPCs Facegen Patch
-* Shield Sisters Re-Imagined
-* All AI Overhaul patches
-> I generate and then manually correct these from now on.
-* Literally Unplayable - Shield Sisters Re-Imagined Patch
-
 ### Added Mods
 
 * Culminated ENB
@@ -40,6 +21,10 @@ Kaidan got his deserved treatment (if we exclude Undeath, which at least starts 
 * Runic Dawnguard - Separated Lost Relic Questline
 * Spooky Philter of the Phantom
 * Bruma Armor Expansion
+* Midwood Isle
+* Midwood Isle - Guard Armor Replacer
+* Midwood Isle - Mysticism Spell Consistency Patch
+* Midwood Isle - Apothecary Patch
 * Falskaar
 * Falskaar - Addons and Patches
 * Comprehesive Falskaar Fixes
@@ -81,6 +66,27 @@ Kaidan got his deserved treatment (if we exclude Undeath, which at least starts 
 * Tragedian's Fabulous Followers
 * Literally Unplayable - Kaidan 2 Patch
 > Apparently it is still needed for one head part.
+
+### Removed Mods
+
+* Silent Horizons ENB, its patch
+* Miraak - Dragonborn Follower
+> Not actually needed, we are fine just with Miraak - Dragonborn Follower Dialogue Overhaul.
+* Miraak Husbando
+> The mod is looking bad for us, because we don't use specific skin textures, so I have decided to replace it. 
+* Better Wyrmstooth Map With Roads
+* Facegen Output for Random Mods
+* The Sinister Seven
+> I love the mod, I am fine with enemies coming whenever they come, but it should start more immersively. It is the only mod with this problem now after
+Kaidan got his deserved treatment (if we exclude Undeath, which at least starts some time later and has much more content), so I have decided to remove it for consistency.
+* Fixed Mesh Lighting - Ancient Trees of Skyrim Patch
+> Included in Fixed Mesh Lightning's update.
+* Diverse Skyrim - Cathedral NPCs Facegen Patch
+* Shield Sisters Re-Imagined
+> After looking at Tragedian's version of Lydia, I have decided to go with it.
+* All AI Overhaul patches
+> I generate and then manually correct these from now on.
+* Literally Unplayable - Shield Sisters Re-Imagined Patch
 
 ### Changes
 
