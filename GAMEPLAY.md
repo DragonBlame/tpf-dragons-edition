@@ -161,6 +161,10 @@ The first, the second, the third and the fourth teacher of the Dovah came outsid
 Those trainings... Running like the wind...
 The one, who talks, finally took Dovah to meditate with him to the top.
 
+**The Scrivener's Croft**
+
+Sometimes the things we want are right near us.
+
 ---
 
 ## New Quests
