@@ -94,7 +94,7 @@ Kaidan got his deserved treatment (if we exclude Undeath, which at least starts 
 * Removed some of TPF's mods, which were completely overwritten by ours.
 * Readded full KS Hairdos.
 > Because I have gone through it again and chosen good hairstyles for us.
-* Overhauled documentation.
+* Overhauled documentation, mainly the gameplay guide.
 * Divided miscellaneous mods into more categories. 
 * Changed priorities of NPC overhauls.
 > If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
