@@ -41,6 +41,7 @@ This update was mainly meant to improve appearance of the whole fork, while also
 * The Dragon Bridge
 * Shrubs
 * Great City of Dragon Bridge - Navmesh Fix
+* JK's Sjy Haven Temple
 * Seasonal Weathers Framework
 * Seasonal Weathers Framework - Cathedral Weathers and Seasons
 * Seasons of Skyrim
