@@ -39,7 +39,6 @@ This update was mainly meant to improve appearance of the whole fork, while also
 * Auri - Dismount AI Fix
 * Immersive Kaidan Start
 * The Dragon Bridge
-* Shrubs
 * Great City of Dragon Bridge - Navmesh Fix
 * JK's Sjy Haven Temple
 * Seasonal Weathers Framework
