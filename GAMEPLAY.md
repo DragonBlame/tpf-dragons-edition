@@ -120,7 +120,7 @@ Now some juicy tips for peeps, who are still here after mingling with the add-on
 * For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
 there will be a neat spell book waiting for you somewhere around Riverwood.
 * Aela in a way is much more unique than other followers (not as unique starting with 2.2. version, but still). Pick her on a tough adventure to learn how.
-* Some of the added armour can be crafted by yourself only after reading specific materials. I would have started looking for in one of the cities, which makes the most sense to be associated with clothing. Other books will be pretty close.
+* Some of the added armour can be crafted by yourself only after reading specific materials. I would have started looking in one of the cities, which makes the most sense to be associated with clothing. Other books will be pretty close.
 * Feel free to use Divine Elegance Store near Old Hroldan inn. I have added it to serve a resource for making different screenshots. Of course, 
 you can also use all those outfits, accessories etc. to make your character just prettier. There are things for everyone to play with, even warriors.
 
@@ -135,7 +135,8 @@ And for all our sakes - **don't** change your race, gender or name mid-game - th
 
 ## Player Homes
 
-The modpack features a bunch of different player homes. Some of them I have locked and hidden the keys all round Skyrim. To find them, you will have to solve these riddles:
+The modpack features a bunch of different player homes. Some of them by default don't have any immersive way to get them, they are available to you right from the start of the game,
+so I have locked them and hidden the keys all round Skyrim. To find them, you will have to solve these riddles:
 
 **Viking's Longhouse**
 
@@ -163,7 +164,7 @@ The one, who talks, finally took Dovah to meditate with him to the top.
 
 **The Scrivener's Croft**
 
-Sometimes the things we want are right near us.
+Sometimes the things we need are right near us.
 
 ---
 
