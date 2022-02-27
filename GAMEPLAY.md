@@ -73,7 +73,7 @@ If you want to change the button for dodging, do the following:
 > Because of some kind of Skyrim's oddities, each button there is actually one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
 6. Press on `Save` button.
 
-* [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
+* [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Left Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
 * [Knocking](https://www.nexusmods.com/skyrimspecialedition/mods/14098) - Knock on locked doors by activating them. Good for roleplaying and also useful.
 * [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
