@@ -48,6 +48,7 @@ This update was mainly meant to improve appearance of the whole fork, while also
 * Shrubs of Snow
 * Shrubs for Shrubs of Snow
 * Turn of the Seasons
+* Four Seasons - Faster Seasons of Skyrim
 * Seasonal Wildlife Distribution
 * Seasonal Alchemy
 * Bent Pines for Seasons Of Skyrim
