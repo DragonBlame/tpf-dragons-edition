@@ -40,7 +40,7 @@ This update was mainly meant to improve appearance of the whole fork, while also
 * Immersive Kaidan Start
 * The Dragon Bridge
 * Great City of Dragon Bridge - Navmesh Fix
-* JK's Sjy Haven Temple
+* JK's Sky Haven Temple
 * Seasonal Weathers Framework
 * Seasonal Weathers Framework - Cathedral Weathers and Seasons
 * Seasons of Skyrim
