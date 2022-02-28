@@ -2,94 +2,139 @@
 
 # Changelog
 
-## Version 2.1.
+## Version 2.2.
 
-> Updated final patches. Updated all outputs.
+With this update comes removal of the manual guide for the fork. It was hard considering that is what made the modlist possible to be made and to be on Wabbajack, but to continue going forward the modlist from this moment becomes exlusive to Wabbajack. That doesn't mean that the direction of my work will go somewhere else. It is needed to actually make my work much more easier and feel less like some kind of accounting job (well, no one reads my _reports_ anyway, so what is the point) and focus more on what would I actually want to do. Somewhere around this year Phoenix will rise (hehe) and you will be able to enjoy her work again, but I hope that my manual guide gave some of you at least a little bit of insight on the mods of Skyrim and how we are making them work.
 
-### Interface
+That means that there are going to be some changes pretty much everywhere in the written part of the modlist starting from this changelog. If you feel that it can be improved, feel free to report in the appropriate channels.
 
-* Readded _Weather of World_.
-> After checking everything a little bit more, I agree that it is better than Luminosity's variant.
-* Changed installation instructions for _moreHUD Inventory Edition_.
+This update was mainly meant to improve appearance of the whole fork, while also giving it more content. Skyrim now changes looks every month, but not other places for now. Also welcome Midwood Isle, Falskaar, More to do in Hammerfell, Frozen in Time and The Wheel of Time. Some of other changes were made too related to the feedback survey I made inside TPF's Discord server (in the WJ server I will only make posts about updates and support users, so feel free to join [TPF's server](https://discord.gg/tpf) if you are interested in learning about everything else related to the modpack). Feel free to took at my [feedback summary report](https://drive.google.com/file/d/1nI0ElL6VhanV-ll7B4gur2ECQuNcsjJU/view?usp=sharing) to learn more about the results of the survey.
 
-### Improved Vanilla Content
+**New save is required.**
 
-* Removed _Serana Dialogue Edit_.
-> Considering the fact that _SDE_ won't be updated anymore and that it just makes a mess with different voices for Serana, let us just enjoy _SDA_ in peace.
-* Added _Runic Dawnguard - Separated Lost Relic Questline_.
-* Added _Vittorias Alternate Wedding_.
-* Changed installation instructions for _Serana Dialogue Add-On_.
+### Added Mods
 
-### New Content
+* Culminated ENB
+* Authentic Sinding Follower
+* Handsome and Miraakulous Miraak
+* Underwater Treasure
+* Runic Dawnguard - Separated Lost Relic Questline
+* Spooky Philter of the Phantom
+* Bruma Armor Expansion
+* Midwood Isle
+* Midwood Isle - Guard Armor Replacer
+* Midwood Isle - Mysticism Spell Consistency Patch
+* Midwood Isle - Apothecary Patch
+* Falskaar
+* Falskaar - Addons and Patches
+* Comprehesive Falskaar Fixes
+* Lanterns Of Falskaar
+* Falskaar - Apothecary Patch
+* Better Falskaar and Wyrmstooth Map With Roads
+* Wyrmstooth - Mysticism Spell Consistency Patch
+* More to do in Hammerfell
+* Frozen in Time
+* The Wheel of Time
+* Tragedian's Interesting NPCs
+* Auri - Dismount AI Fix
+* Immersive Kaidan Start
+* The Dragon Bridge
+* Great City of Dragon Bridge - Navmesh Fix
+* JK's Sky Haven Temple
+* Seasonal Weathers Framework
+* Seasonal Weathers Framework - Cathedral Weathers and Seasons
+* Seasons of Skyrim
+* Seasons of Skyrim - Remove Unwanted Grass
+* Shrubs of Snow
+* Shrubs for Shrubs of Snow
+* Turn of the Seasons
+* Four Seasons - Faster Seasons of Skyrim
+* Seasonal Wildlife Distribution
+* Seasonal Alchemy
+* Bent Pines for Seasons Of Skyrim
+* Adamant Perks For NPCS
+* Party Damage Control
+* Dark Elf Lantern ENB Light
+* Water Effects Brightness and Reflection Fix
+* Diverse Werewolves Collection
+* Stagger Direction Fix
+* NPC Animation Remix
+* Skyrim's Paraglider - Stamina Drain
+* Monster Facial Animation
+* Werewolf Eyetracking Behavior
+* Modpocalypse NPCs
+> For not vanilla NPCs.
+* Tragedian's Fabulous Followers
+* Literally Unplayable - Kaidan 2 Patch
+> Apparently it is still needed for one head part.
 
-* Removed _Pandorable's Kaidan_. Added _High Poly Kaidan - Face and Body_.
-> He just looks more sexy with this one.
+### Removed Mods
 
-### Exteriors
+* Silent Horizons ENB, its patch
+* Miraak - Dragonborn Follower
+> Not actually needed, we are fine just with Miraak - Dragonborn Follower Dialogue Overhaul.
+* Miraak Husbando
+> The mod is looking bad for us, because we don't use specific skin textures, so I have decided to replace it. 
+* Better Wyrmstooth Map With Roads
+* Facegen Output for Random Mods
+* The Sinister Seven
+> I love the mod, I am fine with enemies coming whenever they come, but it should start more immersively. It is the only mod with this problem now after
+Kaidan got his deserved treatment (if we exclude Undeath, which at least starts some time later and has much more content), so I have decided to remove it for consistency.
+* Rayek's End
+> The mod has a bunch of issues starting from people not being able to download the modpack because of it and ending with not correctly working items, 
+so I removed it for now.
+* Fixed Mesh Lighting - Ancient Trees of Skyrim Patch
+> Included in Fixed Mesh Lightning's update.
+* Diverse Skyrim - Cathedral NPCs Facegen Patch
+* Shield Sisters Re-Imagined
+> After looking at Tragedian's version of Lydia, I have decided to go with it.
+* All AI Overhaul patches
+> I generate and then manually correct these from now on.
+* Literally Unplayable - Shield Sisters Re-Imagined Patch
 
-* Removed _Treerific_.
-> That is sad, but it has too many problems which need to be dealth with in order to be added back. Well, at least the modlist will have less performance impact on your machines.
-* Added _Renthal's Reach Mountain Moss_.
-* Changed installation instructions for _Little Touches - A Tree Placement for Whiterun City_.
-> No big trees means that they can return to the city.
+### Changes
 
-### Apparel & Weapons
+* Removed manual guide.
+* Interface changes are no longer optional.
+> I believe that many people use my modifications for TPF's interface. Those, who don't, probably can change these by themselves.
+* Removed some of TPF's mods, which were completely overwritten by ours.
+* Readded full KS Hairdos.
+> Because I have gone through it again and chosen good hairstyles for men to use.
+* Overhauled documentation, mainly the gameplay guide.
+* Divided miscellaneous mods into more categories. 
+* Changed priorities of NPC overhauls.
+> If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
+* Made hoods and other type of headgear, which isn't armour, appear much more less on NPCs.
+* Made crosshair and Quick Loot's UI bigger.
+> Should make ultrawide users' lives easier too.
+* Tweaked Honed Metal.
+> Now everything should be just a little bit more expensive and time consuming to balance everything out. 
+But you will wait more for common ingredients if NPCs don't have them. It didn't make sense that they got them so fast.
+* Locked some previously easily obtainable houses, left riddles in the gameplay guide on how to get the keys. 
+* Fixed Xander's face.
+* Cleaned up Helgen Keep's entrance. 
+* Updated for TPF's latest version, but without A Matter of Time, Nordic UI and cursor changes.
+> Have tried Nordic UI hundreds of times, still don't like it. And overall I don't feel that I need to see in-game time. 
 
-* Added _Fashions of the Fourth Era_.
-> I have never expected to spend so much time doing stuff for this section of the modlist.
+### Updated Mods
 
-### Miscellaneous
-
-* Removed _Animated Forge Water_.
-* Removed _ENB Lava Particle Light Patch_.
-> If we are honest, I expected something better from these two mods.
-* Added _ENB Input Disabler_.
-* Added _e-FPS - Exterior FPS Boost_ and _eFPS - Official Patch Hub_.
-* Changed installation and FOMOD instructions for _Faster HDT_SMP_.
-
-### Skeleton & Animations
-
-* Added _OnHit Animations Framework_, _zxlice hitStop_ and _Flinching_.
-* Changed installation instructions for _Animation Motion Revolution_.
-* Changed installation and FOMOD instructions for _Pretty Combat Animations_.
-
-### Literally Unplayable
-
-* Removed _Literally Unplayable - Kaidan Patch_.
-> Not needed with the new overhaul we are using now.
-
-### Preparations
-
-* Added instructions to update AI Overhaul.
-> While TPF is in the updating process.
-* Added instructions to ESLify some ESPs.
-
----
-
-### Other Changes
-
-* Readded information about _End Times_ for all users.
-* Changed the starting spell, which you find inside the first locked cage in Helgen's Keep, to Flames.
-> Sparks aren't useful for player in the early stages of the game. Should have done that long time ago.
-* Added additional information to Gameplay Guide.
-
-### Wabbajack
-
-* Added _Racemenu - Widescreen Fix_.
-
-### Updated Add-on's Mods for Wabbajack Users
-
-* moreHUD Inventory Edition
-* Unique Map Weather Framework
-* Serana Dialogue Add-On
-* Wyrmstooth
-* The Wheels of Lull
-* Undeath - Classical Lichdom
-* Prelude to Purgatory - A Lich Custom Skill Tree
+* SKSE
+> Didn't know that there was the 2.0.20. build.
+* DynDOLOD Resources
+* Fixed Mesh Lightning
+* eFPS - Official Patch Hub
+* Beyond Skyrim - Bruma
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
-* Winterhold Keep Tweaks for COTN
-* The Great Village of Kynesgrove Patch Collection
-* JK's Interiors Patch Collection
-* BeastHHBB
-* Animation Motion Revolution
-* Pretty Combat Animations
+* High Poly Kaidan - Face and Body
+> Just downloaded it from its new page.
+* JK's Blue Palace
+* Happy Little Trees
+* Cities of the North - Dawnstar Patch Collection
+* Cities of the North - Winterhold Patch Collection
+* Cities of the North - Falkreath Patch Collection
+* JKs Guild HQ Interiors Patch Collection
+* Pilgrim - A Religion Overhaul
+* Another KS Hairdos Replacer
+* Custom Skills Menu
+* Pretty One-Handed Animations Overhaul
+* Ralof or Hadvar 
