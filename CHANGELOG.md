@@ -95,6 +95,8 @@ so I removed it for now.
 ### Changes
 
 * Removed manual guide.
+* Interface changes are no longer optional.
+> I believe that many people use my modifications for TPF's interface. Those, who don't, probably can change these by themselves.
 * Removed some of TPF's mods, which were completely overwritten by ours.
 * Readded full KS Hairdos.
 > Because I have gone through it again and chosen good hairstyles for men to use.
