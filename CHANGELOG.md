@@ -102,14 +102,13 @@ so I removed it for now.
 * Divided miscellaneous mods into more categories. 
 * Changed priorities of NPC overhauls.
 > If we aren't talking just about removals and additions. That means that NPCs should now look more diverse.
-* Made hoods and other type of headgear, which isn't armour, appear much more less on n NPCs.
+* Made hoods and other type of headgear, which isn't armour, appear much more less on NPCs.
 * Made crosshair and Quick Loot's UI bigger.
 > Should make ultrawide users' lives easier too.
 * Tweaked Honed Metal.
 > Now everything should be just a little bit more expensive and time consuming to balance everything out. 
 But you will wait more for common ingredients if NPCs don't have them. It didn't make sense that they got them so fast.
 * Locked some previously easily obtainable houses, left riddles in the gameplay guide on how to get the keys. 
-* Added bigger Quick Loot for widescreen users.
 * Fixed Xander's face.
 * Cleaned up Helgen Keep's entrance. 
 * Updated for TPF's latest version, but without A Matter of Time, Nordic UI and cursor changes.
