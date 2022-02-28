@@ -8,7 +8,7 @@ With this update comes removal of the manual guide for the fork. It was hard con
 
 That means that there are going to be some changes pretty much everywhere in the written part of the modlist starting from this changelog. If you feel that it can be improved, feel free to report in the appropriate channels.
 
-This update was mainly meant to improve appearance of the whole fork, while also giving it more content. Skyrim now changes looks every season. Also welcome Midwood Isle, Falskaar, More to do in Hammerfell, Frozen in Time and The Wheel of Time. Some of other changes were made too related to the feedback survey I made inside TPF's Discord server. Feel free to took at my [feedback summary report](https://drive.google.com/file/d/1nI0ElL6VhanV-ll7B4gur2ECQuNcsjJU/view?usp=sharing) to learn more.
+This update was mainly meant to improve appearance of the whole fork, while also giving it more content. Skyrim now changes looks every month, but not other places for now. Also welcome Midwood Isle, Falskaar, More to do in Hammerfell, Frozen in Time and The Wheel of Time. Some of other changes were made too related to the feedback survey I made inside TPF's Discord server (in the WJ server I will only make posts about updates and support users, so feel free to join [TPF's server](https://discord.gg/tpf) if you are interested in learning about everything else related to the modpack). Feel free to took at my [feedback summary report](https://drive.google.com/file/d/1nI0ElL6VhanV-ll7B4gur2ECQuNcsjJU/view?usp=sharing) to learn more about the results of the survey.
 
 **New save is required.**
 
