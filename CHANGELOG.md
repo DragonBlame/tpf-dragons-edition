@@ -125,8 +125,8 @@ But you will wait more for common ingredients if NPCs don't have them. It didn't
 * eFPS - Official Patch Hub
 * Beyond Skyrim - Bruma
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
-* High Poly Kaidan - Face and Body
 > Just downloaded it from its new page.
+* High Poly Kaidan - Face and Body
 * JK's Blue Palace
 * Happy Little Trees
 * Cities of the North - Dawnstar Patch Collection
