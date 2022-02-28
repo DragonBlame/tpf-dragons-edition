@@ -80,6 +80,9 @@ This update was mainly meant to improve appearance of the whole fork, while also
 * The Sinister Seven
 > I love the mod, I am fine with enemies coming whenever they come, but it should start more immersively. It is the only mod with this problem now after
 Kaidan got his deserved treatment (if we exclude Undeath, which at least starts some time later and has much more content), so I have decided to remove it for consistency.
+* Rayek's End
+> The mod has a bunch of issues starting from people not being able to download the modpack because of it and ending with not correctly working items, 
+so I removed it for now.
 * Fixed Mesh Lighting - Ancient Trees of Skyrim Patch
 > Included in Fixed Mesh Lightning's update.
 * Diverse Skyrim - Cathedral NPCs Facegen Patch
