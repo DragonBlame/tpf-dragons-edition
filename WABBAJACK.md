@@ -90,7 +90,7 @@ You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folde
 
 ## Configurations
 
-Now open the folder, where you have saved the add-on, and double-click on _ModOrganizer.exe_ file. You can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right.
+Now open the folder, where you have saved the modpack, and double-click on _ModOrganizer.exe_ file. You can see the full setup - the mod order is on the left, sorted below separators that may be collapsed by default, and the load order with all plugins on the right.
 
 By default your game is capped at 60 FPS (to avoid any issues related to Skyrim's physics) and is borderless. Your resolution was automatically detected and changed by Wabbajack.
 
@@ -119,7 +119,7 @@ If you want to downscale your resolution, do the following:
 
 ---
 
-Some of the mods inside Mod Organizer are disabled by default in the add-on. Some of these are:
+Some of the mods inside Mod Organizer are disabled by default in the modpack. Some of these are:
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
   - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 > Do not touch any other disabled mods for now.
@@ -158,7 +158,7 @@ If you aren't a fan, just press the same button once again to turn them off.
 * **Animated Shouts** - Press your `right Alt` key.
 > You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the add-on too if you forget about it.
 
-Also we have toggable HUD, so feel free to press `X` key to turn it on and off when you need that.
+Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 
 Some quick tips before the end:
 
@@ -170,7 +170,7 @@ Some quick tips before the end:
 
 ---
 
-**And some important info.** _Note_ near The Drunken Huntsman's door can be activated **only** after 5 in-game days after you have finished the main quest _Unbound_.
+**And some important info.** _Note_ in the Bannered Mare can be activated **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
 Also a reminder that the modlist uses a mod called _End Times_, which will **end the game** if don't finish the main quest line by default in one in-game year (approximately **18 real life days, that means 432 real life hours**). Go into the mod's mod configuration menu and lock the slider not to be tempted to change the final date all time. 
 That should be enough (and even feels right somehow) to do many other things in between saving the world for the first time. 
