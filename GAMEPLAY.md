@@ -195,7 +195,7 @@ Knife Hideout.
 * **Midwood Isle** - Automatically after finishing the main quest *The Way of the Voice.* Recommend to start it at level 15-20. 
 * **The Wheels of Lull** - Automatically after reaching level 20, can be finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound* to make sure that Helgen has bandits inside it. 
-Recommended to be started at level 20. ._Note_ in the Bannered Mare can be activated to start the quest. 
+Otherwise it can work incorrectly. Recommended to be started at level 20. ._Note_ in the Bannered Mare can be activated to start the quest. 
 * **The Tools of Kagrenac** - Join College of Winterhold and finish the
 side questline *Arniel’s Endeavor*. You’ll also need to have finished
 *The Way of the Voice*. A couple of days after you completed *Arniel’s
