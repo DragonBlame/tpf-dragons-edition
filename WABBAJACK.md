@@ -15,7 +15,7 @@ If you want to better understand the general idea of Wabbajack, refer to a Reddi
 [_What Wabbajack is and Why You Should Care_](https://www.reddit.com/r/skyrimmods/comments/mbfk5f/what_wabbajack_is_and_why_you_should_care/).
 
 If you would like to learn more general information about the fork, be sure to visit its home page again [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973). 
-I would very strongly recommend to check _Questions & Answers_ section for the most popular questions asked by users of the add-on.
+I would very strongly recommend to check _Questions & Answers_ section for the most popular questions asked by users of the fork.
 
 ---
 
