@@ -5,10 +5,10 @@
 This guide highlights major gameplay mods included in The Phoenix Flavour - Dragon's Edition, while also giving you some pointers on how to start your new adventures. 
 I have tried to write as little information as I don't want to spoil the content for you, but it is hard to do, so you have been warned.
 
-## Alternate Start
+## Alternative Start
 
 [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) allows us to skip the carriage drive and enter right into Helgen’s Keep with Ralof or Hadvar. 
-In some way it isn't an alternate start, but at the same time it is. What matters is this mod’s simplicity, which allows us to jump right into the action.
+In some way it isn't an alternative start, but at the same time it is. What matters is this mod’s simplicity, which allows us to jump right into the action.
 
 ---
 
