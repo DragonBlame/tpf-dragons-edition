@@ -187,7 +187,7 @@ feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-w
 #tpf-dragons-edition-support channel. 
 If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](BUGS.md) section first.
 
-If you want to learn more about what the add-on offers and what actually many of the mods do, check [Gameplay Guide](GAMEPLAY.md). 
+If you want to learn more about what the add-on offers and what actually many of the mods do, check my [gameplay guide](GAMEPLAY.md). 
 
 If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
 please use _Posts_ feature on Nexus or use _#tpf-de-feedback_ on TPF's Discord server. Suggestions on how to improve the documentation are also welcome on GitHub.
