@@ -166,7 +166,7 @@ Some quick tips before the end:
 * **About hair with physics for men** - You will need to use AddItemMenu again, but this time type the word `hair`.
 * **About ENB** - `F10` button toggles the ENB effect, `F11` opens the ENB GUI, `F7` toggles an FPS counter. Feel free to make screenshots with Steam by using `F12`.
 > If the ENB isn't for you and you want to change it, delete modpack's _enbseries_ folder from the fork's _Stock Game_ folder and replace with the one from your desired ENB.
-* **About fast travelling** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _Interface_ separator.
+* **About fast travelling** - By default fast travel is disabled, because it becomes much more interesting that way (you travel and discover much more) and there are plenty of ways to travel around - as in vanilla (horses, carriages, boats), paragliding, spells and another mean, which is tied to a quest (don't want to spoil that). If you still aren't sold, feel free to reenable it by disabling _Disable Fast Travel SKSE - No Janky Map UI_ mod under the _INTERFACE EXTENDED_ separator.
 
 ---
 
