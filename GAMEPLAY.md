@@ -79,8 +79,7 @@ If you want to change the button for dodging, do the following:
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
 (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
-* [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. 
-You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` button. Console users can access it by using the tween menu.
+* [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `Tab` button.
 * [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
 
 ---
@@ -102,7 +101,7 @@ using MCM.
 * [Automatically changing outfits according to different scenarios](https://www.nexusmods.com/skyrimspecialedition/mods/40801) - For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities. Be sure to check its MCM to activate it.
 * [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/18732) - Now you need to be crouched to steal items, which aren't the ones in containers.
 * [Clairvoyance (_Guiding Wisp_ now)](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Clairvoyance, but much more useful. Just try it out (be sure that you have an active quest in your journal).
-* [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your right _Alt_ key to disable or enable animated shouts at any time.
+* [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your `right Alt` key to disable or enable animated shouts at any time.
 * [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Now there are much more of them than in vanilla Skyrim and they look pretty different from each other. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
 * [Enemies during College of Winterhold quest line](https://www.nexusmods.com/skyrimspecialedition/mods/44557) - Now you will actually need magic to beat College of Winterhold. You have been warned. Conjured minions, enhanced weapons, illusion, of course, destruction magic, shouts. Good, old steel isn't as reliable now.
 * [Hjerim without joining the war](https://www.nexusmods.com/skyrimspecialedition/mods/29508) - It is enough to just take the care of the Butcher.
