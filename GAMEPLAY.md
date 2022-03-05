@@ -180,8 +180,8 @@ because their difficulty slightly differs.
 from Winterhold. A journal can be found there in small ruins, which will
 point you to the location with a ship marker. Should be done without a
 follower.
-* **Frozen in Time** - Can be started any time. It is recommended to start it at level 5-7. Go to Nightgate Inn and head west towards Silverdrift Lair.
 * **Clockwork** - Automatically after reaching level 5. Without a follower.
+* **Frozen in Time** - Can be started any time. It is recommended to start it at level 5-7. Go to Nightgate Inn and head west towards Silverdrift Lair.
 * **Beyond Skyrim - Bruma** - Can be started any time in *Pale Pass* (will be
 marked as two rocks together) southeast of Helgen. Personally recommend to start it at level 10. 
 Some zones further from where you start the mod's quest will be much harder in the beginning like in Skyrim.
