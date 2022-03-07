@@ -79,7 +79,7 @@ If you want to change the button for dodging, do the following:
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
 (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
-* [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `Tab` button.
+* [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` or `Tab` button.
 * [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
 
 ---
