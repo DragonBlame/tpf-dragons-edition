@@ -2,15 +2,14 @@
 
 # Changelog
 
-## Version 2.2.
-
-With this update comes removal of the manual guide for the fork. It was hard considering that is what made the modlist possible to be made and to be on Wabbajack, but to continue going forward the modlist from this moment becomes exclusive to Wabbajack. That doesn't mean that the direction of my work will go somewhere else. It is needed to actually make my work much more easier and feel less like some kind of accounting job (well, no one reads my _reports_ anyway, so what is the point) and focus more on what would I actually want to do. Somewhere around this year Phoenix will rise (hehe) and you will be able to enjoy her work again, but I hope that my manual guide gave some of you at least a little bit of insight on the mods of Skyrim and how we are making them work.
-
-That means that there are going to be some changes pretty much everywhere in the written part of the modlist starting from this changelog. If you feel that it can be improved, feel free to report in the appropriate channels.
-
-This update was mainly meant to improve appearance of the whole fork, while also giving it more content. Skyrim now changes looks every month, but not other places for now. Also welcome Midwood Isle, Falskaar, More to do in Hammerfell, Frozen in Time and The Wheel of Time. Some of other changes were made too related to the feedback survey I made inside TPF's Discord server (in the WJ server I will only make posts about updates and support users, so feel free to join [TPF's server](https://discord.gg/tpf) if you are interested in learning about everything else related to the modpack). Feel free to took at my [feedback summary report](https://drive.google.com/file/d/1nI0ElL6VhanV-ll7B4gur2ECQuNcsjJU/view?usp=sharing) to learn more about the results of the survey.
+## Version 2.3.
 
 **New save is required.**
+
+Mainly some fixes 
+
+Well... not just some fixes. As I have been feeling very sure about myself after tinkering with Fashions of the Fourth Era, welcome Armor Variants Expansion too. 
+Now you will be able to find different kind
 
 ### Added Mods
 
