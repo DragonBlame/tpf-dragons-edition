@@ -48,7 +48,7 @@ you will have only 40% chance to break a lockpick. That's the easiest lock you c
 But if you as total rookie will try to pick a master lock, be prepared to lose 15 lockpicks. Sounds reasonable for me, maybe you should lose even more.
 And that also works in other way - if you are a master thief (your lockpicking skill is big enough), 
 you will get only 40% chance to break a lockpick on almost any chest.
-- [Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/4202) - Makes us become smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.
+- [Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) - Makes us become smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.
 - [Party Damage Control](https://www.nexusmods.com/skyrimspecialedition/mods/62613) - If you have 3 or more members inside your party, be ready that you all will deal much less damage than before. For example, if you have 3 members in your party (you + 2 people), you all will deal for 30% less physical damage, if there are 4 members - for 60% less physical damage and so on. A must have for balance. 
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will iron equipment be completely irrelevant in a matter of a few hours.
 - [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115);
@@ -86,7 +86,7 @@ If you want to change the button for dodging, do the following:
 
 ## Utility Tools and Quality of Life Additions
 
-* [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
+* [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't have a mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
 * [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
 * [Looting quickly](https://www.nexusmods.com/skyrimspecialedition/mods/21085) - One of the best additions to Fallout 4 (FO4) was the looting menu,
 which appears right when you move your cursor over lootable item without need to open game's full menu. This mod allows us to use this addition,
@@ -108,6 +108,7 @@ using MCM.
 * [Hjerim without joining the war](https://www.nexusmods.com/skyrimspecialedition/mods/29508) - It is enough to just take the care of the Butcher.
 * [Cured Serana's look](https://www.nexusmods.com/skyrimspecialedition/mods/35892) - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable `Cured Serana Patch`, which 
 you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+* [Revert back to your human form after feasting as werewolf](https://www.nexusmods.com/skyrimspecialedition/mods/35736) - Just press `Q` button.
 * [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
 
 ---
