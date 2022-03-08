@@ -17,59 +17,14 @@ Now you will be able to find and craft different kinds of models of our favourit
 
 ### Added Mods
 
-* Culminated ENB
-* Authentic Sinding Follower
-* Handsome and Miraakulous Miraak
-* Underwater Treasure
-* Runic Dawnguard - Separated Lost Relic Questline
-* Spooky Philter of the Phantom
-* Bruma Armor Expansion
-* Midwood Isle
-* Midwood Isle - Guard Armor Replacer
-* Midwood Isle - Mysticism Spell Consistency Patch
-* Midwood Isle - Apothecary Patch
-* Falskaar
-* Falskaar - Addons and Patches
-* Comprehesive Falskaar Fixes
-* Lanterns Of Falskaar
-* Falskaar - Apothecary Patch
-* Better Falskaar and Wyrmstooth Map With Roads
-* Wyrmstooth - Mysticism Spell Consistency Patch
-* More to do in Hammerfell
-* Frozen in Time
-* The Wheel of Time
-* Tragedian's Interesting NPCs
-* Auri - Dismount AI Fix
-* Immersive Kaidan Start
-* The Dragon Bridge
-* Great City of Dragon Bridge - Navmesh Fix
-* JK's Sky Haven Temple
-* Seasonal Weathers Framework
-* Seasonal Weathers Framework - Cathedral Weathers and Seasons
-* Seasons of Skyrim
-* Seasons of Skyrim - Remove Unwanted Grass
-* Shrubs of Snow
-* Shrubs for Shrubs of Snow
-* Turn of the Seasons
-* Four Seasons - Faster Seasons of Skyrim
-* Seasonal Wildlife Distribution
-* Seasonal Alchemy
-* Bent Pines for Seasons Of Skyrim
-* Adamant Perks For NPCS
-* Party Damage Control
-* Dark Elf Lantern ENB Light
-* Water Effects Brightness and Reflection Fix
-* Diverse Werewolves Collection
-* Stagger Direction Fix
-* NPC Animation Remix
-* Skyrim's Paraglider - Stamina Drain
-* Monster Facial Animation
-* Werewolf Eyetracking Behavior
-* Modpocalypse NPCs
-> For not vanilla NPCs.
-* Tragedian's Fabulous Followers
-* Literally Unplayable - Kaidan 2 Patch
-> Apparently it is still needed for one head part.
+* Fancy Sleeping Tree Replacer
+* Armor Variants Expansion
+* Armor Variants Expansion - Patch Collection
+* Thaumaturgy - VAE and AVE and PSL Patches
+* KS Hairdos 1.8. Salt and Wind
+* Particle Lights for ENB - Falmer Drips
+* Particle Lights for ENB - Standing Stones
+* Apocrypha ENB Light
 
 ### Removed Mods
 
@@ -83,27 +38,15 @@ Now you will be able to find and craft different kinds of models of our favourit
 ### Changes
 
 * Removed _Ysmir Meditation_ power from the powers menu.
-> The perks are available by pressing `.` or `Tab`.
+> The new perks are available by pressing `.` or `Tab`.
+* Turned on ENB's Night Eye fix.
+* Overwrote Ancient Trees of Skyrim with its patch from Fixed Mesh Lightning.
+* Removed the floating bush near Falkreath.
+* Fixed Kaidan's black face.
+* Moved one of the home's keys to the table for it to be more easy to be found.
+> Before it was clipping through the ground. The ones, who have found it before, know.
+* Dissalowed enhancing of some gear from Kaidan.
 
 ### Updated Mods
 
-* SKSE
-> Didn't know that there was the 2.0.20. build.
-* DynDOLOD Resources
-* Fixed Mesh Lightning
-* eFPS - Official Patch Hub
-* Beyond Skyrim - Bruma
-* Kaidan 2 Follower Voice Fixes and Additional Dialogue
-> Just downloaded it from its new page.
-* High Poly Kaidan - Face and Body
-* JK's Blue Palace
-* Happy Little Trees
-* Cities of the North - Dawnstar Patch Collection
-* Cities of the North - Winterhold Patch Collection
-* Cities of the North - Falkreath Patch Collection
-* JKs Guild HQ Interiors Patch Collection
-* Pilgrim - A Religion Overhaul
-* Another KS Hairdos Replacer
-* Custom Skills Menu
-* Pretty One-Handed Animations Overhaul
-* Ralof or Hadvar 
+* xxx
