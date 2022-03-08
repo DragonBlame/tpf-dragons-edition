@@ -18,6 +18,7 @@ Now you will be able to find and craft different kinds of models of our favourit
 > It definitely doesn't enhance compatibility with other mods we use.
 * Removed _Bright Waterfalls Fix_.
 > Looks weird with the new version of Realistic Water Two.
+* Updated _DynDOLOD Resources_.
 * Updated _Realistic Water Two_.
 
 ### Added Mods
@@ -42,6 +43,8 @@ Now you will be able to find and craft different kinds of models of our favourit
 
 ### Changes
 
+* Updated Terrain LOD to be compatible with the new seasonal changes.
+* Moved all of the outputs back to Nexus.
 * Removed _Ysmir Meditation_ power from the powers menu.
 > The new perks are available by pressing `.` or `Tab`. Of course, that is mentioned in the gameplay guide.
 * Turned on ENB's Night Eye fix.
@@ -54,5 +57,11 @@ Now you will be able to find and craft different kinds of models of our favourit
 
 ### Updated Mods
 
+* Navigator - Navmesh Fixes
+* Prelude to Purgatory - A Lich Custom Skill Tree
 * The Great Town of Ivarstead Patch Collection
+* Four Seasons - Faster Seasons of Skyrim
 * JK's Interiors Patch Collection
+* Pilgrim - A Religion Overhaul
+* Honed Metal - NPC Crafting and Enchanting Services
+* Pretty One-Handed Animations Overhaul
