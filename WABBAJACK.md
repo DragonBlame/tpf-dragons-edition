@@ -21,10 +21,10 @@ I would very strongly recommend to check _Questions & Answers_ section for the m
 
 ## Requirements
 
-  - Fork's installation size - ~ 163 GB.
+  - Fork's installation size - ~ 178 GB.
     - ~ 13 GB is copied from your Skyrim's installation.
     - Should be put inside SSD.
-  - Fork mods' size - ~ 98 GB.
+  - Fork mods' size - ~ 102 GB.
     - Your downloads folder should be the same for all modlists to make the installation process faster and not to make you download the mods once again 
 if you have them already.
     - Should be put inside HDD.
