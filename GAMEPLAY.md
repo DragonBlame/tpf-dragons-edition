@@ -108,6 +108,7 @@ using MCM.
 * [Hjerim without joining the war](https://www.nexusmods.com/skyrimspecialedition/mods/29508) - It is enough to just take the care of the Butcher.
 * [Cured Serana's look](https://www.nexusmods.com/skyrimspecialedition/mods/35892) - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable `Cured Serana Patch`, which 
 you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
+* [Revert back to your human form after feasting as werewolf](https://www.nexusmods.com/skyrimspecialedition/mods/35736) - Just press `Q` button.
 * [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
 
 ---
