@@ -12,8 +12,8 @@ Well, who I am lying to... not just that. As I have been feeling very sure about
 Now you will be able to find and craft different kinds of models of our favourite armour.
 
 But that's not all. Finally the first competition of the modlist will start soon - presets competition. 
-That will be exclusive to the [TPF Discord server](https://discord.gg/tpf)'s members, so be sure to join us and grab my fork's role under #role-settings to compete.
-More information and rules will be available somewhere around this week, so stay tuned.
+That will be exclusive to the [TPF Discord server](https://discord.gg/tpf)'s members, so be sure to join us and grab my fork's role in _#role-settings_ channel to compete.
+More information and rules will be available somewhere around the end of this week, so stay tuned.
 
 ### TPF Related Changes
 
