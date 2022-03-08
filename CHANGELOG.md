@@ -11,6 +11,10 @@ Just some fixes, tweaks and modifications to be up to date with the latest of TP
 Well, who I am lying to... not just that. As I have been feeling very sure about myself after tinkering with Fashions of the Fourth Era, welcome Armor Variants Expansion too. 
 Now you will be able to find and craft different kinds of models of our favourite armour.
 
+But that's not all. Finally the first competition of the modlist will start soon - presets competition. 
+That will be exclusive to the [TPF Discord server](https://discord.gg/tpf)'s members, so be sure to join us and grab my fork's role under #role-settings to compete.
+More information and rules will be available somewhere around this week, so stay tuned.
+
 ### TPF Related Changes
 
 * Modified everything to be up to date with the lastest 4.13.2. version of TPF.
