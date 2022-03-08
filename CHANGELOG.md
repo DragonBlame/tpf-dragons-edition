@@ -13,11 +13,13 @@ Now you will be able to find and craft different kinds of models of our favourit
 
 ### TPF Related Changes
 
-* Modified everything to be up to date with the  
+* Modified everything to be up to date with the lastest 4.13.2. version of TPF.
+* Removed _Fishing_ creation.
+> I don't need it.
 * Removed _Mountains Enhanced_.
 > It definitely doesn't enhance compatibility with other mods we use.
 * Removed _Bright Waterfalls Fix_.
-> Looks weird with the new version of Realistic Water Two.
+> Looks weird with the new version of Realistic Water Two, which we use from now.
 * Updated _DynDOLOD Resources_.
 * Updated _Realistic Water Two_.
 
