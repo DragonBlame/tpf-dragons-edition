@@ -48,7 +48,7 @@ you will have only 40% chance to break a lockpick. That's the easiest lock you c
 But if you as total rookie will try to pick a master lock, be prepared to lose 15 lockpicks. Sounds reasonable for me, maybe you should lose even more.
 And that also works in other way - if you are a master thief (your lockpicking skill is big enough), 
 you will get only 40% chance to break a lockpick on almost any chest.
-- [Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/4202) - Makes us become smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.
+- [Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) - Makes us become smarter in an immersive way by giving us a permanent boost to a leveling speed in a skill, which we have read about.
 - [Party Damage Control](https://www.nexusmods.com/skyrimspecialedition/mods/62613) - If you have 3 or more members inside your party, be ready that you all will deal much less damage than before. For example, if you have 3 members in your party (you + 2 people), you all will deal for 30% less physical damage, if there are 4 members - for 60% less physical damage and so on. A must have for balance. 
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - Rebalance of Skyrim's loot system. It attempts to maintain the same open world feel of Skyrim while adjusting the levels certain items appear and makes it so daedric and other special weapons must be acquired from special quests only. No longer will iron equipment be completely irrelevant in a matter of a few hours.
 - [Simple Smithing Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/47115);
