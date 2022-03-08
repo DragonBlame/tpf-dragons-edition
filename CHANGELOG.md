@@ -14,6 +14,11 @@ Now you will be able to find and craft different kinds of models of our favourit
 ### TPF Related Changes
 
 * Modified everything to be up to date with the  
+* Removed _Mountains Enhanced_.
+> It definitely doesn't enhance compatibility with other mods we use.
+* Removed _Bright Waterfalls Fix_.
+> Looks weird with the new version of Realistic Water Two.
+* Updated _Realistic Water Two_.
 
 ### Added Mods
 
@@ -31,14 +36,14 @@ Now you will be able to find and craft different kinds of models of our favourit
 * iHUD - SmoothCam Automated Compatibility Patch
 > Needed to do that in the previous update. Fortunately, it didn't cause any issues.
 * Water Effects Brightness and Reflection Fix
-> Looks weird with the new version of Realistic Water Two.
+> Also looks weird with the new version of Realistic Water Two.
 * Vanargand Animations - Sneak Thrust Attacks
 > Look messy without Dark Souls setup.
 
 ### Changes
 
 * Removed _Ysmir Meditation_ power from the powers menu.
-> The new perks are available by pressing `.` or `Tab`.
+> The new perks are available by pressing `.` or `Tab`. Of course, that is mentioned in the gameplay guide.
 * Turned on ENB's Night Eye fix.
 * Overwrote Ancient Trees of Skyrim with its patch from Fixed Mesh Lightning.
 * Removed the floating bush near Falkreath.
@@ -49,4 +54,5 @@ Now you will be able to find and craft different kinds of models of our favourit
 
 ### Updated Mods
 
-* xxx
+* The Great Town of Ivarstead Patch Collection
+* JK's Interiors Patch Collection
