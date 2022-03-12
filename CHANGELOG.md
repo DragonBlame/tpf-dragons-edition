@@ -21,7 +21,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 ### Removed Mods
 
 * Prelude to Purgatory - A Lich Custom Skill Tree
-> Decided to give The Ascension a try, considering we now have diversified werevolves too. And probably balance without it will be better.
+> Decided to give The Ascension a try, considering we now have diversified werevolves too. And probably balance without this one will be better.
 * Diverse Werewolves Collection - Player Replacer
 * Monster Facial Animation
 * Werewolf Eyetracking Behavior
