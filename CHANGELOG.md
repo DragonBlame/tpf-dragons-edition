@@ -2,72 +2,31 @@
 
 # Changelog
 
-## Version 2.3.
+## Version 2.3.1.
 
-**New save is required.**
+**Is save compatible.**
 
-Just some fixes, tweaks and modifications to be up to date with the latest of TPF changes.
-
-Well, who I am lying to... not just that. As I have been feeling very sure about myself after tinkering with Fashions of the Fourth Era, welcome Armor Variants Expansion too. 
-Now you will be able to find and craft different kinds of models of our favourite armour.
-
-But that's not all. Finally the first competition of the modlist will start soon - presets competition. 
-That will be exclusive to the [TPF Discord server](https://discord.gg/tpf)'s members, so be sure to join us and grab my fork's role in _#role-settings_ channel to compete.
-More information and rules will be available somewhere around the end of this week, so stay tuned.
-
-### TPF Related Changes
-
-* Modified everything to be up to date with the lastest 4.13.2. version of TPF.
-* Removed _Fishing_ creation.
-> I don't need it.
-* Removed _Mountains Enhanced_.
-> It definitely doesn't enhance compatibility with other mods we use.
-* Removed _Bright Waterfalls Fix_.
-> Looks weird with the new version of Realistic Water Two, which we use from now.
-* Updated _DynDOLOD Resources_.
-* Updated _Realistic Water Two_.
+Some fixes, tweaks and additions for the 2.3. version of the modlist.
 
 ### Added Mods
 
-* Fancy Sleeping Tree Replacer
-* Armor Variants Expansion
-* Armor Variants Expansion - Patch Collection
-* Thaumaturgy - VAE and AVE and PSL Patches
-* KS Hairdos 1.8. Salt and Wind
-* Particle Lights for ENB - Falmer Drips
-* Particle Lights for ENB - Standing Stones
-* Apocrypha ENB Light
+* Equipment Toggle
+> You don't even know how happy I am because of this.
+* Expressive Werebeasts Redux
+* KrittaKitty's HD Werewolves
 
 ### Removed Mods
 
-* iHUD - SmoothCam Automated Compatibility Patch
-> Needed to do that in the previous update. Fortunately, it didn't cause any issues.
-* Water Effects Brightness and Reflection Fix
-> Also looks weird with the new version of Realistic Water Two.
-* Vanargand Animations - Sneak Thrust Attacks
-> Look messy without Dark Souls setup.
+* Diverse Werewolves Collection - Player Replacer
+* Monster Facial Animation
+* Werewolf Eyetracking Behavior
 
 ### Changes
 
-* Updated Terrain LOD to be compatible with the new seasonal changes.
-* Moved all of the outputs back to Nexus.
-* Removed _Ysmir Meditation_ power from the powers menu.
-> The new perks are available by pressing `.` or `Tab`. Of course, that is mentioned in the gameplay guide.
-* Turned on ENB's Night Eye fix.
-* Overwrote Ancient Trees of Skyrim with its patch from Fixed Mesh Lightning.
-* Removed the floating bush near Falkreath.
-* Fixed Kaidan's black face.
-* Moved one of the home's keys to the table for it to be more easy to be found.
-> Before it was clipping through the ground. The ones, who have found it before, know.
-* Dissalowed enhancing of some gear from Kaidan.
+* Fixed landscape slopes being invisible during some seasons.
+> Some kind of Turn of Seasons shenanigans.
+* Fixed Sinding's appearance and behaviour during and after his quest.
 
 ### Updated Mods
 
-* Navigator - Navmesh Fixes
-* Prelude to Purgatory - A Lich Custom Skill Tree
-* The Great Town of Ivarstead Patch Collection
-* Four Seasons - Faster Seasons of Skyrim
-* JK's Interiors Patch Collection
-* Pilgrim - A Religion Overhaul
-* Honed Metal - NPC Crafting and Enchanting Services
-* Pretty One-Handed Animations Overhaul
+* xxx
