@@ -12,6 +12,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 
 * Narrative Gameplay Consistent Dialogue Tweaks
 * Sensible Sleepwalking - Wake up at nearest All-Maker Stone
+* Artifacts - The Breton Paladin
 * Undeath Classical Lichdom - The Ascension (Lite)
 * Particle Lights for ENB - Fire Traps
 * Spiders of Solstheim - Transparency Fix
@@ -51,5 +52,6 @@ from wards.
 
 ### Updated Mods
 
+* JK's Interiors Patch Collection
 * Pilgrim - A Religion Overhaul
 * Faster HDT-SMP
