@@ -31,6 +31,9 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 * Fixed landscape slopes being invisible during some seasons.
 > Some kind of Turn of Seasons shenanigans.
 * Fixed Sinding's appearance and behaviour during and after his quest.
+* Fixed the horse whistle for Frost and Shadowmere.
+> I hope. Be sure to tell me.
+* Changed the thieves guild quest, so now you can give gold only to beggars.
 
 ### Updated Mods
 
