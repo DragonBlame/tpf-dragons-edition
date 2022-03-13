@@ -4,7 +4,7 @@
 
 ## Version 2.3.1.
 
-**Is save compatible if you haven't started Undeath related content.**
+**Is save compatible if you haven't started Undeath related content (you haven't become a lich).**
 
 Some fixes, tweaks and additions for the 2.3. version of the modlist.
 
