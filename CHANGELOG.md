@@ -13,7 +13,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 * Narrative Gameplay Consistent Dialogue Tweaks
 * Sensible Sleepwalking - Wake up at nearest All-Maker Stone
 * Undeath Classical Lichdom - The Ascension (Lite)
-* Interesting NPCs SE (3DNPC) - Bard Fix
+* Particle Lights for ENB - Fire Traps
 * Spiders of Solstheim - Transparency Fix
 * Spiders of Solstheim - ENB Light
 * Equipment Toggle
