@@ -4,7 +4,7 @@
 
 ## Version 2.3.1.
 
-**Is save compatible if you haven't started Undeath related content (you haven't become you know if you know).**
+**Is save compatible if you haven't started Undeath related content (you haven't become you know whom).**
 
 Some fixes, tweaks and additions for the 2.3. version of the modlist.
 
