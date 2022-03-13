@@ -13,6 +13,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 * Undeath Classical Lichdom - The Ascension (Lite)
 * Equipment Toggle
 > You don't even know how happy I am because of this. Allows you to unhide/hide your headgear by pressing `Arrow Down` button. 
+* EVG Animation Variance
 * Expressive Werebeasts Redux
 > Updated version of Monster Facial Animation.
 * KrittaKitty's HD Werewolves
@@ -37,4 +38,5 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 
 ### Updated Mods
 
-* xxx
+* Pilgrim - A Religion Overhaul
+* Faster HDT-SMP
