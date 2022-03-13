@@ -156,7 +156,7 @@ If you aren't a fan, just press the same button once again to turn them off.
 * **Look What You See** - Press your `V` key.
 > A headtracking mod. Can be seen in action in the third person view.
 * **Animated Shouts** - Press your `right Alt` key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the add-on too if you forget about it.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the fork too if you forget about it.
 
 Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 
@@ -183,22 +183,22 @@ And don't worry - **the game won't end if you finish the main quest**. You can a
 
 And that's it! You are ready for the action.
 
-If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the add-on) or if you find a typo or any other mistake in the documentation, 
+If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the fork) or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
 #tpf-dragons-edition-support channel. 
 If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](BUGS.md) section first.
 
-If you want to learn more about what the add-on offers and what actually many of the mods do, check my [gameplay guide](GAMEPLAY.md). 
+If you want to learn more about what the modpack offers and what actually many of the mods do, check my [gameplay guide](GAMEPLAY.md). 
 
-If you would like to make any recommendations after looking into what the add-on has to offer or to give me an advice, 
+If you would like to make any recommendations after looking into what the modlist has to offer or to give me an advice, 
 please use _Posts_ feature on Nexus or use _#tpf-de-feedback_ on TPF's Discord server. Suggestions on how to improve the documentation are also welcome on GitHub.
 Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on Nexus.
 
-If you want to help me, don't forget to endorse the add-on’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
+If you want to help me, don't forget to endorse the fork’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
 If you want to help even more, you can donate by pressing the button right below. 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6ABHYO)
 
-I will post about updates for the add-on in both TPF's and Wabbajack's Discord servers.
+I will post about updates for the modpack in both TPF's and Wabbajack's Discord servers.
 
 If you just want to chat, share your beautiful screenshots, builds or performance parameters, I am still happy to see you around on Nexus and in Discord. :)
