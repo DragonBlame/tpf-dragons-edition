@@ -39,6 +39,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 ### Changes
 
 * Removed runes from ward spells _(will work only on new games, can be done by yourself using MCM)_.
+> For unknown reasons, both ward and rune animations are casted for player character together. Also it is hard to see what is going on when you play in the first person mode with the runes from wards.
 * Removed `.` button as the shortcut to our custom perks _(will work only on new games)_.
 > Now it is just `Tab` button.
 * Fixed landscape slopes being invisible during some seasons.
@@ -46,8 +47,6 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 * Fixed Sinding's appearance and behaviour during and after his quest.
 * Fixed the horse whistle for Frost and Shadowmere.
 > I hope. Be sure to tell me if it works for them now.
-> For unknown reasons, both ward and rune animations are casted for players together. Also it is hard to see what is going on when you play in the first person mode with the runes
-from wards.
 * Changed the thieves guild quest, so now you can give gold only to beggars.
 
 ### Updated Mods
