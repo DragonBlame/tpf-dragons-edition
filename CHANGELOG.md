@@ -12,6 +12,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 
 * Narrative Gameplay Consistent Dialogue Tweaks
 * Undeath Classical Lichdom - The Ascension (Lite)
+* Interesting NPCs SE (3DNPC) - Bard Fix
 * Spiders of Solstheim - Transparency Fix
 * Spiders of Solstheim - ENB Light
 * Equipment Toggle
