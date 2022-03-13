@@ -6,7 +6,17 @@
 
 **Is save compatible if you haven't started Undeath related content (you haven't become you know whom).**
 
-Some fixes, tweaks and additions for the 2.3. version of the modlist.
+Again mainly some fixes and tweaks for the 2.3. version of the modpack for stability. And some additions for animations too with the last (at least now) unique artifact mod from FrankFamily - _Artifacts - The Breton Paladin_. 
+
+When I was keeping myself busy with this update, I felt that the fork will be in a good spot after it. 
+There are other plans related to upgrading some untouched exteriors and adding better stealth detection outdoors, but that will come later, 
+when I will be not as busy as I am at the moment. And actually I would like to play more a little bit than until level 15.
+
+For the next update I am also going to add to the modpack two of my character presets, which I have made for my own walkthrough.
+One is probably known by some of you - she is a breton, who uses the power of magic to save the world. 
+Haven't shown the other one too much, but soon he is going to be available on Nexus too. He is your typical nord warrior, who probably has some kind of elven roots. 
+Both of them would like some company, so here it goes - the presets competition is officially started. You can find an information about its rules and prizes
+in #tpf-de-competitions channel in TPF's Discord server.
 
 ### Added Mods
 
@@ -45,6 +55,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 * Fixed landscape slopes being invisible during some seasons.
 > Some kind of Turn of Seasons shenanigans.
 * Fixed Sinding's appearance and behaviour during and after his quest.
+> Connected with our changes to werevolves too.
 * Fixed the horse whistle for Frost and Shadowmere.
 > I hope. Be sure to tell me if it works for them now.
 * Changed the thieves guild quest, so now you can give gold only to beggars.
