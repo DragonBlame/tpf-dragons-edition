@@ -10,6 +10,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 
 ### Added Mods
 
+* Narrative Gameplay Consistent Dialogue Tweaks
 * Undeath Classical Lichdom - The Ascension (Lite)
 * Equipment Toggle
 > You don't even know how happy I am because of this. Allows you to unhide/hide your headgear by pressing `Arrow Down` button. 
