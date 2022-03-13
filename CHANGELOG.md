@@ -36,7 +36,10 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 > Some kind of Turn of Seasons shenanigans.
 * Fixed Sinding's appearance and behaviour during and after his quest.
 * Fixed the horse whistle for Frost and Shadowmere.
-> I hope. Be sure to tell me.
+> I hope. Be sure to tell me if it works for them now.
+* Removed runes from ward spells.
+> For unknown reasons, both ward and rune animations are casted for players together. Also it is hard to see what is going on when you play in the first person mode with the runes
+from wards.
 * Changed the thieves guild quest, so now you can give gold only to beggars.
 
 ### Updated Mods
