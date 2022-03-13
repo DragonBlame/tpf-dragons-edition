@@ -27,6 +27,7 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 > Updated version of Monster Facial Animation.
 * KrittaKitty's HD Werewolves
 > Werewolf texture replacer for our werewolf form, which is used in TPF too. Tweaked it to be compatible with Expressive Werebeasts Redux, which now makes our werewolf form appear according to our gender too like other werewolves.
+* Simple Draugr Stagger Animation
 
 ### Removed Mods
 
