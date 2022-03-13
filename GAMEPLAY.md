@@ -116,7 +116,7 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 
 ## Beginner Tips
 
-Now some juicy tips for peeps, who are still here after mingling with the add-on:
+Now some juicy tips for peeps, who are still here after mingling with the fork:
 
 * Be sure to do the main quest series as some added quests are tied to it (more information later).
 * For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
