@@ -14,6 +14,9 @@ Some fixes, tweaks and additions for the 2.3. version of the modlist.
 * Equipment Toggle
 > You don't even know how happy I am because of this. Allows you to unhide/hide your headgear by pressing `Arrow Down` button. 
 * EVG Animation Variance
+* Immersive Folded Hands
+* Conditional Tavern Cheering
+* Dialogue Animation Remix
 * Expressive Werebeasts Redux
 > Updated version of Monster Facial Animation.
 * KrittaKitty's HD Werewolves
