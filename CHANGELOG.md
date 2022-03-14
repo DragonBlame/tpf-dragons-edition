@@ -54,6 +54,8 @@ More information and rules will be available somewhere around the end of this we
 * Removed _Ysmir Meditation_ power from the powers menu.
 > The new perks are available by pressing `.` or `Tab`. Of course, that is mentioned in the gameplay guide.
 * Turned on ENB's Night Eye fix.
+* Nerfed Aviendha a little bit.
+> At the beginning she is supposed to be stronger than the Dragonborn, but she was a little bit too strong for other enemies too.
 * Overwrote Ancient Trees of Skyrim with its patch from Fixed Mesh Lightning.
 * Removed the floating bush near Falkreath.
 * Fixed Kaidan's black face.
