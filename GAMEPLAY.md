@@ -230,6 +230,7 @@ follower.
 Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
 Story of Lyrisius* in the Arcanaeum, hard mod.
+* **The Breton Paladin** - Can be started any tim by praying, hard mod.
 * **Wyrmstooth** - automatically after Level 10 and after finishing the main
 quest *A Blade in the Dark*. According to the official guide book, it
 can be challenging even for level 70 characters. It is also recommended
