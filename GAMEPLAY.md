@@ -76,10 +76,11 @@ If you want to change the button for dodging, do the following:
 * [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Left Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
 * [Knocking](https://www.nexusmods.com/skyrimspecialedition/mods/14098) - Knock on locked doors by activating them. Good for roleplaying and also useful.
 * [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.
+* [Call your horse by whistling](https://www.nexusmods.com/skyrim/mods/91395) - Right from the beginning of the game gives you power to call your horse after fights. 
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
 (`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
-* [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new perk tree. You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `.` or `Tab` button.
+* [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new custom perk tree. You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `Tab` button.
 * [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
 
 ---
@@ -88,6 +89,7 @@ If you want to change the button for dodging, do the following:
 
 * [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't have a mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
 * [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
+* [Toggle your headgear](https://www.nexusmods.com/skyrimspecialedition/mods/44097) - Use `Page Down` button to toggle it off and on.  
 * [Looting quickly](https://www.nexusmods.com/skyrimspecialedition/mods/21085) - One of the best additions to Fallout 4 (FO4) was the looting menu,
 which appears right when you move your cursor over lootable item without need to open game's full menu. This mod allows us to use this addition,
 but in Skyrim.
@@ -115,7 +117,7 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 
 ## Beginner Tips
 
-Now some juicy tips for peeps, who are still here after mingling with the add-on:
+Now some juicy tips for peeps, who are still here after mingling with the fork:
 
 * Be sure to do the main quest series as some added quests are tied to it (more information later).
 * For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
@@ -216,7 +218,7 @@ At least level 15 is recommended from the author, I recommend at least level 35 
 30 (I know, not immersive, unfortunately the patch for making it start
 in a better way was removed from Nexus, going to deal with that later,
 the late game quest, considered you should have gotten it after one
-Dragonborn quest). Also grants you similar perk tree like the Dragonborn one and you get perk points by feeding your source of dark powers.
+Dragonborn quest).
 * **The Forgotten City** - Automatically after reaching level 40. The story
 responds to your character’s individual history, actions, so a high
 level of speech skill (approximately 60) is also recommended. Enemies
@@ -228,6 +230,7 @@ follower.
 Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
 Story of Lyrisius* in the Arcanaeum, hard mod.
+* **The Breton Paladin** - Can be started any tim by praying, hard mod.
 * **Wyrmstooth** - automatically after Level 10 and after finishing the main
 quest *A Blade in the Dark*. According to the official guide book, it
 can be challenging even for level 70 characters. It is also recommended

@@ -2,74 +2,69 @@
 
 # Changelog
 
-## Version 2.3.
+## Version 2.3.1.
 
-**New save is required.**
+**Is save compatible if you haven't started Undeath related content (you haven't become you know whom).**
 
-Just some fixes, tweaks and modifications to be up to date with the latest of TPF changes.
+Again mainly some fixes and tweaks for the 2.3. version of the modpack for stability. And some additions for animations too with the last (at least now) unique artifact mod from FrankFamily - _Artifacts - The Breton Paladin_. 
 
-Well, who I am lying to... not just that. As I have been feeling very sure about myself after tinkering with Fashions of the Fourth Era, welcome Armor Variants Expansion too. 
-Now you will be able to find and craft different kinds of models of our favourite armour.
+When I was keeping myself busy with this update, I felt that the fork will be in a good spot after it. 
+There are other plans related to upgrading some untouched exteriors and adding better stealth detection outdoors, but that will come later, 
+when I will be not as busy as I am at the moment. And actually I would like to play more a little bit than until level 15.
 
-But that's not all. Finally the first competition of the modlist will start soon - presets competition. 
-That will be exclusive to the [TPF Discord server](https://discord.gg/tpf)'s members, so be sure to join us and grab my fork's role in _#role-settings_ channel to compete.
-More information and rules will be available somewhere around the end of this week, so stay tuned.
-
-### TPF Related Changes
-
-* Modified everything to be up to date with the lastest 4.13.2. version of TPF.
-* Removed _Fishing_ creation.
-> I don't need it.
-* Removed _Mountains Enhanced_.
-> It definitely doesn't enhance compatibility with other mods we use.
-* Removed _Bright Waterfalls Fix_.
-> Looks weird with the new version of Realistic Water Two, which we use from now.
-* Updated _DynDOLOD Resources_.
-* Updated _Realistic Water Two_.
+For the next update I am also going to add to the modpack two of my character presets, which I have made for my own walkthrough.
+One is probably known by some of you - she is a breton, who uses the power of magic to save the world. 
+Haven't shown the other one too much, but soon he is going to be available on Nexus too. He is your typical nord warrior, who probably has some kind of elven roots. 
+Both of them would like some company, so here it goes - **the presets competition is officially started**. You will be find an information about its rules and prizes soon
+in TPF Discord server's _#tpf-de-competitions_ channel.
 
 ### Added Mods
 
-* Fancy Sleeping Tree Replacer
-* Armor Variants Expansion
-* Armor Variants Expansion - Patch Collection
-* Thaumaturgy - VAE and AVE and PSL Patches
-* KS Hairdos 1.8. Salt and Wind
-* Particle Lights for ENB - Falmer Drips
-* Particle Lights for ENB - Standing Stones
-* Apocrypha ENB Light
+* Narrative Gameplay Consistent Dialogue Tweaks
+* Sensible Sleepwalking - Wake up at nearest All-Maker Stone
+* Artifacts - The Breton Paladin
+* Undeath Classical Lichdom - The Ascension (Lite)
+* Sprites or Specters - ENB Light
+* Particle Lights for ENB - Fire Traps
+* Spiders of Solstheim - Transparency Fix
+* Spiders of Solstheim - ENB Light
+* Equipment Toggle
+> You don't even know how happy I am because of this. Allows you to unhide/hide your headgear by pressing `Arrow Down` button. 
+* EVG Animation Variance
+* Immersive Folded Hands
+* Conditional Tavern Cheering
+* Dialogue Animation Remix
+* Expressive Werebeasts Redux
+> Updated version of Monster Facial Animation.
+* KrittaKitty's HD Werewolves
+> Werewolf texture replacer for our werewolf form, which is used in TPF too. Tweaked it to be compatible with Expressive Werebeasts Redux, which now makes our werewolf form appear according to our gender too like other werewolves.
 
 ### Removed Mods
 
-* iHUD - SmoothCam Automated Compatibility Patch
-> Needed to do that in the previous update. Fortunately, it didn't cause any issues.
-* Water Effects Brightness and Reflection Fix
-> Also looks weird with the new version of Realistic Water Two.
-* Vanargand Animations - Sneak Thrust Attacks
-> Look messy without Dark Souls setup.
+* Prelude to Purgatory - A Lich Custom Skill Tree
+> Decided to give The Ascension a try, considering we now have diversified werevolves too. They can't be used together. And probably balance without this one will be better.
+* Diverse Werewolves Collection - Player Replacer
+* Monster Facial Animation
+* Werewolf Eyetracking Behavior
 
 ### Changes
 
-* Updated Terrain LOD to be compatible with the new seasonal changes.
-* Moved all of the outputs back to Nexus.
-* Removed _Ysmir Meditation_ power from the powers menu.
-> The new perks are available by pressing `.` or `Tab`. Of course, that is mentioned in the gameplay guide.
-* Turned on ENB's Night Eye fix.
-* Nerfed Aviendha a little bit.
-> At the beginning she is supposed to be stronger than the Dragonborn, but she was a little bit too strong for other enemies too.
-* Overwrote Ancient Trees of Skyrim with its patch from Fixed Mesh Lightning.
-* Removed the floating bush near Falkreath.
-* Fixed Kaidan's black face.
-* Moved one of the home's keys to the table for it to be more easy to be found.
-> Before it was clipping through the ground. The ones, who have found it before, know.
-* Dissalowed enhancing of some gear from Kaidan.
+* Removed runes from ward spells _(will work only on new games, can be done by yourself using MCM)_.
+> For unknown reasons, both ward and rune animations are casted for player character together. Also it is hard to see what is going on when you play in the first person mode with the runes from wards.
+* Removed `.` button as the shortcut to our custom perks _(will work only on new games)_.
+> Now it is just `Tab` button.
+* Fixed landscape slopes being invisible during some seasons.
+> Some kind of Turn of Seasons shenanigans.
+* Fixed Sinding's appearance and behaviour during and after his quest.
+> Connected with our changes to werevolves too.
+* Fixed the horse whistle for Frost and Shadowmere.
+> I hope. Be sure to tell me if it works for them now.
+* Nerfed Aviendha and her weapon.
+> She should be stronger than us in the early levels, but she was way too strong.
+* Changed the thieves guild quest, so now you can give gold only to beggars.
 
 ### Updated Mods
 
-* Navigator - Navmesh Fixes
-* Prelude to Purgatory - A Lich Custom Skill Tree
-* The Great Town of Ivarstead Patch Collection
-* Four Seasons - Faster Seasons of Skyrim
 * JK's Interiors Patch Collection
 * Pilgrim - A Religion Overhaul
-* Honed Metal - NPC Crafting and Enchanting Services
-* Pretty One-Handed Animations Overhaul
+* Faster HDT-SMP
