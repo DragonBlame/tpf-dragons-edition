@@ -24,6 +24,7 @@ in #tpf-de-competitions channel in TPF's Discord server.
 * Sensible Sleepwalking - Wake up at nearest All-Maker Stone
 * Artifacts - The Breton Paladin
 * Undeath Classical Lichdom - The Ascension (Lite)
+* Sprites or Specters - ENB Light
 * Particle Lights for ENB - Fire Traps
 * Spiders of Solstheim - Transparency Fix
 * Spiders of Solstheim - ENB Light
