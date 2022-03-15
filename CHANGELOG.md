@@ -60,7 +60,7 @@ in TPF Discord server's _#tpf-de-competitions_ channel.
 * Fixed the horse whistle for Frost and Shadowmere.
 > I hope. Be sure to tell me if it works for them now.
 * Nerfed Aviendha and her weapon.
-> She should be stronger than the player in the early level, but she was too strong.
+> She should be stronger than us in the early levels, but she was way too strong.
 * Changed the thieves guild quest, so now you can give gold only to beggars.
 
 ### Updated Mods
