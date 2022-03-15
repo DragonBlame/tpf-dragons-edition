@@ -15,8 +15,8 @@ when I will be not as busy as I am at the moment. And actually I would like to p
 For the next update I am also going to add to the modpack two of my character presets, which I have made for my own walkthrough.
 One is probably known by some of you - she is a breton, who uses the power of magic to save the world. 
 Haven't shown the other one too much, but soon he is going to be available on Nexus too. He is your typical nord warrior, who probably has some kind of elven roots. 
-Both of them would like some company, so here it goes - **the presets competition is officially started**. You can find an information about its rules and prizes
-in _#tpf-de-competitions_ channel in TPF's Discord server.
+Both of them would like some company, so here it goes - **the presets competition is officially started**. You will be find an information about its rules and prizes soon
+in TPF Discord server's _#tpf-de-competitions_ channel.
 
 ### Added Mods
 
