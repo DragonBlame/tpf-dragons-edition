@@ -2,13 +2,30 @@
 
 # Changelog
 
-## Version 2.3.1.1.
+## Version 2.3.2.
 
-**Is save compatible.**
+**Is save compatible if you haven't started Falskaar related quests and if you don't mind giving clothes to some NPCs by yourself.**
 
-Just a little update for two mods to actually apply ENB lightning to atronachs, Solstheim's spiders etc. 
+And another one of my most favourite updates for fixing and adding something new to the modpack. This time welcome _Better Third Person Selection_, 
+which makes third person mode users' lives a little bit easier by adjusting Skyrim's crosshair selecion to work better. 
+
+## Added Mods
+
+* Better Third Person Selection
+
+## Removed Mods
+
+* Bent Pines for Seasons Of Skyrim
+> Is useless for us at the moment as it didn't do what it was supposed to do before. That is fixed in its latest version, 
+but I don't want to redo DynDOLOD just because of that. And overall I think pines are fine to be the way they are during winter.
+Some snow on them would have been ideal, but while there are no less destructive alternatives, we will be fine without it.
+
+## Changes
+
+* Fixed some NPCs being naked and orcs being without boots.
+> Sorry, we are all people. Accidentally gave some of NPCs helmets instead of cuirlasses, while giving orcs two pairs of gauntlets instead of boots. Unfortunately, it won't fix by itself on existing saves, so if you see someone naked or without boots, open console with `~` button, then click on them, write `resetinventory` and press `Enter`. Then you can close the console by pressing `~` button again.
 
 ### Updated Mods
 
-* Sprites or Specters - ENB Light
-* Spiders of Solstheim - ENB Light
+* Comprehensive Falskaar Fixes
+* Modpocalypse NPCs - Resources
