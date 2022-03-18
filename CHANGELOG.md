@@ -12,6 +12,9 @@ which makes third person mode users' lives a little bit easier by adjusting Skyr
 ## Added Mods
 
 * Better Third Person Selection
+* Mirajane Sunder - Breton Mage
+* Maxwell Sunder - Nord Warrior
+> Presets for RaceMenu, which I made.
 
 ## Removed Mods
 
