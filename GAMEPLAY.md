@@ -99,6 +99,7 @@ offer inside their plugins. I have added it for people to know that there is an 
 * [Binding items](https://www.nexusmods.com/skyrimspecialedition/mods/27184) - Now you can bind not just one item to one button, but much more. Feel free to check the mod to learn how to set it up.
 * [Hiding quests](https://www.nexusmods.com/skyrimspecialedition/mods/50125) - Gives you an option to hide a quest you will do later from your journal by 
 using MCM.
+* [No need to remember combinations on the claws anymore](https://www.nexusmods.com/skyrimspecialedition/mods/47329) - Just interact with the keyhole to have it automatically solve itself.
 * [Forgetting your older spells](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Forget spells you don't use anymore by going into the spells menu and pressing `R` button.
 * [Automatically changing outfits according to different scenarios](https://www.nexusmods.com/skyrimspecialedition/mods/40801) - For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities. Be sure to check its MCM to activate it.
 * [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/18732) - Now you need to be crouched to steal items, which aren't the ones in containers.
