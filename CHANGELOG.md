@@ -4,7 +4,7 @@
 
 ## Version 2.3.2.
 
-**Is save compatible if you haven't started Falskaar related quests and if you don't mind giving clothes to some NPCs by yourself.**
+**Is save compatible if you haven't started Falskaar related quests and if you don't mind giving clothes to some NPCs.**
 
 And another one of my most favourite updates for fixing and adding something new to the modpack. This time welcome _Better Third Person Selection_, 
 which makes third person mode users' lives a little bit easier by adjusting Skyrim's crosshair selecion to work better. 
