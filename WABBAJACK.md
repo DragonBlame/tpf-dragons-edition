@@ -66,7 +66,7 @@ Start the game from Steam and and let it do the initial graphics check. Do not w
 
 ## Installation
 
-If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. This file must not be in the Windows related folders 
+If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. This folder must not be in the Windows related folders 
 (_Desktop, Program Files, Downloads, Documents, OneDrive_ etc.).
 
 The downloading and installation process can take a very long time, it depends on your system's specifications, your internet's speed and if you have Nexus premium membership.
