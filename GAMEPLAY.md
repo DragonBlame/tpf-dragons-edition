@@ -7,6 +7,9 @@ I have tried to write as little information as I don't want to spoil the content
 
 ## Alternative Start
 
+At first, there are some charcter presets available for your walkthrough. To use them, choose `Presets` option in the top right side of the character creation menu,
+then press `F9` button to load available presets and then choose the desired one according to the race and the gender you have choosen for the character.
+
 [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) allows us to skip the carriage drive and enter right into Helgen’s Keep with Ralof or Hadvar. 
 In some way it isn't an alternative start, but at the same time it is. What matters is this mod’s simplicity, which allows us to jump right into the action.
 
