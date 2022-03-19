@@ -81,7 +81,7 @@ then point Wabbajack to it.
 5. Click the `Play` button.
 6. Wait for Wabbajack to finish.
 7. If you run into any issues, simply retry the Wabbajack installation. If the installation still fails, 
-ask for help in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
+ask for help in [TPF Discord server](https://discord.gg/Kmv898u4)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
 _#tpf-dragons-edition-support_ channel. 
 > You will need to upload your log file to the corresponding channel. 
 You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folder within the latest version folder - this will be in the same location you saved _Wabbajack.exe_ to.
@@ -186,7 +186,7 @@ And don't worry - **the game won't end if you finish the main quest**. You can a
 And that's it! You are ready for the action.
 
 If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the fork) or if you find a typo or any other mistake in the documentation, 
-feel free to report in [TPF Discord server](https://discord.gg/tpf)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
+feel free to report in [TPF Discord server](https://discord.gg/Kmv898u4)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
 #tpf-dragons-edition-support channel. 
 If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](BUGS.md) section first.
 
