@@ -132,8 +132,11 @@ Finally we are ready to open and finish configuring the game. Above the load ord
 
 And now we are ready to jump into the game.
 
-At the beginning, we need to activate our character's high poly head (much more detailed head than the vanilla one, which you can also shape in much more ways) 
-in character creation menu and then our hair, brows (and/or scars, beard) will look excellent on us.
+There are some charcter presets available for your walkthrough. To use them, choose `Presets` option in the top right side of the character creation menu,
+then press `F9` button to load available presets and then choose the desired one according to the race and the gender you have choosen for the character.
+
+If you want to make your character on your own, at first we need to activate our character's high poly head (much more detailed head than the vanilla one, 
+which you can also shape in much more ways) in character creation menu and then our hair, brows (and/or scars, beard) will look excellent on us.
 
 <p align="center">
     <img width="50%" src="https://user-images.githubusercontent.com/37147270/151776057-aaa74ddf-396d-4bc4-9c83-18be28950be6.png" /> 
