@@ -12,6 +12,7 @@ Because unfortunately the mod we have used for adjusting our height in the first
 
 * Improved Camera
 * Improved Camera Custom .ini
+> Tweaked it too a little bit.
 
 ## Removed Mods
 
