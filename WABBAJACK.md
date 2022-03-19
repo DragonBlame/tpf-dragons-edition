@@ -152,6 +152,7 @@ If you want to use hair with physics for men, you will find instructions on how 
 
 After you get control over movements of your character, don’t go anywhere right away. 
 It will be awesome if you wait for two pop-up's to appear one shortly after the first one (accept them both, of course) before doing anything.
+Don't be scared if you saw parts of your body during the movement (and after you finished creating your character), that will go away, when you will regain full control of your character.
 
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
