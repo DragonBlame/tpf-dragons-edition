@@ -52,7 +52,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 ### Set the Game's Language to English
 
-Right click on your `The Elder Scrolls IV: Skyrim Special Edition` game, select `Properties`, navigate to the `LANGUAGE` tab and select `English` from the dropdown menu.
+Right click on your `The Elder Scrolls V: Skyrim Special Edition` game, select `Properties`, navigate to the `LANGUAGE` tab and select `English` from the dropdown menu.
 
 ### Change Game's Update Behaviour
 
