@@ -23,10 +23,17 @@ The update brings us back not only to the Delta's fierce (but not as overpowered
 * Creation Club - Misc Patches
 * Creation Club Integration - Armours
 
+* Oxygen Meter 2
+
 ## Removed Mods
 
-* xxx
+* Oxygen Meter
 
-## Changed
+## Changes
 
 * Fixed Sinding not appearing in the prison.
+
+## Updated Mods
+
+* DynDOLOD Resources
+* Navigator - Navmesh Fixes
