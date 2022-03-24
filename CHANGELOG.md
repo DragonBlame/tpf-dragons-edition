@@ -6,11 +6,22 @@
 
 **New safe is required.**
 
-xxx
+The update brings us back not only to the Delta's fierce (but not as overpowered) dragons and gets 
+
+## Added CC Content
+
+* Alternative Armors - Iron, Steel, Silver, Stalhrim
+* Spell Knight Armor
+* The Cause
+* The Forgotten Seasons
 
 ## Added Mods
 
-* xxx
+* Iron Plate Armor - Properly Environment Mapped
+* Upscaled and Cleaned Creation Club + Anniversary
+* Unofficial Skyrim Creation Club Content Patch
+* Creation Club - Misc Patches
+* Creation Club Integration - Armours
 
 ## Removed Mods
 
