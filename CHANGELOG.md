@@ -23,7 +23,11 @@ The update brings us back not only to the Delta's fierce (but not as overpowered
 * Creation Club - Misc Patches
 * Creation Club Integration - Armours
 
+* Better Third Person Selection
 * Oxygen Meter 2
+* Dynamic Weather and Time Based Detection
+* Misc Effects - ENB Light
+> Just for barriers.
 
 ## Removed Mods
 
