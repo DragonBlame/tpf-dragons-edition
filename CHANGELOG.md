@@ -24,6 +24,7 @@ The update brings us back not only to the Delta's fierce (but not as overpowered
 * Creation Club Integration - Armours
 * Better Third Person Selection
 * Oxygen Meter 2
+* Turn of the Seasons
 * Dynamic Weather and Time Based Detection
 * Misc Effects - ENB Light
 > Just for barriers.
