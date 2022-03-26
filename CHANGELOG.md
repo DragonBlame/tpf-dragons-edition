@@ -15,7 +15,7 @@ on content and that I would just like to include, in my opinion, some of the bes
 Honourable mentions are also _Better Third Person Selection_, which will make your walkthrough using the third person mode even more enjoyable, and _Dynamic Weather and Time
 Based Detection_, which will surely make lives of stealthy archers a bit more harder. 
 
-Also your daily reminder about the preset competition, which is still happening in the TPF's Discord server. Be sure to join if you want to feature your work in the add-on and to win a 30 EUR (32 USD) worth Steam game. All the rules are pinned inside #tpf-de-competitions channel.
+Also your daily reminder about the preset competition, which is still happening in the TPF's Discord server. Be sure to join if you want to feature your work in the add-on and to win a 30 EUR (32 USD) worth Steam game. All the rules are pinned inside _#tpf-de-competitions_ channel.
 
 ## Added CC Content
 
