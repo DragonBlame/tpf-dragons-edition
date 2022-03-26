@@ -17,13 +17,15 @@ The update brings us back not only to the Delta's fierce (but not as overpowered
 
 ## Added Mods
 
+* Unofficial Skyrim Creation Club Content Patch
 * Iron Plate Armor - Properly Environment Mapped
 * Upscaled and Cleaned Creation Club + Anniversary
-* Unofficial Skyrim Creation Club Content Patch
-* Creation Club - Misc Patches
 * Creation Club Integration - Armours
+* Creation Club - Misc Patches
+* The Cause - Rare Curios Patch
 * Better Third Person Selection
 * Oxygen Meter 2
+* Wyrmstooth - Rare Curios Ingredients Patch
 * Turn of the Seasons
 * Dynamic Weather and Time Based Detection
 * Misc Effects - ENB Light
