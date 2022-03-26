@@ -49,4 +49,5 @@ The update brings us not only to the Delta's fierce (but not as overpowered) dra
 * DynDOLOD Resources
 * Navigator - Navmesh Fixes
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* High Poly Kaidan - Face and Body
 * Sprites or Specters - ENB Light
