@@ -64,7 +64,8 @@ while introducing some disadvantages of getting gear with help of others such as
 
 ## New Mechanics
 
-* [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Spend some stamina to be able to dodge attack of your enemies. `Mouse 4` button is chosen by default for dodging.
+* [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Spend some stamina to be able to dodge attack of your enemies while moving. 
+`Mouse 4` button is chosen by default for dodging.
 
 If you want to change the button for dodging, do the following:
 
