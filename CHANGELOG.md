@@ -6,15 +6,23 @@
 
 **New safe is required.**
 
-The update brings us not only to the Delta's fierce (but not as overpowered) dragons and long awaited Mysticism 2 from TPF. 
-From now on this fork will support only the paid version of the newest Skyrim.  
+The update brings us not only to the Delta's fierce (but not as overpowered) dragons back and long awaited (and actually existing) Mysticism 2 from TPF,
+but much, much more - a bunch of Apothecary patches! Joke, not just that...
+From now on this fork will support only the paid version of the newest Skyrim version. 
+Sooner or later you will be excpected to have them too, so I have decided that it is better to just do that now than later especially considering the fact that we rely
+on content and that I would just like to include, in my opinion, some of the best creations. If you believe there is another hidden gem behind the remaining CC content, feel free to share in the corresponding channels of feedback.
+
+Honourable mentions are also _Better Third Person Selection_, which will make your walkthrough using the third person mode even more enjoyable, and _Dynamic Weather and Time
+Based Detection_, which will surely make lives of stealthy archers a bit more harder. 
+
+Also your daily reminder about the preset competition, which is still happening in the TPF's Discord server. Be sure to join if you want to feature your work in the add-on and to win a 30 EUR (32 USD) worth Steam game. All the rules are pinned inside #tpf-de-competitions channel.
 
 ## Added CC Content
 
+* The Forgotten Seasons
 * Alternative Armors - Iron, Steel, Silver, Stalhrim
 * Spell Knight Armor
 * The Cause
-* The Forgotten Seasons
 
 ## Added Mods
 
@@ -43,6 +51,7 @@ From now on this fork will support only the paid version of the newest Skyrim.
 ## Changes
 
 * Fixed Sinding not appearing in the prison.
+* Tweaked UI settings for how empty containers are being shown.
 
 ## Updated Mods
 
