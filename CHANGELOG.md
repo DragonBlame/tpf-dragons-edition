@@ -6,7 +6,7 @@
 
 **New safe is required.**
 
-The update brings us back not only to the Delta's fierce (but not as overpowered) dragons and gets 
+The update brings us not only to the Delta's fierce (but not as overpowered) dragons and long awaited Mysticism 2.
 
 ## Added CC Content
 
@@ -25,8 +25,13 @@ The update brings us back not only to the Delta's fierce (but not as overpowered
 * The Cause - Rare Curios Patch
 * Better Third Person Selection
 * Oxygen Meter 2
-* Wyrmstooth - Rare Curios Ingredients Patch
+* Apothecary - Cannibaal Draugr on Solstheim Patch
+* Creation Club The Cause - Bruma Scamps Synergy
+* Patch for Project AHO and Apothecary - An Alchemy Overhaul
+* Wyrmstooth - Creation Club Ingredient Patches
 * Turn of the Seasons
+* Apothecary Patches by Missile
+* Apothecary - Various Patch Bundle
 * Dynamic Weather and Time Based Detection
 * Misc Effects - ENB Light
 > Just for barriers.
