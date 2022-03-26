@@ -6,7 +6,8 @@
 
 **New safe is required.**
 
-The update brings us not only to the Delta's fierce (but not as overpowered) dragons and long awaited Mysticism 2.
+The update brings us not only to the Delta's fierce (but not as overpowered) dragons and long awaited Mysticism 2 from TPF. 
+From now on this fork will support only the paid version of the newest Skyrim.  
 
 ## Added CC Content
 
@@ -29,7 +30,6 @@ The update brings us not only to the Delta's fierce (but not as overpowered) dra
 * Creation Club The Cause - Bruma Scamps Synergy
 * Patch for Project AHO and Apothecary - An Alchemy Overhaul
 * Wyrmstooth - Creation Club Ingredient Patches
-* Turn of the Seasons
 * Apothecary Patches by Missile
 * Apothecary - Various Patch Bundle
 * Dynamic Weather and Time Based Detection
@@ -50,4 +50,5 @@ The update brings us not only to the Delta's fierce (but not as overpowered) dra
 * Navigator - Navmesh Fixes
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 * High Poly Kaidan - Face and Body
+* Turn of the Seasons
 * Sprites or Specters - ENB Light
