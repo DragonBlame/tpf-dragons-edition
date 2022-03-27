@@ -32,7 +32,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Creation Club Integration - Armours
 * Creation Club - Misc Patches
 * The Cause - Rare Curios Patch
-* Better Third Person Selection
+* Better Third Person Selection (BTPS)
 * Oxygen Meter 2
 * Apothecary - Cannibaal Draugr on Solstheim Patch
 * Creation Club The Cause - Bruma Scamps Synergy
@@ -47,11 +47,16 @@ Also your daily reminder about the preset competition, which is still happening 
 ## Removed Mods
 
 * Oxygen Meter
+* BlockSteal
+> Not needed with Better Third Person Selection. To steal anything, again you will need to use crouching, otherwise UI won't even show you information about items you want to steal.
 
 ## Changes
 
 * Fixed Sinding not appearing in the prison.
 * Tweaked UI settings for how empty containers are being shown.
+> There is some kind of bug, whhere original prompt briefly appears when looking at containers without anything in them, so I have just decided to bring it back.
+* Removed container's name from Quick Loot.
+> Becaue BTPS also helps us with that.
 
 ## Updated Mods
 
