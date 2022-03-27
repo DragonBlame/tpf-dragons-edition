@@ -12,7 +12,7 @@ From now on this fork will support only the paid version of the newest Skyrim ve
 Sooner or later you will be excpected to have them too, so I have decided that it is better to just do that now than later especially considering the fact that we rely
 on content and that I would just like to include, in my opinion, some of the best creations. If you believe there is another hidden gem behind the remaining CC content, feel free to share in the corresponding channels of feedback.
 
-Honourable mentions are also _Better Third Person Selection_, which will make your walkthrough even more enjoyable with upgraded UI, and _Dynamic Weather and Time Based Detection_, which will surely make lives of stealthy archers a bit more harder. 
+Honourable mentions are also _Better Third Person Selection_, which will make your walkthrough even more enjoyable with upgraded UI, and _Dynamic Weather and Time Based Detection_, which will surely make lives of stealthy archers more harder. 
 
 Also your daily reminder about the preset competition, which is still happening in the TPF's Discord server. Be sure to join if you want to feature your work in the add-on and to win a 30 EUR (32 USD) worth Steam game. All the rules are pinned inside _#tpf-de-competitions_ channel.
 
