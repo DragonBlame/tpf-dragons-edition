@@ -41,7 +41,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Apothecary - Various Patch Bundle
 * Dynamic Weather and Time Based Detection
 * Misc Effects - ENB Light
-> Just for magical arriers.
+> Just for magical barriers.
 
 ## Removed Mods
 
