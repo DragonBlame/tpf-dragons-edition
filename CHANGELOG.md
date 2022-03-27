@@ -53,9 +53,9 @@ Also your daily reminder about the preset competition, which is still happening 
 
 * Fixed Sinding not appearing in the prison.
 * Tweaked UI settings for how empty containers are being shown.
-> There is some kind of bug, where original prompt briefly appears, when looking at containers without anything in them, so I have just decided to bring the original prompt back, while it isn't fixed.
+> There is some kind of bug, where original prompt briefly appears, when looking at containers without anything in them, so I have just decided to bring the original prompt back, while everything isn't fixed.
 * Removed container's name from Quick Loot.
-> Consistency changes for BTPS.
+> Consistency change for BTPS.
 
 ## Updated Mods
 
