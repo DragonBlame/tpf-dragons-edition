@@ -48,15 +48,15 @@ Also your daily reminder about the preset competition, which is still happening 
 
 * Oxygen Meter
 * BlockSteal
-> Not needed with Better Third Person Selection. To steal anything, again you will need to use crouching, otherwise UI won't even show you information about items you want to steal.
+> Not needed with _Better Third Person Selection_. To steal anything, again you will need to use crouching, otherwise UI won't even show you information about items you want to steal.
 
 ## Changes
 
 * Fixed Sinding not appearing in the prison.
 * Tweaked UI settings for how empty containers are being shown.
-> There is some kind of bug, whhere original prompt briefly appears when looking at containers without anything in them, so I have just decided to bring it back.
-* Removed container's name from Quick Loot.
-> Becaue BTPS also helps us with that.
+> There is some kind of bug, where original prompt briefly appears, when looking at containers without anything in them, so I have just decided to bring the original prompt back, while it isn't fixed.
+* Removed container's name from Quick Loot. Changed quick loot menu's location.
+> Consistency changes for BTPS.
 
 ## Updated Mods
 
