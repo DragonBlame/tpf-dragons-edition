@@ -59,6 +59,7 @@ Also your daily reminder about the preset competition, which is still happening 
 
 ## Updated Mods
 
+* Fixed Mesh Lighting
 * DynDOLOD Resources
 * Navigator - Navmesh Fixes
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
