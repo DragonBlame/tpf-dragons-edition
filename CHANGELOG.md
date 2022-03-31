@@ -43,6 +43,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Dynamic Weather and Time Based Detection
 * Misc Effects - ENB Light
 > Just for magical barriers.
+* Furniture Height Size Fix Enhanced
 
 ## Removed Mods
 
