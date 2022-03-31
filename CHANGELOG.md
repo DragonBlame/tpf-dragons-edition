@@ -37,6 +37,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Creation Club The Cause - Bruma Scamps Synergy
 * Patch for Project AHO and Apothecary - An Alchemy Overhaul
 * Wyrmstooth - Creation Club Ingredient Patches
+* Dragon War - Wyrmstooth Patch
 * Apothecary Patches by Missile
 * Apothecary - Various Patch Bundle
 * Dynamic Weather and Time Based Detection
