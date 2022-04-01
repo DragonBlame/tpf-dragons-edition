@@ -10,7 +10,7 @@ The update brings us not only to the Delta's fierce (but not as overpowered) dra
 but much, much more - a bunch of Apothecary patches! Joke, not just that...
 From now on this fork will support only the paid version of the newest Skyrim version. 
 Sooner or later you will be excpected to have them too, so I have decided that it is better to just do that now than later especially considering the fact that we rely
-on content and that I would just like to include, in my opinion, some of the best creations. If you believe there is another hidden gem behind the remaining CC content, feel free to share in the corresponding channels of feedback.
+on content and that I would just like to include, in my opinion, some of the best creations and the ones, which don't conflict with other content (unfortunately, that means no Divine Crusader with Tate's Knight of the North). If you believe there is another hidden gem behind the remaining CC content, feel free to share in the corresponding channels of feedback.
 
 Honourable mentions are also _Better Third Person Selection_, which will make your walkthrough even more enjoyable with upgraded UI, and _Dynamic Weather and Time Based Detection_, which will surely make lives of stealthy archers more harder outdoors. 
 
