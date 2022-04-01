@@ -33,6 +33,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * The Cause - Rare Curios Patch
 * Better Third Person Selection (BTPS)
 * Oxygen Meter 2
+* Caught Red Handed - Quest Expansion
 * Apothecary - Cannibaal Draugr on Solstheim Patch
 * Creation Club The Cause - Bruma Scamps Synergy
 * Patch for Project AHO and Apothecary - An Alchemy Overhaul
