@@ -18,7 +18,6 @@ Also your daily reminder about the preset competition, which is still happening 
 
 ## Added CC Content
 
-* Divine Crusader
 * The Forgotten Seasons
 * Alternative Armors - Iron, Steel, Silver, Stalhrim
 * Spell Knight Armor
