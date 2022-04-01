@@ -41,6 +41,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Apothecary Patches by Missile
 * Apothecary - Various Patch Bundle
 * Dynamic Weather and Time Based Detection
+* Rudy HQ - More Lights for ENB Decal Fix
 * Misc Effects - ENB Light
 > Just for magical barriers.
 * Furniture Height Size Fix Enhanced
@@ -64,7 +65,16 @@ Also your daily reminder about the preset competition, which is still happening 
 * Fixed Mesh Lighting
 * DynDOLOD Resources
 * Navigator - Navmesh Fixes
+* eFPS - Official Patch Hub
+* The Wheel of Time
+> Two new quests.
+* Ayleid Ruins - ENB Light
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 * High Poly Kaidan - Face and Body
+* Cathedral 3D Mountain Flowers - Base Object Swapper
 * Turn of the Seasons
 * Sprites or Specters - ENB Light
+* Particle Lights for ENB - Falmer Drips
+* Particle Lights for ENB - Standing Stones
+* Particle Lights for ENB - Fire Traps - Nordic Only
+* Spiders of Solstheim - ENB Light
