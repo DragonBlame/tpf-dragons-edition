@@ -26,7 +26,7 @@ Also your daily reminder about the preset competition, which is still happening 
 ## Added Mods
 
 * Unofficial Skyrim Creation Club Content Patch
-* Iron Plate Armor - Properly Environment Mapped
+* Creation Club Asset Patch
 * Upscaled and Cleaned Creation Club + Anniversary
 * Creation Club Integration - Armours
 * Creation Club - Misc Patches
