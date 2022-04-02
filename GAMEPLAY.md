@@ -106,7 +106,7 @@ using MCM.
 * [No need to remember combinations on the claws anymore](https://www.nexusmods.com/skyrimspecialedition/mods/47329) - Just interact with the keyhole to have it automatically solve itself.
 * [Forgetting your older spells](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Forget spells you don't use anymore by going into the spells menu and pressing `R` button.
 * [Automatically changing outfits according to different scenarios](https://www.nexusmods.com/skyrimspecialedition/mods/40801) - For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities. Be sure to check its MCM to activate it.
-* [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/18732) - Now you need to be crouched to steal items, which aren't the ones in containers.
+* [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/64339) - Now you need to be crouched to _see_ items, which aren't the ones in containers.
 * [Clairvoyance (_Guiding Wisp_ now)](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Clairvoyance, but much more useful. Just try it out (be sure that you have an active quest in your journal).
 * [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your `Right Alt` key to disable or enable animated shouts at any time.
 * [Clean up your mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645) - Now if you have accidentally (or maybe not) Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
