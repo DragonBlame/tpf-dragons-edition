@@ -51,6 +51,8 @@ Also your daily reminder about the preset competition, which is still happening 
 ## Removed Mods
 
 * Oxygen Meter
+* Authentic Sinding Follower
+> Has too many problems for now. Maybe will readd it later.
 * BlockSteal
 > Not needed with _Better Third Person Selection_. To steal anything, again you will need to use crouching, otherwise UI won't even show you information about items you want to steal.
 
@@ -68,6 +70,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * DynDOLOD Resources
 * Navigator - Navmesh Fixes
 * eFPS - Official Patch Hub
+* Midwood Isle
 * Comprehensive Falskaar Fixes
 * The Wheel of Time
 > Two new quests.
