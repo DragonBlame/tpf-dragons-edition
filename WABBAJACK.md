@@ -151,16 +151,17 @@ If you want to use hair with physics for men, you will find instructions on how 
 ---
 
 After you get control over movements of your character, don’t go anywhere right away. 
-It will be awesome if you wait for two pop-up's to appear one shortly after the first one (accept them both, of course) before doing anything.
-Don't be scared if you saw parts of your body during the movement (and after you finished creating your character), that will go away, when you will regain full control of your character.
+It will be awesome if you wait for a pop-up about finishin things setting up to appear before doing anything else.
+Don't be scared if you saw parts of your body during the movement (and/or after you finished creating your character), that will go away, when you will regain full control of your character.
 
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
 * **Look What You See** - Press your `V` key.
 > A headtracking mod. Can be seen in action in the third person view.
+* **Equipment Toggle** - Press `Page Down` button to toggle your heagear's visibility off and on.
 * **Animated Shouts** - Press your `right Alt` key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the fork too if you forget about it.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip about these 3 mods in my gameplay guide for the fork too if you forget about them.
 
 Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 
