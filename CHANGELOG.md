@@ -36,6 +36,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Caught Red Handed - Quest Expansion
 * Apothecary - Cannibaal Draugr on Solstheim Patch
 * Creation Club The Cause - Bruma Scamps Synergy
+* Project AHO - Spell Crafting for Mysticism
 * Patch for Project AHO and Apothecary - An Alchemy Overhaul
 * Wyrmstooth - Creation Club Ingredient Patches
 * Dragon War - Wyrmstooth Patch
@@ -53,6 +54,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Oxygen Meter
 * Authentic Sinding Follower
 > Has too many problems for now. Maybe will readd it later.
+* Project AHO - Mysticism - A Magic Overhaul Spell Crafting Patch
 * BlockSteal
 > Not needed with _Better Third Person Selection_. To steal anything, again you will need to use crouching, otherwise UI won't even show you information about items you want to steal.
 
