@@ -67,11 +67,13 @@ Also your daily reminder about the preset competition, which is still happening 
 * DynDOLOD Resources
 * Navigator - Navmesh Fixes
 * eFPS - Official Patch Hub
+* Comprehensive Falskaar Fixes
 * The Wheel of Time
 > Two new quests.
 * Ayleid Ruins - ENB Light
 * Kaidan 2 Follower Voice Fixes and Additional Dialogue
 * High Poly Kaidan - Face and Body
+* Immersive Kaidan Start
 * Cathedral 3D Mountain Flowers - Base Object Swapper
 * Turn of the Seasons
 * Sprites or Specters - ENB Light
