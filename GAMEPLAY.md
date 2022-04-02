@@ -128,7 +128,7 @@ Now some juicy tips for peeps, who are still here after mingling with the fork:
 * Be sure to do the main quest series as some added quests are tied to it (more information later).
 * For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
 there will be a neat spell book waiting for you somewhere around Riverwood.
-* Aela in a way is much more unique than other followers (not as unique starting with 2.2. version, but still). Pick her on a tough adventure to learn how.
+* Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
 * Some of the added armour can be crafted by yourself only after reading specific materials. I would have started looking in one of the cities, which makes the most sense to be associated with clothing. Other books will be pretty close.
 * Feel free to use Divine Elegance Store near Old Hroldan inn. I have added it to serve a resource for making different screenshots. Of course, 
 you can also use all those outfits, accessories etc. to make your character just prettier. There are things for everyone to play with, even warriors.
