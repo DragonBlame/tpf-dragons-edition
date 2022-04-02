@@ -41,6 +41,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Wyrmstooth - Creation Club Ingredient Patches
 * Dragon War - Wyrmstooth Patch
 * Kaidan and Auri Banter Patch
+* Kabu's Argonian Fins
 * Apothecary Patches by Missile
 * Apothecary - Various Patch Bundle
 * Dynamic Weather and Time Based Detection
