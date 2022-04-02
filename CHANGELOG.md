@@ -54,7 +54,7 @@ Also your daily reminder about the preset competition, which is still happening 
 
 * Oxygen Meter
 * Authentic Sinding Follower
-> Has too many problems for now. Maybe will readd it later.
+> After fixing him not appearing in prison, I have learned that he has bunch of other problems too. Maybe will readd the mod later, when it will be more stable.
 * Project AHO - Mysticism - A Magic Overhaul Spell Crafting Patch
 * BlockSteal
 > Not needed with _Better Third Person Selection_. To steal anything, again you will need to use crouching, otherwise UI won't even show you information about items you want to steal.
