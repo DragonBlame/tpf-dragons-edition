@@ -201,7 +201,8 @@ the southernmost point of County Bruma.
 * **Carved Bink** - After reaching level 10 in *Abandoned Grotto* west of Lost
 Knife Hideout.
 * **Project AHO** - After reaching level 15, head to Braidwood Inn (located at Kynesgrove) and talk to the innkeeper. Without a follower.
-* **Midwood Isle** - Automatically after finishing the main quest *The Way of the Voice.* Recommend to start it at level 15-20. 
+* **Midwood Isle** - Automatically after finishing the main quest *The Way of the Voice.* Recommend to start it at level 15-20.
+* **The Forgotten Seasons** - Find and enter into Runoff Caverns, which are very close to Lost Valley Redoubt (and/or read a note in one of the mercenaries' tents that serves as an alternate way to begin the quest). I recommend to be close to level 20.
 * **The Wheels of Lull** - Automatically after reaching level 20, can be finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound* to make sure that Helgen has bandits inside it. 
 Otherwise it can work incorrectly. Recommended to be started at level 20. ._Note_ in the Bannered Mare can be activated to start the quest. 
@@ -232,6 +233,7 @@ will be pretty tough, but not as tough as within other late game quests.
 That’s and also the immersiveness is the reason for setting this quest
 requirements as high, because by default it starts at level 5. Without a
 follower.
+* **The Cause** - Automatically after reaching level 46.
 * **The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
 Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
