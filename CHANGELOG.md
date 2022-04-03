@@ -62,6 +62,7 @@ Also your daily reminder about the preset competition, which is still happening 
 ## Changes
 
 * Fixed Sinding not appearing in the prison.
+* Made two INI tweaks to make performance better without affecting visuals too much.
 * Tweaked UI settings for how empty containers are being shown.
 > There is some kind of bug within Simple Activate, where original prompt briefly appears, when looking at containers without anything in them, so I have just decided to bring the original prompt back for now.
 * Removed container's name from Quick Loot.
