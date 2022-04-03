@@ -31,7 +31,7 @@ if you have them already.
   
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
   - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
-  - The latest version of Skyrim - 1.6.353.
+  - The latest version of Skyrim - 1.6.353. with the Anniversary Upgrade.
 
 ---
 
@@ -81,8 +81,7 @@ then point Wabbajack to it.
 5. Click the `Play` button.
 6. Wait for Wabbajack to finish.
 7. If you run into any issues, simply retry the Wabbajack installation. If the installation still fails, 
-ask for help in [TPF Discord server](https://discord.gg/Kmv898u4)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
-_#tpf-dragons-edition-support_ channel. 
+ask for help in [TPF Discord server](https://discord.gg/fBFpdPuK)'s _#tpf-de-wabbajack-support_ channel. 
 > You will need to upload your log file to the corresponding channel. 
 You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folder within the latest version folder - this will be in the same location you saved _Wabbajack.exe_ to.
 
@@ -151,16 +150,17 @@ If you want to use hair with physics for men, you will find instructions on how 
 ---
 
 After you get control over movements of your character, don’t go anywhere right away. 
-It will be awesome if you wait for two pop-up's to appear one shortly after the first one (accept them both, of course) before doing anything.
-Don't be scared if you saw parts of your body during the movement (and after you finished creating your character), that will go away, when you will regain full control of your character.
+It will be awesome if you wait for a pop-up about finishin things setting up to appear before doing anything else.
+Don't be scared if you saw parts of your body during the movement (and/or after you finished creating your character), that will go away, when you will regain full control of your character.
 
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
 * **Look What You See** - Press your `V` key.
 > A headtracking mod. Can be seen in action in the third person view.
+* **Equipment Toggle** - Press `Page Down` button to toggle your heagear's visibility off and on.
 * **Animated Shouts** - Press your `right Alt` key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip on this one in my gameplay guide for the fork too if you forget about it.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip about these 3 mods in my gameplay guide for the fork too if you forget about them.
 
 Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 
@@ -187,8 +187,7 @@ And don't worry - **the game won't end if you finish the main quest**. You can a
 And that's it! You are ready for the action.
 
 If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the fork) or if you find a typo or any other mistake in the documentation, 
-feel free to report in [TPF Discord server](https://discord.gg/Kmv898u4)'s _#tpf-de-wabbajack-support_ channel or [Wabbajack Discord server](https://discord.gg/wabbajack)'s 
-#tpf-dragons-edition-support channel. 
+feel free to report in [TPF Discord server](https://discord.gg/Kmv898u4)'s _#tpf-de-wabbajack-support_ channel. 
 If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](BUGS.md) section first.
 
 If you want to learn more about what the modpack offers and what actually many of the mods do, check my [gameplay guide](GAMEPLAY.md). 

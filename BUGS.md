@@ -13,9 +13,9 @@ but it really is how it is. You will need some effort from your side in order to
 learn how to do it. Here are some good resources for the beginning - [ModdingSkyrim](https://moddingskyrim.com/), 
 [Lively's Learn How To Wiki](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md). If you tried, but something is still not right, 
 you can ask for advice in [Wabbajack Discord server](https://discord.gg/wabbajack)'s _#general-se-discussion_ or 
-[TPF Discord server](https://discord.gg/Kmv898u4)'s _#tpf-de-modifications_ channel.
+[TPF Discord server](https://discord.gg/fBFpdPuK)'s _#tpf-de-modifications_ or _#mod-talk_ channels.
 
-At second, support with in-game issues is offered in TPF Discord server's _#tpf-de-wabbajack-support_ and _#tpf-de-crash-reports_ channels and Wabbajack Discord server's _#tpf-dragons-edition-support_ channel.
+At second, support with in-game issues is offered in TPF Discord server's _#tpf-de-wabbajack-support_ and _#tpf-de-crash-reports_ channels.
 
 At third, if another person reports any kind of issue you have too, mention that you are having the same issue.
 That is important for me, because then I will know that issue is global and maybe I will need your help to resolve it. 

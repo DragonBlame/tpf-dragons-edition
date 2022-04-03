@@ -64,7 +64,8 @@ while introducing some disadvantages of getting gear with help of others such as
 
 ## New Mechanics
 
-* [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Spend some stamina to be able to dodge attack of your enemies. `Mouse 4` button is chosen by default for dodging.
+* [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Spend some stamina to be able to dodge attack of your enemies while moving. 
+`Mouse 4` button is chosen by default for dodging.
 
 If you want to change the button for dodging, do the following:
 
@@ -82,7 +83,7 @@ If you want to change the button for dodging, do the following:
 * [Call your horse by whistling](https://www.nexusmods.com/skyrim/mods/91395) - Right from the beginning of the game gives you power to call your horse after fights. 
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
-(`E` by default), while in the air. Use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
+(`E` by default), while in the air. After fiding and learning neat spell around the platform, use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
 * [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new custom perk tree. You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `Tab` button.
 * [Respeccing](https://www.nexusmods.com/skyrimspecialedition/mods/1960) - Buy _Draught of Fate Unwound_ at Elgrim’s Elixirs in Riften to automatically refund all your perks upon consuming it.
 
@@ -90,6 +91,7 @@ If you want to change the button for dodging, do the following:
 
 ## Utility Tools and Quality of Life Additions
 
+* [Toggable compass](https://www.nexusmods.com/skyrimspecialedition/mods/63247) - Press `X` key to turn it on and off when you need that.
 * [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't have a mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
 * [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
 * [Toggle your headgear](https://www.nexusmods.com/skyrimspecialedition/mods/44097) - Use `Page Down` button to toggle it off and on.  
@@ -105,7 +107,7 @@ using MCM.
 * [No need to remember combinations on the claws anymore](https://www.nexusmods.com/skyrimspecialedition/mods/47329) - Just interact with the keyhole to have it automatically solve itself.
 * [Forgetting your older spells](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Forget spells you don't use anymore by going into the spells menu and pressing `R` button.
 * [Automatically changing outfits according to different scenarios](https://www.nexusmods.com/skyrimspecialedition/mods/40801) - For example, I use it to change my default gear to ordinary clothing with speech etc. enchantments for traders, when I am inside big cities. Be sure to check its MCM to activate it.
-* [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/18732) - Now you need to be crouched to steal items, which aren't the ones in containers.
+* [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/64339) - Now you need to be crouched to _see_ items, which aren't the ones in containers.
 * [Clairvoyance (_Guiding Wisp_ now)](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Clairvoyance, but much more useful. Just try it out (be sure that you have an active quest in your journal).
 * [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your `Right Alt` key to disable or enable animated shouts at any time.
 * [Clean up your mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645) - Now if you have accidentally (or maybe not) Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
@@ -126,7 +128,7 @@ Now some juicy tips for peeps, who are still here after mingling with the fork:
 * Be sure to do the main quest series as some added quests are tied to it (more information later).
 * For people, who would want to adopt children and live with them (and/or with your spouse) not in vanilla homes, 
 there will be a neat spell book waiting for you somewhere around Riverwood.
-* Aela in a way is much more unique than other followers (not as unique starting with 2.2. version, but still). Pick her on a tough adventure to learn how.
+* Aela in a way is much more unique than other followers. Pick her on a tough adventure to learn how.
 * Some of the added armour can be crafted by yourself only after reading specific materials. I would have started looking in one of the cities, which makes the most sense to be associated with clothing. Other books will be pretty close.
 * Feel free to use Divine Elegance Store near Old Hroldan inn. I have added it to serve a resource for making different screenshots. Of course, 
 you can also use all those outfits, accessories etc. to make your character just prettier. There are things for everyone to play with, even warriors.
@@ -199,7 +201,8 @@ the southernmost point of County Bruma.
 * **Carved Bink** - After reaching level 10 in *Abandoned Grotto* west of Lost
 Knife Hideout.
 * **Project AHO** - After reaching level 15, head to Braidwood Inn (located at Kynesgrove) and talk to the innkeeper. Without a follower.
-* **Midwood Isle** - Automatically after finishing the main quest *The Way of the Voice.* Recommend to start it at level 15-20. 
+* **Midwood Isle** - Automatically after finishing the main quest *The Way of the Voice.* Recommend to start it at level 15-20.
+* **The Forgotten Seasons** - Find and enter into Runoff Caverns, which are very close to Lost Valley Redoubt (and/or read a note in one of the mercenaries' tents that serves as an alternate way to begin the quest). I recommend to be close to level 20.
 * **The Wheels of Lull** - Automatically after reaching level 20, can be finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound* to make sure that Helgen has bandits inside it. 
 Otherwise it can work incorrectly. Recommended to be started at level 20. ._Note_ in the Bannered Mare can be activated to start the quest. 
@@ -230,11 +233,12 @@ will be pretty tough, but not as tough as within other late game quests.
 That’s and also the immersiveness is the reason for setting this quest
 requirements as high, because by default it starts at level 5. Without a
 follower.
+* **The Cause** - Automatically after reaching level 46.
 * **The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
 Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
 Story of Lyrisius* in the Arcanaeum, hard mod.
-* **The Breton Paladin** - Can be started any tim by praying, hard mod.
+* **The Breton Paladin** - Can be started any time by praying, hard mod after the first part of the quest.
 * **Wyrmstooth** - automatically after Level 10 and after finishing the main
 quest *A Blade in the Dark*. According to the official guide book, it
 can be challenging even for level 70 characters. It is also recommended
