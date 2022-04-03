@@ -67,6 +67,7 @@ Also your daily reminder about the preset competition, which is still happening 
 > There is some kind of bug within Simple Activate, where original prompt briefly appears, when looking at containers without anything in them, so I have just decided to bring the original prompt back for now.
 * Removed container's name from Quick Loot.
 > Consistency change for BTPS.
+* Fixed the water record near Solitude.
 
 ## Updated Mods
 
