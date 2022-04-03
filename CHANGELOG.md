@@ -2,6 +2,16 @@
 
 # Changelog
 
+## Version 2.4.1.
+
+Just a little hotfix for Dynamic Weather and Time Based Detection to work properly.
+
+## Changes
+
+* Added Slidikins' fix for Dynamic Weather and Time Based Detection.
+
+---
+
 ## Version 2.4.
 
 **New safe is required.**
