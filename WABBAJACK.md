@@ -66,6 +66,16 @@ Start the game from Steam and and let it do the initial graphics check. Do not w
 
 ## Anniversary Upgrade
 
+Creation Content (CC) included in the modpack at the moment:
+* The Forgotten Seasons
+* The Rare Curios
+* Alternative Armors - Iron
+* Alternative Armors - Steel
+* Spell Knight Armor
+* Alternative Armors - Silver
+* Alternative Armors - Stalhrim
+* The Cause
+
 If you have successfully used any other official Wabbajack modlist for Skyrim Special Edition recently and if it uses Skyrim's latest paid Anniversary Upgrade, which allows us to use all of Creation Content (CC), then you don't need to follow the next steps in this section.
 
 1. If you haven't done that already, buy Anniversary Upgrade and make sure that Steam installed it.
