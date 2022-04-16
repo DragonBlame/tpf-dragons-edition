@@ -91,7 +91,7 @@ If you want to change the button for dodging, do the following:
 
 ## Utility Tools and Quality of Life Additions
 
-* [Toggable camera](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) - Press `F` key to toggle between the first and the third person view.
+* [Toggable camera](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) - Press `F` key to toggle between the first and the third person view.  If you accidentally used a mouse wheel to try to do that, use the same wheel in the opposite direction to disable the headbobbing feature.
 * [Toggable compass](https://www.nexusmods.com/skyrimspecialedition/mods/63247) - Press `X` key to turn it on and off when you need that.
 * [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't have a mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
 * [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
