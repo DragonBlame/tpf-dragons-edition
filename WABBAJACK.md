@@ -64,6 +64,21 @@ Start the game from Steam and and let it do the initial graphics check. Do not w
 
 ---
 
+## Anniversary Upgrade
+
+If you have successfully used any other official Wabbajack modlist for Skyrim Special Edition recently and if it uses Skyrim's latest paid Anniversary Upgrade, which allows us to use all of Creation Content (CC), then you don't need to follow the next steps in this section.
+
+1. If you haven't done that already, buy Anniversary Upgrade and make sure that Steam installed it.
+2. If you don't have a Bethesda account, make it at [Bethesda.net](https://bethesda.net/en/dashboard).
+3. Launch Skyrim through Steam.
+4. Click the `Play` button.
+5. Choose `Creation Club` option.
+6. Login with your Bethesda.net login.
+7. Click the `Download All` button.
+8. Wait for Skyrim to finish.
+
+---
+
 ## Installation
 
 If you haven't installed Wabbajack yet, grab its latest release from [here](https://github.com/wabbajack-tools/wabbajack/releases), make a folder inside the root of the drive like _C:\Wabbajack_ and place the `Wabbajack.exe` file inside it. This folder must not be in the Windows related folders 
@@ -165,7 +180,7 @@ Don't be scared if you saw parts of your body during the movement (and/or after 
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
-**Improved Camera** - Press your `F` key to toggle between the first and the third person view. If you accidentally used a mouse wheel to try to do that, use the same wheel in the opposite direction to disable the headbobbing feature. 
+* **Improved Camera** - Press your `F` key to toggle between the first and the third person view. If you accidentally used a mouse wheel to try to do that, use the same wheel in the opposite direction to disable the headbobbing feature. 
 * **Look What You See** - Press your `V` key.
 > A headtracking mod. Can be seen in action in the third person view.
 * **Equipment Toggle** - Press `Page Down` button to toggle your heagear's visibility off and on.
