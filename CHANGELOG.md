@@ -15,10 +15,6 @@ This time we are fixing some of the issues, which were reported by users, while 
 * Elemental Staffs - Mysticism Patch
 * NPCs Wear Amulets of Mara
 
-## Removed Mods
-
-* Realistic Water Two - Darker Gradient Textures
-
 ## Changes
 
 * Fixed the game being stuck when you take any kind of note.
