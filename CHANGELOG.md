@@ -6,7 +6,7 @@
 
 **Is save compatible.**
 
-From now on users, who have been using the previous version of the modpack, will get a save safe update if there were any important updates and issues to fix. After the save compatible update, not save compatible update might be released for new users if there is something, which I want to add or remove. Already can say that it won't happen soon (a). All versions of the modpack will also be available on GitHub from this moment, so you don't have to worry if you weren't able to grab your needed version.
+From now on I will try to make save compatible updates for users, who have been using the previous version of the modpack if there is something worth fixing. Should have thought about that before, sorry. After save compatible update, not save compatible update might be released for new users if there is something, which I want to add or remove. Already can say that it won't happen for now - Kaidan, Serana and pines can wait. All versions of the modpack will also be available on GitHub from this moment, so you don't have to worry if you weren't able to grab your needed version.
 
 This time we are fixing some of the issues, which were reported by users, while also updating some mods and adding more useful information to the WJ instructions and the gameplay guide.
 
@@ -31,9 +31,12 @@ This time we are fixing some of the issues, which were reported by users, while 
 * Unofficial Skyrim Creation Club Content Patches
 * Better Third Person Selection
 * Oxygen Meter 2
+* Serana Dialogue Add-On
 * Beyond Skyrim - Bruma
 * Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map
 * The Wheel of Time
+* Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* High Poly Kaidan - Face and Body
 * Realistic Water Two
 * Feminine Khajiit Textures
 * Pilgrim - A Religion Overhaul
