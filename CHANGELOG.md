@@ -15,6 +15,10 @@ This time we are fixing some of the issues, which were reported by users, while 
 * Elemental Staffs - Mysticism Patch
 * NPCs Wear Amulets of Mara
 
+## Removed Mods
+
+* Realistic Water Two - Darker Gradient Textures
+
 ## Changes
 
 * Fixed the game being stuck when you take any kind of note.
@@ -28,8 +32,10 @@ This time we are fixing some of the issues, which were reported by users, while 
 * Unofficial Skyrim Creation Club Content Patches
 * Better Third Person Selection
 * Oxygen Meter 2
+* Beyond Skyrim - Bruma
 * Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map
 * The Wheel of Time
+* Realistic Water Two
 * Feminine Khajiit Textures
 * Pilgrim - A Religion Overhaul
 * Spiders of Solstheim - ENB Light
