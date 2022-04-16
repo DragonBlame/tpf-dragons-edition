@@ -112,6 +112,15 @@ If you want to downscale your resolution, do the following:
 6. In line 66, remove `#` sign before _Resolution_ parameter and then write down your desired resolution after _=_ sign.
 7. Press on `Save` button.
 
+If you want to change your field of view (FOV), do the following:
+
+1. Press on `TPF DRAGON'S EDITION - FINAL PATCHES` separator.
+2. Double click on `TPF DE - Final Patches` mod.
+3. Choose `INI files` tab.
+4. Press on `SKSE\Plugins\ImprovedCamera.ini`.
+5. From line 174 to 191, change FOV parameters to your desired values.
+6. Press on `Save` button.
+
 <p>
     <img width="25%" src="https://user-images.githubusercontent.com/37147270/153157130-5fa2ffc8-8770-4b9a-8565-a0e564af2542.png" /> 
 </p>
@@ -156,11 +165,12 @@ Don't be scared if you saw parts of your body during the movement (and/or after 
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
+**Improved Camera** - Press your `F` key to toggle between the first and the third person view. If you accidentally used a mouse wheel to try to do that, use the same wheel in the opposite direction to disable the headbobbing feature. 
 * **Look What You See** - Press your `V` key.
 > A headtracking mod. Can be seen in action in the third person view.
 * **Equipment Toggle** - Press `Page Down` button to toggle your heagear's visibility off and on.
 * **Animated Shouts** - Press your `right Alt` key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip about these 3 mods in my gameplay guide for the fork too if you forget about them.
+> You will be able to see this mod in action only after getting your first shout. Have left a tip about these 4 mods in my gameplay guide for the fork too if you forget about them.
 
 Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 
