@@ -19,8 +19,17 @@ This time we are fixing some of the issues, which were reported by users, while 
 
 ## Updated Mods
 
+* Unofficial Skyrim Creation Club Content Patches
 * Better Third Person Selection
+* Oxygen Meter 2
+* Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map
 * The Wheel of Time
+* Feminine Argonian Textures
+* Pilgrim - A Religion Overhaul
+* Spiders of Solstheim - ENB Light
+* Misc Effects - ENB Light
+* Pretty Combat Animations
+* Pretty Combat Animations - Weapon Master
 
 ---
 
