@@ -15,6 +15,7 @@ This time we are fixing some of the issues, which were reported by users, while 
 * Fixed the game being stuck when you take any kind of note.
 * Fixed purplish winds issue.
 * Fixed Bruma's black faces issue.
+* Made the item widget a bit bigger, actually enabled filters to make the widget dissapear for items, which you can steal, if you are not crouched.
 
 ## Updated Mods
 
