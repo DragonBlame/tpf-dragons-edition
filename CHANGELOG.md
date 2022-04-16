@@ -10,12 +10,18 @@ From now on users, who have been using the previous version of the modpack, will
 
 This time we are fixing some of the issues, which were reported by users, while also updating some mods, and adding more useful information to the WJ instructions and the gameplay guide.
 
+## Added Mods
+
+* Elemental Staffs - Mysticism Patch
+* NPCs Wear Amulets of Mara
+
 ## Changes
 
 * Fixed the game being stuck when you take any kind of note.
 * Fixed purplish winds issue.
 * Fixed Bruma's black faces issue.
 * Made the item widget a bit bigger, actually enabled filters to make the widget dissapear for items, which you can steal, if you are not crouched.
+* Made khajiits have a bit more fur on their upper side.
 
 ## Updated Mods
 
@@ -24,10 +30,14 @@ This time we are fixing some of the issues, which were reported by users, while 
 * Oxygen Meter 2
 * Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map
 * The Wheel of Time
-* Feminine Argonian Textures
+* Feminine Khajiit Textures
 * Pilgrim - A Religion Overhaul
 * Spiders of Solstheim - ENB Light
 * Misc Effects - ENB Light
+* Immersive Folded Hands
+* Gesture Animation Remix
+* Conditional Tavern Cheering
+* NPC Animation Remix
 * Pretty Combat Animations
 * Pretty Combat Animations - Weapon Master
 
