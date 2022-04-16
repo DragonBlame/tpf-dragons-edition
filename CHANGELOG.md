@@ -22,9 +22,9 @@ This time we are fixing some of the issues, which were reported by users, while 
 * Fixed Bruma's black faces issue.
 * Made the item widget a bit bigger, actually enabled filters to make the widget dissapear for items, which you can steal, if you are not crouched.
 * Made khajiits have a bit more fur on their upper side.
-* Added information about how to install Anniversary Upgrade.
-* Added information about toggling your camera's view.
-* Added information about how to change FOV.
+* Added information about Anniversary Upgrade.
+* Added information about Improved Camera.
+* Added information about how to change your FOV.
 
 ## Updated Mods
 
