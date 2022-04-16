@@ -122,6 +122,24 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 
 ---
 
+## Anniversary Update
+
+Creation Content available in the modlist:
+* The Forgotten Seasons
+* The Rare Curios
+* Alternative Armors - Iron
+* Alternative Armors - Steel
+* Spell Knight Armor
+* Alternative Armors - Silver
+* Alternative Armors - Stalhrim
+* The Cause
+
+I feel that I included some of the best creations available, which blend in well with the content we get from other mods. Unfortunately, there are also ones, which conflict with the already existing content (like Divine Crusader with Tate Taylor's Knight of the North and Interesting NPCs), and can't be added, but if you believe that there are another hidden gems behind the remaining CC content, feel free to share in the corresponding channels of feedback.
+
+You will be able to find the information about how to start the Creation Content's quests later in the guide, while other parts of it will become available to you during your walkthrough. 
+
+---
+
 ## Beginner Tips
 
 Now some juicy tips for peeps, who are still here after mingling with the fork:
@@ -203,6 +221,8 @@ the southernmost point of County Bruma.
 Knife Hideout.
 * **Project AHO** - After reaching level 15, head to Braidwood Inn (located at Kynesgrove) and talk to the innkeeper. Without a follower.
 * **Midwood Isle** - Automatically after finishing the main quest *The Way of the Voice.* Recommend to start it at level 15-20.
+* **Wyrmstooth** - automatically after Level 10 and after finishing the main
+quest *A Blade in the Dark*. 
 * **The Forgotten Seasons** - Find and enter into Runoff Caverns, which are very close to Lost Valley Redoubt (and/or read a note in one of the mercenaries' tents that serves as an alternate way to begin the quest). I recommend to be close to level 20.
 * **The Wheels of Lull** - Automatically after reaching level 20, can be finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound* to make sure that Helgen has bandits inside it. 
@@ -240,11 +260,6 @@ Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
 Story of Lyrisius* in the Arcanaeum, hard mod.
 * **The Breton Paladin** - Can be started any time by praying, hard mod after the first part of the quest.
-* **Wyrmstooth** - automatically after Level 10 and after finishing the main
-quest *A Blade in the Dark*. According to the official guide book, it
-can be challenging even for level 70 characters. It is also recommended
-to be prepared before venturing into the quest with some potions and
-arrows if you are an archer.
 * **The Grand Paladin** - After reading a book *The Grand Paladin* in Bards
 College or Skaal's Village Great Hall and after
 finishing the main quest *Dragon Rising*. Having more than 300 health is
