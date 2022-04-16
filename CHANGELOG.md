@@ -6,9 +6,9 @@
 
 **Is save compatible.**
 
-From now on users, who have been using the previous version of the modpack, will get a save safe update if there were any important updates and issues to fix. After the save compatible update, not save compatible update might be released for new users if there is something, which I want to add or remove. All versions of the modpack will also be available on GitHub from this moment, so you don't have to worry if you weren't able to grab your needed version.
+From now on users, who have been using the previous version of the modpack, will get a save safe update if there were any important updates and issues to fix. After the save compatible update, not save compatible update might be released for new users if there is something, which I want to add or remove. Already can say that it won't happen soon (a). All versions of the modpack will also be available on GitHub from this moment, so you don't have to worry if you weren't able to grab your needed version.
 
-This time we are fixing some of the issues, which were reported by users, while also updating some mods, and adding more useful information to the WJ instructions and the gameplay guide.
+This time we are fixing some of the issues, which were reported by users, while also updating some mods and adding more useful information to the WJ instructions and the gameplay guide.
 
 ## Added Mods
 
@@ -39,10 +39,10 @@ This time we are fixing some of the issues, which were reported by users, while 
 * Pilgrim - A Religion Overhaul
 * Spiders of Solstheim - ENB Light
 * Misc Effects - ENB Light
-* Immersive Folded Hands
 * Gesture Animation Remix
-* Conditional Tavern Cheering
 * NPC Animation Remix
+* Immersive Folded Hands
+* Conditional Tavern Cheering
 * Pretty Combat Animations
 * Pretty Combat Animations - Weapon Master
 
