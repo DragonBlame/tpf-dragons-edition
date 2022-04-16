@@ -2,6 +2,25 @@
 
 # Changelog
 
+## Version 2.4.2.
+
+**Is save compatible.**
+
+From now on users, who have been using the previous version of the modpack, will get a save safe update if there were any important updates and issues to fix. After the save compatible update, not save compatible update might be released for new users if there is something, which I want to add or remove. All versions of the modpack will also be available on GitHub from this moment, so you don't have to worry if you weren't able to grab your needed version.
+
+## Changes
+
+* Fixed the game being stuck when you take any kind of note.
+* Fixed purplish winds issue.
+* Fixed Bruma's black faces issue.
+
+## Updated Mods
+
+* Better Third Person Selection
+* The Wheel of Time
+
+---
+
 ## Version 2.4.1.
 
 Just a little hotfix for Dynamic Weather and Time Based Detection to work properly.
