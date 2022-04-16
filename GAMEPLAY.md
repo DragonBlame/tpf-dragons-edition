@@ -18,9 +18,9 @@ In some way it isn't an alternative start, but at the same time it is. What matt
 ## Gameplay Overhauls
 
 Overall:
-  - Like in vanilla, you are limited to one follower at a time (if we don't count followers with their own unique AI like Inigo and Lucien).
   - Leveling is slower than in vanilla, but you receive more perk points as you level up.
   - Combat is more difficult than in vanilla, but feels more fair.
+  - Like in vanilla, you are limited to one follower at a time (if we don't count followers with their own unique AI like Inigo and Lucien).
 
 If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus' overhauls to core gameplay system, which greatly improve the experience, but at the same time stay as close to their origins as possible:
 
