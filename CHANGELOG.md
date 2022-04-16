@@ -8,6 +8,8 @@
 
 From now on users, who have been using the previous version of the modpack, will get a save safe update if there were any important updates and issues to fix. After the save compatible update, not save compatible update might be released for new users if there is something, which I want to add or remove. All versions of the modpack will also be available on GitHub from this moment, so you don't have to worry if you weren't able to grab your needed version.
 
+This time we are fixing some of the issues, which were reported by users, while also updating some mods, and adding more useful information to the WJ instructions and the gameplay guide.
+
 ## Changes
 
 * Fixed the game being stuck when you take any kind of note.
