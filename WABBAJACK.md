@@ -73,7 +73,7 @@ If you have successfully used any other official Wabbajack modlist for Skyrim Sp
 3. Launch Skyrim through Steam.
 4. Click the `Play` button.
 5. Choose `Creation Club` option.
-6. Login with your Bethesda.net login.
+6. Login with your Bethesda.net credentials.
 7. Click the `Download All` button.
 8. Wait for Skyrim to finish.
 
