@@ -18,9 +18,9 @@ In some way it isn't an alternative start, but at the same time it is. What matt
 ## Gameplay Overhauls
 
 Overall:
-  - Like in vanilla, you are limited to one follower at a time (if we don't count followers with their own unique AI like Inigo and Lucien).
   - Leveling is slower than in vanilla, but you receive more perk points as you level up.
   - Combat is more difficult than in vanilla, but feels more fair.
+  - Like in vanilla, you are limited to one follower at a time (if we don't count followers with their own unique AI like Inigo and Lucien).
 
 If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus' overhauls to core gameplay system, which greatly improve the experience, but at the same time stay as close to their origins as possible:
 
@@ -91,6 +91,7 @@ If you want to change the button for dodging, do the following:
 
 ## Utility Tools and Quality of Life Additions
 
+* [Toggable camera](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) - Press `F` key to toggle between the first and the third person view.  If you accidentally used a mouse wheel to try to do that, use the same wheel in the opposite direction to disable the headbobbing feature.
 * [Toggable compass](https://www.nexusmods.com/skyrimspecialedition/mods/63247) - Press `X` key to turn it on and off when you need that.
 * [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't have a mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
 * [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
@@ -118,6 +119,24 @@ using MCM.
 you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
 * [Revert back to your human form after feasting as werewolf](https://www.nexusmods.com/skyrimspecialedition/mods/35736) - Just press `Q` button.
 * [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
+
+---
+
+## Anniversary Update
+
+Creation Content available in the modlist:
+* The Forgotten Seasons
+* The Rare Curios
+* Alternative Armors - Iron
+* Alternative Armors - Steel
+* Spell Knight Armor
+* Alternative Armors - Silver
+* Alternative Armors - Stalhrim
+* The Cause
+
+I feel that I included some of the best creations available, which blend in well with the content we get from other mods. Unfortunately, there are also ones, which conflict with the already existing content (like Divine Crusader with Tate Taylor's Knight of the North and Interesting NPCs), and can't be added, but if you believe that there are another hidden gems behind the remaining CC content, feel free to share in the corresponding channels of feedback.
+
+You will be able to find the information about how to start the Creation Content's quests later in the guide, while other parts of it will become available to you during your walkthrough. 
 
 ---
 
@@ -202,6 +221,8 @@ the southernmost point of County Bruma.
 Knife Hideout.
 * **Project AHO** - After reaching level 15, head to Braidwood Inn (located at Kynesgrove) and talk to the innkeeper. Without a follower.
 * **Midwood Isle** - Automatically after finishing the main quest *The Way of the Voice.* Recommend to start it at level 15-20.
+* **Wyrmstooth** - automatically after Level 10 and after finishing the main
+quest *A Blade in the Dark*. 
 * **The Forgotten Seasons** - Find and enter into Runoff Caverns, which are very close to Lost Valley Redoubt (and/or read a note in one of the mercenaries' tents that serves as an alternate way to begin the quest). I recommend to be close to level 20.
 * **The Wheels of Lull** - Automatically after reaching level 20, can be finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound* to make sure that Helgen has bandits inside it. 
@@ -239,11 +260,6 @@ Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
 Story of Lyrisius* in the Arcanaeum, hard mod.
 * **The Breton Paladin** - Can be started any time by praying, hard mod after the first part of the quest.
-* **Wyrmstooth** - automatically after Level 10 and after finishing the main
-quest *A Blade in the Dark*. According to the official guide book, it
-can be challenging even for level 70 characters. It is also recommended
-to be prepared before venturing into the quest with some potions and
-arrows if you are an archer.
 * **The Grand Paladin** - After reading a book *The Grand Paladin* in Bards
 College or Skaal's Village Great Hall and after
 finishing the main quest *Dragon Rising*. Having more than 300 health is
