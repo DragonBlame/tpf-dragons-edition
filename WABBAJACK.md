@@ -66,7 +66,7 @@ Start the game from Steam and and let it do the initial graphics check. Do not w
 
 ## Anniversary Upgrade
 
-If you have successfully used any other official Wabbajack modlist for Skyrim Special Edition recently and if it uses Skyrim's latest paid Anniversary Upgrade, which allows us to use all of Creation Content (CC), then you don't need to follow the next steps in this section.
+If you have successfully used Anniversary Update's Creation Club's (CC) mods for Skyrim Special Edition recently by yourself or by using any other official Wabbajack modlist, then you don't need to follow the next steps in this section.
 
 1. If you haven't done that already, buy Anniversary Upgrade and make sure that Steam installed it.
 2. If you don't have a Bethesda account, make it at [Bethesda.net](https://bethesda.net/en/dashboard).
