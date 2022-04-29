@@ -23,7 +23,7 @@ It is another time to for some quality of life fixes and changes. Version 2.5. c
 * Added more information about technical requirements of the list.
 * Fixed elves T-posing in Kaidan's camp.
 * Removed tween menu from widescreen fixes for SkyUI to make custom skills option appear for widescreen users.
-> No idea how tween menu looks thou.
+> No idea how tween menu for widescreen users looks thou now.
 * Added and corrected information in the gameplay guide.
 
 ## Updated Mods
