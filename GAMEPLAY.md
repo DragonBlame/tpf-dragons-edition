@@ -74,7 +74,7 @@ If you want to change the button for dodging, do the following:
 3. Choose `INI files` tab.
 4. Press on `SKSE\Plugins\TK Dodge RE.ini`.
 5. In line 5, change _DodgeHotkey_ parameter according to instructions found [here](https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes) after _=_ sign.
-> Because of some kind of Skyrim's oddities, each button there is actually one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
+> Because of some kind of Skyrim's oddities, for mouse buttons each of them there is actually for one unit smaller than in any other game or program. For example, _Mouse 4_ button is actually _Mouse 3_ button according to the Creation Kit's documentation. Take that into consideration.
 6. Press on `Save` button.
 
 * [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Left Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
@@ -82,6 +82,7 @@ If you want to change the button for dodging, do the following:
 * [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.
 * [Call your horse by whistling](https://www.nexusmods.com/skyrim/mods/91395) - Right from the beginning of the game gives you power to call your horse after fights. 
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
+* [Loot while riding on horse](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) - Loot as always by pressing `E` button. Hold `E` button to dismount. 
 * [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
 (`E` by default), while in the air. After fiding and learning neat spell around the platform, use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
 * [New powers for Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950) - After finishing _The Way of the Voice_, you will unlock an interesting power, which gives you access to a completely new custom perk tree. You will be able to upgrade this power by shouting and killing dragons. Accessible by pressing `Tab` button.
