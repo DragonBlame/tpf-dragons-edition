@@ -10,10 +10,13 @@ It is another time to for some quality of life fixes and changes. Version 2.5. c
 
 ## Added Mods
 
+* Chapter II - Jeremy Soule Inspired Music
 * Pristine Vanilla Movement
 
 ## Removed Mods
 
+* Musical Lore
+> Because I (and maybe some other people) want to sometimes stream my modlist peacefully and because Nir Shor doesn't reply to my message about permissions. 
 * Jog, Sprint and Jump
 
 ## Changes
