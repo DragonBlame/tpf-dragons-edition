@@ -2,6 +2,43 @@
 
 # Changelog
 
+## Version 2.4.3.
+
+**Is save compatible.**
+
+It is another time to for some quality of life fixes and changes. Version 2.5. coming next week (maybe?).
+
+## Added Mods
+
+* Pristine Vanilla Movement
+
+## Removed Mods
+
+* Jog, Sprint and Jump
+
+## Changes
+
+* Removed headbobbing feature from activation through mouse wheel.
+* Added Technical Requirements section to the WJ guide.
+* Fixed elves T-posing in Kaidan's camp.
+* Removed tween menu from widescreen fixes for SkyUI to make custom skills option appear for widescreen users.
+> No idea how that looks now thou.
+* Added and corrected information in the gameplay guide.
+
+## Updated Mods
+
+* Better Third Person Selection
+* Oxygen Meter 2
+* The Wheels of Lull
+* Immersive Kaidan Start
+* Pilgrim - A Religion Overhaul
+* Conditional Tavern Cheering
+* Pretty Combat Animations
+* Pretty Combat Animations - Weapon Master
+* Dragon Priest Fix - Behaviour Overhaul
+
+---
+
 ## Version 2.4.2.
 
 **Is save compatible.**
