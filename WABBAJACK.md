@@ -189,7 +189,7 @@ To toggle between the first and the third person view, use `F` key. If you accid
 
 Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 
-* **Equipment Toggle** - Press `Page Down` button to toggle your heagear's visibility off and on.
+* **Equipment Toggle** - Press `Arrow Down` button to toggle your heagear's visibility off and on.
 * **Animated Shouts** - Press your `right Alt` key.
 > You will be able to see this mod in action only after getting your first shout. Have left a tip about all these mods and options in my gameplay guide for the fork too if you forget about them.
 
