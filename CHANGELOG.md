@@ -20,7 +20,7 @@ It is another time to for some quality of life fixes and changes. Version 2.5. c
 ## Changes
 
 * Removed headbobbing feature from activation through mouse wheel.
-* Added Technical Requirements section to the WJ guide.
+* Added more information about technical requirements of the list.
 * Fixed elves T-posing in Kaidan's camp.
 * Removed tween menu from widescreen fixes for SkyUI to make custom skills option appear for widescreen users.
 > No idea how tween menu looks thou.
