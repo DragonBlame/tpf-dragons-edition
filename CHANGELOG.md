@@ -6,20 +6,19 @@
 
 **Is save compatible.**
 
-It is another time to for some quality of life fixes and changes. Version 2.5. coming next week (maybe?).
+It is another time to for some quality of life fixes and changes. Version 2.5. will come too (not sure when thou).
 
 ## Added Mods
 
 * Chapter II - Jeremy Soule Inspired Music
 * Vanargand Animations - Crossbows
->
 * Pristine Vanilla Movement
 
 ## Removed Mods
 
 * Leviathan Animations - Two-Handed High Stance
 * Leviathan Animations - Two-Handed Power Attacks
-> Many of Verolevi's animations have one very big issue - they always have problems with other animations, which they don't even touch, even vanilla ones. For example, blocking and block bashing with two-handed weapon looks just awkward, meanwhile power attacks assume we are using the two-handed high stance mod, but if we don't, then weapons' behaviour is very odd during finishing animations. Not sure what is the point of making separate pages for them then if they are meant to be used together. Sneaking animation for crossbows, which weren't added to the list, makes you stuck in crossbow holding animation even if you have nothing inside your hands. At least regular crossbow animations look fine. 
+> Many of Verolevi's animations have one very big issue - they always have problems with other animations, which they don't even touch, even vanilla ones. For example, blocking and block bashing with two-handed weapon looks just awkward, meanwhile power attacks assume we are using the two-handed high stance mod from Verelovevi, but if we don't, then weapons' behaviour is very odd during finishing animations. Not sure what is the point of making separate pages for them then if they are meant to be used together. Sneaking animation for crossbows, which weren't added to the list, makes you stuck in crossbow holding animation even if you have nothing inside your hands. At least regular crossbow animations look fine. 
 * Jog, Sprint and Jump
 
 ## Changes
@@ -27,7 +26,7 @@ It is another time to for some quality of life fixes and changes. Version 2.5. c
 * Removed headbobbing feature from activation through mouse wheel.
 * Fixed elves T-posing in Kaidan's camp.
 * Removed tween menu from widescreen fixes for SkyUI to make custom skills option appear for widescreen users.
-> No idea how tween menu for widescreen users looks thou now.
+> No idea how tween menu for widescreen users looks now thou.
 * Added more information about technical requirements in the WJ guide.
 * Added and corrected information in the gameplay guide.
 
