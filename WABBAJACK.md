@@ -21,9 +21,11 @@ I would very strongly recommend to check _Questions & Answers_ section for the m
 
 ## Requirements
 
+In terms of performance, Dragon's Edition needs a bit more resources than its parent, but at the same time not as much as the most popular modlists for high-end PCs' users. Everything from good mid-end PC to high-end PC should run the modlist without any problems, so for GPU it will be a decent card with at least 6 GB VRAM (for example, according to one of the users, with Nvidia RTX 2060 they were able to get 57-60 stable FPS in Riverwood).
+
   - Fork's installation size - ~ 177 GB.
     - ~ 13 GB (not including CC content) is copied from your Skyrim's installation.
-    - Should be put inside SSD.
+    - Should be put inside SSD to improve load times and prevent stutter.
   - Fork mods' size - ~ 119 GB.
     - Your downloads folder should be the same for all modlists to make the installation process faster and not to make you download the mods once again 
 if you have them already.
@@ -185,7 +187,7 @@ If you aren't a fan, just press the same button once again to turn them off.
 * **Look What You See** - Press your `V` key.
 > A headtracking mod. Can be seen in action in the third person view.
 
-To toggle between the first and the third person view, use `F` key. If you accidentally used a mouse wheel to try to do that, use the same wheel in the opposite direction to disable the headbobbing feature.
+To toggle between the first and the third person view, use `F` key.
 
 Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 

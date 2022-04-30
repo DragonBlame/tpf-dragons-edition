@@ -2,6 +2,54 @@
 
 # Changelog
 
+## Version 2.4.3.
+
+**Is save compatible.**
+
+It is another time to for some quality of life fixes and changes. 
+
+Version 2.5. will come too (not sure when thou). I am thinking about making our seasonal exteriors even greater and also integrating crossbows from CC. At first, I wasn't the fan of the idea, but I have changed my mind. Also be ready to see more argonians around.
+
+## Added Mods
+
+* Chapter II - Jeremy Soule Inspired Music
+* Majestic Mountains and The Cause Landscape Fix
+* Moonpath To Elsweyr Retexture
+* Skyrim Snow Dogs
+* Vanargand Animations - Crossbows
+* Pristine Vanilla Movement
+
+## Removed Mods
+
+* Leviathan Animations - Two-Handed High Stance
+* Leviathan Animations - Two-Handed Power Attacks
+> Many of Verolevi's animations have one very big issue - they always have problems with other animations, which they don't even touch, even vanilla ones. For example, blocking and block bashing with two-handed weapon looks just awkward, meanwhile power attacks assume we are using the two-handed high stance mod from Verelovevi, but if we don't, then weapons' behaviour is very odd during finishing animations. Not sure what is the point of making separate pages for them then if they are meant to be used together. Sneaking animation for crossbows, which weren't added to the list, makes you stuck in crossbow holding animation even if you have nothing inside your hands. At least regular crossbow animations look fine. 
+* Jog, Sprint and Jump
+
+## Changes
+
+* Removed headbobbing feature from activation through mouse wheel.
+* Fixed elves T-posing in Kaidan's camp.
+* Removed tween menu from widescreen fixes for SkyUI to make custom skills option appear for widescreen users.
+> No idea how tween menu for widescreen users looks now thou.
+* Added more information about technical requirements in the WJ guide.
+* Added and corrected information in the gameplay guide.
+
+## Updated Mods
+
+* Better Third Person Selection
+* Oxygen Meter 2
+* The Wheels of Lull
+* More to do in Hammerfell - The Gray Cowl of Nocturnal
+* Immersive Kaidan Start
+* Pilgrim - A Religion Overhaul
+* Conditional Tavern Cheering
+* Pretty Combat Animations
+* Pretty Combat Animations - Weapon Master
+* Dragon Priest Fix - Behaviour Overhaul
+
+---
+
 ## Version 2.4.2.
 
 **Is save compatible.**
