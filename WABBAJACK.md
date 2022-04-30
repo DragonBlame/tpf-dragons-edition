@@ -187,7 +187,7 @@ If you aren't a fan, just press the same button once again to turn them off.
 * **Look What You See** - Press your `V` key.
 > A headtracking mod. Can be seen in action in the third person view.
 
-To toggle between the first and the third person view, use `F` key. If you accidentally used a mouse wheel to try to do that, use the same wheel in the opposite direction to disable the headbobbing feature.
+To toggle between the first and the third person view, use `F` key.
 
 Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 
