@@ -6,11 +6,16 @@
 
 **Is save compatible.**
 
-It is another time to for some quality of life fixes and changes. Version 2.5. will come too (not sure when thou).
+It is another time to for some quality of life fixes and changes. 
+
+Version 2.5. will come too (not sure when thou). I am thinking about making our seasonal exteriors even greater and also integrating crossbows from CC. At first, I wasn't the fan of the idea, but I have changed my mind. Also be ready to see more Argonians around.
 
 ## Added Mods
 
 * Chapter II - Jeremy Soule Inspired Music
+* Majestic Mountains and The Cause Landscape Fix
+* Moonpath To Elsweyr Retexture
+* Skyrim Snow Dogs
 * Vanargand Animations - Crossbows
 * Pristine Vanilla Movement
 
