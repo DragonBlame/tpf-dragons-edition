@@ -18,7 +18,7 @@ It is another time to for some quality of life fixes and changes. Version 2.5. c
 
 * Leviathan Animations - Two-Handed High Stance
 * Leviathan Animations - Two-Handed Power Attacks
-> Verolevi's animations have one very big issue - they always have some kind of problems with other animations which they don't even touch, even vanilla ones. For example, blocking and block bashing with two-handed sword looks just awkward, meanwhile power attacks assume we are using the two-handed high stance mod (even thou it isn't even the recommended mod on the mod's page), but if we don't, then weapons' behaviour is very odd during finishing animations.
+> Verolevi's animations have one very big issue - they always have some kind of problems with other animations which they don't even touch, even vanilla ones. For example, blocking and block bashing with two-handed weapon looks just awkward, meanwhile power attacks assume we are using the two-handed high stance mod (even thou it isn't even the recommended mod on the mod's page), but if we don't, then weapons' behaviour is very odd during finishing animations.
 * Jog, Sprint and Jump
 
 ## Changes
