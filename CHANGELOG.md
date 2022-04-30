@@ -8,7 +8,7 @@
 
 It is another time to for some quality of life fixes and changes. 
 
-Version 2.5. will come too (not sure when thou). I am thinking about making our seasonal exteriors even greater and also integrating crossbows from CC. At first, I wasn't the fan of the idea, but I have changed my mind. Also be ready to see more Argonians around.
+Version 2.5. will come too (not sure when thou). I am thinking about making our seasonal exteriors even greater and also integrating crossbows from CC. At first, I wasn't the fan of the idea, but I have changed my mind. Also be ready to see more argonians around.
 
 ## Added Mods
 
