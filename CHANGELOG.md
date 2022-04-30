@@ -35,6 +35,7 @@ It is another time to for some quality of life fixes and changes. Version 2.5. w
 * Better Third Person Selection
 * Oxygen Meter 2
 * The Wheels of Lull
+* More to do in Hammerfell - The Gray Cowl of Nocturnal
 * Immersive Kaidan Start
 * Pilgrim - A Religion Overhaul
 * Conditional Tavern Cheering
