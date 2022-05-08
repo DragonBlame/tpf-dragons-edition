@@ -15,6 +15,7 @@ I have tried my best to replace it with and I hope you will like the result.
 
 * Elegant Candlelight
 * Markarth HD Retexture
+> Mainly assets for ruins are being used from this mod. 
 * Ancient Dwemer Metal
 * Dwemer Pipework Reworked
 * ENB Particle Lights - Dwemer Lanterns
