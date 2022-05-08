@@ -34,7 +34,7 @@ LODs aren't changed anyhow for now, but will definitely be redone for the big up
 * Fixed Candlelight spell behaving oddly.
 > By getting rid of Player Spell Lightning mod for now as it is not compatible with the latest version of Mysticism. Thou the spell can still behave oddly if you switch from the first to the third person view and viceversa, when Candlelight is being used. It is ENB Light limitation, which I can't change anyhow.
 * Fixed forsworn skinchangers looking odd after transformation.
-> And that's why we need to say goodbye to Expressive Werebeasts Redux.
+> And that's why we need to say goodbye to Expressive Werebeasts Redux. Would be too hard for me to patch at the moment and I am not sure it is worth it.
 * Patched animations to look much more better, when you try to cast spells, when you are looking very high or down.
 * Made Lydia essential.
 > Considering that she is also unique follower like plenty of others like Serana within our list, I believe she deserves that, so you can experience all of the content related to her.
