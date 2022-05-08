@@ -2,6 +2,34 @@
 
 # Changelog
 
+## Version 2.4.4.
+
+**Is save compatible.**
+
+Probably the last save compatible update before the big one.
+
+## Added Mods
+
+* THe Elegant Candlelight
+
+## Removed Mods
+
+* Player Spell Lightning
+* The Dwemer
+
+## Changes
+
+* Fixed Candlelight spell behaving oddly.
+> By getting rid of Player Spell Lightning mod for now. Thou the spell can still behave oddly if you switch from the first to the third person view and viceversa, when Candlelight is being used. It is ENB Light limitation, which I can't change anyhow.
+* Removed Strange Runes from NPCs.
+> This change will work only on new saves. You can 
+
+## Updated Mods
+
+* xxx
+
+---
+
 ## Version 2.4.3.
 
 **Is save compatible.**
