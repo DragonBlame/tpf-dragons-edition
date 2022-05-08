@@ -33,8 +33,9 @@ LODs aren't changed anyhow for now, but will definitely be redone for the big up
 > In some very rare scenarios some of NPCs using them can make the game crash. While it isn't anything out of this world, I am fine with the runes being unique to the player and overall we can appreiate them fully only while casting spells ourselves. This change will work only on new saves. You can do it by yourself too if you wish - just disable _Allow NPC Casting_ option in Strange Runes MCM's _Runes_ section.
 * Fixed Candlelight spell behaving oddly.
 > By getting rid of Player Spell Lightning mod for now as it is not compatible with the latest version of Mysticism. Thou the spell can still behave oddly if you switch from the first to the third person view and viceversa, when Candlelight is being used. It is ENB Light limitation, which I can't change anyhow.
-* Fixed forsworn skinchangers looking odd after transformation.
-> And that's why we need to say goodbye to Expressive Werebeasts Redux. Would be too hard for me to patch at the moment and I am not sure it is worth it.
+* Fixed forsworn skinchangers looking odd after transformation. 
+> And that's why we need to say goodbye to Expressive Werebeasts Redux. Would be too hard for me to patch at the moment and I am not sure it is worth it. 
+Sadly they also look the same as the player's werewolf form, but maybe a patch for Diverse Werewolf Collection will be made, we will see.
 * Patched animations to look much more better, when you try to cast spells, when you are looking very high or down.
 * Made Lydia essential.
 > Considering that she is also unique follower like plenty of others like Serana within our list, I believe she deserves that, so you can experience all of the content related to her.
