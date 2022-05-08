@@ -34,6 +34,7 @@ LODs aren't changed anyhow for now, but will definitely be redone for the big up
 * Removed Strange Runes from NPCs.
 > In some very rare scenarios some of NPCs using them can make the game crash. While it isn't anything out of this world, I am fine with the runes being unique to the player and overall we can appreiate them fully only while casting spells ourselves. This change will work only on new saves. You can do it by yourself too if you wish - just disable _Allow NPC Casting_ option in Strange Runes MCM's _Runes_ section.
 * Patched animations to look much more better, when you try to cast spells, when you are looking very high or down.
+* Made Lydia essential.
 
 ## Updated Mods
 
