@@ -8,9 +8,8 @@
 
 Probably the last save compatible update before the big one.
 
-Unfortunately, one of the mods, which overhauled dwemer related meshes and textures was completely removed from Nexus, so I had to think about how to deal with that.
-I have tried my best to replace it with and I hope you will like the result.
-
+Unfortunately, one of the mods, which overhauled dwemer related meshes and textures was completely removed from Nexus, so I had to think about how to deal with that to 
+make the list downloable. I have tried my best to replace it with and I hope you will like the result. 
 LODs aren't changed anyhow for now, but will definitely be redone for the big update.
 
 ## Added Mods
