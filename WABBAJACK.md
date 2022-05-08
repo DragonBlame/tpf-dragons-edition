@@ -23,10 +23,10 @@ I would very strongly recommend to check _Questions & Answers_ section for the m
 
 In terms of performance, Dragon's Edition needs a bit more resources than its parent, but at the same time not as much as the most popular modlists for high-end PCs' users. Everything from good mid-end PC to high-end PC should run the modlist without any problems, so for GPU it will be a decent card with at least 6 GB VRAM (for example, according to one of the users, with Nvidia RTX 2060 they were able to get 57-60 stable FPS in Riverwood).
 
-  - Fork's installation size - ~ 177 GB.
+  - Fork's installation size - ~ 178 GB.
     - ~ 13 GB (not including CC content) is copied from your Skyrim's installation.
     - Should be put inside SSD to improve load times and prevent stutter.
-  - Fork mods' size - ~ 119 GB.
+  - Fork mods' size - ~ 120 GB.
     - Your downloads folder should be the same for all modlists to make the installation process faster and not to make you download the mods once again 
 if you have them already.
     - Should be put inside HDD.
