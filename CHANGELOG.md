@@ -10,23 +10,24 @@ Probably the last save compatible update before the big one.
 
 ## Added Mods
 
-* THe Elegant Candlelight
+* Elegant Candlelight
 
 ## Removed Mods
 
 * Player Spell Lightning
 * The Dwemer
+> As it was completely removed from Nexus.
 
 ## Changes
 
 * Fixed Candlelight spell behaving oddly.
-> By getting rid of Player Spell Lightning mod for now. Thou the spell can still behave oddly if you switch from the first to the third person view and viceversa, when Candlelight is being used. It is ENB Light limitation, which I can't change anyhow.
+> By getting rid of Player Spell Lightning mod for now as it is not compatible with the latest version of Mysticism. Thou the spell can still behave oddly if you switch from the first to the third person view and viceversa, when Candlelight is being used. It is ENB Light limitation, which I can't change anyhow.
 * Removed Strange Runes from NPCs.
-> This change will work only on new saves. You can 
+> In some very rare scenarios some of NPCs using them can make the game crash. I am fine with the runes being unique to the player and overall we can appreiate them fully only while casting spells ourselves. This change will work only on new saves. You can do it by yourself too if you wish - just disable _Allow NPC Casting_ option in Strange Runes MCM's _Runes_ section.
 
 ## Updated Mods
 
-* xxx
+* Misc Effects - ENB Light
 
 ---
 
