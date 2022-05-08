@@ -11,6 +11,9 @@ Probably the last save compatible update before the big one.
 ## Added Mods
 
 * Elegant Candlelight
+* Ancient Dwemer Metal
+* Dwemer Pipework Reworked
+* ENB Particle Lights - Dwemer Lanterns
 
 ## Removed Mods
 
