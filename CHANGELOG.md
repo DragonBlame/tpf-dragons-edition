@@ -8,9 +8,13 @@
 
 Probably the last save compatible update before the big one.
 
+Unfortunately, one of the mods, which overhauled dwemer related meshes and textures was completely removed from Nexus, so I had to think about how to deal with that.
+I have tried my best to replace it with and I hope you will like the result.
+
 ## Added Mods
 
 * Elegant Candlelight
+* Markarth HD Retexture
 * Ancient Dwemer Metal
 * Dwemer Pipework Reworked
 * ENB Particle Lights - Dwemer Lanterns
@@ -19,14 +23,13 @@ Probably the last save compatible update before the big one.
 
 * Player Spell Lightning
 * The Dwemer
-> As it was completely removed from Nexus.
 
 ## Changes
 
 * Fixed Candlelight spell behaving oddly.
 > By getting rid of Player Spell Lightning mod for now as it is not compatible with the latest version of Mysticism. Thou the spell can still behave oddly if you switch from the first to the third person view and viceversa, when Candlelight is being used. It is ENB Light limitation, which I can't change anyhow.
 * Removed Strange Runes from NPCs.
-> In some very rare scenarios some of NPCs using them can make the game crash. I am fine with the runes being unique to the player and overall we can appreiate them fully only while casting spells ourselves. This change will work only on new saves. You can do it by yourself too if you wish - just disable _Allow NPC Casting_ option in Strange Runes MCM's _Runes_ section.
+> In some very rare scenarios some of NPCs using them can make the game crash. While it isn't anything out of this world, I am fine with the runes being unique to the player and overall we can appreiate them fully only while casting spells ourselves. This change will work only on new saves. You can do it by yourself too if you wish - just disable _Allow NPC Casting_ option in Strange Runes MCM's _Runes_ section.
 
 ## Updated Mods
 
