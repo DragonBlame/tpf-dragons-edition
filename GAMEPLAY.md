@@ -256,7 +256,7 @@ will be pretty tough, but not as tough as within other late game quests.
 That’s and also the immersiveness is the reason for setting this quest
 requirements as high, because by default it starts at level 5. Without a
 follower.
-* **The Cause** - Automatically after reaching level 46.
+* **The Cause** - With the reduced cut version of The Cause, you can explore the Cause's content anytime now by stumling on its' locations, where it makes sense, thou enemies are still going to be hard (before the quest of The Cause started automatically after reaching level 46).
 * **The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
 Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
