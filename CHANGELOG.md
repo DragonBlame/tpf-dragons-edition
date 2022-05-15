@@ -90,6 +90,7 @@ And another reminder about the lists' preset competition, which is still happeni
 * Runic Dawnguard - Separated Lost Relic Questline
 * Gray Cowl of Nocturnal Alikr Flora Overhaul
 * Morskom Estate
+* Tragedian's Interesting NPCs
 * High Poly Kaidan - Face and Body
 * Bent Pines II
 * Turn of the Seasons
