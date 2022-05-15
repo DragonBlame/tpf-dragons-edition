@@ -77,6 +77,7 @@ Also your daily reminder about the preset competition, which is still happening 
 ## Changes
 
 * Added back magicka and stamina meters for enemies from MoreHUD.
+* Nerfed experience gain from casting Candlelight.
 * Changed Kyoe's Bang'n Brows version to the standalone one.
 * Added more information to the gameplay guide about The Cause - Reduced Cut and Simply Order Summon with Simply Order Squad.
 
