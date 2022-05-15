@@ -44,7 +44,7 @@ Then there are some additional overhauls, which compliment these changes:
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
 - [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) - Modifies radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
 - [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484) - Adds some of the perks from our perk overhaul to a little amount of NPCs to make them stronger. No more unique strength from perks just for our player character. There is only 15% change of perks being added to NPC, so it shoudn't be too hard for anyone.
-- [Crossbow Integration](https://www.nexusmods.com/skyrimspecialedition/mods/28766) - Now you will be able to see NPCs around Skyrim and Solstheim use different kinds of crossbows too, while being able to use and craft them by yourself. Enhanced Crossbows were renamed to _Marksman's Crossbows_, they do 4 points of damage less than their standard crossbow equivalent, but ignore 50% of armour and do critical damage equal to their damage. Dwarven crossbows and all explosive bolts can only be crafted once the relevant Ancient Technology quests for the Dawnguard are completed or the reward for the quest _Unfathomable Depths_ quest has been acquired. Dawnguard crossbow also deals bonus damage to vampires now like other Dawnguard's weapons.
+- [Crossbow Integration](https://www.nexusmods.com/skyrimspecialedition/mods/28766) - You will be able to see NPCs around Skyrim and Solstheim using different kinds of crossbows, while being able to use and craft them by yourself too. Enhanced Crossbows were renamed to _Marksman's Crossbows_, they do 4 points of damage less than their standard crossbow equivalent, but ignore 50% of armour and do critical damage equal to their damage. Dwarven crossbows and all explosive bolts can only be crafted once the relevant Ancient Technology quests for the Dawnguard are completed or the reward for the quest _Unfathomable Depths_ quest has been acquired. Dawnguard crossbows also deal bonus damage to vampires now like other Dawnguard's weapons.
 - [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) - Finally bandits, mages and assassins will also have an option to have
 and use some potions. And not just healing potions, which they already use in vanilla to, to make our lives a little bit harder.
 - [No Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/32218) - The end of the annoying lockpicking game. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful. Locks will break according to your skill too. For example, if you are a novice at lockpicking and you try to pick a novice lock, 
@@ -129,6 +129,7 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 
 Creation Content available in the modlist:
 * The Forgotten Seasons
+* Elite Crossbows
 * The Rare Curios
 * Alternative Armors - Iron
 * Alternative Armors - Steel
@@ -136,6 +137,7 @@ Creation Content available in the modlist:
 * Alternative Armors - Silver
 * Alternative Armors - Stalhrim
 * The Cause
+* Expanded Crossbow Pack
 
 I feel that I included some of the best creations available, which blend in well with the content we get from other mods. Unfortunately, there are also ones, which conflict with the already existing content (like Divine Crusader with Tate Taylor's Knight of the North and Interesting NPCs), and can't be added, but if you believe that there are another hidden gems behind the remaining CC content, feel free to share in the corresponding channels of feedback.
 
