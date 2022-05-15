@@ -61,13 +61,10 @@ Also your daily reminder about the preset competition, which is still happening 
 
 ## Changes
 
-* Fixed Sinding not appearing in the prison.
-* Made two INI tweaks to make performance better without affecting visuals too much.
-* Tweaked UI settings for how empty containers are being shown.
-> There is some kind of bug within Simple Activate, where original prompt briefly appears, when looking at containers without anything in them, so I have just decided to bring the original prompt back for now.
-* Removed container's name from Quick Loot.
-> Consistency change for BTPS.
-* Fixed the water record near Solitude.
+* Added back magicka and stamina meters for enemies from MoreHUD.
+* Added more information to the gameplay guide about The Cause - Reduced Cut and Simply Order Summon with Simply Order Squad.
+* Added more detailed information to the Wabbajack guide about how to join the Discord server and the appropriate channels.
+> Apparently many people love to ask their questions in TPF related channels. 
 
 ## Updated Mods
 
