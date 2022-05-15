@@ -18,50 +18,29 @@ Also your daily reminder about the preset competition, which is still happening 
 
 ## Added CC Content
 
-* The Forgotten Seasons
-* Alternative Armors - Iron, Steel, Silver, Stalhrim
-* Spell Knight Armor
-* The Cause
+* Elite Crossbows
+* Expanded Crossbow Pack
 
 ## Added Mods
 
-* Unofficial Skyrim Creation Club Content Patch
-* Creation Club Asset Patch
-* Upscaled and Cleaned Creation Club + Anniversary
-* Creation Club Integration - Armours
-* Creation Club - Misc Patches
-* The Cause - Rare Curios Patch
-* Better Third Person Selection (BTPS)
-* Oxygen Meter 2
-* Caught Red Handed - Quest Expansion
-* Apothecary - Cannibaal Draugr on Solstheim Patch
-* Creation Club The Cause - Bruma Scamps Synergy
-* Project AHO - Spell Crafting for Mysticism
-* Patch for Project AHO and Apothecary - An Alchemy Overhaul
-* Wyrmstooth - Creation Club Ingredient Patches
-* Dragon War - Wyrmstooth Patch
-* Kaidan and Auri Banter Patch
-* Kabu's Argonian Fins
-* Apothecary Patches by Missile
-* Apothecary - Various Patch Bundle
-* Dynamic Weather and Time Based Detection
-* Rudy HQ - More Lights for ENB Decal Fix
-* Misc Effects - ENB Light
-> Just for magical barriers.
-* Furniture Height Size Fix Enhanced
+* 
 
 ## Removed Mods
 
-* Oxygen Meter
-* Authentic Sinding Follower
-> After fixing him not appearing in prison, I have learned that he has bunch of other problems too. Maybe will readd the mod later, when it will be more stable.
-* Project AHO - Mysticism - A Magic Overhaul Spell Crafting Patch
-* BlockSteal
-> Not needed with _Better Third Person Selection_. To steal anything, again you will need to use crouching, otherwise UI won't even show you information about items you want to steal.
+* Markarth HD Retexture
+> TPF actually made the same changes as me for dwemer related meshes and textures if we exclude this mod (I guess that means I understand a thing or two about choosing textures).
+* Patches for Ancient Dwemer Metal and new content mods
+> Our usual dwemer weapons use different assets than these, so we are fine without these. 
+* The Paarthurnax Resolution
+* Kyoe's Bang'n Brows for High Poly Head
+* Seasons of Skyrim - Remove Unwanted Grass
+* Shrubs of Snow
+> The last two are just not needed with Seasonal Landscapes.
 
 ## Changes
 
 * Added back magicka and stamina meters for enemies from MoreHUD.
+* Changed Kyoe's Bang'n Brows version to the standalone one.
 * Added more information to the gameplay guide about The Cause - Reduced Cut and Simply Order Summon with Simply Order Squad.
 * Added more detailed information to the Wabbajack guide about how to join the Discord server and the appropriate channels.
 > Apparently many people love to ask their questions in TPF related channels. 
