@@ -6,11 +6,9 @@
 
 **New safe is required.**
 
-The update brings us not only to the Delta's fierce (but not as overpowered) dragons back and long awaited (and actually existing) Mysticism 2 from TPF,
-but much, much more - a bunch of Apothecary patches! Joke, not just that...
-From now on this fork will support only the paid version of the newest Skyrim version. 
-Sooner or later you will be excpected to have them too, so I have decided that it is better to just do that now than later especially considering the fact that we rely
-on content and that I would just like to include, in my opinion, some of the best creations and the ones, which don't conflict with other content (unfortunately, that means no Divine Crusader with Tate's Knight of the North). If you believe there is another hidden gem behind the remaining CC content, feel free to share in the corresponding channels of feedback.
+This big chungus brings us... many things.
+From now on, thanks to the mod Seasonal Landscapes with our combination of other mods, our seasons look even more diverse and actually much more close to what I have wanted to see right at the beginning. Tried my luck to make it even better by making insects and farm plants seasonal too, but unfortunately with no luck for now. Maybe that will come later, but for now we have still many things to enjoy.
+
 
 Honourable mentions are also _Better Third Person Selection_, which will make your walkthrough even more enjoyable with upgraded UI, and _Dynamic Weather and Time Based Detection_, which will surely make lives of stealthy archers more harder outdoors. 
 
@@ -33,9 +31,12 @@ Also your daily reminder about the preset competition, which is still happening 
 * dunPOISoldiersRaidOnStart Script Tweak
 * Proving Honor Companions Quest Progression Fix
 * Paarthurnax - Quest Expansion
+> I need the way to become friends with both Partysnax and the angery squad. 
 * The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
 * Elysium Estate
+> After a comment of a user saying that we need a home somewhere around the turtorial are, I agreed. Thou it was my second choice, I do like it. Other variants were Lake Haven and Leaf Rest, but Lake Haven is incompatible with one of the content mods we are using, while Leaf Rest (my first candidate) is perfect, but a nightmare for consistency patching (I have tried...). 
 * Buyable Home Patch for Elysium Estate
+> Don't dream about getting something for free in my list.
 * Elysium Estate - Lanterns of Skyrim Patch
 * Lucifer - Argonian Custom Voiced Follower
 * Remiel - Custom Voiced Dwemer Specialist and Companion
@@ -62,12 +63,12 @@ Also your daily reminder about the preset competition, which is still happening 
 ## Removed Mods
 
 * Markarth HD Retexture
-> TPF actually made the same changes as me for dwemer related meshes and textures if we exclude this mod (I guess that means I understand a thing or two about choosing textures).
+> For TPF the same changes were made for dwemer related meshes and textures if we exclude this mod (I guess that means I understand a thing or two about choosing textures).
 * Patches for Ancient Dwemer Metal and new content mods
-> Our usual dwemer weapons use different assets than these, so we are fine without these. 
+> Our usual dwemer weapons use different assets for changing their appearance, so we are fine without these. 
 * The Paarthurnax Resolution
 * Apachii Divine Elegance Store - UNP Meshes
-> They didn't affect us anyhow negatively, because UNP is pretty close to vanilla body we are using, but there is no need for this patch actually.
+> They didn't affect us anyhow negatively, because UNP is pretty close to vanilla body we are using, but there is no need for this patch now.
 * Kyoe's Bang'n Brows for High Poly Head
 * Seasons of Skyrim - Remove Unwanted Grass
 * Shrubs of Snow
