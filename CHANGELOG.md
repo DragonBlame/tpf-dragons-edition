@@ -57,6 +57,7 @@ Also your daily reminder about the preset competition, which is still happening 
 * Swiftly Order Squad - Follower Commands UI
 * Honorhall Orphanage Bugfixes and Expansion
 * Diziet's Player Home Bath Undressing
+* Soaking Wet - Character Wetness Effect
 * Particle Lights for ENB - Ice Torches
 * Lively Children Animations
 
