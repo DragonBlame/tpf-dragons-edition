@@ -2,160 +2,7 @@
 
 # Changelog
 
-## Version 2.4.4.
-
-**Is save compatible.**
-
-Probably the last save compatible update before the big one.
-
-Unfortunately, one of the mods, which overhauled dwemer related meshes and textures was completely removed from Nexus, so I had to think about how to deal with that to 
-make the list downloable. I have tried my best to replace it and I hope you will like the result. LODs aren't changed anyhow for now, but will definitely be redone for the big update.
-
-## Added Mods
-
-* Elegant Candlelight
-* Markarth HD Retexture
-> Mainly assets for ruins are being used from this mod. 
-* Ancient Dwemer Metal
-* Dwemer Pipework Reworked
-* ENB Particle Lights - Dwemer Lanterns
-
-## Removed Mods
-
-* Player Spell Lightning
-* The Dwemer
-* Expressive Werebeasts Redux
-
-## Changes
-
-* Removed Strange Runes from NPCs.
-> In some very rare scenarios some of NPCs using them can make the game crash. While it isn't anything out of this world, I am fine with the runes being unique to the player and overall we can appreiate them fully only while casting spells ourselves. This change will work only on new saves. You can do it by yourself too if you wish - just disable _Allow NPC Casting_ option in Strange Runes MCM's _Runes_ section.
-* Fixed Candlelight spell behaving oddly.
-> By getting rid of Player Spell Lightning mod for now as it is not compatible with the latest version of Mysticism. Thou the spell can still behave oddly if you switch from the first to the third person view and viceversa, when Candlelight is being used. It is ENB Light limitation, which I can't change anyhow.
-* Fixed forsworn skinchangers looking odd after transformation. 
-> And that's why we need to say goodbye to Expressive Werebeasts Redux. Would be too hard for me to patch at the moment and I am not sure it is worth it. 
-Sadly they also look the same as the player's werewolf form, but maybe a patch for Diverse Werewolf Collection will be made, we will see.
-* Patched animations to look much more better, when you try to cast spells, when you are looking very high or down.
-* Made Lydia essential.
-> Considering that she is also unique follower like plenty of others like Serana within our list, I believe she deserves that, so you can experience all of the content related to her.
-
-## Updated Mods
-
-* Nilheim - Misc Quest Expansion
-* Misc Effects - ENB Light
-* Conditional Expressions - Subtle Face Animations
-* Pretty Combat Animations
-
----
-
-## Version 2.4.3.
-
-**Is save compatible.**
-
-It is another time to for some quality of life fixes and changes. 
-
-Version 2.5. will come too (not sure when thou). I am thinking about making our seasonal exteriors even greater and also integrating crossbows from CC. At first, I wasn't the fan of the idea, but I have changed my mind. Also be ready to see more argonians around.
-
-## Added Mods
-
-* Chapter II - Jeremy Soule Inspired Music
-* Majestic Mountains and The Cause Landscape Fix
-* Moonpath To Elsweyr Retexture
-* Skyrim Snow Dogs
-* Vanargand Animations - Crossbows
-* Pristine Vanilla Movement
-
-## Removed Mods
-
-* Leviathan Animations - Two-Handed High Stance
-* Leviathan Animations - Two-Handed Power Attacks
-> Many of Verolevi's animations have one very big issue - they always have problems with other animations, which they don't even touch, even vanilla ones. For example, blocking and block bashing with two-handed weapon looks just awkward, meanwhile power attacks assume we are using the two-handed high stance mod from Verelovevi, but if we don't, then weapons' behaviour is very odd during finishing animations. Not sure what is the point of making separate pages for them then if they are meant to be used together. Sneaking animation for crossbows, which weren't added to the list, makes you stuck in crossbow holding animation even if you have nothing inside your hands. At least regular crossbow animations look fine. 
-* Jog, Sprint and Jump
-
-## Changes
-
-* Removed headbobbing feature from activation through mouse wheel.
-* Fixed elves T-posing in Kaidan's camp.
-* Removed tween menu from widescreen fixes for SkyUI to make custom skills option appear for widescreen users.
-> No idea how tween menu for widescreen users looks now thou.
-* Added more information about technical requirements in the WJ guide.
-* Added and corrected information in the gameplay guide.
-
-## Updated Mods
-
-* Better Third Person Selection
-* Oxygen Meter 2
-* The Wheels of Lull
-* More to do in Hammerfell - The Gray Cowl of Nocturnal
-* Immersive Kaidan Start
-* Pilgrim - A Religion Overhaul
-* Conditional Tavern Cheering
-* Pretty Combat Animations
-* Pretty Combat Animations - Weapon Master
-* Dragon Priest Fix - Behaviour Overhaul
-
----
-
-## Version 2.4.2.
-
-**Is save compatible.**
-
-From now on I will try to make save compatible updates for users, who have been using the previous version of the modpack if there is something worth fixing. Should have thought about that before, sorry. After save compatible update, not save compatible update might be released for new users if there is something, which I want to add or remove. Already can say that it won't happen for now - pines and new LODs can wait. All versions of the modpack will also be available on GitHub from this moment, so you don't have to worry if you weren't able to grab your needed version.
-
-This time we are fixing some of the issues, which were reported by users, while also updating some mods and adding more useful information to the WJ instructions and the gameplay guide.
-
-## Added Mods
-
-* Elemental Staffs - Mysticism Patch
-* NPCs Wear Amulets of Mara
-
-## Changes
-
-* Fixed the game being stuck when you take any kind of note.
-* Fixed purplish winds issue.
-* Fixed Bruma's black faces issue.
-* Made the item widget a bit bigger, actually enabled filters to make the widget dissapear for items, which you can steal, if you are not crouched.
-* Made khajiits have a bit more fur on their upper side.
-* Added information about Anniversary Upgrade.
-* Added information about Improved Camera.
-* Added information about how to change your FOV.
-
-## Updated Mods
-
-* Unofficial Skyrim Creation Club Content Patches
-* Better Third Person Selection
-* Oxygen Meter 2
-* Serana Dialogue Add-On
-* Beyond Skyrim - Bruma
-* Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map
-* The Wheel of Time
-* Kaidan 2 Follower Voice Fixes and Additional Dialogue
-* High Poly Kaidan - Face and Body
-* Realistic Water Two
-* Feminine Khajiit Textures
-* Pilgrim - A Religion Overhaul
-* Spiders of Solstheim - ENB Light
-* Misc Effects - ENB Light
-* Gesture Animation Remix
-* NPC Animation Remix
-* Immersive Folded Hands
-* Conditional Tavern Cheering
-* Pretty Combat Animations
-* Pretty Combat Animations - Weapon Master
-
----
-
-## Version 2.4.1.
-
-Just a little hotfix for Dynamic Weather and Time Based Detection to work properly.
-
-## Changes
-
-* Added Slidikins' fix for Dynamic Weather and Time Based Detection.
-
----
-
-## Version 2.4.
+## Version 2.5.
 
 **New safe is required.**
 
@@ -227,19 +74,11 @@ Also your daily reminder about the preset competition, which is still happening 
 * Fixed Mesh Lighting
 * DynDOLOD Resources
 * Navigator - Navmesh Fixes
-* eFPS - Official Patch Hub
-* Midwood Isle
-* Comprehensive Falskaar Fixes
-* The Wheel of Time
-> Two new quests.
-* Ayleid Ruins - ENB Light
-* Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* Simple Activate
+* Runic Dawnguard - Separated Lost Relic Questline
+* Gray Cowl of Nocturnal Alikr Flora Overhaul
+* Morskom Estate
 * High Poly Kaidan - Face and Body
-* Immersive Kaidan Start
-* Cathedral 3D Mountain Flowers - Base Object Swapper
+* Bent Pines II
 * Turn of the Seasons
-* Sprites or Specters - ENB Light
-* Particle Lights for ENB - Falmer Drips
-* Particle Lights for ENB - Standing Stones
-* Particle Lights for ENB - Fire Traps - Nordic Only
-* Spiders of Solstheim - ENB Light
+* Base Object Swapper
