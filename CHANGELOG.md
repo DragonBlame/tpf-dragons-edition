@@ -33,7 +33,7 @@ And another reminder about the lists' preset competition, which is still happeni
 > I need the way to become friends with both Partysnax and the angery squad. 
 * The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
 * Elysium Estate
-> After reading a comment of a user saying that we need a home somewhere around the turtorial area, I agreed. Thou it was my second choice, I find it pretty. Other variants were Lake Haven and Leaf Rest, but Lake Haven is incompatible with one of the content mods we are using, so I didn't even bother checking it further, while Leaf Rest (my first candidate) is perfect, but a nightmare for consistency patching (I have tried...). 
+> After reading a comment of a user saying that we need a home somewhere around the tutorial area, I agreed. Thou it was my second choice, I find it pretty. Other variants were Lake Haven and Leaf Rest, but Lake Haven is incompatible with one of the content mods we are using, so I didn't even bother checking it further, while Leaf Rest (my first candidate) is perfect, but a nightmare for consistency patching (I have tried...). 
 * Buyable Home Patch for Elysium Estate
 > Don't dream about getting something for free in my list.
 * Elysium Estate - Lanterns of Skyrim Patch
