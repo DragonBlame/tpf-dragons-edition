@@ -23,7 +23,41 @@ Also your daily reminder about the preset competition, which is still happening 
 
 ## Added Mods
 
-* 
+* Rare Curios - Bolts Expanded
+* The Cause - Reduced Cut
+* First Person Sneak Strafe-Walk Stutter Fix
+* CritterSpawn Congestion Fix
+* King Olaf's Fire Festival Not Ending Fix
+* Allow Dialogue Progress Bugfix
+* Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
+* dunPOISoldiersRaidOnStart Script Tweak
+* Proving Honor Companions Quest Progression Fix
+* Paarthurnax - Quest Expansion
+* The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
+* Elysium Estate
+* Buyable Home Patch for Elysium Estate
+* Elysium Estate - Lanterns of Skyrim Patch
+* Lucifer - Argonian Custom Voiced Follower
+* Remiel - Custom Voiced Dwemer Specialist and Companion
+* The Practical Dwemechanic - A Remiel Replacer
+* Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+* Majestic Mountains - More Accurate Collision
+* Cathedral - 3D Thistle
+* Cathedral - 3D Tundra Cotton
+* Seasonal Aspen Trees
+* Seasonal Landscapes
+* Bent Pines for Seasons Of Skyrim
+* RedBag's Dragonsreach
+* JK's and Redbag's Dragonsreach Patch
+* JK's Septimus Signus's Outpost
+* Kyoe's Bang'n Brows Plus Plus
+* Crossbow Integration
+* Simply Order Summons
+* Swiftly Order Squad - Follower Commands UI
+* Honorhall Orphanage Bugfixes and Expansion
+* Diziet's Player Home Bath Undressing
+* Particle Lights for ENB - Ice Torches
+* Lively Children Animations
 
 ## Removed Mods
 
@@ -32,6 +66,8 @@ Also your daily reminder about the preset competition, which is still happening 
 * Patches for Ancient Dwemer Metal and new content mods
 > Our usual dwemer weapons use different assets than these, so we are fine without these. 
 * The Paarthurnax Resolution
+* Apachii Divine Elegance Store - UNP Meshes
+> They didn't affect us anyhow negatively, because UNP is pretty close to vanilla body we are using, but there is no need for this patch actually.
 * Kyoe's Bang'n Brows for High Poly Head
 * Seasons of Skyrim - Remove Unwanted Grass
 * Shrubs of Snow
@@ -42,8 +78,6 @@ Also your daily reminder about the preset competition, which is still happening 
 * Added back magicka and stamina meters for enemies from MoreHUD.
 * Changed Kyoe's Bang'n Brows version to the standalone one.
 * Added more information to the gameplay guide about The Cause - Reduced Cut and Simply Order Summon with Simply Order Squad.
-* Added more detailed information to the Wabbajack guide about how to join the Discord server and the appropriate channels.
-> Apparently many people love to ask their questions in TPF related channels. 
 
 ## Updated Mods
 
