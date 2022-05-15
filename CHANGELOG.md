@@ -83,6 +83,7 @@ And another reminder about the lists' preset competition, which is still happeni
 
 ## Updated Mods
 
+* ENB binaries
 * Fixed Mesh Lighting
 * DynDOLOD Resources
 * Navigator - Navmesh Fixes
