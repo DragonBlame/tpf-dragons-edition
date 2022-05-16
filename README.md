@@ -1,6 +1,6 @@
 ![image](images/Banner.webp)
-# <p align="center">Version 2.4.4.</p>
-### <p align="center">For 4.14.3. v. of TPF</p>
+# <p align="center">Version 2.5.</p>
+### <p align="center">For 4.14.4. v. of TPF</p>
 
 ---
 

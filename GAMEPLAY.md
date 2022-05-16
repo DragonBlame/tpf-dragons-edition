@@ -44,6 +44,7 @@ Then there are some additional overhauls, which compliment these changes:
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) - Adjusts some quests to start at a later time to improve their balance as some quests have been made harder.
 - [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427) - Modifies radiant quests so that they don't send you to locations with dangerous enemies until your level is high enough.
 - [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484) - Adds some of the perks from our perk overhaul to a little amount of NPCs to make them stronger. No more unique strength from perks just for our player character. There is only 15% change of perks being added to NPC, so it shoudn't be too hard for anyone.
+- [Crossbow Integration](https://www.nexusmods.com/skyrimspecialedition/mods/28766) - You will be able to see NPCs around Skyrim and Solstheim using different kinds of crossbows, while being able to use and craft them by yourself too. Enhanced Crossbows were renamed to _Marksman's Crossbows_, they do 4 points of damage less than their standard crossbow equivalent, but ignore 50% of armour and do critical damage equal to their damage. Dwarven crossbows and all explosive bolts can only be crafted once the relevant Ancient Technology quests for the Dawnguard are completed or the reward for the quest _Unfathomable Depths_ quest has been acquired. Dawnguard crossbows also deal bonus damage to vampires now like other Dawnguard's weapons.
 - [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) - Finally bandits, mages and assassins will also have an option to have
 and use some potions. And not just healing potions, which they already use in vanilla to, to make our lives a little bit harder.
 - [No Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/32218) - The end of the annoying lockpicking game. Now your actual lockpicking skill is used to pick a lock, which make the skill much more useful. Locks will break according to your skill too. For example, if you are a novice at lockpicking and you try to pick a novice lock, 
@@ -81,6 +82,7 @@ If you want to change the button for dodging, do the following:
 * [Knocking](https://www.nexusmods.com/skyrimspecialedition/mods/14098) - Knock on locked doors by activating them. Good for roleplaying and also useful.
 * [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.
 * [Call your horse by whistling](https://www.nexusmods.com/skyrim/mods/91395) - Right from the beginning of the game gives you power to call your horse after fights. 
+* * Control your [followers](https://www.nexusmods.com/skyrimspecialedition/mods/63259) and/or [summons, resurrected enemies](https://www.nexusmods.com/skyrimspecialedition/mods/66919) behaviour - Use `'` button to open a special menu for followers and/or summons to be able to make them wait or teleport them to you. Feel free to to do the same things and also dismiss and equip items to your summons and resurrected minions by simply activating them. 
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Loot while riding on horse](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) - Loot as always by pressing `E` button. Hold `E` button to dismount. 
 * [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
@@ -127,6 +129,7 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 
 Creation Content available in the modlist:
 * The Forgotten Seasons
+* Elite Crossbows
 * The Rare Curios
 * Alternative Armors - Iron
 * Alternative Armors - Steel
@@ -134,6 +137,7 @@ Creation Content available in the modlist:
 * Alternative Armors - Silver
 * Alternative Armors - Stalhrim
 * The Cause
+* Expanded Crossbow Pack
 
 I feel that I included some of the best creations available, which blend in well with the content we get from other mods. Unfortunately, there are also ones, which conflict with the already existing content (like Divine Crusader with Tate Taylor's Knight of the North and Interesting NPCs), and can't be added, but if you believe that there are another hidden gems behind the remaining CC content, feel free to share in the corresponding channels of feedback.
 
@@ -255,7 +259,7 @@ will be pretty tough, but not as tough as within other late game quests.
 That’s and also the immersiveness is the reason for setting this quest
 requirements as high, because by default it starts at level 5. Without a
 follower.
-* **The Cause** - Automatically after reaching level 46.
+* **The Cause** - With the reduced cut version of The Cause, you can explore the Cause's content anytime now by stumling on its' locations, where it makes sense, thou enemies are still going to be hard (before the quest of The Cause started automatically after reaching level 46).
 * **The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
 Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The

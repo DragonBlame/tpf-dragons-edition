@@ -99,6 +99,7 @@ then point Wabbajack to it.
 6. Wait for Wabbajack to finish.
 7. If you run into any issues, simply retry the Wabbajack installation. If the installation still fails, 
 ask for help in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#tpf-de-wabbajack-support_ channel. 
+> To get to the channel, simply find _#role-settings_ channel in the server and tick my role at the end, new channels then will appear in the server's list.
 > You will need to upload your log file to the corresponding channel. 
 You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folder within the latest version folder - this will be in the same location you saved _Wabbajack.exe_ to.
 
@@ -220,11 +221,12 @@ And that's it! You are ready for the action.
 If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the fork) or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#tpf-de-wabbajack-support_ channel. 
 If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](BUGS.md) section first.
+> To get to these support channels, simply find _#role-settings_ channel in the server and tick my role at the end, new channels then will appear in the server's list.
 
 If you want to learn more about what the modpack offers and what actually many of the mods do, check my [gameplay guide](GAMEPLAY.md). 
 
 If you would like to make any recommendations after looking into what the modlist has to offer or to give me an advice, 
-please use _Posts_ feature on Nexus or use _#tpf-de-feedback_ on TPF's Discord server. Suggestions on how to improve the documentation are also welcome on GitHub.
+please use _Posts_ feature on Nexus or use _#tpf-de-feedback_ channel on TPF's Discord server. Again to get to the channel, simply find _#role-settings_ channel and tick my role at the end, new channels then will appear in the server's list. Suggestions on how to improve the documentation are also welcome on GitHub.
 Before asking additional questions be sure to check the gameplay guide mentioned before and the _Questions & Answers_ section on Nexus.
 
 If you want to help me, don't forget to endorse the fork’s page on Nexus and write something positive for me to read (I am happy to hear from people in Discord too). 
