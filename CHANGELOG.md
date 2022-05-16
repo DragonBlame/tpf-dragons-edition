@@ -77,6 +77,7 @@ And another reminder about the lists' preset competition, which is still happeni
 ## Changes
 
 * Added back magicka and stamina meters for enemies from MoreHUD.
+* Changed big shrubs to become all yellow during autumns.
 * Nerfed Elegant Candlelight to have the same cost values as Candlelight from Mysticism.
 * Changed Kyoe's Bang'n Brows version to the standalone one.
 * Added more information to the gameplay guide about The Cause - Reduced Cut and Simply Order Summon with Simply Order Squad.
