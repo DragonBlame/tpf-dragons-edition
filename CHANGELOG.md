@@ -2,6 +2,19 @@
 
 # Changelog
 
+## Version 2.5.1.
+
+**Is save compatible.**
+
+Because of some kind of new Bethesda shenanigans, which were made, when Bethesda was migrating their things from Bethesda.net Launcher to Steam, needed to recompile the list again for it to be available for users without Creation Kit, which is being used in making Skyrim's mods. Meanwhile updated some mods too.
+
+## Updated Mods
+
+* Remiel - Custom Voiced Dwemer Specialist and Companion
+* Honorhall Orphanage Bugfixes and Expansion
+
+---
+
 ## Version 2.5.
 
 **New safe is required.**
