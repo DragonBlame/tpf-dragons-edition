@@ -6,7 +6,7 @@
 
 **Is save compatible.**
 
-Because of some kind of new Bethesda shenanigans, needed to recompile the list again for it to be available for users without Creation Kit, which is being used in making Skyrim's mods. Meanwhile updated some mods too.
+Because of some kind of new Bethesda shenanigans, which were made, when Bethesda was migrating their things from Bethesda.net Launcher to Steam, needed to recompile the list again for it to be available for users without Creation Kit, which is being used in making Skyrim's mods. Meanwhile updated some mods too.
 
 ## Updated Mods
 
