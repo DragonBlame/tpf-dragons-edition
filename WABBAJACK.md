@@ -32,7 +32,6 @@ if you have them already.
     - Should be put inside HDD.
   
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
-  - [Microsoft .NET 5.0 - desktop app X64 and console app X64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
   - The latest version of Skyrim - 1.6.353. with the Anniversary Upgrade.
 
 ---
@@ -220,10 +219,10 @@ And that's it! You are ready for the action.
 
 If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the fork) or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#tpf-de-wabbajack-support_ channel. 
-If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](BUGS.md) section first.
+If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/BUGS.md) section first.
 > To get to these support channels, simply find _#role-settings_ channel in the server and tick my role at the end, new channels then will appear in the server's list.
 
-If you want to learn more about what the modpack offers and what actually many of the mods do, check my [gameplay guide](GAMEPLAY.md). 
+If you want to learn more about what the modpack offers and what actually many of the mods do, check my [gameplay guide](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/GAMEPLAY.md). 
 
 If you would like to make any recommendations after looking into what the modlist has to offer or to give me an advice, 
 please use _Posts_ feature on Nexus or use _#tpf-de-feedback_ channel on TPF's Discord server. Again to get to the channel, simply find _#role-settings_ channel and tick my role at the end, new channels then will appear in the server's list. Suggestions on how to improve the documentation are also welcome on GitHub.
