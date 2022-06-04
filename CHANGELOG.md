@@ -2,6 +2,22 @@
 
 # Changelog
 
+## Version 2.5.2.
+
+**Is save compatible.**
+
+It is time for some polishing.
+
+## Changes
+
+* Fixed option to buy vanilla homes.
+
+## Updated Mods
+
+* Remiel - Custom Voiced Dwemer Specialist and Companion
+
+---
+
 ## Version 2.5.1.
 
 **Is save compatible.**
