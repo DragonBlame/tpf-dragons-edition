@@ -11,6 +11,7 @@ It is time for some polishing.
 ## Added Mods
 
 * Cathedral - 3D Clover Plant
+* Seasonal Landscapes for ENB Complex Grass
 * Equipment Toggle 2
 * Immersive Rejections
 * Jumping Attack
