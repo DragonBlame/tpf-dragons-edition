@@ -8,13 +8,30 @@
 
 It is time for some polishing.
 
+## Added Mods
+
+* Equipment Toggle 2
+* Immersive Rejections
+
+## Removed Mods
+
+* Equipment Toggle
+
 ## Changes
 
 * Fixed option to buy vanilla homes.
 
 ## Updated Mods
 
+* Navigator - Navmesh Fixes
+* Lucifer - Argonian Custom Voiced Follower
 * Remiel - Custom Voiced Dwemer Specialist and Companion
+* Cathedral 3D Mountain Flowers - Base Object Swapper
+* The Great Village of Mixwater Mill Patch Collection
+* JK's Interiors Patch Collection
+* Simply Order Summons
+* Swiftly Order Squad - Follower Commands UI
+* NPCs Wear Amulets of Mara
 
 ---
 
