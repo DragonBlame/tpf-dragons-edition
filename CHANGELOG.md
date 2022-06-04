@@ -10,6 +10,7 @@ It is time for some polishing.
 
 ## Added Mods
 
+* Project AHO Sadrith Kegran ENB Fix
 * Cathedral - 3D Lavender
 * Cathedral - 3D Clover Plant
 * Seasonal Landscapes for ENB Complex Grass
@@ -19,6 +20,7 @@ It is time for some polishing.
 
 ## Removed Mods
 
+* Project AHO ENB Patch
 * Equipment Toggle
 
 ## Changes
