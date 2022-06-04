@@ -14,6 +14,7 @@ It is time for some polishing.
 * Cathedral - 3D Lavender
 * Cathedral - 3D Clover Plant
 * Seasonal Landscapes for ENB Complex Grass
+* Seasonal Unique Flowers and Plants
 * Equipment Toggle 2
 * Immersive Rejections
 * Jumping Attack
