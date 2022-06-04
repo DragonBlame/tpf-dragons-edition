@@ -10,6 +10,7 @@ It is time for some polishing.
 
 ## Added Mods
 
+* Cathedral - 3D Clover Plant
 * Equipment Toggle 2
 * Immersive Rejections
 
@@ -23,15 +24,25 @@ It is time for some polishing.
 
 ## Updated Mods
 
+* Fixed Mesh Lighting
 * Navigator - Navmesh Fixes
+* Caught Red Handed - Quest Expansion
 * Lucifer - Argonian Custom Voiced Follower
 * Remiel - Custom Voiced Dwemer Specialist and Companion
 * Cathedral 3D Mountain Flowers - Base Object Swapper
+* COTN Dawnstar Patch Collection
 * The Great Village of Mixwater Mill Patch Collection
 * JK's Interiors Patch Collection
+* Dragonborn - Shouts Perk Tree
 * Simply Order Summons
 * Swiftly Order Squad - Follower Commands UI
 * NPCs Wear Amulets of Mara
+* Diziet's Player Home Bath Undressing
+* Soaking Wet - Character Wetness Effect
+* Rudy HQ - More Lights for ENB Decal Fix
+* Conditional Expressions - Subtle Face Animations
+* Pretty Combat Animations - Weapon Master
+* Pretty Combat Animations - Spell Master
 
 ---
 
