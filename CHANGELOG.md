@@ -39,6 +39,7 @@ It is time for some polishing.
 * Swiftly Order Squad - Follower Commands UI
 * NPCs Wear Amulets of Mara
 * Diziet's Player Home Bath Undressing
+* Strange Runes
 * Soaking Wet - Character Wetness Effect
 * Rudy HQ - More Lights for ENB Decal Fix
 * Conditional Expressions - Subtle Face Animations
