@@ -4,7 +4,7 @@
 
 ## Version 2.5.2.
 
-**Is save compatible. Updated for TPF v. 4.14.5.**
+**Is save compatible. Is updated for TPF v. 4.14.5.**
 
 It is time for some polishing.
 
