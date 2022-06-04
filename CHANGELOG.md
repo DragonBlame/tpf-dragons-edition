@@ -13,6 +13,7 @@ It is time for some polishing.
 * Cathedral - 3D Clover Plant
 * Equipment Toggle 2
 * Immersive Rejections
+* Jumping Attack
 
 ## Removed Mods
 
