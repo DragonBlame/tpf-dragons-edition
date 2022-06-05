@@ -65,6 +65,7 @@ while introducing some disadvantages of getting gear with help of others such as
 
 ## New Mechanics
 
+* [Jumping attacks](https://www.nexusmods.com/skyrimspecialedition/mods/68043) - Feel free to jump and swing, cast, shoot etc. all times.
 * [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Spend some stamina to be able to dodge attack of your enemies while moving. 
 `Mouse 4` button is chosen by default for dodging.
 
