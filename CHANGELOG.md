@@ -8,6 +8,8 @@
 
 It is time for some polishing.
 
+Also we have some important honourable mentions this time such as Cathedral - 3D Lavender, Cathedral - 3D Clover Plant, Seasonal Landscapes for ENB Complex Grass and Jumping Attack, which will make you able to attack, while your character is in jumping animation.
+
 ## Added Mods
 
 * Project AHO Sadrith Kegran ENB Fix
