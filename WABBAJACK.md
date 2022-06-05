@@ -23,10 +23,10 @@ I would very strongly recommend to check _Questions & Answers_ section for the m
 
 In terms of performance, Dragon's Edition needs a bit more resources than its parent, but at the same time not as much as the most popular modlists for high-end PCs' users. Everything from good mid-end PC to high-end PC should run the modlist without any problems, so for GPU it will be a decent card with at least 6 GB VRAM (for example, according to one of the users, with Nvidia RTX 2060 they were able to get 57-60 stable FPS in Riverwood).
 
-  - Fork's installation size - ~ 175 GB.
+  - Fork's installation size - ~ 176 GB.
     - ~ 13 GB (not including CC content) is copied from your Skyrim's installation.
     - Should be put inside SSD to improve load times and prevent stutter.
-  - Fork mods' size - ~ 119 GB.
+  - Fork mods' size - ~ 120 GB.
     - Your downloads folder should be the same for all modlists to make the installation process faster and not to make you download the mods once again 
 if you have them already.
     - Should be put inside HDD.
@@ -191,7 +191,7 @@ To toggle between the first and the third person view, use `F` key.
 
 Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
 
-* **Equipment Toggle** - Press `Arrow Down` button to toggle your heagear's visibility off and on.
+* **Equipment Toggle** - Press `Arrow Down` button to toggle your (and your followers) heagear's visibility off and on.
 * **Animated Shouts** - Press your `right Alt` key.
 > You will be able to see this mod in action only after getting your first shout. Have left a tip about all these mods and options in my gameplay guide for the fork too if you forget about them.
 

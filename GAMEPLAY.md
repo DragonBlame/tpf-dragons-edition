@@ -65,6 +65,7 @@ while introducing some disadvantages of getting gear with help of others such as
 
 ## New Mechanics
 
+* [Jumping attacks](https://www.nexusmods.com/skyrimspecialedition/mods/68043) - Feel free to jump and swing, cast, shoot etc. all times.
 * [Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/56956) - Spend some stamina to be able to dodge attack of your enemies while moving. 
 `Mouse 4` button is chosen by default for dodging.
 
@@ -98,7 +99,7 @@ If you want to change the button for dodging, do the following:
 * [Toggable compass](https://www.nexusmods.com/skyrimspecialedition/mods/63247) - Press `X` key to turn it on and off when you need that.
 * [Camera's side](https://www.nexusmods.com/skyrimspecialedition/mods/41252) - Change camera's side by using your `Mouse 5` key. If you don't have a mouse with many buttons, feel free to change bindings in _Smoothcam_'s mod configuration menu in _Thirdperson_ tab.
 * [Headtracking](https://www.nexusmods.com/skyrimspecialedition/mods/19189) - Press your `V` key to disable or enable headtracking at any time.
-* [Toggle your headgear](https://www.nexusmods.com/skyrimspecialedition/mods/44097) - Use `Arrow Down` button to toggle it off and on.  
+* [Toggle your and your follower's headgear](https://www.nexusmods.com/skyrimspecialedition/mods/68540) - Use `Arrow Down` button to toggle it off and on.  
 * [Looting quickly](https://www.nexusmods.com/skyrimspecialedition/mods/21085) - One of the best additions to Fallout 4 (FO4) was the looting menu,
 which appears right when you move your cursor over lootable item without need to open game's full menu. This mod allows us to use this addition,
 but in Skyrim.

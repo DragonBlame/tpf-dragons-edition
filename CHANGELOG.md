@@ -2,6 +2,60 @@
 
 # Changelog
 
+## Version 2.5.2.
+
+**Is save compatible. Is updated for TPF v. 4.14.5.**
+
+It is time for some polishing.
+
+## Added Mods
+
+* Project AHO Sadrith Kegran ENB Fix
+* Cathedral - 3D Lavender
+* Cathedral - 3D Clover Plant
+* Seasonal Landscapes for ENB Complex Grass
+* Seasonal Unique Flowers and Plants
+* Equipment Toggle 2
+* Immersive Rejections
+* Jumping Attack
+
+## Removed Mods
+
+* Project AHO ENB Patch
+* Equipment Toggle
+
+## Changes
+
+* Fixed the option to buy vanilla homes.
+* Changed priorities of some magic animations.
+> So some of them will be different, but fitting for every type of character.
+* Added information about jumping attacks and the newest Equipment Toggle.
+
+## Updated Mods
+
+* Fixed Mesh Lighting
+* Navigator - Navmesh Fixes
+* Caught Red Handed - Quest Expansion
+* Lucifer - Argonian Custom Voiced Follower
+* Remiel - Custom Voiced Dwemer Specialist and Companion
+* Cathedral 3D Mountain Flowers - Base Object Swapper
+* COTN Dawnstar Patch Collection
+* The Great Village of Mixwater Mill Patch Collection
+* JK's Interiors Patch Collection
+* Dragonborn - Shouts Perk Tree
+* Simply Order Summons
+* Swiftly Order Squad - Follower Commands UI
+* NPCs Wear Amulets of Mara
+* Diziet's Player Home Bath Undressing
+* Strange Runes
+* Soaking Wet - Character Wetness Effect
+* Rudy HQ - More Lights for ENB Decal Fix
+* Conditional Expressions - Subtle Face Animations
+* Pretty Combat Animations - Weapon Master
+* Pretty Combat Animations - Spell Master
+
+---
+
 ## Version 2.5.1.
 
 **Is save compatible.**
