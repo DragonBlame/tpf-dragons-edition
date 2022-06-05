@@ -27,6 +27,8 @@ It is time for some polishing.
 ## Changes
 
 * Fixed option to buy vanilla homes.
+* Changed priorities of some magic animations.
+> So some of them will be different, but fitting for every type of character.
 
 ## Updated Mods
 
