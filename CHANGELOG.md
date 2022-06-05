@@ -26,7 +26,7 @@ It is time for some polishing.
 
 ## Changes
 
-* Fixed option to buy vanilla homes.
+* Fixed the option to buy vanilla homes.
 * Changed priorities of some magic animations.
 > So some of them will be different, but fitting for every type of character.
 * Added information about jumping attacks and the newest Equipment Toggle.
