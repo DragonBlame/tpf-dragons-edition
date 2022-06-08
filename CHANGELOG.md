@@ -24,7 +24,7 @@ At least that has allowed me to make a not save compatible update, so here we ag
 ## Removed Mods
 
 * Seasonal Alchemy
-> I am actually fine with how Seasonal Landscapes handles plants.
+> I like how Seasonal Landscapes handles plants.
 * Heavy Armored Pants
 * SavrenX Vampire Lord Tank
 > RIP... I will add them back immedialely if Vectorplexus is going to be in a working condition in the future.
