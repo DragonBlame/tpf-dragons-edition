@@ -28,4 +28,17 @@ xxx
 
 ## Updated Mods
 
+* Serana Dialogue Add-On
+* Sconces of Skyrim - Markarth Braziers Improved
+* Seasons of Skyrim
+* Seasonal Landscapes
+* JK's Arcadia's Cauldron
+* JK's Radiant Raiment
+* JK's The Bee and Barb
+* JK's Riverwood Trader
 * JKs Guild HQ Interiors Patch Collection
+* Apothecary - An Alchemy Overhaul
+* Smart NPC Potions - Enemies Use Potions and Poisons
+* Dragon War - A Dragon Overhaul
+* Diziet's Auto Outfits
+* Base Object Swapper
