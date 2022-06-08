@@ -12,7 +12,8 @@ At least that has allowed me to make a not save compatible update, so here we ag
 
 ## Added Mods
 
-* xxx
+* Supreme Vampire Lords
+* Vampire Lord Body Reworked
 
 ## Removed Mods
 
