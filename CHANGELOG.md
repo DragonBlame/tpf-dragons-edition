@@ -6,7 +6,7 @@
 
 **New save is required.**
 
-New challenger of not giving stable modding experience to its users appeared. VectorPlexus is a place, which is usually associated with High Poly Head (but is about much more... *wink...* but not just about *that*). Unfortunately, due to it being unstable many people just can't install the list and that's why I needed to make a decision to remove all the mods from VectorPlexus at least for now. Fortunately, High Poly Head is also hosted by its author on Google Drive. RIP, armored pants, they won't be forgotten.
+New challenger of not giving stable modding experience to its users appeared. VectorPlexus is a place, which is usually associated with High Poly Head (but is about much more... *wink...* but not just about *that*). Unfortunately, due to it being unstable many people just can't install the list and that's why I needed to make a decision to remove all the mods from VectorPlexus at least for now. Fortunately, High Poly Head is also hosted by its author on Google Drive... Armored pants won't be forgotten.
 
 At least that has allowed me to make a not save compatible update, so here we ago. This time honourable mentions are ...
 
