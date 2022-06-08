@@ -42,4 +42,5 @@ At least that has allowed me to make a not save compatible update, so here we ag
 * Smart NPC Potions - Enemies Use Potions and Poisons
 * Dragon War - A Dragon Overhaul
 * Diziet's Auto Outfits
+* powerofthree's Papyrus Extender
 * Base Object Swapper
