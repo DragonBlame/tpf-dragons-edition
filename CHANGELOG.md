@@ -15,6 +15,7 @@ At least that has allowed me to make a not save compatible update, so here we ag
 * Vanilla Script (micro)Optimizations
 * Vanilla Scripting Enhancements
 * Fixed and Optimized USSEP Valdr Quest
+* Vigilance the Husky
 * Riften Gate Restored
 * JK's Sinderion's Field Laboratory
 * Draugr Ragdoll Bug Fix
