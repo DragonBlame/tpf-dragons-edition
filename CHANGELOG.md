@@ -16,8 +16,10 @@ At least that has allowed me to make a not save compatible update, so here we ag
 * Vanilla Scripting Enhancements
 * Fixed and Optimized USSEP Valdr Quest
 * Vigilance the Husky
+* Beyond Skyrim in Skyrim - An Integration Mod
 * Riften Gate Restored
 * JK's Sinderion's Field Laboratory
+* I'm Glad You're Here
 * Draugr Ragdoll Bug Fix
 * Supreme Vampire Lords
 * Vampire Lord Body Reworked
