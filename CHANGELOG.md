@@ -15,8 +15,10 @@ At least that has allowed me to make a not save compatible update, so here we ag
 * Vanilla Script (micro)Optimizations
 * Vanilla Scripting Enhancements
 * Fixed and Optimized USSEP Valdr Quest
-* Vigilance the Husky
+* Lawbringer
+* Imperial Law - Lawbringer for Bruma
 * Beyond Skyrim in Skyrim - An Integration Mod
+* Wyrm Tamer - Lawbringer for Wyrmstooth
 * Riften Gate Restored
 * JK's Sinderion's Field Laboratory
 * I'm Glad You're Here
