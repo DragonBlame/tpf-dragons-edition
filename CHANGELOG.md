@@ -8,7 +8,7 @@
 
 New challenger of not giving stable modding experience to its users appeared. VectorPlexus is a place, which is usually associated with High Poly Head (but is about much more... *wink...* but not just about *that*). Unfortunately, due to it being unstable many people just can't install the list and that's why I needed to make a decision to remove all the mods from VectorPlexus at least for now. Fortunately, High Poly Head is also hosted by its author on Google Drive... Armored pants won't be forgotten.
 
-At least that has allowed me to make a not save compatible update, so here we ago. For those, who are able to resist the urge of updating their list every time, the scripting optimization mods will surely make it more pleasant to play the game for a long time. Also be ready that now you will be able to conquest some of the key locations of Skyrim for your faction of choice to control. This update is also very beneficial for followers as now you will be able to be more close to them during your adventures, while also being able to give them a regular place to stay in.
+At least that has allowed me to make a not save compatible update, so here we ago. For those, who are able to resist the urge of updating their list every time, the scripting optimization mods will surely make it more pleasant to play the game for a long time. Also be ready that now you will be able to conquest some of the key locations of Skyrim for your faction of choice to control with _Lawbringer_. This update is also very beneficial for followers as now you will be able to be more close to them during your adventures by using _I'm Glad You're Here_, while also being able to give them a regular place to stay in with _Live Here_.
 
 And the most important and life changing experience - KITTIES. They purr!
 
@@ -41,9 +41,9 @@ And the most important and life changing experience - KITTIES. They purr!
 
 ## Changes
 
-* Added very important rule related to Live Here in the Wabbajack guide.
+* Added very important rule related to Live Here.
 * Changed the time allocated to finish the main quest to 14 real time days.
-* Added information about Lawbringer and I'm Glad You Are Here in the gameplay guide.
+* Added information about Lawbringer and I'm Glad You Are Here to the gameplay guide.
 * Configured the newest Equipment Toggle to work just on us and not to touch shields.
 > Like it was before the previous update. You can just not equip helmet on your follower if you would like to see their face as they aren't as dependant on equipment as you. I am fine with that. And that funcionality of followers hiding their gear too conflicts with some of the followers (Dagri'hon and some others).
 
