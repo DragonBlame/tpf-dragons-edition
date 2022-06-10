@@ -23,6 +23,7 @@ At least that has allowed me to make a not save compatible update, so here we ag
 * JK's Sinderion's Field Laboratory
 * Live Here
 * I'm Glad You're Here
+* Vigilance the Husky
 * Draugr Ragdoll Bug Fix
 * Supreme Vampire Lords
 * Vampire Lord Body Reworked
