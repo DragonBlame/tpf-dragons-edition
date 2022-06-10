@@ -10,6 +10,8 @@ New challenger of not giving stable modding experience to its users appeared. Ve
 
 At least that has allowed me to make a not save compatible update, so here we ago. For those, who are able to resist the urge of updating their list every time, the scripting optimization mods will surely make it more pleasant to play the game for a long time. Also be ready that now you will be able to conquest some of the key locations of Skyrim for your faction of choice to control. This update is also very beneficial for followers as now you will be able to be more close to them during your adventures, while also being able to give them a regular place to stay in.
 
+And the most important and life changing experience - KITTIES. They purr!
+
 ## Added Mods
 
 * Vanilla Script (micro)Optimizations
@@ -19,6 +21,7 @@ At least that has allowed me to make a not save compatible update, so here we ag
 * Imperial Law - Lawbringer for Bruma
 * Beyond Skyrim in Skyrim - An Integration Mod
 * Wyrm Tamer - Lawbringer for Wyrmstooth
+* Twenty Eight Friendly Cats
 * Riften Gate Restored
 * JK's Sinderion's Field Laboratory
 * Live Here
