@@ -44,6 +44,7 @@ At least that has allowed me to make a not save compatible update, so here we ag
 
 * Serana Dialogue Add-On
 * Sconces of Skyrim - Markarth Braziers Improved
+* Cathedral - 3D Mountain Flowers
 * Seasons of Skyrim
 * Seasonal Landscapes
 * JK's Arcadia's Cauldron
