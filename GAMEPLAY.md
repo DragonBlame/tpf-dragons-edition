@@ -81,10 +81,10 @@ If you want to change the button for dodging, do the following:
 
 * [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Left Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
 * [Knocking](https://www.nexusmods.com/skyrimspecialedition/mods/14098) - Knock on locked doors by activating them. Good for roleplaying and also useful.
+* [Claiming strongholds](https://www.nexusmods.com/skyrimspecialedition/mods/29882) - Claim several outposts for the faction you support to keep hostile enemies from coming back making Skyrim a safer place. 
 * [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.
 * [Call your horse by whistling](https://www.nexusmods.com/skyrim/mods/91395) - Right from the beginning of the game gives you power to call your horse after fights. 
 * * Control your [followers](https://www.nexusmods.com/skyrimspecialedition/mods/63259) and/or [summons, resurrected enemies](https://www.nexusmods.com/skyrimspecialedition/mods/66919) behaviour - Use `'` button to open a special menu for followers and/or summons to be able to make them wait or teleport them to you. Feel free to to do the same things and also dismiss and equip items to your summons and resurrected minions by simply activating them. 
-* [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Loot while riding on horse](https://www.reddit.com/r/skyrimmods/comments/cae3x2/mod_improved_camera_beta_3/) - Loot as always by pressing `E` button. Hold `E` button to dismount. 
 * [Paragliding](https://www.nexusmods.com/skyrimspecialedition/mods/53256) - Be sure to travel around Falkreath. Something interesting might happen. When you get the paraglider, toggle paraglider by pressing your activation key 
 (`E` by default), while in the air. After fiding and learning neat spell around the platform, use your shout key (`Z` by default) to fly higher. Paraglider can be used only in the third person.
@@ -115,13 +115,16 @@ using MCM.
 * [Stealing without accidents](https://www.nexusmods.com/skyrimspecialedition/mods/64339) - Now you need to be crouched to _see_ items, which aren't the ones in containers.
 * [Clairvoyance (_Guiding Wisp_ now)](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Clairvoyance, but much more useful. Just try it out (be sure that you have an active quest in your journal).
 * [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your `Right Alt` key to disable or enable animated shouts at any time.
+* [Appretiation to followers](https://www.nexusmods.com/skyrimspecialedition/mods/41856) - Allows you to thank your companions for being with you during hard times. Just tell them that you are glad they are helping you. The appreciation works in the other way too.
+* [Living place for companions](https://www.nexusmods.com/skyrimspecialedition/mods/68153) - Followers deserve a place they can call home as well. If you belive it is time for your comrade to settle down, then just tell them about it. 
+* [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Clean up your mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645) - Now if you have accidentally (or maybe not) Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
 * [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Now there are much more of them than in vanilla Skyrim and they look pretty different from each other. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
 * [Enemies during College of Winterhold quest line](https://www.nexusmods.com/skyrimspecialedition/mods/44557) - Now you will actually need magic to beat College of Winterhold. You have been warned. Conjured minions, enhanced weapons, illusion, of course, destruction magic, shouts. Good, old steel isn't as reliable now.
 * [Hjerim without joining the war](https://www.nexusmods.com/skyrimspecialedition/mods/29508) - It is enough to just take the care of the Butcher.
 * [Cured Serana's look](https://www.nexusmods.com/skyrimspecialedition/mods/35892) - If you cure Serana from her vampirism in the future, remember to save the game, close it and then in MO2 enable `Cured Serana Patch`, which 
 you will be able to find inside the _NPC Overhauls_ separator. Then you can safely continue the game and you will see that Serana actually looks like human now.
-* [Revert back to your human form after feasting as werewolf](https://www.nexusmods.com/skyrimspecialedition/mods/35736) - Just press `Q` button.
+* [Revert back to your human form after feasting as werewolf (or vampire)](https://www.nexusmods.com/skyrimspecialedition/mods/35736) - Just press `Q` button.
 * [Sun can't just kill you as a vampire](https://www.nexusmods.com/skyrimspecialedition/mods/42212) - Now you can be safe from sun the same way as Serana by wearing any kind of head gear on you (circlets don't count).
 
 ---
