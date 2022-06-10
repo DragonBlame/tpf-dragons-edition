@@ -13,7 +13,7 @@ then press `F9` button to load available presets and then choose the desired one
 [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) allows us to skip the carriage drive and enter right into Helgen’s Keep with Ralof or Hadvar. 
 In some way it isn't an alternative start, but at the same time it is. What matters is this mod’s simplicity, which allows us to jump right into the action.
 
-[End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201) adds a bit of spice and action to the game as it will simply end it (immersively) if you don't finish the game's main quest line by default in one in-game year (approximately 18 real life days, that means 432 real life hours). That should be enough (and even feels right somehow) to do many other things in between saving the world for the first time. And don't worry - the game won't end if you finish the main quest. You can always enter into the mod's MCM to see how much time you have left if you have forgotten about it. Be sure to remember.
+[End Times](https://www.nexusmods.com/skyrimspecialedition/mods/39201) adds a bit of spice and action to the game as it will simply end it (immersively) if you don't finish the game's main quest line in 14 real life days, that means 336 real life hours. That should be enough (and even feels right somehow) to do many other things in between saving the world for the first time. And don't worry - the game won't end if you finish the main quest. You can always enter into the mod's MCM to see how much time you have left if you have forgotten about it. Be sure to remember.
 
 ---
 
