@@ -38,8 +38,8 @@ At least that has allowed me to make a not save compatible update, so here we ag
 
 ## Changes
 
-* Configured the newest Equipment Toggle to work just on us manually and not to touch shields.
-> Like it was before. For now it will be good. You can just not equip helmet on your follower if you would like to see their face as they aren't as dependant on equipment as you.
+* Configured the newest Equipment Toggle to work just on us and not to touch shields.
+> Like it was before the previous update. You can just not equip helmet on your follower if you would like to see their face as they aren't as dependant on equipment as you. I am fine with that.
 
 ## Updated Mods
 
