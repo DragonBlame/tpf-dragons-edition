@@ -116,7 +116,7 @@ using MCM.
 * [Clairvoyance (_Guiding Wisp_ now)](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Clairvoyance, but much more useful. Just try it out (be sure that you have an active quest in your journal).
 * [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your `Right Alt` key to disable or enable animated shouts at any time.
 * [Appretiation to followers](https://www.nexusmods.com/skyrimspecialedition/mods/41856) - Allows you to thank your companions for being with you during hard times. Just tell them that you are glad they are helping you. The appreciation works in the other way too.
-* [Living place for companions](https://www.nexusmods.com/skyrimspecialedition/mods/68153) - Followers deserve a place they can call home as well. If you belive it is time for your comrade to settle down, then just tell them about it. 
+* [Living place for companions](https://www.nexusmods.com/skyrimspecialedition/mods/68153) - Followers deserve a place they can call home as well. If you beleive it is time for your comrade to settle down, then just tell them about it. Use this option **only** if you are sure that you have gone through all of your follower's content, which you are interested in, or if you won't want to play together with them anymore on your walkthrough.
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Clean up your mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645) - Now if you have accidentally (or maybe not) Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
 * [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Now there are much more of them than in vanilla Skyrim and they look pretty different from each other. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
@@ -235,7 +235,7 @@ quest *A Blade in the Dark*.
 * **The Forgotten Seasons** - Find and enter into Runoff Caverns, which are very close to Lost Valley Redoubt (and/or read a note in one of the mercenaries' tents that serves as an alternate way to begin the quest). I recommend to be close to level 20.
 * **The Wheels of Lull** - Automatically after reaching level 20, can be finished after reaching level 35.
 * **Helgen Reborn** - **Must** be started after 5 days after you have finished the main quest *Unbound* to make sure that Helgen has bandits inside it. 
-Otherwise it can work incorrectly. Recommended to be started at level 20. ._Note_ in the Bannered Mare can be activated to start the quest. 
+Otherwise it can work incorrectly. Recommended to be started at level 20. _Note_ in the Bannered Mare can be activated to start the quest. 
 * **The Tools of Kagrenac** - Join College of Winterhold and finish the
 side questline *Arniel’s Endeavor*. You’ll also need to have finished
 *The Way of the Voice*. A couple of days after you completed *Arniel’s
