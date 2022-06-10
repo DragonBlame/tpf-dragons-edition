@@ -207,7 +207,7 @@ Some quick tips before the end:
 
 **And some important info.** _Note_ in the Bannered Mare can be activated **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
-Second, **don't use** dialogue option _About living here..._ on followers with their own unique AI, who have a script to develop and/or their own unique quests like Serana, Inigo, Lucien etc., because this will interrupt their story development and they won't be able to continue their progress. Only do that for them if you are sure that you have gone through all of their content, which you are interested in, or if you won't want to play together with them anymore on your walkthrough.
+Second, **don't use** dialogue option _About living here..._ on followers with their own unique AI, who have a script to develop and/or their own unique quests like Serana, Inigo, Lucien etc., because this will interrupt their story advancement and they won't be able to continue their progress. Only do that for them if you are sure that you have gone through all of their content, which you are interested in, or if you won't want to play together with them anymore on your walkthrough.
 
 Also a reminder that the modlist uses a mod called _End Times_, which will **end the game** if don't finish the main quest line by default in one in-game year (approximately **18 real life days, that means 432 real life hours**). Go into the mod's mod configuration menu and lock the slider not to be tempted to change the final date all time. 
 That should be enough (and even feels right somehow) to do many other things in between saving the world for the first time. 
