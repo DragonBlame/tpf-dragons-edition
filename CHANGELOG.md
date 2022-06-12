@@ -2,6 +2,36 @@
 
 # Changelog
 
+## Version 2.6.1.
+
+**Is save compatible.**
+
+Approximately 80% of people, who have filled in my little survey in the TPF Discord's server, don't like Culminated ENB, so while I was up for the task I have decided to make the experience of playing the game for you better by switching to PI-CHO ENB, which many people enjoy for its similarities with Silent Horizons ENB, while being more crisp and fresh. With some tweaks to saturation and some other litttle things here and there I have started to grow up on it and couldn't switch it to anything else. 
+
+And, of course, some updates and fixes as always. Can't imagine how anyone hasn't seen juniper berries already. 
+
+## Added Mods
+
+* PI-CHO ENB
+> With little bit of tweaks by yours truly.
+
+## Removed Mods
+
+* Culminated ENB
+
+## Changes
+
+* Fixed juniper berries.
+
+## Updated Mods
+
+* Moon and Star - Undeath Remastered Patch
+* Dragon War - A Dragon Overhaul
+* Soaking Wet - Character Wetness Effect
+* Jumping Attack
+
+---
+
 ## Version 2.6.
 
 **New save is required.**
