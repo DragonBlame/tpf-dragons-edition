@@ -13,7 +13,7 @@ And, of course, some updates and fixes as always. Can't imagine how anyone hasn'
 ## Added Mods
 
 * PI-CHO ENB
-> With little bit of tweaks by yours truly.
+> With little tweaks by yours truly.
 
 ## Removed Mods
 
