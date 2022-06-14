@@ -14,6 +14,9 @@ And, of course, some updates and fixes as always. Can't imagine how anyone hasn'
 
 * PI-CHO ENB
 > With little tweaks by yours truly.
+* Lucien - Creation Club - Forgotten Seasons Patch
+* Lucien - Creation Club - Rare Curios Patch
+> If we are honest, I have completely forgotten about these two.
 
 ## Removed Mods
 
