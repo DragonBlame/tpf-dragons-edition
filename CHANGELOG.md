@@ -21,6 +21,7 @@ And, of course, some updates and fixes as always. Can't imagine how anyone hasn'
 
 ## Changes
 
+* Fixed unresponsiveness after being staggered while using wards.
 * Fixed juniper berries.
 
 ## Updated Mods
