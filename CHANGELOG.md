@@ -6,14 +6,13 @@
 
 **Is save compatible.**
 
-Approximately 80% of people, who have filled in my little survey in the TPF Discord's server, don't like Culminated ENB, so while I was up for the task I have decided to make the experience of playing the game for you better by switching to PI-CHO ENB, which many people enjoy for its similarities with Silent Horizons ENB, while being more crisp and fresh. With some tweaks to saturation and some other litttle things here and there I have started to grow up on it and couldn't switch it to anything else. 
+Approximately 80% of people, who have filled in my little survey in the TPF Discord's server, don't like Culminated ENB, so while I was up for the task I have decided to make the experience of playing the game for you better by switching to PI-CHO ENB, which many people enjoy for its similarities with Silent Horizons ENB, while being more crisp and fresh. With some adjustments to saturation and some other little tweaks here and there I have started to grow up on it and couldn't switch it to anything else. 
 
 And, of course, some updates and fixes as always. Can't imagine how anyone hasn't seen juniper berries already. 
 
 ## Added Mods
 
 * PI-CHO ENB
-> With little tweaks by yours truly.
 * Lucien - Creation Club - Forgotten Seasons Patch
 * Lucien - Creation Club - Rare Curios Patch
 > If we are honest, I have completely forgotten about these two.
@@ -27,6 +26,7 @@ And, of course, some updates and fixes as always. Can't imagine how anyone hasn'
 * Fixed infinite loading screen after entering Dead Man's Drink.
 * Fixed unresponsiveness after being staggered while using wards.
 * Fixed juniper berries.
+* Removed two flying bushes near Apachii Divine Elegance Store.
 
 ## Updated Mods
 
