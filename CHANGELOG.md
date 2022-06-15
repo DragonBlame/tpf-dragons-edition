@@ -32,7 +32,7 @@ And, of course, some updates and fixes as always. Can't imagine how anyone hasn'
 
 * Moon and Star - Undeath Remastered Patch
 * Kaidan 2 Extended Edition
-* Lucifer - Wyrmstooth Patch
+* Lucifer - Argonian Custom Voiced Follower
 * Seasonal Landscapes
 * Dragon War - A Dragon Overhaul
 * Soaking Wet - Character Wetness Effect
