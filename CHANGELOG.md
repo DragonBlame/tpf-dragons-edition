@@ -2,6 +2,18 @@
 
 # Changelog
 
+## Version 2.6.1.1.
+
+**Is save compatible.**
+
+Just a little update for Seasonal Landscapes to fix some landscape seams. Nothing more for now.
+
+## Updated Mods
+
+* Seasonal Landscapes
+
+---
+
 ## Version 2.6.1.
 
 **Is save compatible.**
