@@ -6,7 +6,7 @@
 
 **Is save compatible.**
 
-Just a little update for Seasonal Landscapes to fix some landscape seams. Nothing more... for now.
+Just a little update for Seasonal Landscapes to fix some landscape seams before (maybe) going all in.
 
 ## Updated Mods
 
