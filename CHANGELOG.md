@@ -21,7 +21,8 @@ xxx
 
 ## Changes
 
-* 
+* Removed ENB light from potions and deathbell.
+> It was too much.
 
 ## Updated Mods
 
