@@ -15,6 +15,7 @@ xxx
 * Relighting Skyrim
 * Remove Dust Fog Smoke Mist Glow
 > We are just removing dust. Like somehow Bethesda thought it will be a good idea not to make decent window shadows, but just to put dust effect in their place. Better to be without it then.
+* Cathedral - 3D Snow Berries
 * Alchemy Ingredients - ENB Light
 > We are using just some things, which weren't covered by mods we use already or things, which are done better.
 
