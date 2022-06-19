@@ -14,7 +14,7 @@ xxx
 * Lakeview Manor - As It Should Be
 * Relighting Skyrim
 * Alchemy Ingredients - ENB Light
-- We are using just some things, which weren't covered by mods we use already.
+> We are using just some things, which weren't covered by mods we use already.
 
 ## Removed Mods
 
