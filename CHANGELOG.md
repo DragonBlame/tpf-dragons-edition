@@ -14,17 +14,18 @@ xxx
 * Lakeview Manor - As It Should Be
 * Relighting Skyrim
 * Remove Dust Fog Smoke Mist Glow
-> We are just removing dust. Like somehow Bethesda thought it will be a good idea not to make decent window shadows, but just to put dust effect in their place. Better to be without it then.
+> Just removing dust for us. Like somehow Bethesda thought it will be a good idea not to make decent window shadows, but just to put dust effect in their place. Better to be without it then.
 * Cathedral - 3D Snow Berries
 * Alchemy Ingredients - ENB Light
-> We are using just some things, which weren't covered by mods we use already or things, which are done better.
+> Covers uncovered ingredients, while making some of them look even better.
 
 ## Removed Mods
 
 * Relighting Skyrim with Window Shadows
+> While normal shadows for windows are surely great, the mod author of Window Shadows no longer maintains it, meanwhile the author of Relightning Skyrim still does the job and pretty well.
 * Relighting Skyrim - No Player Homes
 * Awesome Potions Simplified - ENB Lights
-> It was too much.
+> It was too much. They are pretty bright on their own.
 
 ## Changes
 
