@@ -4,7 +4,7 @@
 
 ## Version 2.7.
 
-**New save is required.**
+**New save is required. Is updated for TPF v. 4.15.**
 
 xxx
 
