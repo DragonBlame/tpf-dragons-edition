@@ -180,16 +180,10 @@ Don't be scared if you saw parts of your body during the movement (and/or after 
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
-* **Look What You See** - Press your `V` key.
-> A headtracking mod. Can be seen in action in the third person view.
-
-To toggle between the first and the third person view, use `F` key.
-
-Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
-
-* **Equipment Toggle** - Press `Arrow Down` button to toggle your heagear's visibility off and on.
-* **Animated Shouts** - Press your `right Alt` key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip about all these mods and options in my gameplay guide for the fork too if you forget about them.
+* **Look What You See** - Press your `V` key to toggle headtracking in the third person view.
+* **Improved Camera** - Use your `F` key to toggle between the first and the third person view.
+* **Toggle Compass Hotkey** - Tap `X` key to toggle visibility of your compass.
+* **Equipment Toggle** - Press `Arrow Down` button to toggle your heagear's visibility.
 
 Some quick tips before the end:
 
