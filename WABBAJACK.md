@@ -2,12 +2,6 @@
 
 # Wabbajack Guide
 
-## Disclaimer
-
-### READING THIS GUIDE IS REQUIRED FOR THE MODPACK TO WORK AS INTENDED. IT WILL NOT WORK CORRECTLY IF YOU DO NOT GET AQQUAINTED AND FOLLOW ALL THE INSTRUCTIONS.
-
----
-
 ## About Wabbajack and the fork
 
 Wabbajack allows you to install my modpack to your PC by duplicating my setup directly to your PC, including each mod, setting, output etc. 
@@ -16,6 +10,8 @@ If you want to better understand the general idea of Wabbajack, refer to a Reddi
 
 If you would like to learn more general information about the fork, be sure to visit its home page again [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973). 
 I would very strongly recommend to check _Questions & Answers_ section for the most popular questions asked by users of the fork.
+
+> **Warning**: Reading this guide is required for the modlist to work as intended. It will not work correctly if you do not get aqquainted and follow all the instructions.
 
 ---
 
@@ -33,6 +29,8 @@ if you have them already.
   
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
   - The latest version of Skyrim - 1.6.353. with the Anniversary Upgrade.
+ 
+ > **Warning**: The Anniversary Upgrade isn't optional. Without it the modlist just won't load for you.
 
 ---
 
@@ -179,8 +177,6 @@ After you get control over movements of your character, don’t go anywhere righ
 It will be awesome if you wait for a pop-up about finishing things setting up to appear before doing anything else.
 Don't be scared if you saw parts of your body during the movement (and/or after you finished creating your character), that will go away, when you will regain full control of your character.
 
-
-
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
@@ -205,7 +201,9 @@ Some quick tips before the end:
 
 ---
 
-**And some important info.** _Note_ in the Bannered Mare can be activated **only** after 5 in-game days after you have finished the main quest _Unbound_.
+> **Warning**: Very important information!
+
+_Note_ in the Bannered Mare can be activated **only** after 5 in-game days after you have finished the main quest _Unbound_.
 
 Second, **don't use** dialogue option _About living here..._ on not followers (guards, Nazeem, literally anyone, who doesn't have any ways of following you) and followers with their own unique AI, who have a script to develop and/or their own unique quests like Serana, Inigo, Lucien etc., because this will interrupt their story advancement and they won't be able to continue their progress. Only do that for them if you are sure that you have gone through all of their content, which you are interested in, or if you won't want to play together with them anymore on your walkthrough.
 
