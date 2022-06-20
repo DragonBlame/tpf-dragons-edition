@@ -30,7 +30,7 @@ if you have them already.
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
   - The latest version of Skyrim - 1.6.353. with the Anniversary Upgrade.
  
- > **Warning**: The Anniversary Upgrade isn't optional. Without it the modlist just won't load for you.
+ > **Warning**: The Anniversary Upgrade isn't optional. Without it the modlist just won't install for you.
 
 ---
 
