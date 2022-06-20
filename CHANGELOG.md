@@ -21,6 +21,8 @@ xxx
 
 ## Removed Mods
 
+* e-FPS and its patches
+> The culprit of LODs popping up or not appearing at all. I prefer quality of LODs more than performance, because, as a reminder, this modlist was never supposed to be the most performance friendly one. 
 * Relighting Skyrim with Window Shadows
 > While normal shadows for windows are surely great, the mod author of Window Shadows no longer maintains it, meanwhile the author of Relightning Skyrim still does the job and pretty well.
 * Relighting Skyrim - No Player Homes
