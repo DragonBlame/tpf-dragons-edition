@@ -131,7 +131,7 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 
 ---
 
-## Anniversary Update
+## Anniversary Upgrade
 
 Creation Content available in the modlist:
 * The Forgotten Seasons
