@@ -37,3 +37,4 @@ xxx
 ## Updated Mods
 
 * Apothecary - Bruma Patch
+* Apothecary - Wyrmstooth Patch
