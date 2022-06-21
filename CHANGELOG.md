@@ -11,15 +11,15 @@ xxx
 ## Added Mods
 
 * Racemenu Memory Leak Patch
-* Lakeview Manor - As It Should Be
-* Assorted Bruma Mesh Fixes
 * Relighting Skyrim
 * Bandit Lines Expansion - Dark Elfs Add-On
-* Magical Blackreach
+* Lakeview Manor - As It Should Be
+* Assorted Bruma Mesh Fixes
 * Remove Dust Fog Smoke Mist Glow
 > Just removing dust for us. Like somehow Bethesda thought it will be a good idea not to make decent window shadows, but just to put dust effect in their place. Better to be without it then.
 * Cathedral - 3D Snow Berries
 * Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter
+* Magical Blackreach
 * Alchemy Ingredients - ENB Light
 > Covers uncovered ingredients, while making some of them look even better.
 
