@@ -143,8 +143,8 @@ If you want to change your field of view (FOV), do the following:
 ---
 
 Some of the mods inside Mod Organizer are disabled by default in the modpack. Some of these are:
-  - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
-  - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
+  - _Blade and Bunt - Vanilla Difficulty Modifiers_ under TPF's _DIFFICULTY MODIFIERS_ separator, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
+  - All the mods under _WIDESCREEN SUPPORT_ separator, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 > Do not touch any other disabled mods for now.
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
