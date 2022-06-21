@@ -36,5 +36,4 @@ xxx
 
 ## Updated Mods
 
-* Scrambled Bugs
-* Dragon War - A Dragon Overhaul
+* Apothecary - Bruma Patch
