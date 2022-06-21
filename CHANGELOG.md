@@ -14,6 +14,7 @@ xxx
 * Lakeview Manor - As It Should Be
 * Assorted Bruma Mesh Fixes
 * Relighting Skyrim
+* Bandit Lines Expansion - Dark Elfs Add-On
 * Remove Dust Fog Smoke Mist Glow
 > Just removing dust for us. Like somehow Bethesda thought it will be a good idea not to make decent window shadows, but just to put dust effect in their place. Better to be without it then.
 * Cathedral - 3D Snow Berries
@@ -40,7 +41,6 @@ xxx
 
 * DynDOLOD Resources
 * Optimized USSEP Valdr Quest
-* Bandit Lines Expansion - Dark Elfs Add-On
 * Serana Dialogue Add-On - NPCs Wear Amulets of Mara Patch
 * Apothecary - Bruma Patch
 * Apothecary - Wyrmstooth Patch
