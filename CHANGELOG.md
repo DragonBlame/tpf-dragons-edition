@@ -26,7 +26,9 @@ xxx
 ## Removed Mods
 
 * e-FPS and its patches
-> The culprit of LODs popping up or not appearing at all. I prefer quality of LODs more than performance, because, as a reminder, this modlist was never supposed to be the most performance friendly one. 
+> The culprit of LODs popping up or not appearing at all. I prefer quality of LODs more than performance, because, as a reminder, this modlist was never supposed to be the most performance friendly one.
+* XP32 Maximum Skeleton Special Extended - Fixed Scripts
+> Isn't needed anymore, because of XP32 scipts being removed. 
 * Relighting Skyrim with Window Shadows
 > While normal shadows for windows are surely great, the mod author of Window Shadows no longer maintains it, meanwhile the author of Relightning Skyrim still does the job and pretty well.
 * Relighting Skyrim - No Player Homes
@@ -35,6 +37,8 @@ xxx
 
 ## Changes
 
+* Removed everything except meshes from XP32 Maximum Skeleton Special Extended.
+> That means that there won't be any more bloat or scripts accumulating over time on your saves. 
 * ESLified many of the plugins to free space for the additions.
 
 
