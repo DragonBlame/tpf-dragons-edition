@@ -28,12 +28,12 @@ xxx
 * e-FPS and its patches
 > The culprit of LODs popping up or not appearing at all. I prefer quality of LODs more than performance, because, as a reminder, this modlist was never supposed to be the most performance friendly one.
 * XP32 Maximum Skeleton Special Extended - Fixed Scripts
-> Isn't needed anymore, because of XP32 scipts being removed. 
+> Isn't needed anymore, because of XP32 scripts being removed. 
 * Relighting Skyrim with Window Shadows
 > While normal shadows for windows are surely great, the mod author of Window Shadows no longer maintains it, meanwhile the author of Relightning Skyrim still does the job and pretty well.
 * Relighting Skyrim - No Player Homes
 * Awesome Potions Simplified - ENB Lights
-> It was too much. They are pretty bright on their own.
+> It is too much. They are pretty bright on their own.
 
 ## Changes
 
