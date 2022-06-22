@@ -20,6 +20,7 @@ xxx
 * Cathedral - 3D Snow Berries
 * Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter
 * Magical Blackreach
+* Immmersive Equipment Displays
 * Alchemy Ingredients - ENB Light
 > Covers uncovered ingredients, while making some of them look even better.
 
