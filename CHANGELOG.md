@@ -50,11 +50,13 @@ xxx
 * Serana Dialogue Add-On - NPCs Wear Amulets of Mara Patch
 * Apothecary - Bruma Patch
 * Apothecary - Wyrmstooth Patch
+* High Poly Kaidan - Face and Body
 * Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 * Pilgrim - A Religion Overhaul
 * Tragedian's Interesting NPCs
 * Happy Little Trees
 * Happy Little Trees Add-On - DynDOLOD
+* Seasonal Landscapes
 * Seasonal Wildlife Distribution
 * Apothecary Patches by Missile
 * Simply Order Summons
