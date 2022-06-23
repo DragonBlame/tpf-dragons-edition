@@ -11,7 +11,6 @@ xxx
 ## Added Mods
 
 * Unarmed Weapon Speed Scaling
-> Which will be in TPF too soon, so that's why it is under TPF's animations separator.
 * Relighting Skyrim
 * Bandit Lines Expansion - Dark Elfs Add-On
 * Lakeview Manor - As It Should Be
