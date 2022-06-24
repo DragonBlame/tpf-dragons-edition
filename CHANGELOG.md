@@ -12,6 +12,7 @@ xxx
 
 * Unarmed Weapon Speed Scaling
 * Relighting Skyrim
+* Harvest Your Blood for Septimus
 * Say No To Calcelmo
 * Bandit Lines Expansion - Dark Elfs Add-On
 * Lakeview Manor - As It Should Be
