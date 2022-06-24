@@ -12,6 +12,7 @@ xxx
 
 * Unarmed Weapon Speed Scaling
 * Relighting Skyrim
+* Say No To Calcelmo
 * Bandit Lines Expansion - Dark Elfs Add-On
 * Lakeview Manor - As It Should Be
 * Assorted Bruma Mesh Fixes
