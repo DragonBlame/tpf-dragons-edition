@@ -16,6 +16,8 @@ xxx
 * Harvest Your Blood for Septimus
 * Say No To Calcelmo
 * Bandit Lines Expansion - Dark Elfs Add-On
+* Lunar Armory - A Silent Moons Overhaul
+* Lunar Armory - WACCF Patch
 * Eastern Dwemer Towers of Solstheim
 * Lakeview Manor - As It Should Be
 * Assorted Bruma Mesh Fixes
