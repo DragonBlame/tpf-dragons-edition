@@ -12,6 +12,7 @@ xxx
 
 * Unarmed Weapon Speed Scaling
 * Relighting Skyrim
+* Quest Conflict Fixes - Get Aegisbane
 * Harvest Your Blood for Septimus
 * Say No To Calcelmo
 * Bandit Lines Expansion - Dark Elfs Add-On
