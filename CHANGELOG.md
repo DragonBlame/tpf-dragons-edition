@@ -34,6 +34,8 @@ xxx
 * Relighting Skyrim with Window Shadows
 > While normal shadows for windows are surely great, the mod author of Window Shadows no longer maintains it, meanwhile the author of Relightning Skyrim still does the job and pretty well.
 * Relighting Skyrim - No Player Homes
+* JK's Sinderion's Field Laboratory
+> I have realised that even thou it looks great, it makes no sense for it to be so good in Blackreach.
 * Awesome Potions Simplified - ENB Lights
 > It is too much. They are pretty bright on their own.
 
