@@ -16,6 +16,7 @@ xxx
 * Harvest Your Blood for Septimus
 * Say No To Calcelmo
 * Bandit Lines Expansion - Dark Elfs Add-On
+* Eastern Dwemer Towers of Solstheim
 * Lakeview Manor - As It Should Be
 * Assorted Bruma Mesh Fixes
 * Lucien - Creation Club - Alternative Armors - Silver Patch
