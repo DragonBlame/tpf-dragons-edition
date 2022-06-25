@@ -26,6 +26,7 @@ xxx
 * Citizens of Tamriel Visual Overhaul
 * Remove Dust Fog Smoke Mist Glow
 > Just removing dust for us. Like somehow Bethesda thought it will be a good idea not to make decent window shadows, but just to put dust effect in their place. Better to be without it then.
+* Extravagant Interiors - Solitude
 * Cathedral - 3D Snow Berries
 * Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter
 * Magical Blackreach
