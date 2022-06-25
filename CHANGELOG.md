@@ -40,7 +40,7 @@ xxx
 * XP32 Maximum Skeleton Special Extended - Fixed Scripts
 > Isn't needed anymore, because of XP32 scripts being removed. 
 * Relighting Skyrim with Window Shadows
-> While normal shadows for windows are surely great, the mod author of Window Shadows no longer maintains it, meanwhile the author of Relightning Skyrim still does the job and pretty well.
+> While normal shadows for windows are surely great, the mod authors of Window Shadows no longer maintain it, meanwhile the authors of Relightning Skyrim still do the job and pretty well, but on the main mod itself.
 * Relighting Skyrim - No Player Homes
 * JK's Sinderion's Field Laboratory
 > I have realised that even thou it looks great, it makes no sense for it to be so good in Blackreach.
