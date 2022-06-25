@@ -22,6 +22,8 @@ xxx
 * Lakeview Manor - As It Should Be
 * Assorted Bruma Mesh Fixes
 * Lucien - Creation Club - Alternative Armors - Silver Patch
+* Citizens of Tamriel
+* Citizens of Tamriel Visual Overhaul
 * Remove Dust Fog Smoke Mist Glow
 > Just removing dust for us. Like somehow Bethesda thought it will be a good idea not to make decent window shadows, but just to put dust effect in their place. Better to be without it then.
 * Cathedral - 3D Snow Berries
@@ -72,4 +74,5 @@ xxx
 * Apothecary Patches by Missile
 * Simply Order Summons
 * I'm Glad You're Here
+* Improved Camera
 * Draugr Ragdoll Bug Fix
