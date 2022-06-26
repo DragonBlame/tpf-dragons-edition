@@ -53,7 +53,8 @@ xxx
 * Enabled patch for reducing difficulty of Dragon War.
 > The patch just adjusts some values, so dragons don't have so much health anymore (which was pretty annoying as they were just bullet sponges) and their attacks deal a bit less damage, but they are still the force to be reckoned with.
 * Removed everything except meshes from XP32 Maximum Skeleton Special Extended.
-> That means that there won't be any more bloat or scripts accumulating over time on your saves. 
+> That means that there won't be any more bloat or scripts accumulating over time on your saves.
+* Fixed Cicero's black face.
 * ESLified many of the plugins to free space for the additions.
 
 
