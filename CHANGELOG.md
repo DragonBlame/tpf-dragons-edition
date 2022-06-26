@@ -62,6 +62,7 @@ xxx
 * DynDOLOD Resources
 * Optimized USSEP Valdr Quest
 * Serana Dialogue Add-On - NPCs Wear Amulets of Mara Patch
+* Feminine Argonian Textures
 * Apothecary - Bruma Patch
 * Apothecary - Wyrmstooth Patch
 * High Poly Kaidan - Face and Body
