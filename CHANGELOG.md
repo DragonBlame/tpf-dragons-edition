@@ -58,6 +58,7 @@ xxx
 * Removed everything except meshes from XP32 Maximum Skeleton Special Extended.
 > That means that together with Racemenu fix there shouldn't be any more bloat or scripts accumulating over time on your saves.
 * Fixed Cicero's black face.
+* Added user made presets for the list.
 * ESLified many of the plugins to free space for future additions.
 
 ## Updated Mods
