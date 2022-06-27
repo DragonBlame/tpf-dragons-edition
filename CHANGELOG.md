@@ -4,32 +4,34 @@
 
 ## Version 2.7.
 
-**New save is required. Is updated for TPF v. 4.15.**
+**New save is required. Is updated for TPF v. 4.15.1.**
 
 xxx
 
 ## Added Mods
 
-* Unarmed Weapon Speed Scaling
 * Relighting Skyrim
 * Quest Conflict Fixes - Get Aegisbane
 * Harvest Your Blood for Septimus
 * Say No To Calcelmo
 * Bandit Lines Expansion - Dark Elfs Add-On
+* Lakeview Manor - As It Should Be
 * Lunar Armory - A Silent Moons Overhaul
 * Lunar Armory - WACCF Patch
+* Morrowind Creatures
 * Eastern Dwemer Towers of Solstheim
-* Lakeview Manor - As It Should Be
 * Assorted Bruma Mesh Fixes
 * Lucien - Creation Club - Alternative Armors - Silver Patch
-* Citizens of Tamriel
-* Citizens of Tamriel Visual Overhaul
-* Remove Dust Fog Smoke Mist Glow
-> Just removing dust for us. Like somehow Bethesda thought it will be a good idea not to make decent window shadows, but just to put dust effect in their place. Better to be without it then.
-* Extravagant Interiors - Solitude
 * Cathedral - 3D Snow Berries
 * Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter
+* Lepidoptera - More Butterflies and Moths
+* Lepidoptera Unchained
+* Lepidoptera - Apothecary Patch
 * Magical Blackreach
+* Snazzy Furniture and Clutter Overhaul
+* Snazzy Furniture and Clutter Overhaul Patch Collection
+* Extravagant Interiors - Solitude
+* Fia's Eyes
 * Immmersive Equipment Displays
 * Alchemy Ingredients - ENB Light
 > Covers uncovered ingredients, while making some of already covered ones look even better.
@@ -43,6 +45,7 @@ xxx
 * Relighting Skyrim with Window Shadows
 > While normal shadows for windows are surely great, the mod authors of Window Shadows no longer maintain it, meanwhile the authors of Relightning Skyrim still do the job and pretty well, but on the main mod itself.
 * Relighting Skyrim - No Player Homes
+* Frozen in Time - Definitely Not A Snow Elf Waifu Mod
 * JK's Sinderion's Field Laboratory
 > I have realised that even thou it looks great, it makes no sense for it to be so good in Blackreach.
 * Awesome Potions Simplified - ENB Lights
@@ -56,7 +59,6 @@ xxx
 > That means that there won't be any more bloat or scripts accumulating over time on your saves.
 * Fixed Cicero's black face.
 * ESLified many of the plugins to free space for the additions.
-
 
 ## Updated Mods
 
