@@ -62,6 +62,7 @@ xxx
 
 ## Updated Mods
 
+* ENBSeries binaries
 * DynDOLOD Resources
 * Optimized USSEP Valdr Quest
 * Serana Dialogue Add-On - NPCs Wear Amulets of Mara Patch
