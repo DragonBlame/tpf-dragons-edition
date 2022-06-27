@@ -70,6 +70,7 @@ xxx
 * Apothecary - Wyrmstooth Patch
 * High Poly Kaidan - Face and Body
 * Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+* JK's Blue Palace
 * Pilgrim - A Religion Overhaul
 * Tragedian's Interesting NPCs
 * Happy Little Trees
