@@ -11,6 +11,22 @@ xxx
 ## Added CC Content
 
 * Alternative Armors - Ebony
+* Alternative Armors - Daedric Mail
+* Alternative Armors - Daedric Plate
+* Alternative Armors - Dragon Plate
+* Alternative Armors - Dragon Scale
+* Alternative Armors - Dwarven Mail
+* Alternative Armors - Dwarven Plate
+* Alternative Armors - Ebony Plate
+* Alternative Armors - Elven Hunter
+* Alternative Armors - Leather
+* Alternative Armors - Orcish Plate
+* Alternative Armors - Orcish Scaled
+* Netch Leather Armor
+
+## Removed CC Content
+
+* Spell Knight Armor
 
 ## Added Mods
 
