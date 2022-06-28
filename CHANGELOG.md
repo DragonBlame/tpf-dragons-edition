@@ -73,6 +73,7 @@ xxx
 * High Poly Kaidan - Face and Body
 * Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 * JK's Blue Palace
+* JK's Arnleif and Sons Trading Company
 * Pilgrim - A Religion Overhaul
 * Tragedian's Interesting NPCs
 * Happy Little Trees
