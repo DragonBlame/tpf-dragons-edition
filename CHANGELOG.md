@@ -8,6 +8,10 @@
 
 xxx
 
+## Added CC Content
+
+* Alternative Armors - Ebony
+
 ## Added Mods
 
 * Relighting Skyrim
