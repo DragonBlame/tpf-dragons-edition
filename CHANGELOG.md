@@ -29,6 +29,7 @@ xxx
 
 ## Added Mods
 
+* Sexier Vanilla - Creation Club
 * Relighting Skyrim
 * Quest Conflict Fixes - Get Aegisbane
 * Harvest Your Blood for Septimus
