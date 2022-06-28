@@ -105,5 +105,6 @@ xxx
 * Apothecary Patches by Missile
 * Simply Order Summons
 * I'm Glad You're Here
+* Diziet's Player Home Bath Undressing
 * Improved Camera
 * Draugr Ragdoll Bug Fix
