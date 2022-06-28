@@ -74,12 +74,14 @@ xxx
 
 ## Changes
 
-* Enabled patch for reducing difficulty of Dragon War.
+* Enabled patch for reducing difficulty of Dragon War. Added information about it to the Wabbajack guide.
 > The patch just adjusts some values, so dragons don't have so much health anymore (which was pretty annoying as they were just bullet sponges) and their attacks deal a bit less damage, but they are still the force to be reckoned with.
 * Removed everything except meshes from XP32 Maximum Skeleton Special Extended.
 > That means that together with Racemenu fix there shouldn't be any more bloat or scripts accumulating over time on your saves.
 * Fixed Cicero's black face.
+* Bunch of fixes for little things.
 * Added user made presets for the list.
+* Added more general info about included TPF's mods, Simonrim mods and Anniversary Upgrade to the gameplay guide.
 * ESLified many of the plugins to free space for future additions.
 
 ## Updated Mods
