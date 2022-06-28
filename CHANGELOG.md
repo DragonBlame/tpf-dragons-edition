@@ -69,6 +69,7 @@ xxx
 
 * ENBSeries binaries
 * DynDOLOD Resources
+* Unofficial Skyrim Creation Club Content Patch
 * Optimized USSEP Valdr Quest
 * Serana Dialogue Add-On - NPCs Wear Amulets of Mara Patch
 * Feminine Argonian Textures
