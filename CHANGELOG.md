@@ -10,7 +10,6 @@ xxx
 
 ## Added CC Content
 
-* Alternative Armors - Ebony
 * Alternative Armors - Daedric Mail
 * Alternative Armors - Daedric Plate
 * Alternative Armors - Dragon Plate
