@@ -66,7 +66,7 @@ xxx
 > While normal shadows for windows are surely great, the mod authors of Window Shadows no longer maintain it, meanwhile the authors of Relightning Skyrim still do the job and pretty well, but on the main mod itself.
 * Relighting Skyrim - No Player Homes
 * Frozen in Time - Definitely Not A Snow Elf Waifu Mod
-> Too much waifu and too little content. Also it conflicts with Magical Blackreach and I didn't want to deal with patching it. But it definitely is unique quest, which I will maybe readd some time later.
+> Too much waifu and too little content. Also it conflicts with Magical Blackreach and I didn't want to deal with patching. But it definitely is unique, which I will maybe readd some time later.
 * JK's Sinderion's Field Laboratory
 > I have realised that even thou it looks great, it makes no sense for it to be so good in Blackreach.
 * Awesome Potions Simplified - ENB Lights
