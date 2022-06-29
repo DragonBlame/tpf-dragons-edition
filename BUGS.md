@@ -5,7 +5,9 @@
 To better understand and fix problems related to the modpack I would need to get a decent report, not something like *nothing is working wtf help plz*. 
 In my opinion, it is a fair request, so, please, try your best to follow these simple rules and principles of bug reporting.
 
-At first, **don't expect support for adding any other mods or for your modified setups of the modlist**. Everyone in the community are just people, 
+> **Warning**: Don't expect support for adding any other mods or for your modified setups of the modlist.
+
+Everyone in the community are just people, 
 who have their own life and work to do. I and other users can offer resources and tips about dealing with mod conflicts in the respective channels, 
 but we aren't robots to know each and every mod and its consequences on the modpack. You can believe that mods are simply compatible out of the box if 
 you didn't have any CTDs right at the start of the game, but it doesn't work like that. That is why you are here. I understand that can be scary for beginners, 

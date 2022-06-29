@@ -2,12 +2,6 @@
 
 # Wabbajack Guide
 
-## Disclaimer
-
-### READING THIS GUIDE IS REQUIRED FOR THE MODPACK TO WORK AS INTENDED. IT WILL NOT WORK CORRECTLY IF YOU DO NOT GET AQQUAINTED AND FOLLOW ALL THE INSTRUCTIONS.
-
----
-
 ## About Wabbajack and the fork
 
 Wabbajack allows you to install my modpack to your PC by duplicating my setup directly to your PC, including each mod, setting, output etc. 
@@ -16,6 +10,8 @@ If you want to better understand the general idea of Wabbajack, refer to a Reddi
 
 If you would like to learn more general information about the fork, be sure to visit its home page again [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973). 
 I would very strongly recommend to check _Questions & Answers_ section for the most popular questions asked by users of the fork.
+
+> **Warning**: Reading this guide is required for the modlist to work as intended. It will not work correctly if you do not get aqquainted and follow all the instructions.
 
 ---
 
@@ -33,6 +29,8 @@ if you have them already.
   
   - [The Microsoft Visual C++ Redistributable - Visual Studio 2015, 2017, 2019, and 2022 X64](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-160#visual-studio-2015-2017-2019-and-2022).
   - The latest version of Skyrim - 1.6.353. with the Anniversary Upgrade.
+ 
+ > **Warning**: The Anniversary Upgrade isn't optional. Without it the modlist just won't install for you.
 
 ---
 
@@ -145,8 +143,9 @@ If you want to change your field of view (FOV), do the following:
 ---
 
 Some of the mods inside Mod Organizer are disabled by default in the modpack. Some of these are:
-  - _Blade and Bunt - Vanilla Difficulty Modifiers_ in TPF's _Combat & Encounters_ section, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
-  - All the mods in _WIDESCREEN SUPPORT_ section, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
+  - _Blade and Bunt - Vanilla Difficulty Modifiers_ under TPF's _DIFFICULTY MODIFIERS_ separator, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
+  > Here are also two already enabled modifiers for our dragon overhauling mod Dragon War, which greatly improves dragons by actually making them to be treated with cautiousness. In the original mod dragons have too much health, so it becomes a little bit too annoying to fight them and that's where these patches come handy nerfing their health and just a bit - their damage. If you want much longer fights with dragons, feel free to disable these two. 
+  - All the mods under _WIDESCREEN SUPPORT_ separator, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 > Do not touch any other disabled mods for now.
 
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
@@ -179,21 +178,13 @@ After you get control over movements of your character, don’t go anywhere righ
 It will be awesome if you wait for a pop-up about finishing things setting up to appear before doing anything else.
 Don't be scared if you saw parts of your body during the movement (and/or after you finished creating your character), that will go away, when you will regain full control of your character.
 
-
-
 After talking with Ralof or Hadvar, you can turn on the following mods to decide if you would want to use them. They affect just the visual side of the game. 
 If you aren't a fan, just press the same button once again to turn them off. 
 
-* **Look What You See** - Press your `V` key.
-> A headtracking mod. Can be seen in action in the third person view.
-
-To toggle between the first and the third person view, use `F` key.
-
-Also we have toggable compass, so feel free to press `X` key to turn it on and off when you need that.
-
-* **Equipment Toggle** - Press `Arrow Down` button to toggle your heagear's visibility off and on.
-* **Animated Shouts** - Press your `right Alt` key.
-> You will be able to see this mod in action only after getting your first shout. Have left a tip about all these mods and options in my gameplay guide for the fork too if you forget about them.
+* **Look What You See** - Press your `V` key to toggle headtracking in the third person view.
+* **Improved Camera** - Use your `F` key to toggle between the first and the third person view.
+* **Toggle Compass Hotkey** - Tap `X` key to toggle visibility of your compass.
+* **Equipment Toggle** - Press `Arrow Down` button to toggle your heagear's visibility.
 
 Some quick tips before the end:
 
@@ -205,9 +196,11 @@ Some quick tips before the end:
 
 ---
 
-**And some important info.** _Note_ in the Bannered Mare can be activated **only** after 5 in-game days after you have finished the main quest _Unbound_.
+> **Warning**: Very important information!
 
-Second, **don't use** dialogue option _About living here..._ on not followers (guards, Nazeem, literally anyone, who doesn't have any ways of following you) and followers with their own unique AI, who have a script to develop and/or their own unique quests like Serana, Inigo, Lucien etc., because this will interrupt their story advancement and they won't be able to continue their progress. Only do that for them if you are sure that you have gone through all of their content, which you are interested in, or if you won't want to play together with them anymore on your walkthrough.
+_Note_ in the Bannered Mare can be activated **only** after 5 in-game days after you have finished the main quest _Unbound_.
+
+Second, **don't use** dialogue option _About living here..._ on not followers (guards, Nazeem, literally anyone, who doesn't a dialogue option to follow you) and followers with their own unique AI, who have a script to develop and/or their own unique quests like Serana, Inigo, Lucien etc., because this will interrupt their story advancement and they won't be able to continue their progress. Only do that for them if you are sure that you have gone through all of their content, which you are interested in, or if you won't want to play together with them anymore on your walkthrough.
 
 Also a reminder that the modlist uses a mod called _End Times_, which will **end the game** if don't finish the main quest line in **14 real life days, that means 336 real life hours**. That should be enough to do many other things in between saving the world for the first time. 
 And don't worry - **the game won't end if you finish the main quest**. You can always enter into MCM again to see how much time you have left. Be sure to remember.

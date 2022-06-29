@@ -8,7 +8,7 @@ I have tried to write as little information as I don't want to spoil the content
 ## Alternative Start and Alternative Ending
 
 At first, there are some charcter presets available for your walkthrough. To use them, choose `Presets` option in the top right side of the character creation menu,
-then press `F9` button to load available presets and then choose the desired one according to the race and the gender you have choosen for the character.
+then press `F9` button to load available presets and then choose the desired one according to the race and the gender you have chosen for the character.
 
 [Ralof or Hadvar](https://www.nexusmods.com/skyrimspecialedition/mods/14553) allows us to skip the carriage drive and enter right into Helgen’s Keep with Ralof or Hadvar. 
 In some way it isn't an alternative start, but at the same time it is. What matters is this mod’s simplicity, which allows us to jump right into the action.
@@ -24,22 +24,24 @@ Overall:
   - Combat is more difficult than in vanilla, but feels more fair.
   - Like in vanilla, you are limited to one follower at a time (if we don't count followers with their own unique AI like Inigo and Lucien).
 
-If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus' overhauls to core gameplay system, which greatly improve the experience, but at the same time stay as close to their origins as possible:
+If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus and DeltaRider's overhauls to core gameplay system, which greatly improve the experience, but at the same time stay as close to their origins as possible:
 
-- [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686);
-- [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487);
-- [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - Adjusts the difficulty modifiers, slightly increasing incoming damage. With those changes, combat will feel noticably more difficult than vanilla to the point where you may be one-shot by certain enemy types. Facing mages without any magic resist enchantments or potions can be perilous.
+- [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - Overhauls all racial powers to passive abilities (if we don't count khajiit, who still have access to Night Eye, but have their own passive ability too), which fit their respective races well while being useful through all time.
+- [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487) - Tiers dungeons according to enemy types to provide a sense of progression, so don't be surprised if you decide to run onto vampires right in the beginning of the game and turn into a snack. Also levels enemies according to your level for you not to stumble upon the first level NPC, while being high level, while giving you some more higher level enemies to fight too.
+- [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - Adjusts the difficulty modifiers, slightly increasing incoming damage, while also capping elemental resistances to 75%, while also making it harder to stack too much armor. With those changes, combat will feel noticably more difficult than vanilla to the point where you may be one-shot by certain enemy types. Stamina now also plays an important role in any fight as if you or your enemy run out of it, you will move and attack slower while being much more easy to be hit. Gives you an opportunity to think about when to strike, because if you or your enemy strikes when the other one power attacks, draws a bow or casts a spell, be ready to take or make a good chunk of damage. Also if you are playing with a one handed weapon, the mod allows you to parry by blocking with a weapon, what doubles your block effectiveness for one second. Targets who attack you during this window suffer a light stagger.  
 - [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Some key features include spells and perks that finally scale and remain strong options in the late game, shouts that will also scale in strength based on your Speech level and advance your Speech skill, removal of Arcane Blacksmith perk and its availability for payer right from the beginning, splitting the smithing perk tree into a crafting and a tempering branch
 and perks that activate when wearing a full set of heavy or light armor work with only three pieces worn (no need for a helmet).
 - [Hand To Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790) - Merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat. Merging Lockpicking and Pickpocketing into a single tree improves thief gameplay by reducing the number of non-combat skills that players need to invest in. It also creates space to add a new, fully integrated perk tree for Hand to Hand. This allows for full support for unarmed combat as a legitimate and competitive gameplay style, while also untethering unarmed from either light or heavy armor.
-- [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411);
-- [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130);
-- [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138);
+- [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411) - Greater powers given by some of the stones have been removed in favor of passive abilities that will define and support various builds. The more powerful stones often have downsides, in order to give you a choice between building around these downsides in exchange for powerful buffs or avoiding these downsides in exchange for more modest buffs. Additionally, Guardian Stones no longer provide experience bonuses, which often encouraged players not to trade them out for more interesting gameplay bonuses. 
+- [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130) - Significantly reduces the gold value of both player-created potions and generic potions while ensuring that the player still levels at a faster rate than vanilla. In addition, the mod rebalances generic potions so that their strongest and weakest variants match the potency of player-created potions. Finally, it removes several useless or poorly implemented effects in order to make room for more interesting new effects without adding new ingredients. 
+- [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - Now most skill enchantments can only be placed on two items, reducing the massive power creep offered by armor enchantments. Magnitude values for fortifying many skills were extremely high in vanilla and have been significantly reduced (do you remember 50% magicka regeneration right from the beginning of the game?). New weakness enhancements can be put on weapons to allow spellswords to buff the damage of their spells and even poisons, which now can damage even draugr and automatons if their resistances are cut down. College robes with school-based enchantments have a unique enchantment that gives 25% cost reduction to level-appropriate spells from their specific school.
 - [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099) - After you pray at the shrine, you won't get cured from any disease, but 
 you will get a power to pray everywhere, not only near shrines. Like always, when you do so, you get unique power from the deity you were praying to, but 
 a more unique one than those you get in vanilla. You can even take those powers further by obtaining two new perks in your Restoration or Conjuration tree.
-- [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746);
-- [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639).
+- [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746) - Gain extra armor rating, unarmed damage, health, stamina and magic resistance as you level to ensure that being a werewolf is relevant at higher levels of play. 
+- [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639) - Vampires were good enough in vanilla, but there was surely a room for improvement and fixing. Scion also scales your vampire lord form to be as relevant as the werewolf one.
+- [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310) - Dragons are enemies you shoudn't take lightly. Now they are trully the main bosses of the game with all the changes to their stats and shouts, which even include some new tricks, which vanilla dragons weren't capable of. The mod also introduces new different kinds of dragons and makes all types of dragons have resistances and weaknesses.
+- [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276) - Shouts scale, they don't benefit from magic perks anymore, while actually being more useful in many situations other than just being our character's gimmick.
 
 Then there are some additional overhauls, which compliment these changes:
 
@@ -61,7 +63,6 @@ you will get only 40% chance to break a lockpick on almost any chest.
 - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
 while introducing some disadvantages of getting gear with help of others such as their services being costly and taking time to complete.
 - [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439) - Draugr will stop stealing any septims around Skyrim and bringing them to crypts. But if we serious, there are many different coins around Skyrim now in places, where septims didn't make any sense, which will then be converted to their value in septims, when you pick them up.
-- [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276).
 
 ---
 
@@ -131,23 +132,36 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 
 ---
 
-## Anniversary Update
+## Anniversary Upgrade
 
 Creation Content available in the modlist:
-* The Forgotten Seasons
 * Elite Crossbows
-* The Rare Curios
+* Expanded Crossbow Pack
+* Alternative Armors - Daedric Mail
+* Alternative Armors - Daedric Plate
+* Alternative Armors - Dragon Plate
+* Alternative Armors - Dragon Scale
+* Alternative Armors - Dwarven Mail
+* Alternative Armors - Dwarven Plate
+* Alternative Armors - Ebony Plate
+* Alternative Armors - Elven Hunter
 * Alternative Armors - Iron
-* Alternative Armors - Steel
-* Spell Knight Armor
+* Alternative Armors - Leather
+* Alternative Armors - Orcish Plate
+* Alternative Armors - Orcish Scaled
 * Alternative Armors - Silver
 * Alternative Armors - Stalhrim
+* Alternative Armors - Steel
+* Netch Leather Armor
 * The Cause
-* Expanded Crossbow Pack
+* The Forgotten Seasons
+* Rare Curios
 
 I feel that I included some of the best creations available, which blend in well with the content we get from other mods. Unfortunately, there are also ones, which conflict with the already existing content (like Divine Crusader with Tate Taylor's Knight of the North and Interesting NPCs), and can't be added, but if you believe that there are another hidden gems behind the remaining CC content, feel free to share in the corresponding channels of feedback.
 
-You will be able to find the information about how to start the Creation Content's quests later in the guide, while other parts of it will become available to you during your walkthrough. 
+All creations, which are related to armors and weapons, you can get the same way as every other gear - by looting or by making your own equipment. But it works the same way as with other items, so don't expect to find new piece of dwarven equipment, while being low level. Also quests accociated with these armors and weapons were removed as they lacked interesting content to explore. 
+
+You will be able to find the information about how to start the Creation Content's quests later in the guide, while Rare Curious is available right from the beginning by finding khajiit caravans. 
 
 ---
 
@@ -162,13 +176,6 @@ there will be a neat spell book waiting for you somewhere around Riverwood.
 * Some of the added armour can be crafted by yourself only after reading specific materials. I would have started looking in one of the cities, which makes the most sense to be associated with clothing. Other books will be pretty close.
 * Feel free to use Divine Elegance Store near Old Hroldan inn. I have added it to serve a resource for making different screenshots. Of course, 
 you can also use all those outfits, accessories etc. to make your character just prettier. There are things for everyone to play with, even warriors.
-
-At second, later into the game, if you are planning to use shields or two-handed weapons, I recommend you to to go into the console with `~` key, 
-type `showracemenu`, press `Enter` and make corrections to your gear's position using settings you can again see below. 
-Feel free to configure any other gear while using **only** these settings. **Don't** change any other settings. Also don’t overdo these or animations will look funky. 
-And for all our sakes - **don't** change your race, gender or name mid-game - that won't make the game happy. After setting up the settings, press `R` and `Enter` and you are done.
-
-![image](https://user-images.githubusercontent.com/37147270/142766494-24c367a7-2600-4b53-aa67-f65408dfd2dd.png)
 
 ---
 
@@ -221,7 +228,6 @@ from Winterhold. A journal can be found there in small ruins, which will
 point you to the location with a ship marker. Should be done without a
 follower.
 * **Clockwork** - Automatically after reaching level 5. Without a follower.
-* **Frozen in Time** - Can be started any time. It is recommended to start it at level 5-7. Go to Nightgate Inn and head west towards Silverdrift Lair.
 * **Beyond Skyrim - Bruma** - Can be started any time in *Pale Pass* (will be
 marked as two rocks together) southeast of Helgen. Personally recommend to start it at level 10. 
 Some zones further from where you start the mod's quest will be much harder in the beginning like in Skyrim.
@@ -250,22 +256,22 @@ thief characters (sneaking and pickpocketing).
 
 ### Late Game Quests
 
-* **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
-Tomb. While generic enemies can be not as tough, the bosses will kick your ass.
-At least level 15 is recommended from the author, I recommend at least level 35 even with the patches, which nerf the bosses. Without a follower.
-* **Undeath** - Automatically without anything happening after reaching level
-30 (I know, not immersive, unfortunately the patch for making it start
-in a better way was removed from Nexus, going to deal with that later,
-the late game quest, considered you should have gotten it after one
-Dragonborn quest).
-* **The Forgotten City** - Automatically after reaching level 40. The story
+* **The Forgotten City** - Automatically after reaching level 30. The story
 responds to your character’s individual history, actions, so a high
 level of speech skill (approximately 60) is also recommended. Enemies
 will be pretty tough, but not as tough as within other late game quests.
 That’s and also the immersiveness is the reason for setting this quest
 requirements as high, because by default it starts at level 5. Without a
 follower.
-* **The Cause** - With the reduced cut version of The Cause, you can explore the Cause's content anytime now by stumling on its' locations, where it makes sense, thou enemies are still going to be hard (before the quest of The Cause started automatically after reaching level 46).
+* **Undeath** - Automatically without anything happening after reaching level
+30 (I know, not immersive, unfortunately the patch for making it start
+in a better way was removed from Nexus, going to deal with that later,
+the late game quest, considered you should have gotten it after one
+Dragonborn quest).
+* **Darkend** - Can be started any time in *Voyager's End* north of Ysgramor's
+Tomb. While generic enemies can be not as tough, the bosses will kick your ass.
+At least level 15 is recommended from the author, I recommend at least level 35 even with the patches, which nerf the bosses. Without a follower.
+* **The Cause** - Creation's questline really suffered from the lack of voice acting and that's why the mod's dungeons were turned into normal locations that you can stumble across and explore at your leisure. Find an entrance east from Falkreath or enter in the are from Brumaš side. Enemies are still going to be hard (before the quest of The Cause started automatically after reaching level 46). Also better explore well as there will be a key around for a very interesting location in Skyrim associated with daedra. 
 * **The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
 Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
