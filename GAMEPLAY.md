@@ -26,7 +26,7 @@ Overall:
 
 If you want to go deeper, The Phonix Flavour - Dragon's Edition includes several Simon Magus' overhauls to core gameplay system, which greatly improve the experience, but at the same time stay as close to their origins as possible:
 
-- [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686);
+- [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - Overhauls all racial powers to passive abilities (if we don't count khajiit, who still have access to Night Eye, but have their own passive ability too), which fit their respective races well while being helpful through all game.
 - [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487);
 - [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549) - Adjusts the difficulty modifiers, slightly increasing incoming damage. With those changes, combat will feel noticably more difficult than vanilla to the point where you may be one-shot by certain enemy types. Facing mages without any magic resist enchantments or potions can be perilous.
 - [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191) - Some key features include spells and perks that finally scale and remain strong options in the late game, shouts that will also scale in strength based on your Speech level and advance your Speech skill, removal of Arcane Blacksmith perk and its availability for payer right from the beginning, splitting the smithing perk tree into a crafting and a tempering branch
@@ -134,18 +134,31 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 ## Anniversary Upgrade
 
 Creation Content available in the modlist:
-* The Forgotten Seasons
 * Elite Crossbows
-* The Rare Curios
+* Expanded Crossbow Pack
+* Alternative Armors - Daedric Mail
+* Alternative Armors - Daedric Plate
+* Alternative Armors - Dragon Plate
+* Alternative Armors - Dragon Scale
+* Alternative Armors - Dwarven Mail
+* Alternative Armors - Dwarven Plate
+* Alternative Armors - Ebony Plate
+* Alternative Armors - Elven Hunter
 * Alternative Armors - Iron
-* Alternative Armors - Steel
-* Spell Knight Armor
+* Alternative Armors - Leather
+* Alternative Armors - Orcish Plate
+* Alternative Armors - Orcish Scaled
 * Alternative Armors - Silver
 * Alternative Armors - Stalhrim
+* Alternative Armors - Steel
+* Netch Leather Armor
 * The Cause
-* Expanded Crossbow Pack
+* The Forgotten Seasons
+* The Rare Curios
 
 I feel that I included some of the best creations available, which blend in well with the content we get from other mods. Unfortunately, there are also ones, which conflict with the already existing content (like Divine Crusader with Tate Taylor's Knight of the North and Interesting NPCs), and can't be added, but if you believe that there are another hidden gems behind the remaining CC content, feel free to share in the corresponding channels of feedback.
+
+All creations, which are related to armors and weapons, you can get the same way as every other gear - by looting or by making your own equipment. But it works the same way as with other items, so don't expect to find new piece of dwarven equipment, while being low level. Also quests accociated with these armors and weapons were removed as they lacked interesting content to explor. 
 
 You will be able to find the information about how to start the Creation Content's quests later in the guide, while other parts of it will become available to you during your walkthrough. 
 
@@ -221,7 +234,6 @@ from Winterhold. A journal can be found there in small ruins, which will
 point you to the location with a ship marker. Should be done without a
 follower.
 * **Clockwork** - Automatically after reaching level 5. Without a follower.
-* **Frozen in Time** - Can be started any time. It is recommended to start it at level 5-7. Go to Nightgate Inn and head west towards Silverdrift Lair.
 * **Beyond Skyrim - Bruma** - Can be started any time in *Pale Pass* (will be
 marked as two rocks together) southeast of Helgen. Personally recommend to start it at level 10. 
 Some zones further from where you start the mod's quest will be much harder in the beginning like in Skyrim.
@@ -265,7 +277,7 @@ will be pretty tough, but not as tough as within other late game quests.
 That’s and also the immersiveness is the reason for setting this quest
 requirements as high, because by default it starts at level 5. Without a
 follower.
-* **The Cause** - With the reduced cut version of The Cause, you can explore the Cause's content anytime now by stumling on its' locations, where it makes sense, thou enemies are still going to be hard (before the quest of The Cause started automatically after reaching level 46).
+* **The Cause** - Creation's questline really suffered from the lack of voice acting and that's why the mod's dungeons were turned into normal locations that you can stumble across and explore at your leisure. Find an entrance east from Falkreath or enter in the are from Brumaš side. Enemies are still going to be hard (before the quest of The Cause started automatically after reaching level 46). Also better explore well as there will be a key around for a very interesting location in Skyrim associated with daedra. 
 * **The Ice Blade of the Monarch** - Can be started any time in *Pilgrim's
 Trench* northeast of The Tower Stone, hard mod.
 * **The Tournament of the Ten Bloods** - Can be started after reading *The
