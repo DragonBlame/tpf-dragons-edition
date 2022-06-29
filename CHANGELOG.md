@@ -91,22 +91,20 @@ xxx
 * Unofficial Skyrim Creation Club Content Patch
 * Optimized USSEP Valdr Quest
 * Serana Dialogue Add-On - NPCs Wear Amulets of Mara Patch
-* Feminine Argonian Textures
-* Apothecary - Bruma Patch
-* Apothecary - Wyrmstooth Patch
+* Tragedian's Interesting NPCs
 * High Poly Kaidan - Face and Body
 * Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
-* JK's Blue Palace
-* JK's Arnleif and Sons Trading Company
-* Pilgrim - A Religion Overhaul
-* Tragedian's Interesting NPCs
+* Majestic Mountains - More Accurate Collision
 * Happy Little Trees
 * Happy Little Trees Add-On - DynDOLOD
 * Seasonal Landscapes
 * Seasonal Wildlife Distribution
+* JK's Blue Palace
+* JK's Arnleif and Sons Trading Company
+* Feminine Argonian Textures
 * Apothecary Patches by Missile
+* Pilgrim - A Religion Overhaul
 * Simply Order Summons
 * I'm Glad You're Here
 * Diziet's Player Home Bath Undressing
-* Improved Camera
 * Draugr Ragdoll Bug Fix
