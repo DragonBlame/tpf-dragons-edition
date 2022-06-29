@@ -6,7 +6,7 @@
 
 **New save is required. Is updated for TPF v. 4.15.1.**
 
-Like always with big updates, it was surely an adventure. But here we are.
+Like always with big updates, it was surely an adventure. But here we finally are.
 
 ## Added CC Content
 
