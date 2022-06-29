@@ -59,7 +59,7 @@ xxx
 ## Removed Mods
 
 * e-FPS and its patches
-> The culprit of LODs popping up or not appearing at all. I prefer quality of LODs more than performance, because, as a reminder, this modlist was never supposed to be the most performance friendly one.
+> The culprit of LODs popping up or not appearing at all. I prefer quality of LODs more than performance, and, as a reminder, this modlist was never supposed to be the most performance friendly one.
 * XP32 Maximum Skeleton Special Extended - Fixed Scripts
 > Isn't needed anymore, because of XP32's scripts being removed. 
 * Relighting Skyrim with Window Shadows
