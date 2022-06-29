@@ -144,6 +144,7 @@ If you want to change your field of view (FOV), do the following:
 
 Some of the mods inside Mod Organizer are disabled by default in the modpack. Some of these are:
   - _Blade and Bunt - Vanilla Difficulty Modifiers_ under TPF's _DIFFICULTY MODIFIERS_ separator, because it makes the game easier and less interesting. If you find the combat of the game too difficult even after tweaking the game's difficulty, you are free to enable the mod by clicking on a rectangle right next to its name on the left side of MO2, but then you will also need to put its plugin right next after Blade and Blunt's plugin _BladeandBlunt.esp_ on the right side of MO2 by simply dragging it.
+  > There are also two already enabled modifiers for our dragon overhauling mod Dragon War, which greatly improves dragons by actually making them to be treated with cautiousness. In the original mod dragons have too much HP, so it becomes a little bit annoying to fight them and that's where these patches come handy nerfing their health and just a bit - their damage. If you want longer fights with dragons, feel free to disable these two patches. 
   - All the mods under _WIDESCREEN SUPPORT_ separator, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 > Do not touch any other disabled mods for now.
 
