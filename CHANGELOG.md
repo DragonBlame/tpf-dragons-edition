@@ -97,6 +97,7 @@ xxx
 * Majestic Mountains - More Accurate Collision
 * Happy Little Trees
 * Happy Little Trees Add-On - DynDOLOD
+* Cathedral 3D Mountain Flowers - Base Object Swapper
 * Seasonal Landscapes
 * Seasonal Wildlife Distribution
 * JK's Blue Palace
