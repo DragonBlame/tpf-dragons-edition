@@ -148,8 +148,6 @@ Some of the mods inside Mod Organizer are disabled by default in the modpack. So
   - All the mods under _WIDESCREEN SUPPORT_ separator, because obviosuly only a few have those huge monitors. If you are actually one of them, enable all the mods under this section and you are done.
 > Do not touch any other disabled mods for now.
 
-> **Warning**: There is a mod in the list, which allows you to make your followers live in a place you want by initiating a dialogue option _About living here..._ with them. The problem is that for now the mod adds this dialogue option for every single NPC. If it sounds too obtrusive for you, feel free to disable _Live Here_ mod and _TPF DE - Live Here Patch_ under the _MISCELLANEOUS_ separator before starting your adventure. Also **don't use** the dialogue option on not followers (guards, Nazeem, literally anyone, who doesn't a dialogue option to follow you) and followers with their own unique AI, who have a script to develop and/or their own unique quests like Serana, Inigo, Lucien etc., because this will interrupt their story advancement and they won't be able to continue their progress. Only do that for them if you are sure that you have gone through all of their content, which you are interested in, or if you won't want to play together with them anymore on your walkthrough. It should be always safe to use this option on vanilla followers, which are not Serana and Lydia.
-
 Finally we are ready to open and finish configuring the game. Above the load order (in the right pane), you can see the executables drop-down. Very likely _The Phoenix Flavour - Dragon's Edition_ was already selected here, so you can start the game by clicking _Run_.
 
 ---
