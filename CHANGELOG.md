@@ -11,6 +11,7 @@ Like always with big updates, there were also some oopsies done, which should no
 ## Added Mods
 
 * Kaidan and Inigo Banter Patch
+* Don't Sheathe Bound Weapons - DAR Animations
 
 ## Changes
 
