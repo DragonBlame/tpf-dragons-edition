@@ -2,6 +2,30 @@
 
 # Changelog
 
+## Version 2.7.1.
+
+**Is save compatible.**
+
+Like always with big updates, there were also some oopsies done, which should now be fixed.
+
+## Added Mods
+
+* Kaidan and Inigo Banter Patch
+
+## Changes
+
+* Fixed CTD in Silent Moons Ruins.
+* Made cats not to be recruitable as followers.
+> Because they can't be dismissed otherwise. This change will work only on new saves, so I will just put warnings about the problem in appropriate places. 
+* Changed TK Dodge button back to `Mouse 4`.
+* Resolved some lightning conflicts between SFCO patches and Luminosity and Obscure's College of Winterhold.
+
+## Updated Mods
+
+* Additional Clockwork
+
+---
+
 ## Version 2.7.
 
 **New save is required. Is updated for TPF v. 4.15.1.**
