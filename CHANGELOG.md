@@ -8,6 +8,10 @@
 
 Like always with big updates, there were also some oopsies done, which should now be fixed.
 
+**If you are using version 2.7.**, do not recruit kitties as they will always follow you even if you dismiss them. Swiftly Order Squad will still teleport your kitty and everything else related to followers will still apply to them. Of course, if you have nothing against it, go for it. If you have already recruited them, just load the save before that and you should be safe.
+Unfortunately, that is the problem within the mod I wasn't aware of, so sorry about that.
+This update will remove cats' follower dialogue, but only on new saves, so take care. They will just as citizens of Skyrim (except some meanies like Nazeem) mingling around and boosting our happiness.
+
 ## Added Mods
 
 * Kaidan and Inigo Banter Patch
