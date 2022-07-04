@@ -124,7 +124,7 @@ If you want to downscale your resolution, do the following:
 3. Choose `INI files` tab.
 4. Press on `SKSE\Plugins\SSEDisplayTweaks.ini`.
 5. In line 58, change _BorderlessUpscale_ parameter to `True`.
-6. In line 66, remove `#` sign before _Resolution_ parameter and then write down your desired resolution after _=_ sign.
+6. In line 66, remove `#` sign before _Resolution_ parameter and then write down your monitor's native resolution after _=_ sign.
 7. In line 67, remove `#` sign before _ResolutionScale_ parameter and then write down your desired resolution scale after _=_ sign.
 > I would recommend to try 0.9 at first as resolution scale below 0.9 can look a bit too blurry depending on your resolution.
 9. Press on `Save` button.
