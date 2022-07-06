@@ -114,7 +114,7 @@ If you want to uncap your framerate (that is on you), do the following:
 2. Double click on `SSE Display Tweaks` mod.
 3. Choose `INI files` tab.
 4. Press on `SKSE\Plugins\SSEDisplayTweaks.ini`.
-5. In line 207, change _FramerateLimit_ parameter to your desired framerate after _=_ sign.
+5. In line 204, change _FramerateLimit_ parameter to your desired framerate after _=_ sign.
 7. Press on `Save` button.
 
 If you want to downscale your resolution, do the following:
