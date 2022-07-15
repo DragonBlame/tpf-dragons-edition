@@ -6,7 +6,7 @@
 
 **Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and unequip character and/or NPC lights from *Character Lights* mod if you have been using them.**
 
-Even thou it is a save compatble update, I would say that it is pretty important as not only were vampires fixed, but also some signifant performance boosts were achieved, while making some great QoL additions here and there and also reworking our animations for overall preference.
+Even thou it is a save compatible update, I would say that it is pretty important as not only were vampires fixed, but also signifant performance boosts were achieved, while making some great QoL additions and also reworking our animations for overall preference.
 
 A big update is also somewhere not far away and with it will come a new feedback survey and possibly something else, so stay tuned.
 
