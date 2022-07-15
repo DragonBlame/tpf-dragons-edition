@@ -4,7 +4,7 @@
 
 ## Version 2.7.2.
 
-**Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and unequip character and/or NPC lights from *Character Lights* mod if you have been using them.**
+**Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and unequip character and/or NPC lights from *Character Light* mod if you have been using them.**
 
 Even thou it is a save compatible update, I would say that it is pretty important as not only were vampires fixed, but also signifant performance boosts were achieved, while making some great QoL additions and also reworking our animations for overall preference.
 
