@@ -6,7 +6,7 @@
 
 **Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and unequip character and/or NPC lights from *Character Lights* mod if you have been using them.**
 
-xxx
+Even thou it is save compatble update, I would say that is pretty impotant as not only are vampires 
 
 ## Added Mods
 
@@ -18,10 +18,10 @@ xxx
 * Silver Objects SMIMed
 * SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn
 * FK's Diverse Racial Skeletons
-> Decided to switch out skeletons to something cleaner other people use. Also this mod doesn't tend to break vampires.
+> Decided to switch out skeletons again to something cleaner other people use. Also this mod doesn't tend to break vampires.
 * Recoil On Objects
 * Conditional Armor Type Animations
-* All Vanargand, Leviathan and Goetia animations from Verolevi 
+* All Vanargand, Leviathan and Goetia animations from Verolevi
 * Draw 2 - Dual Weapon Equip-Unequip Animations
 * Take a Seat - New DAR Sitting Animations
 
@@ -39,7 +39,7 @@ xxx
 * New Animation for Magic Casting
 * Pretty Combat Animations - Spell Master
 * Pretty Combat Animations - Spell Master - Staff
-> In the moment, we are using just alternative arrow and bolt draw from Pretty Combat Animations.
+> At the moment, we are using just alternative arrow and bolt draw from Pretty Combat Animations.
 * Pristine Vanilla Movement
 
 ## Changes
