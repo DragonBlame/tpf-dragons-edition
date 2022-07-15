@@ -50,7 +50,7 @@ xxx
 > Have heard a bunch of people commenting out that they were too close in the first person, so here we go. Now they both use the same distance in the first and the third person camera.
 * Disabled Improved Camera's intrusions into killmoves.
 * Disabled option to be able to ride horse in the first person.
-> Horse riding in general is just a mess no one wants to touch, so it is very hard to do something decent with it.
+> Horse combat in general is just a mess no one wants to touch, so it is very hard to do something decent with it.
 
 ## Updated Mods
 
