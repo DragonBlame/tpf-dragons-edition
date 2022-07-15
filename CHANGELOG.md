@@ -53,8 +53,8 @@ A major update is somewhere not far away too and with it will come a new feedbac
 * Fixed vampire black face issue.
 * Moved the first person labels further away from objects they are attached to, moved the third person labels a bit closer.
 > Have heard a bunch of people commenting out that they were too close in the first person, so here we go. Now they both use the same distance in the first and the third person camera.
-* Disabled Improved Camera's intrusions into killmoves.
-* Disabled option to be able to ride horse in the first person.
+* Disabled Improved Camera's intrusion into killmoves.
+* Disabled option to be able to ride horses in the first person.
 > Horse combat in general is just a mess no one wants to touch, so it is very hard to do something decent with it.
 
 ## Updated Mods
