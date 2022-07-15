@@ -8,7 +8,7 @@
 
 Even thou it is a save compatible update, I would say that it is pretty important as not only were vampires fixed, but also signifant performance boosts were achieved, while making some great QoL additions and also reworking our animations for overall preference.
 
-A big update is also somewhere not far away and with it will come a new feedback survey and possibly something else, so stay tuned.
+A major update is somewhere not far away too and with it will come a new feedback survey and possibly something else, so stay tuned.
 
 ## Added Mods
 
