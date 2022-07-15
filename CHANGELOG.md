@@ -4,19 +4,40 @@
 
 ## Version 2.7.2.
 
-**Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and remove character and/or NPC lights from *Character Lights* mod.**
+**Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and unequip character and/or NPC lights from *Character Lights* mod if you have been using them.**
 
 xxx
 
 ## Added Mods
 
+* Actually Useful Butter Churns
+* Remove Menu Blur
 * Falskaar - Addons and Patches - Fast Travel Fix
-* 
+* Unblended - Really Blended Roads
+* Silver Objects SMIMed
+* SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn
+* Recoil On Objects
+* Conditional Armor Type Animations
+* All Vanargand, Leviathan and Goetia animations from Verolevi 
+* Draw 2 - Dual Weapon Equip-Unequip Animations
+* Take a Seat - New DAR Sitting Animations
 
 ## Removed Mods
 
+* Lucien CC patches
+* Lucifer CC patches
+> Considering they all were related to Alternative Armors little quests, those are no use for us.
+* Seasonal Landscapes for ENB Complex Grass
+> Its' better version is now included in the main mod.
 * Racial Body Morphs
 * Character Light
+* Relaxed Sneak Animations
+* Pretty Combat Animations - Weapon Master
+* New Animation for Magic Casting
+* Pretty Combat Animations - Spell Master
+* Pretty Combat Animations - Spell Master - Staff
+> In the moment, we are using just alternative arrow and bolt draw from Pretty Combat Animations.
+* Pristine Vanilla Movement
 
 ## Changes
 
@@ -27,8 +48,8 @@ xxx
 * Fixed vampire black face issue.
 * Moved the first person labels further away from objects they are attached to, moved the third person labels a bit closer.
 > Have heard a bunch of people commenting out that they were too close in the first person, so here we go. Now they both use the same distance in the first and the third person camera.
-* Changed TK Dodge button back to `Mouse 4`.
-* Resolved some lightning conflicts between SFCO patches and Luminosity and Obscure's College of Winterhold.
+* Disabled Improved Camera's intrusions into killmoves.
+* Disabled the option to be able to ride horse in the first person.
 
 ## Updated Mods
 
