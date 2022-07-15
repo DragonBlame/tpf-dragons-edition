@@ -10,12 +10,15 @@ xxx
 
 ## Added Mods
 
+* Creation Club Open Helmets
 * Actually Useful Butter Churns
 * Remove Menu Blur
 * Falskaar - Addons and Patches - Fast Travel Fix
 * Unblended - Really Blended Roads
 * Silver Objects SMIMed
 * SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn
+* FK's Diverse Racial Skeletons
+> Decided to switch out skeletons to something cleaner other people use. Also this mod doesn't tend to break vampires.
 * Recoil On Objects
 * Conditional Armor Type Animations
 * All Vanargand, Leviathan and Goetia animations from Verolevi 
@@ -54,7 +57,25 @@ xxx
 
 ## Updated Mods
 
-* Additional Clockwork
+* Creation Club Asset Patch
+* Better Third Person Selection
+* The Wheels of Lull
+* Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* High Poly Kaidan - Face and Body
+* Remiel - Custom Voiced Dwemer Specialist and Companion
+* The Practical Dwemechanic - A Remiel Replacer
+* Cities of the North - Dawnstar Patch Collection
+* Seasonal Landscapes
+* JK's Dragonsreach
+* JK's Blue Palace
+* JK's Temple of the Divines
+* JK's Interiors Patch Collection
+* Apothecary - An Alchemy Overhaul
+* Dragon War - A Dragon Overhaul
+* Simply Order Summons
+* Swiftly Order Squad
+* Improved Camera
+* Faster HDT-SMP
 
 ---
 
