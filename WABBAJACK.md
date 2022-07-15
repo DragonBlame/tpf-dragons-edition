@@ -96,7 +96,7 @@ then point Wabbajack to it.
 6. Wait for Wabbajack to finish.
 7. If you run into any issues, simply retry the Wabbajack installation. If the installation still fails, 
 ask for help in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#tpf-de-wabbajack-support_ channel. 
-> To get to the channel, simply find _#role-settings_ channel in the server and tick my role at the end, new channels then will appear in the server's list.
+> To get to the channel, simply find _#role-settings_ channel in the server and choose my role, new channels then will appear in the server's list.
 > You will need to upload your log file to the corresponding channel. 
 You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folder within the latest version folder - this will be in the same location you saved _Wabbajack.exe_ to.
 
@@ -216,7 +216,7 @@ And that's it! You are ready for the action.
 If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the fork) or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#tpf-de-wabbajack-support_ channel. 
 If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/BUGS.md) section first.
-> To get to these support channels, simply find _#role-settings_ channel in the server and tick my role at the end, new channels then will appear in the server's list.
+> To get to these support channels, simply find _#role-settings_ channel in the server and tick my role, new channels then will appear in the server's list.
 
 If you want to learn more about what the modpack offers and what actually many of the mods do, check my [gameplay guide](https://github.com/DragonBlame/tpf-dragons-edition/blob/main/GAMEPLAY.md). 
 

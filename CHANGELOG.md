@@ -2,6 +2,85 @@
 
 # Changelog
 
+## Version 2.7.2.
+
+**Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and unequip character and/or NPC lights from *Character Light* mod if you have been using them.**
+
+Even thou it is a save compatible update, I would say that it is pretty important as not only were vampires fixed, but also signifant performance boosts were achieved, while making some great QoL additions and also reworking our animations for overall preference.
+
+A major update is somewhere not far away too and with it will come a new feedback survey and possibly something else, so stay tuned.
+
+## Added Mods
+
+* Creation Club Open Helmets
+* Actually Useful Butter Churns
+* Remove Menu Blur
+* Falskaar - Addons and Patches - Fast Travel Fix
+* Unblended - Really Blended Roads
+* Silver Objects SMIMed
+* SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn
+* FK's Diverse Racial Skeletons
+> Decided to switch out skeletons again to something cleaner other people use. Also this mod doesn't tend to break vampires.
+* Recoil On Objects
+* Conditional Armor Type Animations
+* Vanargand, Leviathan and Goetia animations from Verolevi
+* Draw 2 - Dual Weapon Equip-Unequip Animations
+* Take a Seat - New DAR Sitting Animations
+
+## Removed Mods
+
+* Lucien CC patches
+* Lucifer CC patches
+> Considering the fact they all are related to Alternative Armors little quests, those are no use for us. Oopsies.
+* Seasonal Landscapes for ENB Complex Grass
+> Its' better version is now included in the main mod.
+* Racial Body Morphs
+* Character Light
+* Relaxed Sneak Animations
+* Pretty Combat Animations - Weapon Master
+* New Animation for Magic Casting
+* Pretty Combat Animations - Spell Master
+* Pretty Combat Animations - Spell Master - Staff
+> At the moment, we are using just alternative arrow and bolt draw from Pretty Combat Animations.
+* Pristine Vanilla Movement
+
+## Changes
+
+* Applied BethINI's medium preset and Phoenix's tweaks to our INIs.
+> You will get better performance with almost no visual difference. Probably the only thing you will be able to recognize is that grass was just a little bit trimmed here and there and LODs are being a little bit odd from time to time for now as I am planning to redo those for these tweaks in the not save compatible update. I believe such a performance boost is worth a little inconsistency. Thanks for one of my users for making me check this after their impressive results.
+* Tweaked our ENB preset for better performance.
+> Removed some options you probably haven't even seen in action before. Thanks to Annakins for that.
+* Fixed vampire black face issue.
+* Moved the first person labels further away from objects they are attached to, moved the third person labels a bit closer.
+> Have heard a bunch of people commenting out that they were too close in the first person, so here we go. Now they both use the same distance in the first and the third person camera.
+* Disabled Improved Camera's intrusion into killmoves.
+* Disabled option to be able to ride horses in the first person.
+> Horse combat in general is just a mess no one wants to touch, so it is very hard to do something decent with it.
+
+## Updated Mods
+
+* Creation Club Asset Patch
+* Better Third Person Selection
+* The Wheels of Lull
+* Kaidan 2 Follower Voice Fixes and Additional Dialogue
+* High Poly Kaidan - Face and Body
+* Remiel - Custom Voiced Dwemer Specialist and Companion
+* The Practical Dwemechanic - A Remiel Replacer
+* Cities of the North - Dawnstar Patch Collection
+* Seasonal Landscapes
+* JK's Dragonsreach
+* JK's Blue Palace
+* JK's Temple of the Divines
+* JK's Interiors Patch Collection
+* Apothecary - An Alchemy Overhaul
+* Dragon War - A Dragon Overhaul
+* Simply Order Summons
+* Swiftly Order Squad
+* Improved Camera
+* Faster HDT-SMP
+
+---
+
 ## Version 2.7.1.
 
 **Is save compatible.**
