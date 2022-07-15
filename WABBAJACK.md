@@ -132,10 +132,10 @@ If you want to downscale your resolution, do the following:
 If you want to change your field of view (FOV), do the following:
 
 1. Press on `CONTROLS & CAMERA EXTENDED` separator.
-2. Double click on `Improved Camera - Custom INI` mod.
+2. Double click on `Improved Camera` mod.
 3. Choose `INI files` tab.
-4. Press on `SKSE\Plugins\ImprovedCamera.ini`.
-5. From line 174 to 191, change FOV parameters to your desired values.
+4. Press on `SKSE\Plugins\ImprovedCameraSE\ImprovedCameraSE.ini`.
+5. From line 182 to 203, change FOV parameters to your desired values.
 6. Press on `Save` button.
 
 <p>
