@@ -26,7 +26,7 @@ xxx
 
 * Lucien CC patches
 * Lucifer CC patches
-> Considering they all were related to Alternative Armors little quests, those are no use for us.
+> Considering the fact they all are related to Alternative Armors little quests, those are no use for us. Oopsies.
 * Seasonal Landscapes for ENB Complex Grass
 > Its' better version is now included in the main mod.
 * Racial Body Morphs
