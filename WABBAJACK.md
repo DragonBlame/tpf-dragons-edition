@@ -96,7 +96,7 @@ then point Wabbajack to it.
 6. Wait for Wabbajack to finish.
 7. If you run into any issues, simply retry the Wabbajack installation. If the installation still fails, 
 ask for help in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#tpf-de-wabbajack-support_ channel. 
-> To get to the channel, simply find _#role-settings_ channel in the server and tick my role, new channels then will appear in the server's list.
+> To get to the channel, simply find _#role-settings_ channel in the server and choose my role, new channels then will appear in the server's list.
 > You will need to upload your log file to the corresponding channel. 
 You can find the relevant file (_Wabbajack.current.log_) inside the _logs_ folder within the latest version folder - this will be in the same location you saved _Wabbajack.exe_ to.
 
