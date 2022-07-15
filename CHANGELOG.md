@@ -49,7 +49,7 @@ xxx
 * Moved the first person labels further away from objects they are attached to, moved the third person labels a bit closer.
 > Have heard a bunch of people commenting out that they were too close in the first person, so here we go. Now they both use the same distance in the first and the third person camera.
 * Disabled Improved Camera's intrusions into killmoves.
-* Disabled the option to be able to ride horse in the first person.
+* Disabled option to be able to ride horse in the first person.
 
 ## Updated Mods
 
