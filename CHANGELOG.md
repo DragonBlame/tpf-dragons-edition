@@ -6,7 +6,9 @@
 
 **Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and unequip character and/or NPC lights from *Character Lights* mod if you have been using them.**
 
-Even thou it is save compatble update, I would say that is pretty impotant as not only are vampires 
+Even thou it is a save compatble update, I would say that it is pretty important as not only were vampires fixed, but also some signifant performance boosts were achieved, while making some great QoL additions here and there and also reworking our animations for overall preference.
+
+A big update is also somewhere not far away and with it will come a new feedback survey and possibly something else, so stay tuned.
 
 ## Added Mods
 
@@ -21,7 +23,7 @@ Even thou it is save compatble update, I would say that is pretty impotant as no
 > Decided to switch out skeletons again to something cleaner other people use. Also this mod doesn't tend to break vampires.
 * Recoil On Objects
 * Conditional Armor Type Animations
-* All Vanargand, Leviathan and Goetia animations from Verolevi
+* Vanargand, Leviathan and Goetia animations from Verolevi
 * Draw 2 - Dual Weapon Equip-Unequip Animations
 * Take a Seat - New DAR Sitting Animations
 
@@ -45,7 +47,7 @@ Even thou it is save compatble update, I would say that is pretty impotant as no
 ## Changes
 
 * Applied BethINI's medium preset and Phoenix's tweaks to our INIs.
-> You will get better performance with almost no visual difference. Probably the only thing you will be able to recognize is that grass was just a little bit trimmed here and there. Thanks for one of my users for making me check this after their immpresive results.
+> You will get better performance with almost no visual difference. Probably the only thing you will be able to recognize is that grass was just a little bit trimmed here and there and LODs are being a little bit odd from time to time for now as I am planning to redo those for these tweaks in the not save compatible update. I believe such a performance boost is worth a little inconsistency. Thanks for one of my users for making me check this after their impressive results.
 * Tweaked our ENB preset for better performance.
 > Removed some options you probably haven't even seen in action before. Thanks to Annakins for that.
 * Fixed vampire black face issue.
