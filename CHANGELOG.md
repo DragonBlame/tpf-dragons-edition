@@ -2,6 +2,40 @@
 
 # Changelog
 
+## Version 2.7.2.
+
+**Is save compatible. Delete *enbcache* folder in your installation folder's *Stock Game* folder and remove character and/or NPC lights from *Character Lights* mod.**
+
+xxx
+
+## Added Mods
+
+* Falskaar - Addons and Patches - Fast Travel Fix
+* 
+
+## Removed Mods
+
+* Racial Body Morphs
+* Character Light
+
+## Changes
+
+* Applied BethINI's medium preset and Phoenix's tweaks to our INIs.
+> You will get better performance with almost no visual difference. Probably the only thing you will be able to recognize is that grass was just a little bit trimmed here and there. Thanks for one of my users for making me check this after their immpresive results.
+* Tweaked our ENB preset for better performance.
+> Removed some options you probably haven't even seen in action before. Thanks to Annakins for that.
+* Fixed vampire black face issue.
+* Moved the first person labels further away from objects they are attached to, moved the third person labels a bit closer.
+> Have heard a bunch of people commenting out that they were too close in the first person, so here we go. Now they both use the same distance in the first and the third person camera.
+* Changed TK Dodge button back to `Mouse 4`.
+* Resolved some lightning conflicts between SFCO patches and Luminosity and Obscure's College of Winterhold.
+
+## Updated Mods
+
+* Additional Clockwork
+
+---
+
 ## Version 2.7.1.
 
 **Is save compatible.**
