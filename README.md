@@ -1,4 +1,4 @@
-
+       
 [![Badge Version]][Releases]      
 [![Badge TPF]][Releases]
 
@@ -19,7 +19,8 @@ for many tastes and beautiful sceneries surrounding it.*
 <br>
 
 [![Button Nexus]][Nexus]   
-[![Button Wabbajack]][Wabbajack]   
+[![Button Wabbajack]][Wabbajack]
+
 [![Button Gameplay]][Gameplay]   
 [![Button Changelog]][Changelog]   
 [![Button Bugs]][Bugs]
