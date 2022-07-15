@@ -1,11 +1,22 @@
 
+[![Badge Version]][Releases]      
+[![Badge TPF]][Releases]
+
+<div align = center>
+
 ![Banner]
 
 <br>
 <br>
-<br>
 
-<div align = center>
+*A fork of **The Phoenix Flavour** that expands Skyrim's world <br>
+and possibilities extensively by adding adventuristic content <br>
+for many tastes and beautiful sceneries surrounding it.*
+
+<br>
+<br>
+<br>
+<br>
 
 [![Button Nexus]][Nexus]   
 [![Button Wabbajack]][Wabbajack]   
@@ -13,17 +24,9 @@
 [![Button Changelog]][Changelog]   
 [![Button Bugs]][Bugs]
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-[![Badge Version]][Releases]      
-[![Badge TPF]][Releases]
-
 </div>
 
+<br>
 <br>
 
 
