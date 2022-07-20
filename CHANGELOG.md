@@ -64,6 +64,7 @@ xxx
 
 ## Updated Mods
 
+* Assorted Mesh Fixes
 * Adamant - A Perk Overhaul
 * Forceful Tongue - Shouts Overhaul
 * Apothecary - An Alchemy Overhaul
