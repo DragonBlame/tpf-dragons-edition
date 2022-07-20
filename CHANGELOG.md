@@ -39,6 +39,8 @@ I believe at this point I have added, removed or changed everything I have ever 
 
 ## Removed Mods
 
+* NPC's Run and Walk at Your Pace
+> Should remove an issue some people were having, when they needed to press their sprint button many times for it to do something. Thanks for one of the users for the information.
 * A Quality World Map
 * Creation Club Open Helmets
 > Helmets look much more unique in their original version.
