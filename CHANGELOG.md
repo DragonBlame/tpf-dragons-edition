@@ -44,22 +44,22 @@ xxx
 * Creation Club Open Helmets
 > Helmets look much more unique in their original version.
 * Beyond Skyrim in Skyrim
-> Replaced by one of x's modules.
+> Replaced by one of Tamrielic Distribution's modules.
 * Beyond Skyrim - Bruma Location Styled Crafting
 > It won't make sense anymore. And maybe it was too much.
 * Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map
 * Better Falskaar and Wyrmstooth Map With Roads
-* 
 
 ## Changes
 
-* Applied Althro's rules to our LOD outputs.
-> To be closer to our new more performance friendlier INI setting for consistency, while still looking great.
+* 2 CC armor quests are now not playable.
+> Like they were supposed to.
 * Turned off every first person feature related to transformations and mounts.
+* Fixed not being able to call Shadowmere and Frost by using the whistle.
+* Applied Althro's rules to LOD outputs.
+> To be closer to our new more performance friendlier INI settings for consistency, while still looking great. Thou there can be some little transition seen from time to time, when LOD is switching. Will see how it goes.
 * Disabled men running animations for heavy armor and sprinting animation for light armor.
 > They look funky.
-* Fixed not being able to call Shadowmere and Frost by using the whistle.
-* 2 CC armor quests are now not playable.
 
 ## Updated Mods
 
