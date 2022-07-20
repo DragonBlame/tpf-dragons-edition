@@ -63,6 +63,7 @@ you will get only 40% chance to break a lockpick on almost any chest.
 - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) - You are a person, who is destined to save the world, but to even do that you have to become the best blacksmith and/or enchanter in Skyrim too to craft a decent equipment to rely on. This can't be immersive for each and every Dragonborn, so let's make NPCs take care of that, 
 while introducing some disadvantages of getting gear with help of others such as their services being costly and taking time to complete.
 - [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439) - Draugr will stop stealing any septims around Skyrim and bringing them to crypts. But if we serious, there are many different coins around Skyrim now in places, where septims didn't make any sense, which will then be converted to their value in septims, when you pick them up.
+- [Vampire Feeding Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/47225) - We were too polite with people. But not anymore as now you will be able to bite and feast both in combat, by being sneaky if you are powerful enough and possibly by seeking blood of already deceased ones. Just press the activation button on your enemies, when these scenarios are met and when your weapon is unsheathed.
 
 ---
 
@@ -83,6 +84,7 @@ If you want to change the button for dodging, do the following:
 6. Press on `Save` button.
 
 * [Crouch sliding](https://www.nexusmods.com/skyrimspecialedition/mods/39157) - While sprinting, you can press `Left Ctrl` button to perform crouch slide. Useful, when you need to hide as fast as possible or get to some kind of barrier between you and enemy while dodging projectiles.
+* [Interacting with different terrain](https://www.nexusmods.com/skyrimspecialedition/mods/63232) - Seek and interact with floating white orbs in dungeons to traverse through different obstacles on your way.
 * [Knocking](https://www.nexusmods.com/skyrimspecialedition/mods/14098) - Knock on locked doors by activating them. Good for roleplaying and also useful.
 * [Claiming strongholds](https://www.nexusmods.com/skyrimspecialedition/mods/29882) - Claim several outposts for the faction you support to keep hostile enemies from coming back making Skyrim a safer place. 
 * [Upgraded horses](https://www.nexusmods.com/skyrimspecialedition/mods/50250) - Realistic (faster) horse speed and better handling for horse riding. Increased base stamina of all horses.
@@ -120,7 +122,6 @@ using MCM.
 * [Clairvoyance (_Guiding Wisp_ now)](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Clairvoyance, but much more useful. Just try it out (be sure that you have an active quest in your journal).
 * [Animated shouts](https://www.nexusmods.com/skyrimspecialedition/mods/50559) - Press your `Right Alt` key to disable or enable animated shouts at any time.
 * [Appretiation to followers](https://www.nexusmods.com/skyrimspecialedition/mods/41856) - Allows you to thank your companions for being with you during hard times. Just tell them that you are glad they are helping you. The appreciation works in the other way too.
-* [Living place for companions](https://www.nexusmods.com/skyrimspecialedition/mods/68153) - Followers deserve a place they can call home as well. If you believe it is time for your comrade to settle down, then just tell them about it. Use this option **only** if you are sure that you have gone through all of your follower's content, which you are interested in, or if you won't want to play together with them anymore on your walkthrough. And also **do not** use it on not followers (guards, Nazeem, literally anyone, who doesn't have any ways of following you). It should be always safe to use this option on vanilla followers, which are not Serana and Lydia.
 * [Horses for followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500) - All vanilla stables have a second horse for sale that you can buy from them when you have a vanilla follower. All buyable player horse are flagged as protected and behave cowardly.
 * [Clean up your mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645) - Now if you have accidentally (or maybe not) Fus Ro Dah'ed the Jarl's palace, find a broom and activate it in your inventory.
 * [Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/52397) - Now there are much more of them than in vanilla Skyrim and they look pretty different from each other. And be accurate as now there is another way of becoming a werewolf, which you will maybe discover after fighting with them.
@@ -136,6 +137,8 @@ you will be able to find inside the _NPC Overhauls_ separator. Then you can safe
 ## Anniversary Upgrade
 
 Creation Content available in the modlist:
+
+* Ghosts of the Tribunal
 * Elite Crossbows
 * Expanded Crossbow Pack
 * Alternative Armors - Daedric Mail
@@ -158,7 +161,7 @@ Creation Content available in the modlist:
 * The Forgotten Seasons
 * Rare Curios
 
-I feel that I included some of the best creations available, which blend in well with the content we get from other mods. Unfortunately, there are also ones, which conflict with the already existing content (like Divine Crusader with Tate Taylor's Knight of the North and Interesting NPCs), and can't be added, but if you believe that there are another hidden gems behind the remaining CC content, feel free to share in the corresponding channels of feedback.
+I feel that I included some of the best creations available, which blend in well with the content we get from other mods. Unfortunately, there are also ones, which conflict with the already existing content (like Divine Crusader with Tate Taylor's Knight of the North and Interesting NPCs) and can't be added, also some, which are already available to us and even better quality (like Artifacts - The Ice Blade of the Monarch or Artifacts - The Breton Paladin), but if you believe that there are another hidden gems behind the remaining CC content, feel free to share in the corresponding channels of feedback.
 
 All creations, which are related to armors and weapons, you can get the same way as every other gear - by looting or by making your own equipment. But it works the same way as with other items, so don't expect to find new piece of dwarven equipment, while being low level. Also quests accociated with these armors and weapons were removed as they lacked interesting content to explore. 
 
