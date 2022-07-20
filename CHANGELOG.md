@@ -15,10 +15,25 @@ xxx
 ## Added Mods
 
 * Ghosts of the Tribunal - Reduced Cut
+* A Clear Map of Skyrim and Other Worlds
 * EVG Animated Traversal - Patch Collection
+* College of Winterhold - Quest Expansion
+* Leaps of Faith - A Misc Quest
+* DynDOLOD Modders Resource Fixes
+* Gray Cowl of Nocturnal - Various Patches
 * Actually Flat Snow Drifts
 * Highland Cows More Wooly
+* Great City of Dragon Bridge - CFTO Ferry Integration
+* Beyond Skyrim Morrowind - Bonemold Weapon Pack
+* Kthonia's Unique Weapon Pack - Dragonborn Weapons
+* Pirates Wield Cutlasses
+* Pirates Wield Scurvy Cutlasses
+* Tamrielic Distribution
+* High Poly Head ENB Brow Fix
+* Shiny ENB Eyebrows Begone
 * Oblivion - An Atronach Forge Overhaul
+* Arachnomancy - A Spider Scrolls Overhaul
+* Vampire Feeding Tweaks
 * Contraband Confiscation - No Crime Teleport Patch
 * No Crime Teleport - Voice Consistency Fix
 * EVG Animation Variance
