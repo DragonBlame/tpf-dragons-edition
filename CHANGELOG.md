@@ -63,6 +63,10 @@ xxx
 
 ## Updated Mods
 
+* Adamant - A Perk Overhaul
+* Forceful Tongue - Shouts Overhaul
+* Apothecary - An Alchemy Overhaul
+* Dragon War - A Dragon Overhaul
 * ENB binaries
 * PI-CHO ENB
 * The Final Cataclysm - 2020
@@ -74,7 +78,6 @@ xxx
 * Masculine Argonian Textures
 * Feminine Khajiit Textures
 * Fia's Eyes
-* Dragon War - A Dragon Overhaul
 * C.O.I.N. - Coins of Interesting Natures
 * Dragonborn - Shouts Perk Tree
 * Goetia Animations - Enchanted Staves
