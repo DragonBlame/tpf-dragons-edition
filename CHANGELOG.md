@@ -71,6 +71,7 @@ And give applause to the overhauled [feedback survey version 2.0.](https://forms
 
 ## Updated Mods
 
+* Landscape Fixes For Grass Mods
 * Assorted Mesh Fixes
 * Adamant - A Perk Overhaul
 * Forceful Tongue - Shouts Overhaul
