@@ -56,6 +56,7 @@ xxx
 > Like they were supposed to.
 * Turned off every first person feature related to transformations and mounts.
 * Fixed not being able to call Shadowmere and Frost by using the whistle.
+* Fixed Dragonbane's bonus dragon damage being resisted by dragons.
 * Applied Althro's rules to LOD outputs.
 > To be closer to our new more performance friendlier INI settings for consistency, while still looking great. Thou there can be some little transition seen from time to time, when LOD is switching. Will see how it goes.
 * Disabled men running animations for heavy armor and sprinting animation for light armor.
