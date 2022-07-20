@@ -6,7 +6,7 @@
 
 **New save is required.**
 
-xxx
+I believe at this point I have added, removed or changed everything I have ever wanted, so let's hope that not modders give everyone a break and I will be able to just chill for a while, while maintaining and polishing the list.
 
 ## Added CC Content
 
@@ -22,7 +22,6 @@ xxx
 * DynDOLOD Modders Resource Fixes
 * Gray Cowl of Nocturnal - Various Patches
 * Actually Flat Snow Drifts
-* Highland Cows More Wooly
 * Great City of Dragon Bridge - CFTO Ferry Integration
 * Beyond Skyrim Morrowind - Bonemold Weapon Pack
 * Kthonia's Unique Weapon Pack - Dragonborn Weapons
@@ -49,6 +48,8 @@ xxx
 > It won't make sense anymore. And maybe it was too much.
 * Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map
 * Better Falskaar and Wyrmstooth Map With Roads
+* Live Here
+> You know why.
 
 ## Changes
 
