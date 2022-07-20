@@ -6,7 +6,7 @@
 
 **New save is required.**
 
-I believe at this point I have added, removed or changed everything I have ever wanted (if we don't count an artifact overhaul I am dreaming of and probably something else I will remember about when it comes), so let's hope that modders will give everyone a little break, I will give you a break and I will be able to just chill for a while, while maintaining and polishing the list.
+I believe at this point I have added, removed or changed everything I have ever wanted (if we don't count an artifact overhaul I am dreaming about and probably something else I will remember about when it comes), so let's hope that modders will give everyone a little break, I will give you a break and I will be able to just chill for a while, while maintaining and polishing the list.
 
 Welcome _Ghosts of the Tribunal_, which with some other complimenting mods will add content to Solstheim, while being not as annoying thanks to its professionally reduced cut, _Colledge of Winterhold - Quest Expansion_, which will finally make us think that we actualy learn things in college (who would have thought) and _EVG Animation Variance_ and its patch, which will allow use traverse dungeons in a more unique ways. Also let's not forget about DeltaRider's _Oblivion - An Atronach Forge Overhaul_ and _Arachnomancy - A Spider Scrolls Overhaul_, which overhaul ones of the most underlooked mechanics in the game, while also giving some love to vampires with _Vampire Feeding Tweaks_.
 
