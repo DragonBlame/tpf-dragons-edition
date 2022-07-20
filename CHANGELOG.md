@@ -8,13 +8,20 @@
 
 xxx
 
+## Added CC Content
+
+* Ghosts of the Tribunal
+
 ## Added Mods
 
+* Ghosts of the Tribunal - Reduced Cut
+* EVG Animated Traversal - Patch Collection
 * Actually Flat Snow Drifts
 * Highland Cows More Wooly
 * Oblivion - An Atronach Forge Overhaul
 * Contraband Confiscation - No Crime Teleport Patch
 * No Crime Teleport - Voice Consistency Fix
+* EVG Animation Variance
 
 ## Removed Mods
 
@@ -41,6 +48,7 @@ xxx
 
 ## Updated Mods
 
+* ENB binaries
 * PI-CHO ENB
 * The Final Cataclysm - 2020
 * Wuth Rein
@@ -52,5 +60,6 @@ xxx
 * Feminine Khajiit Textures
 * Fia's Eyes
 * Dragon War - A Dragon Overhaul
+* C.O.I.N. - Coins of Interesting Natures
 * Dragonborn - Shouts Perk Tree
 * Goetia Animations - Enchanted Staves
