@@ -6,7 +6,7 @@
 
 **Is save compatible. Make a save indoors before before using this update.**
 
-Basically just an update to get rid of Improved Camera as I am fed up with it for now. RIP first person camera adjusted to our height, I will remember you.
+Basically just an update to get rid of Improved Camera as I and probably some other users are fed up with it. RIP first person camera adjusted to our height, I will remember you.
 
 ## Removed Mods
 
