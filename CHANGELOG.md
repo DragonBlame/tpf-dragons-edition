@@ -2,6 +2,26 @@
 
 # Changelog
 
+## Version 2.8.1.
+
+**Is save compatible. Make a save indoors before before using this update.**
+
+Basically just an update to get rid of Improved Camera as I am fed up with it for now. RIP first person camera adjusted to our height, I will remember you.
+
+## Removed Mods
+
+* Improved Camera
+
+## Updated Mods
+
+* Realistic Water Two
+* Lunar Armory - A Silent Moons Overhaul
+> Without a Lawbringer patch. That will not be save compatible.
+* Cathedral 3D Mountain Flowers - Base Object Swapper
+* I'm Glad You're Here
+
+---
+
 ## Version 2.8.
 
 **New save is required.**
