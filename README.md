@@ -1,4 +1,5 @@
       
+[![Badge License]][License]      
 [![Badge Version]][Releases]      
 [![Badge TPF]][Releases]
 
@@ -41,11 +42,13 @@ for many tastes and beautiful sceneries surrounding it.*
 [Wabbajack]: Documentation/Wabbajack.md
 [Bugs]: Documentation/Bugs.md
 
+[License]: LICENSE
 [Banner]: Resources/Banner.webp
 
 
 <!----------------------------------[ Badges ]--------------------------------->
 
+[Badge License]: https://img.shields.io/badge/License-BY_NC_SA-c77c1d.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
 [Badge Version]: https://img.shields.io/badge/Version-2.8.1-018a91?style=for-the-badge&labelColor=00B0B9
 [Badge TPF]: https://img.shields.io/badge/TPF-4.15.1-258AAF?style=for-the-badge&labelColor=29a1cd
 
