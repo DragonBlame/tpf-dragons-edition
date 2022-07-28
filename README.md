@@ -1,4 +1,3 @@
-      
 [![Badge License]][License]      
 [![Badge Version]][Releases]      
 [![Badge TPF]][Releases]
@@ -16,7 +15,6 @@ for many tastes and beautiful sceneries surrounding it.
 <br>
 <br>
 <br>
-<br>
 
 [![Button Nexus]][Nexus]   
 [![Button Wabbajack]][Wabbajack]
@@ -26,10 +24,6 @@ for many tastes and beautiful sceneries surrounding it.
 [![Button Bugs]][Bugs]
 
 </div>
-
-<br>
-<br>
-
 
 <!----------------------------------------------------------------------------->
 
