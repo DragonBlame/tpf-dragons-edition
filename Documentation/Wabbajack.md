@@ -213,10 +213,10 @@ And that's it! You are ready for the action.
 
 If you have any questions following these instructions, something doesn't allow you to finish the setup (but before that you have actually checked you have all the requirements for the fork) or if you find a typo or any other mistake in the documentation, 
 feel free to report in [TPF Discord server](https://discord.gg/m5kMrnHpwm)'s _#tpf-de-wabbajack-support_ channel. 
-If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](Documentation/Bugs.md) section first.
+If you have experienced a bug during your walkthrough, jump in [*Reporting Bugs*](Bugs.md) section first.
 > To get to these support channels, simply find _#role-settings_ channel in the server and tick my role, new channels then will appear in the server's list.
 
-If you want to learn more about what the modpack offers and what actually many of the mods do, check my [gameplay guide](Documentation/Gameplay.md). 
+If you want to learn more about what the modpack offers and what actually many of the mods do, check my [gameplay guide](Gameplay.md). 
 
 If you would like to make any recommendations after looking into what the modlist has to offer or to give me an advice, 
 please use _Posts_ feature on Nexus or use _#tpf-de-feedback_ channel on TPF's Discord server. Again to get to the channel, simply find _#role-settings_ channel and tick my role at the end, new channels then will appear in the server's list. Suggestions on how to improve the documentation are also welcome on GitHub.
