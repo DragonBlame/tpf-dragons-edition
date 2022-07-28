@@ -55,5 +55,5 @@ for many tastes and beautiful sceneries surrounding it.
 [Button Wabbajack]: https://img.shields.io/badge/Wabbajack_Guide-56a5cc?style=for-the-badge&logoColor=white&logo=GitBook
 [Button Gameplay]: https://img.shields.io/badge/Gameplay_Guide-93c47d?style=for-the-badge&logoColor=white&logo=AppleArcade
 [Button Nexus]: https://img.shields.io/badge/Main_Page-8197ec?style=for-the-badge&logoColor=white&logo=Dragonframe
-[Button Bugs]: https://img.shields.io/badge/Reporting_Bugs-e69138?style=for-the-badge&logoColor=white&logo=GitHub
+[Button Bugs]: https://img.shields.io/badge/Bugs_Reporting-e69138?style=for-the-badge&logoColor=white&logo=GitHub
 
