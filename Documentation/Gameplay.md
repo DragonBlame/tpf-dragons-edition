@@ -1,4 +1,4 @@
-![image](images/Banner.webp)
+![image](../Resources/Banner.webp)
 
 # Gameplay Guide
 
