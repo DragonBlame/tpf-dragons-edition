@@ -8,11 +8,10 @@
 ![Banner]
 
 <br>
-<br>
 
-*A fork of **The Phoenix Flavour** that expands Skyrim's world <br>
+A fork of **The Phoenix Flavour** that expands Skyrim's world <br>
 and possibilities extensively by adding adventuristic content <br>
-for many tastes and beautiful sceneries surrounding it.*
+for many tastes and beautiful sceneries surrounding it.
 
 <br>
 <br>
@@ -57,7 +56,7 @@ for many tastes and beautiful sceneries surrounding it.*
 
 [Button Changelog]: https://img.shields.io/badge/Changelog-e06666?style=for-the-badge&logoColor=white&logo=AzureArtifacts
 [Button Wabbajack]: https://img.shields.io/badge/Wabbajack_Guide-56a5cc?style=for-the-badge&logoColor=white&logo=GitBook
-[Button Gameplay]: https://img.shields.io/badge/Gameplay-93c47d?style=for-the-badge&logoColor=white&logo=AppleArcade
-[Button Nexus]: https://img.shields.io/badge/Ｎｅｘｕｓ_Mods-8197ec?style=for-the-badge&logoColor=white&logo=Dragonframe
-[Button Bugs]: https://img.shields.io/badge/Report_Bugs-e69138?style=for-the-badge&logoColor=white&logo=GitHub
+[Button Gameplay]: https://img.shields.io/badge/Gameplay_Guide-93c47d?style=for-the-badge&logoColor=white&logo=AppleArcade
+[Button Nexus]: https://img.shields.io/badge/Main_Page-8197ec?style=for-the-badge&logoColor=white&logo=Dragonframe
+[Button Bugs]: https://img.shields.io/badge/Reporting_Bugs-e69138?style=for-the-badge&logoColor=white&logo=GitHub
 
