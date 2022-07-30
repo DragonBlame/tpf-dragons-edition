@@ -2,9 +2,9 @@
 
 # Changelog
 
-## Version 2.8.2. Updated for TPF v. 4.15.2.
+## Version 2.8.2.
 
-**Is save compatible. Make a save indoors before before using this update.**
+**Is save compatible. Updated for TPF v. 4.15.2. Make a save indoors before before using this update.**
 
 Was intended an update for fixing bugs, which were present in the older versions of TPF and TPF DE. Now you won't CTD if you knock down a soul gem trap in Snapleg Cave by using meelee weapon, bow or crossbow (yeah, oddly specific), some dragons won't be lazy as cats and will actually fight and Dragonsbane will actually deal its damage to dragons. By the way thank you very much for reports as two of these weren't reported by TPF users. :P :D
 
