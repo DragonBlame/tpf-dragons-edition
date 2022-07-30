@@ -10,7 +10,7 @@ Was intended an update for fixing bugs, which were present in the older versions
 
 During the next update, which is going to be not save compatible, be ready for better, but more performance costly LOD. But it won't be as meaty as the first one we had. Also we are going to have some changes to flora and removal of two content mods - Darkend and Final Cataclysm. Darkend was giving me headache for some long time (so definitely not AE's assets fault), while the other one started just now and at this point I am not even sure when the problem was introduced. They have some invisible or broken objects in the game, which I can't fix anyhow (tried unpacking their BSAs, complete reinstallation, removal of outputs, looking even at reference count etc.) and noone knows the reason. Of course, if someone there actually knows the solution to this problem, feel free to report back.
 
-
+Also I am shocked in a bad way that for now ONLY 9 people have filled in the [feedback survey](https://forms.gle/2AxB1oT9vnzvdYwD7). I hope that is just because many of you just haven't managed to do it yet or simply forgot about it. Some of the feedback was already useful to make me understand if my direction related to the latest update is right and to find a possible candidate for addition to content (well, considering the removal of the mentioned mods). Please, click on it and fill it in, it won't take much of your time and will probably make the game better for everyone.
 
 ## Added Mods
 
