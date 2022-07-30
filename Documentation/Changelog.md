@@ -6,7 +6,7 @@
 
 **Is save compatible. Updated for TPF v. 4.15.2. Make a save indoors before before using this update.**
 
-An update for fixing bugs, which were present in the older versions of TPF and TPF DE. Now you won't CTD if you knock down a soul gem trap in Snapleg Cave by using meelee weapon, bow or crossbow (yeah, oddly specific), some dragons won't be lazy as cats and will actually fight and Dragonsbane will actually deal its damage to dragons. By the way thank you very much for reports as two of these weren't reported by TPF users. :P :D
+An update for fixing bugs, which were present in the older versions of TPF and TPF DE. Now you won't CTD if you knock down a soul gem trap in Snapleg Cave by using melee weapon, bow or crossbow (yeah, oddly specific), some dragons won't be lazy as cats and will actually fight and Dragonsbane will actually deal its damage to dragons. By the way thank you very much for reports as two of these weren't reported by TPF users. :P :D
 
 During the next update, which is going to be not save compatible, be ready for better, but more performance costly LOD. But it won't be as meaty as the first one we had. Also we are going to have some changes to flora and removal of two content mods - Darkend and Final Cataclysm. Darkend was giving me headache for some long time (so definitely not AE's assets fault), while the other one started just now and at this point I am not even sure when the problem was introduced. They have some invisible or broken objects in the game, which I can't fix anyhow (tried unpacking their BSAs, complete reinstallation, removal of outputs, looking even at reference count etc.) and noone knows the reason. Of course, if someone there actually knows the solution to this problem, feel free to report back.
 
